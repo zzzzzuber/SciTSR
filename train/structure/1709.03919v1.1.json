@@ -1,0 +1,625 @@
+{
+	"cells": [
+		{
+			"id": 9,
+			"tex": "$K$-level fusion, conv1, 3 frames",
+			"content": [
+				"K-level",
+				"fusion,",
+				"conv1,",
+				"3",
+				"frames"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "$K$-level fusion, conv2, 9 frames",
+			"content": [
+				"K-level",
+				"fusion,",
+				"conv2,",
+				"9",
+				"frames"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 35,
+			"tex": "0.9038",
+			"content": [
+				"0.9038"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 7,
+			"tex": "20.6095",
+			"content": [
+				"20.6095"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "PSNR",
+			"content": [
+				"PSNR"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 38,
+			"tex": "0.9027",
+			"content": [
+				"0.9027"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 0,
+			"tex": "Methods",
+			"content": [
+				"Methods"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 31,
+			"tex": "20.7780",
+			"content": [
+				"20.7780"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 46,
+			"tex": "20.4116",
+			"content": [
+				"20.4116"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 27,
+			"tex": "$K$-level fusion, conv3, 3 frames",
+			"content": [
+				"K-level",
+				"fusion,",
+				"conv3,",
+				"3",
+				"frames"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 34,
+			"tex": "20.7468",
+			"content": [
+				"20.7468"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "\\textbf{$K$-level fusion, conv2, 5 frames}",
+			"content": [
+				"K-level",
+				"fusion,",
+				"conv2,",
+				"5",
+				"frames"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "\\underline{\\textbf{20.9908}}",
+			"content": [
+				"20.9908"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "\\textbf{0.9087}",
+			"content": [
+				"0.9087"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 21,
+			"tex": "$K$-level fusion, conv2, 7 frames",
+			"content": [
+				"K-level",
+				"fusion,",
+				"conv2,",
+				"7",
+				"frames"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "$I$-level fusion, 3 frames",
+			"content": [
+				"I-level",
+				"fusion,",
+				"3",
+				"frames"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 50,
+			"tex": "0.8791",
+			"content": [
+				"0.8791"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 42,
+			"tex": "$K$-level fusion, conv5(K), 5 frames",
+			"content": [
+				"K-level",
+				"fusion,",
+				"conv5(K),",
+				"5",
+				"frames"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 44,
+			"tex": "0.9046",
+			"content": [
+				"0.9046"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 30,
+			"tex": "$K$-level fusion, conv3, 5 frames",
+			"content": [
+				"K-level",
+				"fusion,",
+				"conv3,",
+				"5",
+				"frames"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 40,
+			"tex": "20.6546",
+			"content": [
+				"20.6546"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "0.9076",
+			"content": [
+				"0.9076"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 32,
+			"tex": "0.9051",
+			"content": [
+				"0.9051"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 36,
+			"tex": "$K$-level fusion, conv4, 5 frames",
+			"content": [
+				"K-level",
+				"fusion,",
+				"conv4,",
+				"5",
+				"frames"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 47,
+			"tex": "0.8812",
+			"content": [
+				"0.8812"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 25,
+			"tex": "20.7355",
+			"content": [
+				"20.7355"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "$I$-level fusion, 5 frames",
+			"content": [
+				"I-level",
+				"fusion,",
+				"5",
+				"frames"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "20.6998",
+			"content": [
+				"20.6998"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 41,
+			"tex": "0.8999",
+			"content": [
+				"0.8999"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 10,
+			"tex": "20.6105",
+			"content": [
+				"20.6105"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "20.8240",
+			"content": [
+				"20.8240"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "20.5551",
+			"content": [
+				"20.5551"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 29,
+			"tex": "0.9078",
+			"content": [
+				"0.9078"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 43,
+			"tex": "20.7942",
+			"content": [
+				"20.7942"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "0.8515",
+			"content": [
+				"0.8515"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 14,
+			"tex": "\\underline{0.9107}",
+			"content": [
+				"0.9107"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 22,
+			"tex": "20.7901",
+			"content": [
+				"20.7901"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 37,
+			"tex": "20.6756",
+			"content": [
+				"20.6756"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "0.9028",
+			"content": [
+				"0.9028"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 33,
+			"tex": "$K$-level fusion, conv4, 3 frames",
+			"content": [
+				"K-level",
+				"fusion,",
+				"conv4,",
+				"3",
+				"frames"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "SSIM",
+			"content": [
+				"SSIM"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 12,
+			"tex": "$K$-level fusion, conv1, 5 frames",
+			"content": [
+				"K-level",
+				"fusion,",
+				"conv1,",
+				"5",
+				"frames"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 48,
+			"tex": "$J$-level fusion, 5 frames",
+			"content": [
+				"J-level",
+				"fusion,",
+				"5",
+				"frames"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 49,
+			"tex": "20.3675",
+			"content": [
+				"20.3675"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "0.9049",
+			"content": [
+				"0.9049"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 45,
+			"tex": "$J$-level fusion, 3 frames",
+			"content": [
+				"J-level",
+				"fusion,",
+				"3",
+				"frames"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 39,
+			"tex": "$K$-level fusion, conv5(K), 3 frames",
+			"content": [
+				"K-level",
+				"fusion,",
+				"conv5(K),",
+				"3",
+				"frames"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 28,
+			"tex": "20.9187",
+			"content": [
+				"20.9187"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "0.8529",
+			"content": [
+				"0.8529"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 15,
+			"tex": "$K$-level fusion, conv2, 3 frames",
+			"content": [
+				"K-level",
+				"fusion,",
+				"conv2,",
+				"3",
+				"frames"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "0.9042",
+			"content": [
+				"0.9042"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		}
+	]
+}

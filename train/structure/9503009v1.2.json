@@ -1,0 +1,620 @@
+{
+	"cells": [
+		{
+			"id": 10,
+			"tex": "possessive marker",
+			"content": [
+				"possessive",
+				"marker"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 29,
+			"tex": "TO",
+			"content": [
+				"TO"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 46,
+			"tex": "predicative",
+			"content": [
+				"predicative"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 8,
+			"tex": "ADN$^{*}$ \\$",
+			"content": [
+				"ADN\u2217",
+				"$"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 28,
+			"tex": "infinitive marker",
+			"content": [
+				"in\ufb01nitive",
+				"marker"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 47,
+			"tex": "VBN PRD$^{*}$",
+			"content": [
+				"VBN",
+				"PRD\u2217"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 5,
+			"tex": "Penn Treebank tags",
+			"content": [
+				"Penn",
+				"Treebank",
+				"tags"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 32,
+			"tex": "IN",
+			"content": [
+				"IN"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 0,
+			"tex": "tag",
+			"content": [
+				"tag"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 48,
+			"tex": "N",
+			"content": [
+				"N"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 31,
+			"tex": "preposition",
+			"content": [
+				"preposition"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 49,
+			"tex": "nominal",
+			"content": [
+				"nominal"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 30,
+			"tex": "IN",
+			"content": [
+				"IN"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 50,
+			"tex": "NNP(S) NN(S)",
+			"content": [
+				"NNP(S)",
+				"NN(S)"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 27,
+			"tex": "TO",
+			"content": [
+				"TO"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 51,
+			"tex": "WDT",
+			"content": [
+				"WDT"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 20,
+			"tex": "CD",
+			"content": [
+				"CD"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 52,
+			"tex": "wh-word",
+			"content": [
+				"wh-word"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 2,
+			"tex": "Penn Treebank tags",
+			"content": [
+				"Penn",
+				"Treebank",
+				"tags"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 19,
+			"tex": "cardinal",
+			"content": [
+				"cardinal"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 53,
+			"tex": "WP(\\$) WRB WDT",
+			"content": [
+				"WP($)",
+				"WRB",
+				"WDT"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 22,
+			"tex": "adverbial",
+			"content": [
+				"adverbial"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 14,
+			"tex": "CC",
+			"content": [
+				"CC"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 6,
+			"tex": "ADN",
+			"content": [
+				"ADN"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "RB",
+			"content": [
+				"RB"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 24,
+			"tex": "DT",
+			"content": [
+				"DT"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "RB RP RBR RBS",
+			"content": [
+				"RB",
+				"RP",
+				"RBR",
+				"RBS"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 26,
+			"tex": "DT PDT PRP\\$",
+			"content": [
+				"DT",
+				"PDT",
+				"PRP$"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 11,
+			"tex": "POS",
+			"content": [
+				"POS"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 25,
+			"tex": "determiner",
+			"content": [
+				"determiner"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "CD",
+			"content": [
+				"CD"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "PRP",
+			"content": [
+				"PRP"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 1,
+			"tex": "description",
+			"content": [
+				"description"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 33,
+			"tex": "VB",
+			"content": [
+				"VB"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 13,
+			"tex": "conjunction",
+			"content": [
+				"conjunction"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "PRP",
+			"content": [
+				"PRP"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 12,
+			"tex": "CC",
+			"content": [
+				"CC"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "pronoun",
+			"content": [
+				"pronoun"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 34,
+			"tex": "infinitive",
+			"content": [
+				"in\ufb01nitive"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 35,
+			"tex": "VB",
+			"content": [
+				"VB"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 36,
+			"tex": "ING",
+			"content": [
+				"ING"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 37,
+			"tex": "``-ing'' forms",
+			"content": [
+				"\u201c-ing\u201d",
+				"forms"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "tag",
+			"content": [
+				"tag"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 38,
+			"tex": "VBG",
+			"content": [
+				"VBG"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 4,
+			"tex": "description",
+			"content": [
+				"description"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 39,
+			"tex": "VBD",
+			"content": [
+				"VBD"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 9,
+			"tex": "POS",
+			"content": [
+				"POS"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 7,
+			"tex": "adnominal modifier",
+			"content": [
+				"adnominal",
+				"modi\ufb01er"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 40,
+			"tex": "inflected verb form",
+			"content": [
+				"in\ufb02ected",
+				"verb",
+				"form"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 41,
+			"tex": "VBD VBZ VBP",
+			"content": [
+				"VBD",
+				"VBZ",
+				"VBP"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 42,
+			"tex": "MD",
+			"content": [
+				"MD"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 43,
+			"tex": "modal",
+			"content": [
+				"modal"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 44,
+			"tex": "MD",
+			"content": [
+				"MD"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 45,
+			"tex": "VBN",
+			"content": [
+				"VBN"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		}
+	]
+}

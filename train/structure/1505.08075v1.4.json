@@ -1,0 +1,432 @@
+{
+	"cells": [
+		{
+			"id": 28,
+			"tex": "S-RNN",
+			"content": [
+				"S-RNN"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 33,
+			"tex": "C\\",
+			"content": [
+				"C"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "85.3",
+			"content": [
+				"85.3"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 26,
+			"tex": "82.2",
+			"content": [
+				"82.2"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 30,
+			"tex": "84.7",
+			"content": [
+				"84.7"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 3,
+			"tex": "",
+			"content": [],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "82.8",
+			"content": [
+				"82.8"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 37,
+			"tex": "83.9",
+			"content": [
+				"83.9"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 22,
+			"tex": "84.1",
+			"content": [
+				"84.1"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 9,
+			"tex": "\\textbf{87.2}",
+			"content": [
+				"87.2"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "83.6",
+			"content": [
+				"83.6"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 1,
+			"tex": "Dev. set",
+			"content": [
+				"Dev.",
+				"set"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 2
+		},
+		{
+			"id": 23,
+			"tex": "$-$POS",
+			"content": [
+				"\u2212POS"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 36,
+			"tex": "82.4",
+			"content": [
+				"82.4"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 13,
+			"tex": "$-$composition",
+			"content": [
+				"\u2212composition"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "Test set",
+			"content": [
+				"Test",
+				"set"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 4
+		},
+		{
+			"id": 18,
+			"tex": "$-$pretraining",
+			"content": [
+				"\u2212pretraining"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "UAS",
+			"content": [
+				"UAS"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 8,
+			"tex": "S-LSTM",
+			"content": [
+				"S-LSTM"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "LAS",
+			"content": [
+				"LAS"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 14,
+			"tex": "85.8",
+			"content": [
+				"85.8"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "86.3",
+			"content": [
+				"86.3"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 29,
+			"tex": "86.3",
+			"content": [
+				"86.3"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "\\textbf{85.7}",
+			"content": [
+				"85.7"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 20,
+			"tex": "84.7",
+			"content": [
+				"84.7"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 31,
+			"tex": "86.1",
+			"content": [
+				"86.1"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 10,
+			"tex": "\\textbf{85.9}",
+			"content": [
+				"85.9"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 35,
+			"tex": "84.0",
+			"content": [
+				"84.0"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 25,
+			"tex": "79.8",
+			"content": [
+				"79.8"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 5,
+			"tex": "LAS",
+			"content": [
+				"LAS"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 34,
+			"tex": "M (2014)",
+			"content": [
+				"M",
+				"(2014)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "\\textbf{87.2}",
+			"content": [
+				"87.2"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 21,
+			"tex": "85.7",
+			"content": [
+				"85.7"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 0,
+			"tex": "",
+			"content": [],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "UAS",
+			"content": [
+				"UAS"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 27,
+			"tex": "79.1",
+			"content": [
+				"79.1"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 15,
+			"tex": "84.0",
+			"content": [
+				"84.0"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 38,
+			"tex": "82.4",
+			"content": [
+				"82.4"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 32,
+			"tex": "84.6",
+			"content": [
+				"84.6"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 4,
+			"end_col": 4
+		}
+	]
+}

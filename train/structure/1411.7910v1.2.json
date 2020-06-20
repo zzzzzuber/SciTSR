@@ -1,0 +1,291 @@
+{
+	"cells": [
+		{
+			"id": 17,
+			"tex": "0.129",
+			"content": [
+				"0.129"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "0.022",
+			"content": [
+				"0.022"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "{\\tt tx\\_abort\\_cpu\\_service\\_demand}",
+			"content": [
+				"tx",
+				"abort",
+				"cpu",
+				"service",
+				"demand"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "{\\tt tx\\_prepare\\_cpu\\_service\\_demand}",
+			"content": [
+				"tx",
+				"prepare",
+				"cpu",
+				"service",
+				"demand"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "{\\tt local\\_tx\\_get\\_from\\_remote\\_cpu\\_service\\_demand}",
+			"content": [
+				"local",
+				"tx",
+				"get",
+				"from",
+				"remote",
+				"cpu",
+				"service",
+				"demand"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "{\\bf (msec)}",
+			"content": [
+				"(msec)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "{\\tt tx\\_begin\\_cpu\\_service\\_demand}",
+			"content": [
+				"tx",
+				"begin",
+				"cpu",
+				"service",
+				"demand"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "0.369",
+			"content": [
+				"0.369"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "{\\bf Parameter}",
+			"content": [
+				"Parameter"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "0.022",
+			"content": [
+				"0.022"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "0.077",
+			"content": [
+				"0.077"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "0.015",
+			"content": [
+				"0.015"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "{\\tt local\\_tx\\_put\\_cpu\\_service\\_demand}",
+			"content": [
+				"local",
+				"tx",
+				"put",
+				"cpu",
+				"service",
+				"demand"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "{\\tt cross\\_node\\_transmission\\_latency}",
+			"content": [
+				"cross",
+				"node",
+				"transmission",
+				"latency"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "36",
+			"content": [
+				"36"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "0.027",
+			"content": [
+				"0.027"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "{\\tt local\\_tx\\_get\\_cpu\\_service\\_demand}",
+			"content": [
+				"local",
+				"tx",
+				"get",
+				"cpu",
+				"service",
+				"demand"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "{\\tt distributed\\_final\\_tx\\_commit\\_cpu\\_service\\_demand}",
+			"content": [
+				"distributed",
+				"final",
+				"tx",
+				"commit",
+				"cpu",
+				"service",
+				"demand"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "0.004",
+			"content": [
+				"0.004"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "{\\bf Value}",
+			"content": [
+				"Value"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "{\\tt tx\\_send\\_remote\\_tx\\_get\\_cpu\\_service\\_demand}",
+			"content": [
+				"tx",
+				"send",
+				"remote",
+				"tx",
+				"get",
+				"cpu",
+				"service",
+				"demand"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "{\\bf Name}",
+			"content": [
+				"Name"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

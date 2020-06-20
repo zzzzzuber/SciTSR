@@ -1,0 +1,1283 @@
+{
+	"cells": [
+		{
+			"id": 33,
+			"tex": "water vapor diffusion resistance factor",
+			"content": [
+				"water",
+				"vapor",
+				"di\ufb00usion",
+				"resistance",
+				"factor"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 32,
+			"tex": "$\\mathrm{[-]}$",
+			"content": [
+				"[\u2212]"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 34,
+			"tex": "9.63",
+			"content": [
+				"9.63"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 35,
+			"tex": "~",
+			"content": [],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 36,
+			"tex": "$a$",
+			"content": [
+				"a"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 37,
+			"tex": "$\\mathrm{[kgm^{-2}s^{-0.5}]}$",
+			"content": [
+				"[kgm\u22122s\u22120.5]"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 38,
+			"tex": "water absorption coefficient",
+			"content": [
+				"water",
+				"absorption",
+				"coe\ufb03cient"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 16,
+			"tex": "$\\lambda_{\\mathrm{0}}$",
+			"content": [
+				"\u03bb0"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "$\\mathrm{[Wm^{-1}K^{-1}]}$",
+			"content": [
+				"[Wm\u22121K\u22121]"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "Ref.",
+			"content": [
+				"Ref."
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 18,
+			"tex": "thermal conductivity",
+			"content": [
+				"thermal",
+				"conductivity"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 5,
+			"tex": "\\textit{Transport properties of mortar}",
+			"content": [
+				"Transport",
+				"properties",
+				"of",
+				"mortar"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 4
+		},
+		{
+			"id": 7,
+			"tex": "$\\mathrm{[kgm^{-3}]}$",
+			"content": [
+				"[kgm\u22123]"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "Value",
+			"content": [
+				"Value"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 6,
+			"tex": "$w_{f}$",
+			"content": [
+				"wf"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "free water saturation",
+			"content": [
+				"free",
+				"water",
+				"saturation"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 31,
+			"tex": "$\\mu$",
+			"content": [
+				"\u00b5"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "$w_{\\mathrm{80}}$",
+			"content": [
+				"w80"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "",
+			"content": [],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 0,
+			"tex": "Symbol",
+			"content": [
+				"Symbol"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "0.45",
+			"content": [
+				"0.45"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 12,
+			"tex": "$\\mathrm{[kgm^{-3}]}$",
+			"content": [
+				"[kgm\u22123]"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "~",
+			"content": [],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 15,
+			"tex": "~",
+			"content": [],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 13,
+			"tex": "water content at $\\varphi=0.8$ [-]",
+			"content": [
+				"water",
+				"content",
+				"at",
+				"\u03d5",
+				"=",
+				"0.8",
+				"[-]"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 14,
+			"tex": "23",
+			"content": [
+				"23"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 1,
+			"tex": "Unit",
+			"content": [
+				"Unit"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 30,
+			"tex": "~",
+			"content": [],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 49,
+			"tex": "Young's modulus",
+			"content": [
+				"Young\u2019s",
+				"modulus"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 28,
+			"tex": "bulk density",
+			"content": [
+				"bulk",
+				"density"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 27,
+			"tex": "$\\mathrm{[kgm^{-3}]}$",
+			"content": [
+				"[kgm\u22123]"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 26,
+			"tex": "$\\rho_{\\mathrm{s}}$",
+			"content": [
+				"\u03c1s"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 48,
+			"tex": "$\\mathrm{[Pa]}$",
+			"content": [
+				"[Pa]"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 47,
+			"tex": "$E$",
+			"content": [
+				"E"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 46,
+			"tex": "\\textit{Mechanical properties of mortar}",
+			"content": [
+				"Mechanical",
+				"properties",
+				"of",
+				"mortar"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 4
+		},
+		{
+			"id": 45,
+			"tex": "~",
+			"content": [],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 21,
+			"tex": "$b_{\\mathrm{tcs}}$",
+			"content": [
+				"btcs"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 29,
+			"tex": "1670",
+			"content": [
+				"1670"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 39,
+			"tex": "0.82",
+			"content": [
+				"0.82"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 44,
+			"tex": "1000",
+			"content": [
+				"1000"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 43,
+			"tex": "specific heat capacity",
+			"content": [
+				"speci\ufb01c",
+				"heat",
+				"capacity"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 42,
+			"tex": "$\\mathrm{[Jkg^{-1}K^{-1}]}$",
+			"content": [
+				"[Jkg\u22121K\u22121]"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 25,
+			"tex": "~",
+			"content": [],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 24,
+			"tex": "9",
+			"content": [
+				"9"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 23,
+			"tex": "thermal conductivity supplement",
+			"content": [
+				"thermal",
+				"conductivity",
+				"supplement"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 22,
+			"tex": "$\\mathrm{[-]}$",
+			"content": [
+				"[\u2212]"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "160",
+			"content": [
+				"160"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 41,
+			"tex": "$c_{\\mathrm{s}}$",
+			"content": [
+				"cs"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 40,
+			"tex": "~",
+			"content": [],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 20,
+			"tex": "~",
+			"content": [],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 88,
+			"tex": "$n$",
+			"content": [
+				"n"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 93,
+			"tex": "$\\psi$",
+			"content": [
+				"\u03c8"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 71,
+			"tex": "~",
+			"content": [],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 66,
+			"tex": "~",
+			"content": [],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 60,
+			"tex": "$2.5\\cdot 10^{6}$",
+			"content": [
+				"2.5",
+				"\u00b7",
+				"106"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 83,
+			"tex": "$\\Delta s_{\\mathrm{m}}$",
+			"content": [
+				"\u2206sm"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 75,
+			"tex": "$1.2\\cdot 10^{-5}$",
+			"content": [
+				"1.2",
+				"\u00b7",
+				"10\u22125"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 69,
+			"tex": "internal length",
+			"content": [
+				"internal",
+				"length"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 67,
+			"tex": "$l_{\\mathrm{intl}}$",
+			"content": [
+				"lintl"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 61,
+			"tex": "~",
+			"content": [],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 78,
+			"tex": "$\\gamma_{\\mathrm{li}}$",
+			"content": [
+				"\u03b3li"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 92,
+			"tex": "~",
+			"content": [],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 113,
+			"tex": "~",
+			"content": [],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 85,
+			"tex": "melting entropy",
+			"content": [
+				"melting",
+				"entropy"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 107,
+			"tex": "$5.6\\cdot 10^{-8}$",
+			"content": [
+				"5.6",
+				"\u00b7",
+				"10\u22128"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 98,
+			"tex": "\\textit{Other properties}",
+			"content": [
+				"Other",
+				"properties"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 0,
+			"end_col": 4
+		},
+		{
+			"id": 84,
+			"tex": "$\\mathrm{[PaK^{-1}]}$",
+			"content": [
+				"[PaK\u22121]"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 108,
+			"tex": "~",
+			"content": [],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 87,
+			"tex": "~",
+			"content": [],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 105,
+			"tex": "$\\mathrm{[kgm^{-2}s^{-1}Pa^{-1}]}$",
+			"content": [
+				"[kgm\u22122s\u22121Pa\u22121]"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 52,
+			"tex": "$\\nu$",
+			"content": [
+				"\u03bd"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 96,
+			"tex": "Fig.~\\ref{fig:ice}(b)",
+			"content": [
+				"Fig.",
+				"??(b)"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 53,
+			"tex": "$\\mathrm{[-]}$",
+			"content": [
+				"[\u2212]"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 94,
+			"tex": "$\\mathrm{[-]}$",
+			"content": [
+				"[\u2212]"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 68,
+			"tex": "$\\mathrm{[m]}$",
+			"content": [
+				"[m]"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 79,
+			"tex": "$\\mathrm{[Nm^{-1}]}$",
+			"content": [
+				"[Nm\u22121]"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 55,
+			"tex": "0.2",
+			"content": [
+				"0.2"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 62,
+			"tex": "$\\varepsilon_f$",
+			"content": [
+				"\u03b5f"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 65,
+			"tex": "$2.5\\cdot 10^{-3}$",
+			"content": [
+				"2.5",
+				"\u00b7",
+				"10\u22123"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 63,
+			"tex": "$\\mathrm{[-]}$",
+			"content": [
+				"[\u2212]"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 100,
+			"tex": "$\\mathrm{[Wm^{-2}K^{-1}]}$",
+			"content": [
+				"[Wm\u22122K\u22121]"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 91,
+			"tex": "0.35",
+			"content": [
+				"0.35"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 76,
+			"tex": "~",
+			"content": [],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 103,
+			"tex": "~",
+			"content": [],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 106,
+			"tex": "water vapor transfer coefficient",
+			"content": [
+				"water",
+				"vapor",
+				"transfer",
+				"coe\ufb03cient"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 82,
+			"tex": "~",
+			"content": [],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 57,
+			"tex": "$f_{t}$",
+			"content": [
+				"ft"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 89,
+			"tex": "$\\mathrm{[-]}$",
+			"content": [
+				"[\u2212]"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 72,
+			"tex": "$\\alpha$",
+			"content": [
+				"\u03b1"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 102,
+			"tex": "8",
+			"content": [
+				"8"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 77,
+			"tex": "\\textit{Ice formation process}",
+			"content": [
+				"Ice",
+				"formation",
+				"process"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 4
+		},
+		{
+			"id": 101,
+			"tex": "heat transfer coefficient",
+			"content": [
+				"heat",
+				"transfer",
+				"coe\ufb03cient"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 59,
+			"tex": "tensile strength",
+			"content": [
+				"tensile",
+				"strength"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 54,
+			"tex": "Poisson's ratio",
+			"content": [
+				"Poisson\u2019s",
+				"ratio"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 70,
+			"tex": "$1\\cdot 10^{-3}$",
+			"content": [
+				"1",
+				"\u00b7",
+				"10\u22123"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 58,
+			"tex": "$\\mathrm{[Pa]}$",
+			"content": [
+				"[Pa]"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 51,
+			"tex": "~",
+			"content": [],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 95,
+			"tex": "cumulative volume of pores",
+			"content": [
+				"cumulative",
+				"volume",
+				"of",
+				"pores"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 111,
+			"tex": "short-wave absorption coefficient",
+			"content": [
+				"short-wave",
+				"absorption",
+				"coe\ufb03cient"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 64,
+			"tex": "equivalent strain at critical crack opening",
+			"content": [
+				"equivalent",
+				"strain",
+				"at",
+				"critical",
+				"crack",
+				"opening"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 73,
+			"tex": "$\\mathrm{[K^{-1}]}$",
+			"content": [
+				"[K\u22121]"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 90,
+			"tex": "total porosity",
+			"content": [
+				"total",
+				"porosity"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 81,
+			"tex": "0.0409",
+			"content": [
+				"0.0409"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 97,
+			"tex": "~",
+			"content": [],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 110,
+			"tex": "$\\mathrm{[-]}$",
+			"content": [
+				"[\u2212]"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 80,
+			"tex": "liquid/ice surface tension",
+			"content": [
+				"liquid/ice",
+				"surface",
+				"tension"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 50,
+			"tex": "$1\\cdot 10^{10}$",
+			"content": [
+				"1",
+				"\u00b7",
+				"1010"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 86,
+			"tex": "$1.2\\cdot 10^{6}$",
+			"content": [
+				"1.2",
+				"\u00b7",
+				"106"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 74,
+			"tex": "thermal expansion coefficient",
+			"content": [
+				"thermal",
+				"expansion",
+				"coe\ufb03cient"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 112,
+			"tex": "0.6",
+			"content": [
+				"0.6"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 99,
+			"tex": "$\\alpha_{\\mathrm{h}}$",
+			"content": [
+				"\u03b1h"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 109,
+			"tex": "$\\alpha_{\\mathrm{swr}}$",
+			"content": [
+				"\u03b1swr"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 56,
+			"tex": "~",
+			"content": [],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 104,
+			"tex": "$\\beta_{\\mathrm{v}}$",
+			"content": [
+				"\u03b2v"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

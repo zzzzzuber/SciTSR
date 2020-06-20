@@ -1,0 +1,594 @@
+{
+	"cells": [
+		{
+			"id": 11,
+			"tex": "ID, receiver ID, target position coordinates",
+			"content": [
+				"ID,",
+				"receiver",
+				"ID,",
+				"target",
+				"position",
+				"coordinates"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "ID, receiver ID",
+			"content": [
+				"ID,",
+				"receiver",
+				"ID"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "ID, coordinates",
+			"content": [
+				"ID,",
+				"coordinates"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "\\texttt{ClaimPosition}",
+			"content": [
+				"ClaimPosition"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 42,
+			"tex": "\\texttt{MoveToSubst}",
+			"content": [
+				"MoveToSubst"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "\\texttt{Offer}",
+			"content": [
+				"Offer"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "\\texttt{AckSIP}",
+			"content": [
+				"AckSIP"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "\\texttt{InfoSnapped}",
+			"content": [
+				"InfoSnapped"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 45,
+			"tex": "ID, hole coordinates",
+			"content": [
+				"ID,",
+				"hole",
+				"coordinates"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "ID, coordinates, virtual cardinality",
+			"content": [
+				"ID,",
+				"coordinates,",
+				"virtual",
+				"cardinality"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 30,
+			"tex": "\\texttt{InfoArrived}",
+			"content": [
+				"InfoArrived"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "ID, coordinates, energy level",
+			"content": [
+				"ID,",
+				"coordinates,",
+				"energy",
+				"level"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 29,
+			"tex": "ID, receiver ID, destination coordinates, destination snapped sensor ID, transaction ID",
+			"content": [
+				"ID,",
+				"receiver",
+				"ID,",
+				"destination",
+				"coordinates,",
+				"destination",
+				"snapped",
+				"sensor",
+				"ID,",
+				"transaction",
+				"ID"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 32,
+			"tex": "\\texttt{HoleInfo}",
+			"content": [
+				"HoleInfo"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "\\texttt{InfoSlave}",
+			"content": [
+				"InfoSlave"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 44,
+			"tex": "\\texttt{Retirement}",
+			"content": [
+				"Retirement"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 39,
+			"tex": "ID, receiver ID",
+			"content": [
+				"ID,",
+				"receiver",
+				"ID"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "\\texttt{PositionTaken}",
+			"content": [
+				"PositionTaken"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "\\texttt{IAS}",
+			"content": [
+				"IAS"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 31,
+			"tex": "ID, receiver ID, transaction ID, energy level",
+			"content": [
+				"ID,",
+				"receiver",
+				"ID,",
+				"transaction",
+				"ID,",
+				"energy",
+				"level"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "\\texttt{InfoFree}",
+			"content": [
+				"InfoFree"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "ID, coordinates, timestamp",
+			"content": [
+				"ID,",
+				"coordinates,",
+				"timestamp"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "{\\bf Message fields}",
+			"content": [
+				"Message",
+				"\ufb01elds"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "ID, coordinates, starter timestamp",
+			"content": [
+				"ID,",
+				"coordinates,",
+				"starter",
+				"timestamp"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 35,
+			"tex": "ID, receiver ID, energy level",
+			"content": [
+				"ID,",
+				"receiver",
+				"ID,",
+				"energy",
+				"level"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 38,
+			"tex": "\\texttt{SubstArrival}",
+			"content": [
+				"SubstArrival"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 41,
+			"tex": "ID, receiver ID, order value, priority queue, neighborhood information",
+			"content": [
+				"ID,",
+				"receiver",
+				"ID,",
+				"order",
+				"value,",
+				"priority",
+				"queue,",
+				"neighborhood",
+				"information"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "ID, virtual cardinality",
+			"content": [
+				"ID,",
+				"virtual",
+				"cardinality"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "\\texttt{InfoStopped}",
+			"content": [
+				"InfoStopped"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 28,
+			"tex": "\\texttt{MoveTo}",
+			"content": [
+				"MoveTo"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "{\\bf Message name}",
+			"content": [
+				"Message",
+				"name"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "\\texttt{CardinalityInfo}",
+			"content": [
+				"CardinalityInfo"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 34,
+			"tex": "\\texttt{Subst}",
+			"content": [
+				"Subst"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 25,
+			"tex": "ID, receiver ID, virtual cardinality, transaction ID",
+			"content": [
+				"ID,",
+				"receiver",
+				"ID,",
+				"virtual",
+				"cardinality,",
+				"transaction",
+				"ID"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 36,
+			"tex": "\\texttt{AckSubst}",
+			"content": [
+				"AckSubst"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 33,
+			"tex": "ID, hop counter, order value, hole coordinates, timeout",
+			"content": [
+				"ID,",
+				"hop",
+				"counter,",
+				"order",
+				"value,",
+				"hole",
+				"coordinates,",
+				"timeout"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 40,
+			"tex": "\\texttt{ProfilePacket}",
+			"content": [
+				"ProfilePacket"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "ID, receiver ID",
+			"content": [
+				"ID,",
+				"receiver",
+				"ID"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "ID, receive ID",
+			"content": [
+				"ID,",
+				"receive",
+				"ID"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 37,
+			"tex": "ID, receiver ID",
+			"content": [
+				"ID,",
+				"receiver",
+				"ID"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "ID, coordinates",
+			"content": [
+				"ID,",
+				"coordinates"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 26,
+			"tex": "\\texttt{AckOffer}",
+			"content": [
+				"AckOffer"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "\\texttt{IAYS}",
+			"content": [
+				"IAYS"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "\\texttt{SIP}",
+			"content": [
+				"SIP"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 43,
+			"tex": "ID, receiver ID, order value, priority queue, neighborhood information",
+			"content": [
+				"ID,",
+				"receiver",
+				"ID,",
+				"order",
+				"value,",
+				"priority",
+				"queue,",
+				"neighborhood",
+				"information"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "ID, coordinates",
+			"content": [
+				"ID,",
+				"coordinates"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

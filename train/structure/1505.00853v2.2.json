@@ -1,0 +1,643 @@
+{
+	"cells": [
+		{
+			"id": 25,
+			"tex": "3x3, 96",
+			"content": [
+				"3x3,",
+				"96"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "$35 \\times 35$",
+			"content": [
+				"35",
+				"\u00d7",
+				"35"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 47,
+			"tex": "fc2",
+			"content": [
+				"fc2"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "$17 \\times 17$",
+			"content": [
+				"17",
+				"\u00d7",
+				"17"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 41,
+			"tex": "SPP~ \\{1, 2, 4\\}",
+			"content": [
+				"SPP",
+				"{1,",
+				"2,",
+				"4}"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "$17 \\times 17$",
+			"content": [
+				"17",
+				"\u00d7",
+				"17"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "3x3, 64",
+			"content": [
+				"3x3,",
+				"64"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 30,
+			"tex": "$8 \\times 8$",
+			"content": [
+				"8",
+				"\u00d7",
+				"8"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 34,
+			"tex": "$8 \\times 8$",
+			"content": [
+				"8",
+				"\u00d7",
+				"8"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 46,
+			"tex": "$1024 \\times 1$",
+			"content": [
+				"1024",
+				"\u00d7",
+				"1"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "NDSB Net",
+			"content": [
+				"NDSB",
+				"Net"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "$70 \\times 70$",
+			"content": [
+				"70",
+				"\u00d7",
+				"70"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 48,
+			"tex": "121",
+			"content": [
+				"121"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "3x3, max pooling, /2",
+			"content": [
+				"3x3,",
+				"max",
+				"pooling,",
+				"/2"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 35,
+			"tex": "3x3, 256",
+			"content": [
+				"3x3,",
+				"256"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "$17 \\times 17$",
+			"content": [
+				"17",
+				"\u00d7",
+				"17"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "channel concat, 192",
+			"content": [
+				"channel",
+				"concat,",
+				"192"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 28,
+			"tex": "$17 \\times 17$",
+			"content": [
+				"17",
+				"\u00d7",
+				"17"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "3x3, 96 | 3x3, 96",
+			"content": [
+				"3x3,",
+				"96",
+				"\u2014",
+				"3x3,",
+				"96"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 33,
+			"tex": "3x3, 256",
+			"content": [
+				"3x3,",
+				"256"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "3x3, 64",
+			"content": [
+				"3x3,",
+				"64"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "split: branch1 | branch 2",
+			"content": [
+				"split:",
+				"branch1",
+				"\u2014",
+				"branch",
+				"2"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "$35 \\times 35$",
+			"content": [
+				"35",
+				"\u00d7",
+				"35"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 38,
+			"tex": "$8 \\times 8$",
+			"content": [
+				"8",
+				"\u00d7",
+				"8"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 43,
+			"tex": "flatten",
+			"content": [
+				"\ufb02atten"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 44,
+			"tex": "$1024 \\times 1$",
+			"content": [
+				"1024",
+				"\u00d7",
+				"1"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "3x3, 64",
+			"content": [
+				"3x3,",
+				"64"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 36,
+			"tex": "$8 \\times 8$",
+			"content": [
+				"8",
+				"\u00d7",
+				"8"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "$70 \\times 70$",
+			"content": [
+				"70",
+				"\u00d7",
+				"70"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 32,
+			"tex": "$8 \\times 8$",
+			"content": [
+				"8",
+				"\u00d7",
+				"8"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "$17 \\times 17$",
+			"content": [
+				"17",
+				"\u00d7",
+				"17"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "3x3, 32",
+			"content": [
+				"3x3,",
+				"32"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 31,
+			"tex": "3x3, 256",
+			"content": [
+				"3x3,",
+				"256"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "3x3, 32",
+			"content": [
+				"3x3,",
+				"32"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 40,
+			"tex": "$8 \\times 8$",
+			"content": [
+				"8",
+				"\u00d7",
+				"8"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 45,
+			"tex": "fc1",
+			"content": [
+				"fc1"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "3x3, 96 | 3x3, 96",
+			"content": [
+				"3x3,",
+				"96",
+				"\u2014",
+				"3x3,",
+				"96"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 37,
+			"tex": "3x3, 256",
+			"content": [
+				"3x3,",
+				"256"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "3x3, 96 | 3x3, 96",
+			"content": [
+				"3x3,",
+				"96",
+				"\u2014",
+				"3x3,",
+				"96"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "Input Size",
+			"content": [
+				"Input",
+				"Size"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "$35 \\times 35$",
+			"content": [
+				"35",
+				"\u00d7",
+				"35"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "$17 \\times 17$",
+			"content": [
+				"17",
+				"\u00d7",
+				"17"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 42,
+			"tex": "$12544 \\times 1$",
+			"content": [
+				"12544",
+				"\u00d7",
+				"1"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 29,
+			"tex": "3x3, max pooling, /2",
+			"content": [
+				"3x3,",
+				"max",
+				"pooling,",
+				"/2"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "$70 \\times 70$",
+			"content": [
+				"70",
+				"\u00d7",
+				"70"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 39,
+			"tex": "3x3, 256",
+			"content": [
+				"3x3,",
+				"256"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 49,
+			"tex": "softmax",
+			"content": [
+				"softmax"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "$35 \\times 35$",
+			"content": [
+				"35",
+				"\u00d7",
+				"35"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "3x3, max pooling, /2",
+			"content": [
+				"3x3,",
+				"max",
+				"pooling,",
+				"/2"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 24,
+			"tex": "$17 \\times 17$",
+			"content": [
+				"17",
+				"\u00d7",
+				"17"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

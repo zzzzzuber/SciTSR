@@ -1,0 +1,332 @@
+{
+	"cells": [
+		{
+			"id": 7,
+			"tex": "Conv(256,5,2), BN, ReLU",
+			"content": [
+				"Conv(256,5,2),",
+				"BN,",
+				"ReLU"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "Conv(128,5,2), BN, ReLU",
+			"content": [
+				"Conv(128,5,2),",
+				"BN,",
+				"ReLU"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "FC(32), BN, ReLU",
+			"content": [
+				"FC(32),",
+				"BN,",
+				"ReLU"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "Conv(512,5,2), LN, LReLU",
+			"content": [
+				"Conv(512,5,2),",
+				"LN,",
+				"LReLU"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "DeConv(64,5,2), BN, ReLU",
+			"content": [
+				"DeConv(64,5,2),",
+				"BN,",
+				"ReLU"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "FC(128), BN, ReLU",
+			"content": [
+				"FC(128),",
+				"BN,",
+				"ReLU"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "FC(4096), BN, ReLU",
+			"content": [
+				"FC(4096),",
+				"BN,",
+				"ReLU"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "FC(64), BN, ReLU",
+			"content": [
+				"FC(64),",
+				"BN,",
+				"ReLU"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "DeConv(128,5,2), BN, ReLU",
+			"content": [
+				"DeConv(128,5,2),",
+				"BN,",
+				"ReLU"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "FC(64), BN, ReLU",
+			"content": [
+				"FC(64),",
+				"BN,",
+				"ReLU"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "DeConv(256,5,2), BN, ReLU",
+			"content": [
+				"DeConv(256,5,2),",
+				"BN,",
+				"ReLU"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "\\textbf{Generator} $G$",
+			"content": [
+				"Generator",
+				"G"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "FC(1024), BN, ReLU",
+			"content": [
+				"FC(1024),",
+				"BN,",
+				"ReLU"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "Conv(256,5,2), LN, LReLU",
+			"content": [
+				"Conv(256,5,2),",
+				"LN,",
+				"LReLU"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "Conv(1,5,2)",
+			"content": [
+				"Conv(1,5,2)"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "Conv(64,5,2), LN, LReLU",
+			"content": [
+				"Conv(64,5,2),",
+				"LN,",
+				"LReLU"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "Conv(64,5,2), BN, ReLU",
+			"content": [
+				"Conv(64,5,2),",
+				"BN,",
+				"ReLU"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "FC(128), BN, ReLU",
+			"content": [
+				"FC(128),",
+				"BN,",
+				"ReLU"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "\\textbf{Embedding} $E$",
+			"content": [
+				"Embedding",
+				"E"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "Conv(128,5,2), LN, LReLU",
+			"content": [
+				"Conv(128,5,2),",
+				"LN,",
+				"LReLU"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 25,
+			"tex": "",
+			"content": [],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "FC(128), BN, ReLU",
+			"content": [
+				"FC(128),",
+				"BN,",
+				"ReLU"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "FC(136), Tanh",
+			"content": [
+				"FC(136),",
+				"Tanh"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "DeConv(64,5,2), BN, ReLU",
+			"content": [
+				"DeConv(64,5,2),",
+				"BN,",
+				"ReLU"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "Conv(3,5,1), BN, Tanh",
+			"content": [
+				"Conv(3,5,1),",
+				"BN,",
+				"Tanh"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "\\textbf{Discriminator} $D$",
+			"content": [
+				"Discriminator",
+				"D"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

@@ -1,0 +1,175 @@
+{
+	"cells": [
+		{
+			"id": 0,
+			"tex": "Predicate",
+			"content": [
+				"Predicate"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "$tr^l(e(X)): tr^m(e(Y)) \\rightarrow tr^m(e(X))$",
+			"content": [
+				"trl(e(X))",
+				":",
+				"trm(e(Y",
+				"))",
+				"\u2192",
+				"trm(e(X))"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "Expression Translation",
+			"content": [
+				"Expression",
+				"Translation"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "{\\em unique}($X$)",
+			"content": [
+				"unique(X)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "{\\em of}($X$, $Y$)",
+			"content": [
+				"of(X,",
+				"Y",
+				")"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "$tr^l(e(X)): tr^m(e(Y)).tr^m(e(X))$",
+			"content": [
+				"trl(e(X))",
+				":",
+				"trm(e(Y",
+				")).trm(e(X))"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "{\\em impliedBy}($X$, $Y$)",
+			"content": [
+				"impliedBy(X,",
+				"Y",
+				")"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "$tr^m(e(X)): tr^u(e(Y)) = tr^u(e(Z))$",
+			"content": [
+				"trm(e(X))",
+				":",
+				"tru(e(Y",
+				"))",
+				"=",
+				"tru(e(Z))"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "{\\em equal}($X$) $\\wedge$ {\\em arg1}($X$, $Y$) $\\wedge$ {\\em arg2}($X$, $Z$)",
+			"content": [
+				"equal(X)",
+				"\u2227",
+				"arg1(X,",
+				"Y",
+				")",
+				"\u2227",
+				"arg2(X,",
+				"Z)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "$tr^m(e(X)): tr^u(e(Y)) = tr^u(e(Z))$",
+			"content": [
+				"trm(e(X))",
+				":",
+				"tru(e(Y",
+				"))",
+				"=",
+				"tru(e(Z))"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "{\\em set}($X$) $\\wedge$ {\\em arg1}($X$, $Y$) $\\wedge$ {\\em arg2}($X$, $Z$)",
+			"content": [
+				"set(X)",
+				"\u2227",
+				"arg1(X,",
+				"Y",
+				")",
+				"\u2227",
+				"arg2(X,",
+				"Z)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "$tr^u(e(X)): e(X)$",
+			"content": [
+				"tru(e(X))",
+				":",
+				"e(X)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

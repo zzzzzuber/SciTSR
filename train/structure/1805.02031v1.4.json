@@ -1,0 +1,357 @@
+{
+	"cells": [
+		{
+			"id": 7,
+			"tex": "Video-level instrument label",
+			"content": [
+				"Video-level",
+				"instrument",
+				"label"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 0,
+			"tex": "Model name",
+			"content": [
+				"Model",
+				"name"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "Action activation",
+			"content": [
+				"Action",
+				"activation"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 1,
+			"tex": "Input feature",
+			"content": [
+				"Input",
+				"feature"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "Video-level instrument label",
+			"content": [
+				"Video-level",
+				"instrument",
+				"label"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 2,
+			"tex": "Prediction type",
+			"content": [
+				"Prediction",
+				"type"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 20,
+			"tex": "Object as target (OT)",
+			"content": [
+				"Object",
+				"as",
+				"target",
+				"(OT)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "Dense optical flow",
+			"content": [
+				"Dense",
+				"optical",
+				"\ufb02ow"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "Sound as target (ST)",
+			"content": [
+				"Sound",
+				"as",
+				"target",
+				"(ST)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "Object activation",
+			"content": [
+				"Object",
+				"activation"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 15,
+			"tex": "Video-level instrument label",
+			"content": [
+				"Video-level",
+				"instrument",
+				"label"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 23,
+			"tex": "Object activation",
+			"content": [
+				"Object",
+				"activation"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 18,
+			"tex": "Action activation",
+			"content": [
+				"Action",
+				"activation"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 8,
+			"tex": "Object model",
+			"content": [
+				"Object",
+				"model"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "Action activation",
+			"content": [
+				"Action",
+				"activation"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 9,
+			"tex": "RGB image",
+			"content": [
+				"RGB",
+				"image"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "Video tag as target (VT)",
+			"content": [
+				"Video",
+				"tag",
+				"as",
+				"target",
+				"(VT)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "Training target",
+			"content": [
+				"Training",
+				"target"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 24,
+			"tex": "Sound$\\times$Object as target (SOT)",
+			"content": [
+				"Sound\u00d7Object",
+				"as",
+				"target",
+				"(SOT)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "Dense optical flow",
+			"content": [
+				"Dense",
+				"optical",
+				"\ufb02ow"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "Action activation",
+			"content": [
+				"Action",
+				"activation"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 5,
+			"tex": "Log mel-spectrogram",
+			"content": [
+				"Log",
+				"mel-spectrogram"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "Dense optical flow",
+			"content": [
+				"Dense",
+				"optical",
+				"\ufb02ow"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 25,
+			"tex": "Dense optical flow",
+			"content": [
+				"Dense",
+				"optical",
+				"\ufb02ow"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "Sound activation",
+			"content": [
+				"Sound",
+				"activation"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 19,
+			"tex": "Sound activation",
+			"content": [
+				"Sound",
+				"activation"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 27,
+			"tex": "Sound activation$\\times$Object activation",
+			"content": [
+				"Sound",
+				"activation\u00d7Object",
+				"activation"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 4,
+			"tex": "Sound model",
+			"content": [
+				"Sound",
+				"model"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

@@ -1,0 +1,726 @@
+{
+	"cells": [
+		{
+			"id": 57,
+			"tex": "$\\approx$2 min",
+			"content": [
+				"\u22482",
+				"min"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 29,
+			"tex": "12.4",
+			"content": [
+				"12.4"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "12.7",
+			"content": [
+				"12.7"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 56,
+			"tex": "53.3",
+			"content": [
+				"53.3"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 5,
+			"tex": "Acc",
+			"content": [
+				"Acc"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 40,
+			"tex": "Bi-Attention$^{\\dagger}$ ($300d$ LSTM)",
+			"content": [
+				"Bi-Attention\u2020",
+				"(300d",
+				"LSTM)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 55,
+			"tex": "46.8",
+			"content": [
+				"46.8"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 8,
+			"tex": "F1",
+			"content": [
+				"F1"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 39,
+			"tex": "$\\approx$7 min",
+			"content": [
+				"\u22487",
+				"min"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 54,
+			"tex": "54.8",
+			"content": [
+				"54.8"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 21,
+			"tex": "N/A",
+			"content": [
+				"N/A"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 38,
+			"tex": "49.0",
+			"content": [
+				"49.0"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 0,
+			"tex": "",
+			"content": [],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 37,
+			"tex": "38.6",
+			"content": [
+				"38.6"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 36,
+			"tex": "51.3",
+			"content": [
+				"51.3"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 35,
+			"tex": "40.0",
+			"content": [
+				"40.0"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 34,
+			"tex": "Bi-Attention$^{\\dagger}$ ($150d$ BiLSTM)",
+			"content": [
+				"Bi-Attention\u2020",
+				"(150d",
+				"BiLSTM)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "22.8",
+			"content": [
+				"22.8"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 33,
+			"tex": "$\\approx$17 sec",
+			"content": [
+				"\u224817",
+				"sec"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 12,
+			"tex": "N/A",
+			"content": [
+				"N/A"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 7,
+			"tex": "Acc",
+			"content": [
+				"Acc"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 9,
+			"tex": "Time",
+			"content": [
+				"Time"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 32,
+			"tex": "12.3",
+			"content": [
+				"12.3"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 31,
+			"tex": "18.9",
+			"content": [
+				"18.9"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 30,
+			"tex": "20.2",
+			"content": [
+				"20.2"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 3,
+			"tex": "",
+			"content": [],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 5,
+			"end_col": 3
+		},
+		{
+			"id": 43,
+			"tex": "38.2",
+			"content": [
+				"38.2"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 42,
+			"tex": "48.7",
+			"content": [
+				"48.7"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 41,
+			"tex": "40.3",
+			"content": [
+				"40.3"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 50,
+			"tex": "43.1",
+			"content": [
+				"43.1"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 16,
+			"tex": "ASR",
+			"content": [
+				"ASR"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 49,
+			"tex": "42.9",
+			"content": [
+				"42.9"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 18,
+			"tex": "24.2",
+			"content": [
+				"24.2"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 22,
+			"tex": "AMANDA",
+			"content": [
+				"AMANDA"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 48,
+			"tex": "45.5",
+			"content": [
+				"45.5"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 15,
+			"tex": "N/A",
+			"content": [
+				"N/A"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 47,
+			"tex": "44.1",
+			"content": [
+				"44.1"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 46,
+			"tex": "Bi-Attention$^{\\dagger}$ ($300d$ Sim. MRU)",
+			"content": [
+				"Bi-Attention\u2020",
+				"(300d",
+				"Sim.",
+				"MRU)"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "48.6",
+			"content": [
+				"48.6"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "N/A",
+			"content": [
+				"N/A"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 45,
+			"tex": "$\\approx$6 min",
+			"content": [
+				"\u22486",
+				"min"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 17,
+			"tex": "43.9",
+			"content": [
+				"43.9"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "Dev",
+			"content": [
+				"Dev"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 2
+		},
+		{
+			"id": 27,
+			"tex": "$\\approx$8$^{\\ast}$ min",
+			"content": [
+				"\u22488\u2217",
+				"min"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 44,
+			"tex": "46.4",
+			"content": [
+				"46.4"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 51,
+			"tex": "$\\approx$25 sec",
+			"content": [
+				"\u224825",
+				"sec"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 26,
+			"tex": "56.6",
+			"content": [
+				"56.6"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 52,
+			"tex": "Bi-Attention$^{\\dagger}$ ($300d$ MRU)",
+			"content": [
+				"Bi-Attention\u2020",
+				"(300d",
+				"MRU)"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 28,
+			"tex": "Bi-Attention$^{\\dagger}$ (No Encoder)",
+			"content": [
+				"Bi-Attention\u2020",
+				"(No",
+				"Encoder)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 53,
+			"tex": "48.6",
+			"content": [
+				"48.6"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "41.3",
+			"content": [
+				"41.3"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 4,
+			"tex": "Model",
+			"content": [
+				"Model"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 25,
+			"tex": "46.8",
+			"content": [
+				"46.8"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 11,
+			"tex": "13.0",
+			"content": [
+				"13.0"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 63,
+			"tex": "$\\approx$7 min",
+			"content": [
+				"\u22487",
+				"min"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 24,
+			"tex": "57.7",
+			"content": [
+				"57.7"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 2,
+			"tex": "Test",
+			"content": [
+				"Test"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 4
+		},
+		{
+			"id": 62,
+			"tex": "\\textbf{59.5}",
+			"content": [
+				"59.5"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 61,
+			"tex": "\\textbf{49.4}",
+			"content": [
+				"49.4"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 10,
+			"tex": "TF-IDF max",
+			"content": [
+				"TF-IDF",
+				"max"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 60,
+			"tex": "\\textbf{59.9}",
+			"content": [
+				"59.9"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 6,
+			"tex": "F1",
+			"content": [
+				"F1"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 59,
+			"tex": "\\textbf{50.5}",
+			"content": [
+				"50.5"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 58,
+			"tex": "Bi-Attention ($200d$ Hybrid MRU-LSTM)",
+			"content": [
+				"Bi-Attention",
+				"(200d",
+				"Hybrid",
+				"MRU-LSTM)"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

@@ -1,0 +1,336 @@
+{
+	"cells": [
+		{
+			"id": 13,
+			"tex": "`look-through-telescope' , `dark'",
+			"content": [
+				"\u2018look-through-telescope\u2019",
+				",",
+				"\u2018dark\u2019"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "`road' , `gravel' , `car' , `dirt'",
+			"content": [
+				"\u2018road\u2019",
+				",",
+				"\u2018gravel\u2019",
+				",",
+				"\u2018car\u2019",
+				",",
+				"\u2018dirt\u2019"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "`in-school' , `student'",
+			"content": [
+				"\u2018in-school\u2019",
+				",",
+				"\u2018student\u2019"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "`room' , `wood' , `walls' , `lamp'",
+			"content": [
+				"\u2018room\u2019",
+				",",
+				"\u2018wood\u2019",
+				",",
+				"\u2018walls\u2019",
+				",",
+				"\u2018lamp\u2019"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "`walls' , `children' , `classroom' , `board' , `desk'",
+			"content": [
+				"\u2018walls\u2019",
+				",",
+				"\u2018children\u2019",
+				",",
+				"\u2018classroom\u2019",
+				",",
+				"\u2018board\u2019",
+				",",
+				"\u2018desk\u2019"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "`ride' , `track'",
+			"content": [
+				"\u2018ride\u2019",
+				",",
+				"\u2018track\u2019"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "`sunset' , `yellow' , `blue'",
+			"content": [
+				"\u2018sunset\u2019",
+				",",
+				"\u2018yellow\u2019",
+				",",
+				"\u2018blue\u2019"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "`streets' , `building' , `people' , `pavement'",
+			"content": [
+				"\u2018streets\u2019",
+				",",
+				"\u2018building\u2019",
+				",",
+				"\u2018people\u2019",
+				",",
+				"\u2018pavement\u2019"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "`man' , `woman' , `shirt' , `hands' , `clothes'",
+			"content": [
+				"\u2018man\u2019",
+				",",
+				"\u2018woman\u2019",
+				",",
+				"\u2018shirt\u2019",
+				",",
+				"\u2018hands\u2019",
+				",",
+				"\u2018clothes\u2019"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "`shorts' `cyclist' , `helmet' , `jersey'",
+			"content": [
+				"\u2018shorts\u2019",
+				"\u2018cyclist\u2019",
+				",",
+				"\u2018helmet\u2019",
+				",",
+				"\u2018jersey\u2019"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "`game-play' , `watch'",
+			"content": [
+				"\u2018game-play\u2019",
+				",",
+				"\u2018watch\u2019"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "`spectators' , `stadium' , `grandstand' , `court'",
+			"content": [
+				"\u2018spectators\u2019",
+				",",
+				"\u2018stadium\u2019",
+				",",
+				"\u2018grandstand\u2019",
+				",",
+				"\u2018court\u2019"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "`road' , `walk' ,`in-city'",
+			"content": [
+				"\u2018road\u2019",
+				",",
+				"\u2018walk\u2019",
+				",\u2018in-city\u2019"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "`clouds' ,`sky' , `sun' , `shade'",
+			"content": [
+				"\u2018clouds\u2019",
+				",\u2018sky\u2019",
+				",",
+				"\u2018sun\u2019",
+				",",
+				"\u2018shade\u2019"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "`building' , `city' , `view' , `night'",
+			"content": [
+				"\u2018building\u2019",
+				",",
+				"\u2018city\u2019",
+				",",
+				"\u2018view\u2019",
+				",",
+				"\u2018night\u2019"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "`nature'",
+			"content": [
+				"\u2018nature\u2019"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "`forest' , `bushes' , `dense' , `path'",
+			"content": [
+				"\u2018forest\u2019",
+				",",
+				"\u2018bushes\u2019",
+				",",
+				"\u2018dense\u2019",
+				",",
+				"\u2018path\u2019"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "`furniture'",
+			"content": [
+				"\u2018furniture\u2019"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "\\textbf{Augmented words using ConceptNet}",
+			"content": [
+				"Augmented",
+				"words",
+				"using",
+				"ConceptNet"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "`bike-ride' , `athlete'",
+			"content": [
+				"\u2018bike-ride\u2019",
+				",",
+				"\u2018athlete\u2019"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "`wear' , `outfit' , `dress'",
+			"content": [
+				"\u2018wear\u2019",
+				",",
+				"\u2018out\ufb01t\u2019",
+				",",
+				"\u2018dress\u2019"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "\\textbf{Top words of image theme}",
+			"content": [
+				"Top",
+				"words",
+				"of",
+				"image",
+				"theme"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

@@ -1,0 +1,450 @@
+{
+	"cells": [
+		{
+			"id": 25,
+			"tex": "the set of classes of dataset $T$",
+			"content": [
+				"the",
+				"set",
+				"of",
+				"classes",
+				"of",
+				"dataset",
+				"T"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "dimensionality",
+			"content": [
+				"dimensionality"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "$\\forall r \\in R$ classify $r$ based on $kNN(r,S)$",
+			"content": [
+				"\u2200r",
+				"\u2208",
+				"R",
+				"classify",
+				"r",
+				"based",
+				"on",
+				"kN",
+				"N",
+				"(r,",
+				"S)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "$I$",
+			"content": [
+				"I"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "$d$",
+			"content": [
+				"d"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "the $k$ nearest neighbors of $r$ from $S$",
+			"content": [
+				"the",
+				"k",
+				"nearest",
+				"neighbors",
+				"of",
+				"r",
+				"from",
+				"S"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 29,
+			"tex": "size of training dataset",
+			"content": [
+				"size",
+				"of",
+				"training",
+				"dataset"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "input dataset",
+			"content": [
+				"input",
+				"dataset"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "$ICCH$",
+			"content": [
+				"ICCH"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "the class of point $r$",
+			"content": [
+				"the",
+				"class",
+				"of",
+				"point",
+				"r"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "$dist(r,s)$",
+			"content": [
+				"dist(r,",
+				"s)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "granularity of space decomposition",
+			"content": [
+				"granularity",
+				"of",
+				"space",
+				"decomposition"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "training dataset",
+			"content": [
+				"training",
+				"dataset"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 27,
+			"tex": "size of input dataset",
+			"content": [
+				"size",
+				"of",
+				"input",
+				"dataset"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 32,
+			"tex": "$R$",
+			"content": [
+				"R"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "$S_I$",
+			"content": [
+				"SI"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "$ICSH$",
+			"content": [
+				"ICSH"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "$AkNNC(R,S)$",
+			"content": [
+				"AkN",
+				"N",
+				"C(R,",
+				"S)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "$n$",
+			"content": [
+				"n"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "$D$",
+			"content": [
+				"D"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "$T$",
+			"content": [
+				"T"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "a $d$-dimensional metric space",
+			"content": [
+				"a",
+				"d-dimensional",
+				"metric",
+				"space"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "$c_r$",
+			"content": [
+				"cr"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 33,
+			"tex": "total number of Reduce tasks",
+			"content": [
+				"total",
+				"number",
+				"of",
+				"Reduce",
+				"tasks"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 30,
+			"tex": "$M$",
+			"content": [
+				"M"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "number of nearest neighbors",
+			"content": [
+				"number",
+				"of",
+				"nearest",
+				"neighbors"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 28,
+			"tex": "$S_T$",
+			"content": [
+				"ST"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "interval, cell cube or hypercube",
+			"content": [
+				"interval,",
+				"cell",
+				"cube",
+				"or",
+				"hypercube"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 31,
+			"tex": "total number of Map tasks",
+			"content": [
+				"total",
+				"number",
+				"of",
+				"Map",
+				"tasks"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "interval, circle, sphere or hypersphere",
+			"content": [
+				"interval,",
+				"circle,",
+				"sphere",
+				"or",
+				"hypersphere"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "the distance from $r$ to $s$",
+			"content": [
+				"the",
+				"distance",
+				"from",
+				"r",
+				"to",
+				"s"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "$k$",
+			"content": [
+				"k"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "$C_T$",
+			"content": [
+				"CT"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "$kNN(r,S)$",
+			"content": [
+				"kN",
+				"N",
+				"(r,",
+				"S)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

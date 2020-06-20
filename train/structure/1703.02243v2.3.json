@@ -1,0 +1,406 @@
+{
+	"cells": [
+		{
+			"id": 17,
+			"tex": "80.35",
+			"content": [
+				"80.35"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 1,
+			"tex": "F-measure",
+			"content": [
+				"F-measure"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 33,
+			"tex": "SRN (ours)",
+			"content": [
+				"SRN",
+				"(ours)"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "Runtime(s)",
+			"content": [
+				"Runtime(s)"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 24,
+			"tex": "FasterRCNN +FSDS",
+			"content": [
+				"FasterRCNN",
+				"+FSDS"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "0.418",
+			"content": [
+				"0.418"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "FSDS",
+			"content": [
+				"FSDS"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "658.94",
+			"content": [
+				"658.94"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 28,
+			"tex": "0.354",
+			"content": [
+				"0.354"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "25.30",
+			"content": [
+				"25.30"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 31,
+			"tex": "0.386",
+			"content": [
+				"0.386"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "0.138",
+			"content": [
+				"0.138"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 25,
+			"tex": "0.343",
+			"content": [
+				"0.343"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "\\textbf{0.10}$\\dagger$",
+			"content": [
+				"0.10\u2020"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 0,
+			"tex": "Methods",
+			"content": [
+				"Methods"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "0.33$\\dagger$",
+			"content": [
+				"0.33\u2020"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 27,
+			"tex": "YOLO +FSDS",
+			"content": [
+				"YOLO",
+				"+FSDS"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "0.12$\\dagger$",
+			"content": [
+				"0.12\u2020"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 9,
+			"tex": "Lee",
+			"content": [
+				"Lee"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 35,
+			"tex": "0.12$\\dagger$",
+			"content": [
+				"0.12\u2020"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 4,
+			"tex": "0.129",
+			"content": [
+				"0.129"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "Lindeberg",
+			"content": [
+				"Lindeberg"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 30,
+			"tex": "FCN +",
+			"content": [
+				"FCN",
+				"+"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "Levinshtein",
+			"content": [
+				"Levinshtein"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "0.369",
+			"content": [
+				"0.369"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "0.134",
+			"content": [
+				"0.134"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "5.79",
+			"content": [
+				"5.79"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 18,
+			"tex": "HED (baseline)",
+			"content": [
+				"HED",
+				"(baseline)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "183.87",
+			"content": [
+				"183.87"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 10,
+			"tex": "0.135",
+			"content": [
+				"0.135"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 34,
+			"tex": "\\textbf{0.443}",
+			"content": [
+				"0.443"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 32,
+			"tex": "0.76$\\dagger$",
+			"content": [
+				"0.76\u2020"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 3,
+			"tex": "Partical Filter",
+			"content": [
+				"Partical",
+				"Filter"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 29,
+			"tex": "0.12$\\dagger$",
+			"content": [
+				"0.12\u2020"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 15,
+			"tex": "MIL",
+			"content": [
+				"MIL"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "0.174",
+			"content": [
+				"0.174"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

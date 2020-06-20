@@ -1,0 +1,334 @@
+{
+	"cells": [
+		{
+			"id": 19,
+			"tex": "",
+			"content": [],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "",
+			"content": [],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "\\textbf{Quaternary Routing Tracks}",
+			"content": [
+				"Quaternary",
+				"Routing",
+				"Tracks"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 3
+		},
+		{
+			"id": 0,
+			"tex": "\\textbf{Binary Bus-2 Routing Tracks}",
+			"content": [
+				"Binary",
+				"Bus-2",
+				"Routing",
+				"Tracks"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "46T",
+			"content": [
+				"46T"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 10,
+			"tex": "16:1 Mux(Bus-2) with 4 select inputs",
+			"content": [
+				"16:1",
+				"Mux(Bus-2)",
+				"with",
+				"4",
+				"select",
+				"inputs"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "16:1 Mux with 4 select inputs",
+			"content": [
+				"16:1",
+				"Mux",
+				"with",
+				"4",
+				"select",
+				"inputs"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 17,
+			"tex": "12T",
+			"content": [
+				"12T"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 7,
+			"tex": "40T",
+			"content": [
+				"40T"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "$4*N+ 2*(2^{N+1}-2)$",
+			"content": [
+				"4",
+				"\u2217",
+				"N",
+				"+",
+				"2",
+				"\u2217",
+				"(2N",
+				"+1",
+				"\u2212",
+				"2)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "16T",
+			"content": [
+				"16T"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 25,
+			"tex": "12T",
+			"content": [
+				"12T"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 11,
+			"tex": "76T",
+			"content": [
+				"76T"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "Mux with N binary select inputs",
+			"content": [
+				"Mux",
+				"with",
+				"N",
+				"binary",
+				"select",
+				"inputs"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 20,
+			"tex": "4-2 Translators",
+			"content": [
+				"4-2",
+				"Translators"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 22,
+			"tex": "",
+			"content": [],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "8T",
+			"content": [
+				"8T"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "Muxes(Bus-2) with N select inputs",
+			"content": [
+				"Muxes(Bus-2)",
+				"with",
+				"N",
+				"select",
+				"inputs"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "Repeaters",
+			"content": [
+				"Repeaters"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 5,
+			"tex": "$4*N+ (2^{N+1}-2)$",
+			"content": [
+				"4",
+				"\u2217",
+				"N",
+				"+",
+				"(2N",
+				"+1",
+				"\u2212",
+				"2)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 8,
+			"tex": "8:1 Mux with 3 select inputs",
+			"content": [
+				"8:1",
+				"Mux",
+				"with",
+				"3",
+				"select",
+				"inputs"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 6,
+			"tex": "8:1 Muxes(Bus-2) with 3 select inputs",
+			"content": [
+				"8:1",
+				"Muxes(Bus-2)",
+				"with",
+				"3",
+				"select",
+				"inputs"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "",
+			"content": [],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "Buffers(Bus-2)",
+			"content": [
+				"Bu\ufb00ers(Bus-2)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "26T",
+			"content": [
+				"26T"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 24,
+			"tex": "2-4 Translators",
+			"content": [
+				"2-4",
+				"Translators"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		}
+	]
+}

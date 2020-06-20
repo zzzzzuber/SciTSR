@@ -1,0 +1,576 @@
+{
+	"cells": [
+		{
+			"id": 7,
+			"tex": "-",
+			"content": [
+				"-"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "Model",
+			"content": [
+				"Model"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "MSE",
+			"content": [
+				"MSE"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 28,
+			"tex": "$0.236$",
+			"content": [
+				"0.236"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "$0.238$",
+			"content": [
+				"0.238"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 15,
+			"tex": "Edge strengths~",
+			"content": [
+				"Edge",
+				"strengths"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "Image area",
+			"content": [
+				"Image",
+				"area"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "Image file size",
+			"content": [
+				"Image",
+				"\ufb01le",
+				"size"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "$0.002$",
+			"content": [
+				"0.002"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 2,
+			"tex": "Kendall $\\tau$",
+			"content": [
+				"Kendall",
+				"\u03c4"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 29,
+			"tex": "$0.440$",
+			"content": [
+				"0.440"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 27,
+			"tex": "VGG-f + $\\nu$-SVR",
+			"content": [
+				"VGG-f",
+				"+",
+				"\u03bd-SVR"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 35,
+			"tex": "$0.459$",
+			"content": [
+				"0.459"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 24,
+			"tex": "VGG-f + KRR",
+			"content": [
+				"VGG-f",
+				"+",
+				"KRR"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 47,
+			"tex": "$\\mathbf{0.472}$",
+			"content": [
+				"0.472"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 22,
+			"tex": "$0.264$",
+			"content": [
+				"0.264"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "$0.458$",
+			"content": [
+				"0.458"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 39,
+			"tex": "VGG-vd + pyramid + $\\nu$-SVR",
+			"content": [
+				"VGG-vd",
+				"+",
+				"pyramid",
+				"+",
+				"\u03bd-SVR"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "$0.052$",
+			"content": [
+				"0.052"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 40,
+			"tex": "$0.232$",
+			"content": [
+				"0.232"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 26,
+			"tex": "$0.345$",
+			"content": [
+				"0.345"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 43,
+			"tex": "$0.231$",
+			"content": [
+				"0.231"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "$0.240$",
+			"content": [
+				"0.240"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 30,
+			"tex": "VGG-f + pyramid + $\\nu$-SVR",
+			"content": [
+				"VGG-f",
+				"+",
+				"pyramid",
+				"+",
+				"\u03bd-SVR"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 38,
+			"tex": "$0.442$",
+			"content": [
+				"0.442"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 42,
+			"tex": "VGG-vd + pyramid + flip + $\\nu$-SVR",
+			"content": [
+				"VGG-vd",
+				"+",
+				"pyramid",
+				"+",
+				"\ufb02ip",
+				"+",
+				"\u03bd-SVR"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "$0.271$",
+			"content": [
+				"0.271"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 33,
+			"tex": "VGG-f + pyramid + flip + $\\nu$-SVR",
+			"content": [
+				"VGG-f",
+				"+",
+				"pyramid",
+				"+",
+				"\ufb02ip",
+				"+",
+				"\u03bd-SVR"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 44,
+			"tex": "$0.468$",
+			"content": [
+				"0.468"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 12,
+			"tex": "Objectness~",
+			"content": [
+				"Objectness"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "$0.106$",
+			"content": [
+				"0.106"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 41,
+			"tex": "$0.467$",
+			"content": [
+				"0.467"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 13,
+			"tex": "-",
+			"content": [
+				"-"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 36,
+			"tex": "VGG-vd + $\\nu$-SVR",
+			"content": [
+				"VGG-vd",
+				"+",
+				"\u03bd-SVR"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 37,
+			"tex": "$0.235$",
+			"content": [
+				"0.235"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "-",
+			"content": [
+				"-"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 45,
+			"tex": "VGG-f + VGG-vd + pyramid + flip + $\\nu$-SVR",
+			"content": [
+				"VGG-f",
+				"+",
+				"VGG-vd",
+				"+",
+				"pyramid",
+				"+",
+				"\ufb02ip",
+				"+",
+				"\u03bd-SVR"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "Combination with $\\nu$-SVR",
+			"content": [
+				"Combination",
+				"with",
+				"\u03bd-SVR"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 46,
+			"tex": "$\\mathbf{0.231}$",
+			"content": [
+				"0.231"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "-",
+			"content": [
+				"-"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 32,
+			"tex": "$0.458$",
+			"content": [
+				"0.458"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 18,
+			"tex": "Number of segments~",
+			"content": [
+				"Number",
+				"of",
+				"segments"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 34,
+			"tex": "$0.233$",
+			"content": [
+				"0.233"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "Random scores",
+			"content": [
+				"Random",
+				"scores"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 25,
+			"tex": "$0.259$",
+			"content": [
+				"0.259"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "-",
+			"content": [
+				"-"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 31,
+			"tex": "$0.234$",
+			"content": [
+				"0.234"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "$0.299$",
+			"content": [
+				"0.299"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		}
+	]
+}

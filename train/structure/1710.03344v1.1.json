@@ -1,0 +1,666 @@
+{
+	"cells": [
+		{
+			"id": 1,
+			"tex": "$K_1$",
+			"content": [
+				"K1"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 50,
+			"tex": "$1.055$",
+			"content": [
+				"1.055"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 35,
+			"tex": "$0$",
+			"content": [
+				"0"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 54,
+			"tex": "Lung lesion",
+			"content": [
+				"Lung",
+				"lesion"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 59,
+			"tex": "$0.132$",
+			"content": [
+				"0.132"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 40,
+			"tex": "$0.016$",
+			"content": [
+				"0.016"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 42,
+			"tex": "Muscle/Bone/Soft tissue",
+			"content": [
+				"Muscle/Bone/Soft",
+				"tissue"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "$1.2$",
+			"content": [
+				"1.2"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 37,
+			"tex": "$0.648$",
+			"content": [
+				"0.648"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 47,
+			"tex": "$0.019$",
+			"content": [
+				"0.019"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 56,
+			"tex": "$0.842$",
+			"content": [
+				"0.842"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 3,
+			"tex": "$k_3$",
+			"content": [
+				"k3"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 36,
+			"tex": "Pancreas",
+			"content": [
+				"Pancreas"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 48,
+			"tex": "Marrow",
+			"content": [
+				"Marrow"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 43,
+			"tex": "$0.047$",
+			"content": [
+				"0.047"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "$0$",
+			"content": [
+				"0"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 23,
+			"tex": "$0.017$",
+			"content": [
+				"0.017"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 20,
+			"tex": "$0.735$",
+			"content": [
+				"0.735"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 57,
+			"tex": "$0.092$",
+			"content": [
+				"0.092"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 0,
+			"tex": "Tissue",
+			"content": [
+				"Tissue"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 58,
+			"tex": "$0.014$",
+			"content": [
+				"0.014"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 12,
+			"tex": "Liver",
+			"content": [
+				"Liver"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 46,
+			"tex": "$0$",
+			"content": [
+				"0"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 33,
+			"tex": "$0.008$",
+			"content": [
+				"0.008"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 32,
+			"tex": "$1.909$",
+			"content": [
+				"1.909"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 26,
+			"tex": "$0.299$",
+			"content": [
+				"0.299"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 10,
+			"tex": "$0.001$",
+			"content": [
+				"0.001"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 30,
+			"tex": "Spleen",
+			"content": [
+				"Spleen"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "Lung",
+			"content": [
+				"Lung"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 41,
+			"tex": "$0.107$",
+			"content": [
+				"0.107"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 51,
+			"tex": "$0.023$",
+			"content": [
+				"0.023"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 13,
+			"tex": "$0.864$",
+			"content": [
+				"0.864"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 31,
+			"tex": "$1.207$",
+			"content": [
+				"1.207"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "$0.1$",
+			"content": [
+				"0.1"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 38,
+			"tex": "$1.64$",
+			"content": [
+				"1.64"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 25,
+			"tex": "$0.263$",
+			"content": [
+				"0.263"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "$k_2$",
+			"content": [
+				"k2"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 6,
+			"tex": "Myocardium",
+			"content": [
+				"Myocardium"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "$V$",
+			"content": [
+				"V"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 28,
+			"tex": "$0$",
+			"content": [
+				"0"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 45,
+			"tex": "$0.084$",
+			"content": [
+				"0.084"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 52,
+			"tex": "$0.013$",
+			"content": [
+				"0.013"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 21,
+			"tex": "$0.016$",
+			"content": [
+				"0.016"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 22,
+			"tex": "$0.013$",
+			"content": [
+				"0.013"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 4,
+			"tex": "$k_4$",
+			"content": [
+				"k4"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 39,
+			"tex": "$0.027$",
+			"content": [
+				"0.027"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 53,
+			"tex": "$0.04$",
+			"content": [
+				"0.04"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 24,
+			"tex": "Kidney",
+			"content": [
+				"Kidney"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 44,
+			"tex": "$0.325$",
+			"content": [
+				"0.325"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 34,
+			"tex": "$0.014$",
+			"content": [
+				"0.014"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 19,
+			"tex": "$0.108$",
+			"content": [
+				"0.108"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 55,
+			"tex": "$0.63$",
+			"content": [
+				"0.63"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "$0.016$",
+			"content": [
+				"0.016"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 14,
+			"tex": "$0.981$",
+			"content": [
+				"0.981"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 7,
+			"tex": "$0.6$",
+			"content": [
+				"0.6"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "$0.005$",
+			"content": [
+				"0.005"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 29,
+			"tex": "$0.438$",
+			"content": [
+				"0.438"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 11,
+			"tex": "$0$",
+			"content": [
+				"0"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 27,
+			"tex": "$0$",
+			"content": [
+				"0"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 49,
+			"tex": "$0.425$",
+			"content": [
+				"0.425"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

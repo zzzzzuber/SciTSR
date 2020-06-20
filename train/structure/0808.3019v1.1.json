@@ -1,0 +1,908 @@
+{
+	"cells": [
+		{
+			"id": 25,
+			"tex": "Sphere Terasort",
+			"content": [
+				"Sphere",
+				"Terasort"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "905",
+			"content": [
+				"905"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "{\\bf 1}",
+			"content": [
+				"1"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "50",
+			"content": [
+				"50"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 3,
+			"tex": "{\\bf 1-3}",
+			"content": [
+				"1-3"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 13,
+			"tex": "60",
+			"content": [
+				"60"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 73,
+			"tex": "1.6",
+			"content": [
+				"1.6"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 29,
+			"tex": "1260",
+			"content": [
+				"1260"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 76,
+			"tex": "2.3",
+			"content": [
+				"2.3"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 23,
+			"tex": "3358",
+			"content": [
+				"3358"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 49,
+			"tex": "3483",
+			"content": [
+				"3483"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 40,
+			"tex": "110",
+			"content": [
+				"110"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 43,
+			"tex": "571",
+			"content": [
+				"571"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 15,
+			"tex": "1",
+			"content": [
+				"1"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 2
+		},
+		{
+			"id": 19,
+			"tex": "2312",
+			"content": [
+				"2312"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "2623",
+			"content": [
+				"2623"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 46,
+			"tex": "Total Hadoop",
+			"content": [
+				"Total",
+				"Hadoop"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 44,
+			"tex": "701",
+			"content": [
+				"701"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 80,
+			"tex": "2.1",
+			"content": [
+				"2.1"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 65,
+			"tex": "2.4",
+			"content": [
+				"2.4"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 39,
+			"tex": "Sphere Terasplit",
+			"content": [
+				"Sphere",
+				"Terasplit"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 54,
+			"tex": "1015",
+			"content": [
+				"1015"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 37,
+			"tex": "1272",
+			"content": [
+				"1272"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 16,
+			"tex": "2",
+			"content": [
+				"2"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 4
+		},
+		{
+			"id": 61,
+			"tex": "2.6",
+			"content": [
+				"2.6"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 33,
+			"tex": "460",
+			"content": [
+				"460"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "Hadoop Terasort",
+			"content": [
+				"Hadoop",
+				"Terasort"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 42,
+			"tex": "422",
+			"content": [
+				"422"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 11,
+			"tex": "40",
+			"content": [
+				"40"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 68,
+			"tex": "4.2",
+			"content": [
+				"4.2"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "{\\bf 1-6}",
+			"content": [
+				"1-6"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 58,
+			"tex": "2102",
+			"content": [
+				"2102"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 78,
+			"tex": "2.3",
+			"content": [
+				"2.3"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 50,
+			"tex": "4266",
+			"content": [
+				"4266"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 48,
+			"tex": "3024",
+			"content": [
+				"3024"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 20,
+			"tex": "2401",
+			"content": [
+				"2401"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 69,
+			"tex": "1.9",
+			"content": [
+				"1.9"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 64,
+			"tex": "2.6",
+			"content": [
+				"2.6"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 36,
+			"tex": "1038",
+			"content": [
+				"1038"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 63,
+			"tex": "2.4",
+			"content": [
+				"2.4"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 52,
+			"tex": "5033",
+			"content": [
+				"5033"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 74,
+			"tex": "Speedup total",
+			"content": [
+				"Speedup",
+				"total"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "3",
+			"content": [
+				"3"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 5,
+			"end_col": 6
+		},
+		{
+			"id": 75,
+			"tex": "2.7",
+			"content": [
+				"2.7"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "Size of Dataset (GB)",
+			"content": [
+				"Size",
+				"of",
+				"Dataset",
+				"(GB)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 28,
+			"tex": "1106",
+			"content": [
+				"1106"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 30,
+			"tex": "1401",
+			"content": [
+				"1401"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 35,
+			"tex": "860",
+			"content": [
+				"860"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 10,
+			"tex": "30",
+			"content": [
+				"30"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 45,
+			"tex": "923",
+			"content": [
+				"923"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 47,
+			"tex": "2772",
+			"content": [
+				"2772"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 59,
+			"tex": "2373",
+			"content": [
+				"2373"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 56,
+			"tex": "1528",
+			"content": [
+				"1528"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 34,
+			"tex": "623",
+			"content": [
+				"623"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 22,
+			"tex": "3228",
+			"content": [
+				"3228"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 38,
+			"tex": "1501",
+			"content": [
+				"1501"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 31,
+			"tex": "1450",
+			"content": [
+				"1450"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 51,
+			"tex": "4657",
+			"content": [
+				"4657"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 5,
+			"tex": "{\\bf 1-5}",
+			"content": [
+				"1-5"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 24,
+			"tex": "3532",
+			"content": [
+				"3532"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 14,
+			"tex": "Locations",
+			"content": [
+				"Locations"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "980",
+			"content": [
+				"980"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 8,
+			"tex": "10",
+			"content": [
+				"10"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 67,
+			"tex": "Speedup Terasplit",
+			"content": [
+				"Speedup",
+				"Terasplit"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 57,
+			"tex": "1831",
+			"content": [
+				"1831"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 60,
+			"tex": "Speedup Terasort",
+			"content": [
+				"Speedup",
+				"Terasort"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 71,
+			"tex": "1.8",
+			"content": [
+				"1.8"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 79,
+			"tex": "2.2",
+			"content": [
+				"2.2"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 4,
+			"tex": "{\\bf 1-4}",
+			"content": [
+				"1-4"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 70,
+			"tex": "2.0",
+			"content": [
+				"2.0"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 66,
+			"tex": "2.4",
+			"content": [
+				"2.4"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 62,
+			"tex": "2.5",
+			"content": [
+				"2.5"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 72,
+			"tex": "1.8",
+			"content": [
+				"1.8"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 77,
+			"tex": "2.3",
+			"content": [
+				"2.3"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 55,
+			"tex": "1300",
+			"content": [
+				"1300"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 9,
+			"tex": "20",
+			"content": [
+				"20"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 2,
+			"tex": "{\\bf 1-2}",
+			"content": [
+				"1-2"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 41,
+			"tex": "320",
+			"content": [
+				"320"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 0,
+			"tex": "{\\bf Nodes Used}",
+			"content": [
+				"Nodes",
+				"Used"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 32,
+			"tex": "Hadoop Terasplit",
+			"content": [
+				"Hadoop",
+				"Terasplit"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 53,
+			"tex": "Total Sphere",
+			"content": [
+				"Total",
+				"Sphere"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

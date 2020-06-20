@@ -1,0 +1,191 @@
+{
+	"cells": [
+		{
+			"id": 10,
+			"tex": "$O(ld |S_r| \\log |S_r|)$",
+			"content": [
+				"O(ld|Sr|",
+				"log",
+				"|Sr|)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "Setup time",
+			"content": [
+				"Setup",
+				"time"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "Search time",
+			"content": [
+				"Search",
+				"time"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 11,
+			"tex": "$O(l |S_q|\n(d + \\log |S_r|) \\log d \\log\\log d$",
+			"content": [
+				"O(l|Sq|(d",
+				"+",
+				"log",
+				"|Sr|)",
+				"log",
+				"d",
+				"log",
+				"log",
+				"d"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 4,
+			"tex": "$O(ld |S_r| \\log |S_r|)$",
+			"content": [
+				"O(ld|Sr|",
+				"log",
+				"|Sr|)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "Brute-force",
+			"content": [
+				"Brute-force"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "$O(|S_q| dlm)$",
+			"content": [
+				"O(|Sq|dlm)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 0,
+			"tex": "Algorithm",
+			"content": [
+				"Algorithm"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "$O(|S_q| |S_r|)$",
+			"content": [
+				"O(|Sq||Sr|)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 7,
+			"tex": "$O(ld |S_r| \\log |S_r|)$",
+			"content": [
+				"O(ld|Sr|",
+				"log",
+				"|Sr|)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "none",
+			"content": [
+				"none"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "QDAFN",
+			"content": [
+				"QDAFN"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "{\\tt DrusillaHash}",
+			"content": [
+				"DrusillaHash"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "$O(|S_q| d(l \\log\nl + m \\log l))$",
+			"content": [
+				"O(|Sq|d(l",
+				"log",
+				"l",
+				"+",
+				"m",
+				"log",
+				"l))"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 9,
+			"tex": "Indyk",
+			"content": [
+				"Indyk"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

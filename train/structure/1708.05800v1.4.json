@@ -1,0 +1,910 @@
+{
+	"cells": [
+		{
+			"id": 36,
+			"tex": "\\textit{F8}",
+			"content": [
+				"F8"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 35,
+			"tex": "Average \\# of characters per word",
+			"content": [
+				"Average",
+				"#",
+				"of",
+				"characters",
+				"per",
+				"word"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 50,
+			"tex": "\\textit{F10}",
+			"content": [
+				"F10"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 20,
+			"tex": "\\textit{F16}",
+			"content": [
+				"F16"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 32,
+			"tex": "\\textit{F10}",
+			"content": [
+				"F10"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "Average \\# of words per sentence",
+			"content": [
+				"Average",
+				"#",
+				"of",
+				"words",
+				"per",
+				"sentence"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 38,
+			"tex": "\\textit{F12}",
+			"content": [
+				"F12"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 40,
+			"tex": "\\textit{F4}",
+			"content": [
+				"F4"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "\\textit{F3}",
+			"content": [
+				"F3"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 43,
+			"tex": "Average \\# of synonyms of words in WordNet",
+			"content": [
+				"Average",
+				"#",
+				"of",
+				"synonyms",
+				"of",
+				"words",
+				"in",
+				"WordNet"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 46,
+			"tex": "\\textit{F6}",
+			"content": [
+				"F6"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 53,
+			"tex": "Log\\_score of $<$realization-relation-marker$>$",
+			"content": [
+				"Log",
+				"score",
+				"of",
+				"<realization-relation-marker>"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 49,
+			"tex": "Average \\# of synonyms of words in WordNet",
+			"content": [
+				"Average",
+				"#",
+				"of",
+				"synonyms",
+				"of",
+				"words",
+				"in",
+				"WordNet"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 64,
+			"tex": "\\textit{F5}",
+			"content": [
+				"F5"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 58,
+			"tex": "\\textit{F14}",
+			"content": [
+				"F14"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 48,
+			"tex": "\\textit{F11}",
+			"content": [
+				"F11"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "Log\\_score of $<$realization-relation-marker$>$",
+			"content": [
+				"Log",
+				"score",
+				"of",
+				"<realization-relation-marker>"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 54,
+			"tex": "\\textit{F15}",
+			"content": [
+				"F15"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 26,
+			"tex": "\\textit{F2}",
+			"content": [
+				"F2"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 21,
+			"tex": "Average height of syntactic parse tree",
+			"content": [
+				"Average",
+				"height",
+				"of",
+				"syntactic",
+				"parse",
+				"tree"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 29,
+			"tex": "Average \\# of subordinate clauses per sentence",
+			"content": [
+				"Average",
+				"#",
+				"of",
+				"subordinate",
+				"clauses",
+				"per",
+				"sentence"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 63,
+			"tex": "Average \\# of verb phrases per sentence",
+			"content": [
+				"Average",
+				"#",
+				"of",
+				"verb",
+				"phrases",
+				"per",
+				"sentence"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 34,
+			"tex": "\\textit{F8}",
+			"content": [
+				"F8"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 22,
+			"tex": "\\textit{F9}",
+			"content": [
+				"F9"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 4,
+			"tex": "\\textit{F2}",
+			"content": [
+				"F2"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 39,
+			"tex": "Average frequency of words in Web1T corpus",
+			"content": [
+				"Average",
+				"frequency",
+				"of",
+				"words",
+				"in",
+				"Web1T",
+				"corpus"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 24,
+			"tex": "\\textit{F13}",
+			"content": [
+				"F13"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "\\bf PDTB-based Data Set",
+			"content": [
+				"PDTB-based",
+				"Data",
+				"Set"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 42,
+			"tex": "\\textit{F11}",
+			"content": [
+				"F11"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 0,
+			"tex": "\\bf Index",
+			"content": [
+				"Index"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "Text length",
+			"content": [
+				"Text",
+				"length"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "\\bf SEW-based Data Set",
+			"content": [
+				"SEW-based",
+				"Data",
+				"Set"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "\\bf Index",
+			"content": [
+				"Index"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 31,
+			"tex": "Text length",
+			"content": [
+				"Text",
+				"length"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 61,
+			"tex": "Average frequency of words in Web1T corpus",
+			"content": [
+				"Average",
+				"frequency",
+				"of",
+				"words",
+				"in",
+				"Web1T",
+				"corpus"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 60,
+			"tex": "\\textit{F12}",
+			"content": [
+				"F12"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "Log\\_score of $<$realization-discourse relation$>$",
+			"content": [
+				"Log",
+				"score",
+				"of",
+				"<realization-discourse",
+				"relation>"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 15,
+			"tex": "Discourse relation frequency",
+			"content": [
+				"Discourse",
+				"relation",
+				"frequency"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 5,
+			"tex": "Log\\_score of $<$discourse relation-marker$>$",
+			"content": [
+				"Log",
+				"score",
+				"of",
+				"<discourse",
+				"relation-marker>"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "Average \\# of pronouns per sentence",
+			"content": [
+				"Average",
+				"#",
+				"of",
+				"pronouns",
+				"per",
+				"sentence"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 65,
+			"tex": "Average \\# of pronouns per sentence",
+			"content": [
+				"Average",
+				"#",
+				"of",
+				"pronouns",
+				"per",
+				"sentence"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 27,
+			"tex": "Log\\_score of $<$discourse relation-marker$>$",
+			"content": [
+				"Log",
+				"score",
+				"of",
+				"<discourse",
+				"relation-marker>"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 57,
+			"tex": "Log\\_score of $<$realization-discourse relation$>$",
+			"content": [
+				"Log",
+				"score",
+				"of",
+				"<realization-discourse",
+				"relation>"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 47,
+			"tex": "Average \\# of definite articles per sentence",
+			"content": [
+				"Average",
+				"#",
+				"of",
+				"de\ufb01nite",
+				"articles",
+				"per",
+				"sentence"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 59,
+			"tex": "Average \\# of noun phrases per sentence",
+			"content": [
+				"Average",
+				"#",
+				"of",
+				"noun",
+				"phrases",
+				"per",
+				"sentence"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 16,
+			"tex": "\\textit{F7}",
+			"content": [
+				"F7"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 67,
+			"tex": "Average height of syntactic parse tree",
+			"content": [
+				"Average",
+				"height",
+				"of",
+				"syntactic",
+				"parse",
+				"tree"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 6,
+			"tex": "\\textit{F1}",
+			"content": [
+				"F1"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 56,
+			"tex": "\\textit{F1}",
+			"content": [
+				"F1"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 44,
+			"tex": "\\textit{F6}",
+			"content": [
+				"F6"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 33,
+			"tex": "Average \\# of word overlaps per sentence",
+			"content": [
+				"Average",
+				"#",
+				"of",
+				"word",
+				"overlaps",
+				"per",
+				"sentence"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 28,
+			"tex": "\\textit{F15}",
+			"content": [
+				"F15"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 52,
+			"tex": "\\textit{F3}",
+			"content": [
+				"F3"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 55,
+			"tex": "Average \\# of subordinate clauses per sentence",
+			"content": [
+				"Average",
+				"#",
+				"of",
+				"subordinate",
+				"clauses",
+				"per",
+				"sentence"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 37,
+			"tex": "Average \\# of characters per word",
+			"content": [
+				"Average",
+				"#",
+				"of",
+				"characters",
+				"per",
+				"word"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 51,
+			"tex": "Average \\# of word overlaps per sentence",
+			"content": [
+				"Average",
+				"#",
+				"of",
+				"word",
+				"overlaps",
+				"per",
+				"sentence"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 18,
+			"tex": "\\textit{F5}",
+			"content": [
+				"F5"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 9,
+			"tex": "Average \\# of words per sentence",
+			"content": [
+				"Average",
+				"#",
+				"of",
+				"words",
+				"per",
+				"sentence"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "\\textit{F4}",
+			"content": [
+				"F4"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 45,
+			"tex": "Average \\# of definite articles per sentence",
+			"content": [
+				"Average",
+				"#",
+				"of",
+				"de\ufb01nite",
+				"articles",
+				"per",
+				"sentence"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "\\textit{F14}",
+			"content": [
+				"F14"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 25,
+			"tex": "Average \\# of verb phrases per sentence",
+			"content": [
+				"Average",
+				"#",
+				"of",
+				"verb",
+				"phrases",
+				"per",
+				"sentence"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "\\textit{F9}",
+			"content": [
+				"F9"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 66,
+			"tex": "\\textit{F16}",
+			"content": [
+				"F16"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 62,
+			"tex": "\\textit{F13}",
+			"content": [
+				"F13"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 30,
+			"tex": "\\textit{F7}",
+			"content": [
+				"F7"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 41,
+			"tex": "Discourse relation frequency",
+			"content": [
+				"Discourse",
+				"relation",
+				"frequency"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "Average \\# of noun phrases per sentence",
+			"content": [
+				"Average",
+				"#",
+				"of",
+				"noun",
+				"phrases",
+				"per",
+				"sentence"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

@@ -1,0 +1,508 @@
+{
+	"cells": [
+		{
+			"id": 1,
+			"tex": "Full Bilinear",
+			"content": [
+				"Full",
+				"Bilinear"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "$O(hwmc+hwm^2)$",
+			"content": [
+				"O(hwmc",
+				"+",
+				"hwm2)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 16,
+			"tex": "$O(hwmc)$",
+			"content": [
+				"O(hwmc)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 34,
+			"tex": "$Krm$ [$K\\cdot$3KB]",
+			"content": [
+				"Krm",
+				"[K\u00b73KB]"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 30,
+			"tex": "Classifier Param",
+			"content": [
+				"Classi\ufb01er",
+				"Param"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 37,
+			"tex": "$Kc^2$ [200MB]",
+			"content": [
+				"Kc2",
+				"[200MB]"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "$c^2$ [262K]",
+			"content": [
+				"c2",
+				"[262K]"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 31,
+			"tex": "$Kc^2$ [$K$MB]",
+			"content": [
+				"Kc2",
+				"[KMB]"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "$O(Kd)$",
+			"content": [
+				"O(Kd)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 0,
+			"tex": "",
+			"content": [],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "$m^2$ [10K]",
+			"content": [
+				"m2",
+				"[10K]"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 12,
+			"tex": "Feature computation",
+			"content": [
+				"Feature",
+				"computation"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "$O(Krmhw)$",
+			"content": [
+				"O(Krmhw)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 13,
+			"tex": "$O(hwc^2)$",
+			"content": [
+				"O(hwc2)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 40,
+			"tex": "$cm+Krm$ [0.8MB]",
+			"content": [
+				"cm",
+				"+",
+				"Krm",
+				"[0.8MB]"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 27,
+			"tex": "$2c$ [4KB]",
+			"content": [
+				"2c",
+				"[4KB]"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 14,
+			"tex": "$O(hwcd)$",
+			"content": [
+				"O(hwcd)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 41,
+			"tex": "$cm+Krm$ [0.8MB]",
+			"content": [
+				"cm",
+				"+",
+				"Krm",
+				"[0.8MB]"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 32,
+			"tex": "$Kd$ [$K\\cdot$32KB]",
+			"content": [
+				"Kd",
+				"[K\u00b732KB]"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 26,
+			"tex": "$2cd$ [40MB]",
+			"content": [
+				"2cd",
+				"[40MB]"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 3,
+			"tex": "Tensor Sketch",
+			"content": [
+				"Tensor",
+				"Sketch"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 5,
+			"tex": "LRBP-II",
+			"content": [
+				"LRBP-II"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 38,
+			"tex": "$2cd+Kd$ [48MB]",
+			"content": [
+				"2cd",
+				"+",
+				"Kd",
+				"[48MB]"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 25,
+			"tex": "0",
+			"content": [
+				"0"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "$mhw$ [78K]",
+			"content": [
+				"mhw",
+				"[78K]"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 35,
+			"tex": "$Krm$ [$K\\cdot$3KB]",
+			"content": [
+				"Krm",
+				"[K\u00b73KB]"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 39,
+			"tex": "$2c+Kd$ [8MB]",
+			"content": [
+				"2c",
+				"+",
+				"Kd",
+				"[8MB]"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 18,
+			"tex": "Classification comp.",
+			"content": [
+				"Classi\ufb01cation",
+				"comp."
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "Random Maclaurin",
+			"content": [
+				"Random",
+				"Maclaurin"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 15,
+			"tex": "$O(hw(c+d\\log d))$",
+			"content": [
+				"O(hw(c",
+				"+",
+				"d",
+				"log",
+				"d))"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 28,
+			"tex": "$cm$ [200KB]",
+			"content": [
+				"cm",
+				"[200KB]"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 24,
+			"tex": "Feature Param",
+			"content": [
+				"Feature",
+				"Param"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 29,
+			"tex": "$cm$ [200KB]",
+			"content": [
+				"cm",
+				"[200KB]"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 4,
+			"tex": "LRBP-I",
+			"content": [
+				"LRBP-I"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 8,
+			"tex": "$d$ [10K]",
+			"content": [
+				"d",
+				"[10K]"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 19,
+			"tex": "$O(Kc^2)$",
+			"content": [
+				"O(Kc2)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "$O(Krm^2)$",
+			"content": [
+				"O(Krm2)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 33,
+			"tex": "$Kd$ [$K\\cdot$32KB]",
+			"content": [
+				"Kd",
+				"[K\u00b732KB]"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 6,
+			"tex": "Feature Dim",
+			"content": [
+				"Feature",
+				"Dim"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 36,
+			"tex": "Total ($K=200$)",
+			"content": [
+				"Total",
+				"(K",
+				"=",
+				"200)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "$O(Kd)$",
+			"content": [
+				"O(Kd)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 9,
+			"tex": "$d$ [10K]",
+			"content": [
+				"d",
+				"[10K]"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		}
+	]
+}

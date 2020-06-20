@@ -1,0 +1,441 @@
+{
+	"cells": [
+		{
+			"id": 13,
+			"tex": "0.639 (0.434)",
+			"content": [
+				"0.639",
+				"(0.434)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 34,
+			"tex": "-0.066 (0.480)",
+			"content": [
+				"-0.066",
+				"(0.480)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 9,
+			"tex": "0.626 (0.331)",
+			"content": [
+				"0.626",
+				"(0.331)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 5,
+			"tex": "SVR",
+			"content": [
+				"SVR"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 8,
+			"tex": "0.624 (0.331)",
+			"content": [
+				"0.624",
+				"(0.331)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "0.678 (0.307)",
+			"content": [
+				"0.678",
+				"(0.307)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 11,
+			"tex": "\\bf{0.669 (0.301)}",
+			"content": [
+				"0.669",
+				"(0.301)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 19,
+			"tex": "0.585 (0.369)",
+			"content": [
+				"0.585",
+				"(0.369)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 16,
+			"tex": "\\bf{0.753 (0.294)}",
+			"content": [
+				"0.753",
+				"(0.294)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 7,
+			"tex": "Connectivity features (SET1)",
+			"content": [
+				"Connectivity",
+				"features",
+				"(SET1)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "SVR+RFE",
+			"content": [
+				"SVR+RFE"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 30,
+			"tex": "0.659 (0.305)",
+			"content": [
+				"0.659",
+				"(0.305)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 14,
+			"tex": "0.703 (0.376)",
+			"content": [
+				"0.703",
+				"(0.376)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 28,
+			"tex": "0.610 (0.327)",
+			"content": [
+				"0.610",
+				"(0.327)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 27,
+			"tex": "Ensemble",
+			"content": [
+				"Ensemble"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "Ridge",
+			"content": [
+				"Ridge"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "Ridge+RFE",
+			"content": [
+				"Ridge+RFE"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 21,
+			"tex": "\\bf{0.691 (0.288)}",
+			"content": [
+				"0.691",
+				"(0.288)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 10,
+			"tex": "0.661 (0.306)",
+			"content": [
+				"0.661",
+				"(0.306)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 26,
+			"tex": "\\bf{0.664 (0.302)}",
+			"content": [
+				"0.664",
+				"(0.302)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 33,
+			"tex": "-0.231(0.511)",
+			"content": [
+				"-0.231(0.511)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "0.618 (0.339)",
+			"content": [
+				"0.618",
+				"(0.339)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 29,
+			"tex": "0.601(0.327)",
+			"content": [
+				"0.601(0.327)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 22,
+			"tex": "Activity features (SET3)",
+			"content": [
+				"Activity",
+				"features",
+				"(SET3)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "Spatial features (SET3)",
+			"content": [
+				"Spatial",
+				"features",
+				"(SET3)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 25,
+			"tex": "0.633 (0.316)",
+			"content": [
+				"0.633",
+				"(0.316)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 15,
+			"tex": "0.544 (0.351)",
+			"content": [
+				"0.544",
+				"(0.351)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 2,
+			"tex": "Features",
+			"content": [
+				"Features"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "0.585 (0.369)",
+			"content": [
+				"0.585",
+				"(0.369)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 36,
+			"tex": "0.070 (0.441)",
+			"content": [
+				"0.070",
+				"(0.441)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 0,
+			"tex": "",
+			"content": [],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "Predictive models",
+			"content": [
+				"Predictive",
+				"models"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 4
+		},
+		{
+			"id": 35,
+			"tex": "-0.065 (0.479)",
+			"content": [
+				"-0.065",
+				"(0.479)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 32,
+			"tex": "Best Random",
+			"content": [
+				"Best",
+				"Random"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 31,
+			"tex": "\\bf{0.710 (0.287)}",
+			"content": [
+				"0.710",
+				"(0.287)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 17,
+			"tex": "Migration features (SET3)",
+			"content": [
+				"Migration",
+				"features",
+				"(SET3)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "0.645 (0.325)",
+			"content": [
+				"0.645",
+				"(0.325)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		}
+	]
+}

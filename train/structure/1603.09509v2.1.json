@@ -1,0 +1,122 @@
+{
+	"cells": [
+		{
+			"id": 3,
+			"tex": "3x Bidirectional Recurrent (1770)",
+			"content": [
+				"3x",
+				"Bidirectional",
+				"Recurrent",
+				"(1770)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "Max-Pooling (20ms/frame)",
+			"content": [
+				"Max-Pooling",
+				"(20ms/frame)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "Connectionist Temporal Classification (CTC)",
+			"content": [
+				"Connectionist",
+				"Temporal",
+				"Classi\ufb01cation",
+				"(CTC)"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "Waveform",
+			"content": [
+				"Waveform"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "...",
+			"content": [
+				"..."
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "Fully Connected (1770)",
+			"content": [
+				"Fully",
+				"Connected",
+				"(1770)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "...",
+			"content": [
+				"..."
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "1-D Convolution (1770, window 11, stride 1)",
+			"content": [
+				"1-D",
+				"Convolution",
+				"(1770,",
+				"window",
+				"11,",
+				"stride",
+				"1)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "Waveform Convolution or Spectrogram (161)",
+			"content": [
+				"Waveform",
+				"Convolution",
+				"or",
+				"Spectrogram",
+				"(161)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

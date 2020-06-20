@@ -1,0 +1,872 @@
+{
+	"cells": [
+		{
+			"id": 31,
+			"tex": "263",
+			"content": [
+				"263"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 64,
+			"tex": "2",
+			"content": [
+				"2"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 62,
+			"tex": "5",
+			"content": [
+				"5"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 23,
+			"tex": "50",
+			"content": [
+				"50"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 48,
+			"tex": "5",
+			"content": [
+				"5"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 71,
+			"tex": "2",
+			"content": [
+				"2"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 42,
+			"tex": "3b",
+			"content": [
+				"3b"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 59,
+			"tex": "2682",
+			"content": [
+				"2682"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 58,
+			"tex": "500",
+			"content": [
+				"500"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 15,
+			"tex": "1",
+			"content": [
+				"1"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 26,
+			"tex": "$\\{0.1;0.5;0.8\\}$",
+			"content": [
+				"{0.1;",
+				"0.5;",
+				"0.8}"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 60,
+			"tex": "ER",
+			"content": [
+				"ER"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 70,
+			"tex": "5b",
+			"content": [
+				"5b"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 25,
+			"tex": "PA",
+			"content": [
+				"PA"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 21,
+			"tex": "2a",
+			"content": [
+				"2a"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 41,
+			"tex": "1",
+			"content": [
+				"1"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 73,
+			"tex": "2682",
+			"content": [
+				"2682"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 18,
+			"tex": "ER",
+			"content": [
+				"ER"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 27,
+			"tex": "1",
+			"content": [
+				"1"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 38,
+			"tex": "2682",
+			"content": [
+				"2682"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 19,
+			"tex": "$\\{0.1;0.5;0.8\\}$",
+			"content": [
+				"{0.1;",
+				"0.5;",
+				"0.8}"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 68,
+			"tex": "$\\{0.1;0.5;0.8\\}$",
+			"content": [
+				"{0.1;",
+				"0.5;",
+				"0.8}"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 16,
+			"tex": "50",
+			"content": [
+				"50"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 28,
+			"tex": "2b",
+			"content": [
+				"2b"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "263",
+			"content": [
+				"263"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 37,
+			"tex": "500",
+			"content": [
+				"500"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 10,
+			"tex": "263",
+			"content": [
+				"263"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 43,
+			"tex": "2",
+			"content": [
+				"2"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 76,
+			"tex": "5",
+			"content": [
+				"5"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 8,
+			"tex": "1",
+			"content": [
+				"1"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "5",
+			"content": [
+				"5"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 32,
+			"tex": "PA",
+			"content": [
+				"PA"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 22,
+			"tex": "1",
+			"content": [
+				"1"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 36,
+			"tex": "2",
+			"content": [
+				"2"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 63,
+			"tex": "5a",
+			"content": [
+				"5a"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 69,
+			"tex": "1",
+			"content": [
+				"1"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 47,
+			"tex": "$\\{0.1;0.5;0.8\\}$",
+			"content": [
+				"{0.1;",
+				"0.5;",
+				"0.8}"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 30,
+			"tex": "50",
+			"content": [
+				"50"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 75,
+			"tex": "$\\{0.1;0.5;0.8\\}$",
+			"content": [
+				"{0.1;",
+				"0.5;",
+				"0.8}"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 0,
+			"tex": "Scenario",
+			"content": [
+				"Scenario"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "$e$",
+			"content": [
+				"e"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 57,
+			"tex": "2",
+			"content": [
+				"2"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "topo",
+			"content": [
+				"topo"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 51,
+			"tex": "500",
+			"content": [
+				"500"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 72,
+			"tex": "500",
+			"content": [
+				"500"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 3,
+			"tex": "$n_{edge}$",
+			"content": [
+				"nedge"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 34,
+			"tex": "5",
+			"content": [
+				"5"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 2,
+			"tex": "$n_{vertex}$",
+			"content": [
+				"nvertex"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 45,
+			"tex": "2682",
+			"content": [
+				"2682"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 66,
+			"tex": "2682",
+			"content": [
+				"2682"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 24,
+			"tex": "263",
+			"content": [
+				"263"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 54,
+			"tex": "$\\{0.1;0.5;0.8\\}$",
+			"content": [
+				"{0.1;",
+				"0.5;",
+				"0.8}"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 55,
+			"tex": "1",
+			"content": [
+				"1"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 1,
+			"tex": "Comparison",
+			"content": [
+				"Comparison"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 46,
+			"tex": "COM$^*$",
+			"content": [
+				"COM\u2217"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 67,
+			"tex": "PA",
+			"content": [
+				"PA"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 49,
+			"tex": "4a",
+			"content": [
+				"4a"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "1b",
+			"content": [
+				"1b"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 56,
+			"tex": "4b",
+			"content": [
+				"4b"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 74,
+			"tex": "PA",
+			"content": [
+				"PA"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 13,
+			"tex": "1",
+			"content": [
+				"1"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 50,
+			"tex": "2",
+			"content": [
+				"2"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 52,
+			"tex": "2682",
+			"content": [
+				"2682"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 12,
+			"tex": "$\\{0.1;0.5;0.8\\}$",
+			"content": [
+				"{0.1;",
+				"0.5;",
+				"0.8}"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 39,
+			"tex": "COM$^*$",
+			"content": [
+				"COM\u2217"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 7,
+			"tex": "{}\n1a",
+			"content": [
+				"1a"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 44,
+			"tex": "500",
+			"content": [
+				"500"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 11,
+			"tex": "ER",
+			"content": [
+				"ER"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 53,
+			"tex": "ER",
+			"content": [
+				"ER"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 6,
+			"tex": "ratio $e/c$",
+			"content": [
+				"ratio",
+				"e/c"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 33,
+			"tex": "$\\{0.1;0.5;0.8\\}$",
+			"content": [
+				"{0.1;",
+				"0.5;",
+				"0.8}"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 61,
+			"tex": "$\\{0.1;0.5;0.8\\}$",
+			"content": [
+				"{0.1;",
+				"0.5;",
+				"0.8}"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 35,
+			"tex": "3a",
+			"content": [
+				"3a"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 65,
+			"tex": "500",
+			"content": [
+				"500"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 40,
+			"tex": "$\\{0.1;0.5;0.8\\}$",
+			"content": [
+				"{0.1;",
+				"0.5;",
+				"0.8}"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 29,
+			"tex": "1",
+			"content": [
+				"1"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "50",
+			"content": [
+				"50"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		}
+	]
+}

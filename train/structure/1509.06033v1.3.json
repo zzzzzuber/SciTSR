@@ -1,0 +1,374 @@
+{
+	"cells": [
+		{
+			"id": 21,
+			"tex": "Max Pooling + PCA (ImageNet CNN)",
+			"content": [
+				"Max",
+				"Pooling",
+				"+",
+				"PCA",
+				"(ImageNet",
+				"CNN)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "4096",
+			"content": [
+				"4096"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "256",
+			"content": [
+				"256"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "256",
+			"content": [
+				"256"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "mAP",
+			"content": [
+				"mAP"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 14,
+			"tex": "41.031",
+			"content": [
+				"41.031"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 16,
+			"tex": "256",
+			"content": [
+				"256"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "Avg pooling + PCA (Places CNN)",
+			"content": [
+				"Avg",
+				"pooling",
+				"+",
+				"PCA",
+				"(Places",
+				"CNN)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "51.98",
+			"content": [
+				"51.98"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 6,
+			"tex": "Gong et al. (ImageNet CNN)",
+			"content": [
+				"Gong",
+				"et",
+				"al.",
+				"(ImageNet",
+				"CNN)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "{33.32}",
+			"content": [
+				"33.32"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 15,
+			"tex": "Avg Pooling + PCA (ImageNet CNN)",
+			"content": [
+				"Avg",
+				"Pooling",
+				"+",
+				"PCA",
+				"(ImageNet",
+				"CNN)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 28,
+			"tex": "512",
+			"content": [
+				"512"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "12288",
+			"content": [
+				"12288"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "35.70",
+			"content": [
+				"35.70"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 11,
+			"tex": "40.94",
+			"content": [
+				"40.94"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 27,
+			"tex": "Hybrid Pooling + PCA (ImageNet CNN)",
+			"content": [
+				"Hybrid",
+				"Pooling",
+				"+",
+				"PCA",
+				"(ImageNet",
+				"CNN)"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "Hybrid Pooling + PCA (Places CNN)",
+			"content": [
+				"Hybrid",
+				"Pooling",
+				"+",
+				"PCA",
+				"(Places",
+				"CNN)"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "Method",
+			"content": [
+				"Method"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "--",
+			"content": [
+				"\u2013"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "Dim.",
+			"content": [
+				"Dim."
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "256",
+			"content": [
+				"256"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "Donahue et al. (ImageNet CNN)",
+			"content": [
+				"Donahue",
+				"et",
+				"al.",
+				"(ImageNet",
+				"CNN)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "{27.55}",
+			"content": [
+				"27.55"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 26,
+			"tex": "51.54",
+			"content": [
+				"51.54"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 29,
+			"tex": "43.69",
+			"content": [
+				"43.69"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 25,
+			"tex": "512",
+			"content": [
+				"512"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "Max Pooling + PCA (Places CNN)",
+			"content": [
+				"Max",
+				"Pooling",
+				"+",
+				"PCA",
+				"(Places",
+				"CNN)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "Xiao et al.",
+			"content": [
+				"Xiao",
+				"et",
+				"al."
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "38.00",
+			"content": [
+				"38.00"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		}
+	]
+}

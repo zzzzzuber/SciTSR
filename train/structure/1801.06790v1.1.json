@@ -1,0 +1,434 @@
+{
+	"cells": [
+		{
+			"id": 30,
+			"tex": "Deconv, tanh",
+			"content": [
+				"Deconv,",
+				"tanh"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "$ 32\\times 32\\times 128$",
+			"content": [
+				"32",
+				"\u00d7",
+				"32",
+				"\u00d7",
+				"128"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "Reshape, FC, tanh",
+			"content": [
+				"Reshape,",
+				"FC,",
+				"tanh"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "Conv, BN, ReLU",
+			"content": [
+				"Conv,",
+				"BN,",
+				"ReLU"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "$64 \\times 64 \\times 64$",
+			"content": [
+				"64",
+				"\u00d7",
+				"64",
+				"\u00d7",
+				"64"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 26,
+			"tex": "Deconv, BN, ReLU",
+			"content": [
+				"Deconv,",
+				"BN,",
+				"ReLU"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "Size",
+			"content": [
+				"Size"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "Enc / D",
+			"content": [
+				"Enc",
+				"/",
+				"D"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 25,
+			"tex": "$ 16\\times 16\\times 256$",
+			"content": [
+				"16",
+				"\u00d7",
+				"16",
+				"\u00d7",
+				"256"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "50",
+			"content": [
+				"50"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "$ 8\\times 8 \\times 512$",
+			"content": [
+				"8",
+				"\u00d7",
+				"8",
+				"\u00d7",
+				"512"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "$32 \\times 32 \\times 128$",
+			"content": [
+				"32",
+				"\u00d7",
+				"32",
+				"\u00d7",
+				"128"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "Input",
+			"content": [
+				"Input"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "$4 \\times 4 \\times 1024$",
+			"content": [
+				"4",
+				"\u00d7",
+				"4",
+				"\u00d7",
+				"1024"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "$4\\times 4 \\times 1024$",
+			"content": [
+				"4",
+				"\u00d7",
+				"4",
+				"\u00d7",
+				"1024"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 29,
+			"tex": "$ 64\\times 64\\times 64$",
+			"content": [
+				"64",
+				"\u00d7",
+				"64",
+				"\u00d7",
+				"64"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "Conv, BN, ReLU",
+			"content": [
+				"Conv,",
+				"BN,",
+				"ReLU"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "Conv, BN, ReLU",
+			"content": [
+				"Conv,",
+				"BN,",
+				"ReLU"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "FC, ReLU, BN, Reshape",
+			"content": [
+				"FC,",
+				"ReLU,",
+				"BN,",
+				"Reshape"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "Deconv, BN, ReLU",
+			"content": [
+				"Deconv,",
+				"BN,",
+				"ReLU"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 31,
+			"tex": "$ 128\\times 128\\times 3$",
+			"content": [
+				"128",
+				"\u00d7",
+				"128",
+				"\u00d7",
+				"3"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 24,
+			"tex": "Deconv, BN, ReLU",
+			"content": [
+				"Deconv,",
+				"BN,",
+				"ReLU"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "$8 \\times 8 \\times 512$",
+			"content": [
+				"8",
+				"\u00d7",
+				"8",
+				"\u00d7",
+				"512"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "Input",
+			"content": [
+				"Input"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "$50$ / $1$",
+			"content": [
+				"50",
+				"/",
+				"1"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "Conv, BN, ReLU",
+			"content": [
+				"Conv,",
+				"BN,",
+				"ReLU"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "$128\\times 128 \\times 3$",
+			"content": [
+				"128",
+				"\u00d7",
+				"128",
+				"\u00d7",
+				"3"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "Conv, BN, ReLU",
+			"content": [
+				"Conv,",
+				"BN,",
+				"ReLU"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "$16 \\times 16 \\times 256$",
+			"content": [
+				"16",
+				"\u00d7",
+				"16",
+				"\u00d7",
+				"256"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "Size",
+			"content": [
+				"Size"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 28,
+			"tex": "Deconv, BN, ReLU",
+			"content": [
+				"Deconv,",
+				"BN,",
+				"ReLU"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "Dec / G",
+			"content": [
+				"Dec",
+				"/",
+				"G"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

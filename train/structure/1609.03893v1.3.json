@@ -1,0 +1,207 @@
+{
+	"cells": [
+		{
+			"id": 4,
+			"tex": "3. Define the connectivity profiles using the current brain parcellation.",
+			"content": [
+				"3.",
+				"De\ufb01ne",
+				"the",
+				"connectivity",
+				"pro\ufb01les",
+				"using",
+				"the",
+				"current",
+				"brain",
+				"parcellation."
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "\\textbf{Until} the similarity measurement exceeds some threshold.",
+			"content": [
+				"Until",
+				"the",
+				"similarity",
+				"measurement",
+				"exceeds",
+				"some",
+				"threshold."
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "6. Measure the similarity between the new parcellation and the previous parcellation used to define connectivity profiles.",
+			"content": [
+				"6.",
+				"Measure",
+				"the",
+				"similarity",
+				"between",
+				"the",
+				"new",
+				"parcellation",
+				"and",
+				"the",
+				"previous",
+				"parcellation",
+				"used",
+				"to",
+				"de\ufb01ne",
+				"connectivity",
+				"pro\ufb01les."
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "2.\tInitialize a parcellation as a random spatial brain segmentation, to be used to define the connectivity profile of each voxel.",
+			"content": [
+				"2.",
+				"Initialize",
+				"a",
+				"parcellation",
+				"as",
+				"a",
+				"random",
+				"spatial",
+				"brain",
+				"segmentation,",
+				"to",
+				"be",
+				"used",
+				"to",
+				"de\ufb01ne",
+				"the",
+				"connectivity",
+				"pro\ufb01le",
+				"of",
+				"each",
+				"voxel."
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "7. Return the parcellation result.",
+			"content": [
+				"7.",
+				"Return",
+				"the",
+				"parcellation",
+				"result."
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "\\textbf{Repeat}",
+			"content": [
+				"Repeat"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "5. Apply spectral clustering algorithm on the current spatial similarity graph to generate the brain parcellation.",
+			"content": [
+				"5.",
+				"Apply",
+				"spectral",
+				"clustering",
+				"algorithm",
+				"on",
+				"the",
+				"current",
+				"spatial",
+				"similarity",
+				"graph",
+				"to",
+				"generate",
+				"the",
+				"brain",
+				"parcellation."
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "1. Generate the probabilistic tractography results from diffusion MRI data.",
+			"content": [
+				"1.",
+				"Generate",
+				"the",
+				"probabilistic",
+				"tractography",
+				"results",
+				"from",
+				"di\ufb00usion",
+				"MRI",
+				"data."
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "4. update the spatial similarity graph using the connectivity profiles.",
+			"content": [
+				"4.",
+				"update",
+				"the",
+				"spatial",
+				"similarity",
+				"graph",
+				"using",
+				"the",
+				"connectivity",
+				"pro\ufb01les."
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "\\textbf{Algorithm 1} Connectivity-based Brain Parcellation Scheme",
+			"content": [
+				"Algorithm",
+				"1",
+				"Connectivity-based",
+				"Brain",
+				"Parcellation",
+				"Scheme"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

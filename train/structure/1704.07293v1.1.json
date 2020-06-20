@@ -1,0 +1,456 @@
+{
+	"cells": [
+		{
+			"id": 7,
+			"tex": "$\\Phi_{rIoU}$",
+			"content": [
+				"\u03a6rIoU"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 11,
+			"tex": "\\textbf{0.78}",
+			"content": [
+				"0.78"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 16,
+			"tex": "0.43",
+			"content": [
+				"0.43"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 31,
+			"tex": "0.40",
+			"content": [
+				"0.40"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "",
+			"content": [],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "\\textbf{0.47}",
+			"content": [
+				"0.47"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 38,
+			"tex": "0.60",
+			"content": [
+				"0.60"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 30,
+			"tex": "L1APG",
+			"content": [
+				"L1APG"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "0.40",
+			"content": [
+				"0.40"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 33,
+			"tex": "0.18",
+			"content": [
+				"0.18"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 14,
+			"tex": "Axis-aligned boxes",
+			"content": [
+				"Axis-aligned",
+				"boxes"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 4
+		},
+		{
+			"id": 36,
+			"tex": "LGT",
+			"content": [
+				"LGT"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "DAVIS ",
+			"content": [
+				"DAVIS"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 2
+		},
+		{
+			"id": 5,
+			"tex": "$\\Phi_{rIoU}$",
+			"content": [
+				"\u03a6rIoU"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 6,
+			"tex": "$\\Phi_{IoU}$",
+			"content": [
+				"\u03a6IoU"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 37,
+			"tex": "0.40",
+			"content": [
+				"0.40"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "0.23",
+			"content": [
+				"0.23"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 23,
+			"tex": "\\textbf{0.41}",
+			"content": [
+				"0.41"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 32,
+			"tex": "0.63",
+			"content": [
+				"0.63"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 34,
+			"tex": "0.25",
+			"content": [
+				"0.25"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 17,
+			"tex": "0.67",
+			"content": [
+				"0.67"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 13,
+			"tex": "0.45",
+			"content": [
+				"0.45"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 40,
+			"tex": "0.34",
+			"content": [
+				"0.34"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 20,
+			"tex": "CCOT",
+			"content": [
+				"CCOT"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "Axis-aligned boxes (fixed scale)",
+			"content": [
+				"Axis-aligned",
+				"boxes",
+				"(\ufb01xed",
+				"scale)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 4
+		},
+		{
+			"id": 2,
+			"tex": "VOT2016",
+			"content": [
+				"VOT2016"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 4
+		},
+		{
+			"id": 35,
+			"tex": "Oriented boxes",
+			"content": [
+				"Oriented",
+				"boxes"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 4
+		},
+		{
+			"id": 24,
+			"tex": "\\textbf{0.56}",
+			"content": [
+				"0.56"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 28,
+			"tex": "0.26",
+			"content": [
+				"0.26"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 4,
+			"tex": "$\\Phi_{IoU}$",
+			"content": [
+				"\u03a6IoU"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 26,
+			"tex": "0.40",
+			"content": [
+				"0.40"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "0.32",
+			"content": [
+				"0.32"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 3,
+			"tex": "",
+			"content": [],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "KCF",
+			"content": [
+				"KCF"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 39,
+			"tex": "0.25",
+			"content": [
+				"0.25"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 15,
+			"tex": "DSST",
+			"content": [
+				"DSST"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "0.73",
+			"content": [
+				"0.73"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 29,
+			"tex": "0.37",
+			"content": [
+				"0.37"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 18,
+			"tex": "0.24",
+			"content": [
+				"0.24"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 25,
+			"tex": "ANT",
+			"content": [
+				"ANT"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "0.64",
+			"content": [
+				"0.64"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		}
+	]
+}

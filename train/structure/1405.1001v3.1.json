@@ -1,0 +1,852 @@
+{
+	"cells": [
+		{
+			"id": 14,
+			"tex": "computer scientists",
+			"content": [
+				"computer",
+				"scientists"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 73,
+			"tex": "54,705",
+			"content": [
+				"54,705"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 15,
+			"tex": "317,080",
+			"content": [
+				"317,080"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 61,
+			"tex": "$\\#$ Edges",
+			"content": [
+				"#",
+				"Edges"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 16,
+			"tex": "at least one co-authored\npaper",
+			"content": [
+				"at",
+				"least",
+				"one",
+				"co-authored",
+				"paper"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 69,
+			"tex": "Gnutella",
+			"content": [
+				"Gnutella"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 62,
+			"tex": "Source",
+			"content": [
+				"Source"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 17,
+			"tex": "1,049,866",
+			"content": [
+				"1,049,866"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 18,
+			"tex": "",
+			"content": [],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 65,
+			"tex": "334,863",
+			"content": [
+				"334,863"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 19,
+			"tex": "Enron",
+			"content": [
+				"Enron"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 59,
+			"tex": "$\\#$ Nodes",
+			"content": [
+				"#",
+				"Nodes"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 20,
+			"tex": "email addresses",
+			"content": [
+				"email",
+				"addresses"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 70,
+			"tex": "network hosts",
+			"content": [
+				"network",
+				"hosts"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "36,692",
+			"content": [
+				"36,692"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 66,
+			"tex": "pairs of frequently co-purchased items",
+			"content": [
+				"pairs",
+				"of",
+				"frequently",
+				"co-purchased",
+				"items"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 33,
+			"tex": "4,039",
+			"content": [
+				"4,039"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 45,
+			"tex": "82,168",
+			"content": [
+				"82,168"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 50,
+			"tex": "{\\tt wikipedia.org} users",
+			"content": [
+				"wikipedia.org",
+				"users"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 34,
+			"tex": "Facebook friends",
+			"content": [
+				"Facebook",
+				"friends"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 56,
+			"tex": "Non-self-determining networks",
+			"content": [
+				"Non-self-determining",
+				"networks"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 3
+		},
+		{
+			"id": 46,
+			"tex": "indication of friend or foe",
+			"content": [
+				"indication",
+				"of",
+				"friend",
+				"or",
+				"foe"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 57,
+			"tex": "Name",
+			"content": [
+				"Name"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "Name",
+			"content": [
+				"Name"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 47,
+			"tex": "504,230",
+			"content": [
+				"504,230"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 52,
+			"tex": "votes for administrator role",
+			"content": [
+				"votes",
+				"for",
+				"administrator",
+				"role"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 2,
+			"tex": "Nodes",
+			"content": [
+				"Nodes"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 35,
+			"tex": "88234",
+			"content": [
+				"88234"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 71,
+			"tex": "22,687",
+			"content": [
+				"22,687"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 3,
+			"tex": "$\\#$ Nodes",
+			"content": [
+				"#",
+				"Nodes"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 36,
+			"tex": "",
+			"content": [],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 4,
+			"tex": "Edges",
+			"content": [
+				"Edges"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 37,
+			"tex": "PHYS",
+			"content": [
+				"PHYS"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "$\\#$ Edges",
+			"content": [
+				"#",
+				"Edges"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 38,
+			"tex": "condensed matter physicists",
+			"content": [
+				"condensed",
+				"matter",
+				"physicists"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "Source",
+			"content": [
+				"Source"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 74,
+			"tex": "",
+			"content": [],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 39,
+			"tex": "40,421",
+			"content": [
+				"40,421"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 7,
+			"tex": "AS",
+			"content": [
+				"AS"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 40,
+			"tex": "at least one co-authored paper",
+			"content": [
+				"at",
+				"least",
+				"one",
+				"co-authored",
+				"paper"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 49,
+			"tex": "Wikivote",
+			"content": [
+				"Wikivote"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "autonomous systems",
+			"content": [
+				"autonomous",
+				"systems"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 58,
+			"tex": "Nodes",
+			"content": [
+				"Nodes"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 41,
+			"tex": "175,692",
+			"content": [
+				"175,692"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 68,
+			"tex": "",
+			"content": [],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 9,
+			"tex": "44,729",
+			"content": [
+				"44,729"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 42,
+			"tex": "",
+			"content": [],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 48,
+			"tex": "",
+			"content": [],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 10,
+			"tex": "routing agreements",
+			"content": [
+				"routing",
+				"agreements"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 63,
+			"tex": "Amazon",
+			"content": [
+				"Amazon"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 72,
+			"tex": "connections for file sharing",
+			"content": [
+				"connections",
+				"for",
+				"\ufb01le",
+				"sharing"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 64,
+			"tex": "products",
+			"content": [
+				"products"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 54,
+			"tex": "",
+			"content": [],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 22,
+			"tex": "at least one email exchanged",
+			"content": [
+				"at",
+				"least",
+				"one",
+				"email",
+				"exchanged"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 53,
+			"tex": "103,689",
+			"content": [
+				"103,689"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 23,
+			"tex": "183,831",
+			"content": [
+				"183,831"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 24,
+			"tex": "",
+			"content": [],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 25,
+			"tex": "Epinions",
+			"content": [
+				"Epinions"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 51,
+			"tex": "7,115",
+			"content": [
+				"7,115"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 26,
+			"tex": "{\\tt epinions.com} members",
+			"content": [
+				"epinions.com",
+				"members"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 27,
+			"tex": "75,879",
+			"content": [
+				"75,879"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 44,
+			"tex": "{\\tt slashdot.org} members",
+			"content": [
+				"slashdot.org",
+				"members"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 28,
+			"tex": "self-indicated\ntrust",
+			"content": [
+				"self-indicated",
+				"trust"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 0,
+			"tex": "Self-determining networks",
+			"content": [
+				"Self-determining",
+				"networks"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 3
+		},
+		{
+			"id": 29,
+			"tex": "405,740",
+			"content": [
+				"405,740"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 30,
+			"tex": "",
+			"content": [],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 11,
+			"tex": "170,735",
+			"content": [
+				"170,735"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 31,
+			"tex": "Facebook",
+			"content": [
+				"Facebook"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 32,
+			"tex": "Facebook user",
+			"content": [
+				"Facebook",
+				"user"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 55,
+			"tex": " ",
+			"content": [],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 3
+		},
+		{
+			"id": 60,
+			"tex": "Edges",
+			"content": [
+				"Edges"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 43,
+			"tex": "Slashdot",
+			"content": [
+				"Slashdot"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "",
+			"content": [],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 67,
+			"tex": "925,872",
+			"content": [
+				"925,872"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 13,
+			"tex": "DBLP",
+			"content": [
+				"DBLP"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

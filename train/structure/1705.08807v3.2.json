@@ -1,0 +1,681 @@
+{
+	"cells": [
+		{
+			"id": 11,
+			"tex": "458.0979",
+			"content": [
+				"458.0979"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 18,
+			"tex": "log(citation\\_count)",
+			"content": [
+				"log(citation",
+				"count)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "\\textbf{SE}",
+			"content": [
+				"SE"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 22,
+			"tex": "0.44722",
+			"content": [
+				"0.44722"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 33,
+			"tex": "-2.02704",
+			"content": [
+				"-2.02704"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 5,
+			"tex": "\\textbf{Wald \\textit{F}-statistic}",
+			"content": [
+				"Wald",
+				"F",
+				"-statistic"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 0,
+			"tex": "\\textbf{term}",
+			"content": [
+				"term"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 49,
+			"tex": "1.04974",
+			"content": [
+				"1.04974"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "(Intercept)",
+			"content": [
+				"(Intercept)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "3.65038",
+			"content": [
+				"3.65038"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 32,
+			"tex": "0.16811",
+			"content": [
+				"0.16811"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 25,
+			"tex": "0.09651",
+			"content": [
+				"0.09651"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "0.13286",
+			"content": [
+				"0.13286"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 34,
+			"tex": "0.04414",
+			"content": [
+				"0.04414"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 29,
+			"tex": "0.5316029",
+			"content": [
+				"0.5316029"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 19,
+			"tex": "-0.10303",
+			"content": [
+				"-0.10303"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "0.3529552",
+			"content": [
+				"0.3529552"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 55,
+			"tex": "-0.26700",
+			"content": [
+				"-0.26700"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "\\textbf{\\textit{p}-value}",
+			"content": [
+				"p-value"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 35,
+			"tex": "4.109484",
+			"content": [
+				"4.109484"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 54,
+			"tex": "Region = ``Other''",
+			"content": [
+				"Region",
+				"=",
+				"\u201cOther\u201d"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "\\textbf{\\textit{t}-statistic}",
+			"content": [
+				"t-statistic"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 38,
+			"tex": "0.21523",
+			"content": [
+				"0.21523"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 53,
+			"tex": "25.32004",
+			"content": [
+				"25.32004"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 13,
+			"tex": "-0.25473",
+			"content": [
+				"-0.25473"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 52,
+			"tex": "0.00000",
+			"content": [
+				"0.00000"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 9,
+			"tex": "21.07635",
+			"content": [
+				"21.07635"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 51,
+			"tex": "5.03496",
+			"content": [
+				"5.03496"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 50,
+			"tex": "0.20849",
+			"content": [
+				"0.20849"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 12,
+			"tex": "Gender = ``female''",
+			"content": [
+				"Gender",
+				"=",
+				"\u201cfemale\u201d"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 58,
+			"tex": "0.63278",
+			"content": [
+				"0.63278"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 8,
+			"tex": "0.17320",
+			"content": [
+				"0.17320"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 57,
+			"tex": "-0.45788",
+			"content": [
+				"-0.45788"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 15,
+			"tex": "-0.64578",
+			"content": [
+				"-0.64578"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 14,
+			"tex": "0.39445",
+			"content": [
+				"0.39445"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 56,
+			"tex": "0.58311",
+			"content": [
+				"0.58311"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 21,
+			"tex": "-0.77546",
+			"content": [
+				"-0.77546"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 27,
+			"tex": "0.73728",
+			"content": [
+				"0.73728"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 28,
+			"tex": "0.46689",
+			"content": [
+				"0.46689"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 30,
+			"tex": "Framing = ``fixed\\_probabilities''",
+			"content": [
+				"Framing",
+				"=",
+				"\u201c\ufb01xed",
+				"probabilities\u201d"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 31,
+			"tex": "-0.34076",
+			"content": [
+				"-0.34076"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 37,
+			"tex": "0.51848",
+			"content": [
+				"0.51848"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 47,
+			"tex": "0.3690532",
+			"content": [
+				"0.3690532"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 36,
+			"tex": "Region = ``Europe''",
+			"content": [
+				"Region",
+				"=",
+				"\u201cEurope\u201d"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 45,
+			"tex": "-0.61369",
+			"content": [
+				"-0.61369"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 23,
+			"tex": "0.5802456",
+			"content": [
+				"0.5802456"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 39,
+			"tex": "2.40898",
+			"content": [
+				"2.40898"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 43,
+			"tex": "-0.22763",
+			"content": [
+				"-0.22763"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "\\textbf{Estimate}",
+			"content": [
+				"Estimate"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 40,
+			"tex": "0.01582",
+			"content": [
+				"0.01582"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 42,
+			"tex": "Region = ``M.East''",
+			"content": [
+				"Region",
+				"=",
+				"\u201cM.East\u201d"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "0.55320",
+			"content": [
+				"0.55320"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 59,
+			"tex": "0.2291022",
+			"content": [
+				"0.2291022"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 26,
+			"tex": "0.13090",
+			"content": [
+				"0.13090"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 44,
+			"tex": "0.37091",
+			"content": [
+				"0.37091"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 10,
+			"tex": "0.00000",
+			"content": [
+				"0.00000"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 41,
+			"tex": "5.93565",
+			"content": [
+				"5.93565"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 48,
+			"tex": "Region = ``N.America''",
+			"content": [
+				"Region",
+				"=",
+				"\u201cN.America\u201d"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 46,
+			"tex": "0.54430",
+			"content": [
+				"0.54430"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 24,
+			"tex": "Seniority (years)",
+			"content": [
+				"Seniority",
+				"(years)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

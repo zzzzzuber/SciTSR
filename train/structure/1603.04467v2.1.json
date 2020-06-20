@@ -1,0 +1,251 @@
+{
+	"cells": [
+		{
+			"id": 15,
+			"tex": "Enqueue, Dequeue, MutexAcquire, MutexRelease, ...",
+			"content": [
+				"Enqueue,",
+				"Dequeue,",
+				"MutexAcquire,",
+				"MutexRelease,",
+				"..."
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "Element-wise mathematical operations",
+			"content": [
+				"Element-wise",
+				"mathematical",
+				"operations"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "Save, Restore",
+			"content": [
+				"Save,",
+				"Restore"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "Queue and synchronization operations",
+			"content": [
+				"Queue",
+				"and",
+				"synchronization",
+				"operations"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "Merge, Switch, Enter, Leave, NextIteration",
+			"content": [
+				"Merge,",
+				"Switch,",
+				"Enter,",
+				"Leave,",
+				"NextIteration"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "Neural-net building blocks",
+			"content": [
+				"Neural-net",
+				"building",
+				"blocks"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "Stateful operations",
+			"content": [
+				"Stateful",
+				"operations"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "{\\bf Category}",
+			"content": [
+				"Category"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "Concat, Slice, Split, Constant, Rank, Shape, Shuffle, ...",
+			"content": [
+				"Concat,",
+				"Slice,",
+				"Split,",
+				"Constant,",
+				"Rank,",
+				"Shape,",
+				"Shu\ufb04e,",
+				"..."
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "Array operations",
+			"content": [
+				"Array",
+				"operations"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "Matrix operations",
+			"content": [
+				"Matrix",
+				"operations"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "MatMul, MatrixInverse, MatrixDeterminant, ...",
+			"content": [
+				"MatMul,",
+				"MatrixInverse,",
+				"MatrixDeterminant,",
+				"..."
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "Checkpointing operations",
+			"content": [
+				"Checkpointing",
+				"operations"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "{\\bf Examples}",
+			"content": [
+				"Examples"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "Variable, Assign, AssignAdd, ...",
+			"content": [
+				"Variable,",
+				"Assign,",
+				"AssignAdd,",
+				"..."
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "Add, Sub, Mul, Div, Exp, Log, Greater, Less, Equal, ...",
+			"content": [
+				"Add,",
+				"Sub,",
+				"Mul,",
+				"Div,",
+				"Exp,",
+				"Log,",
+				"Greater,",
+				"Less,",
+				"Equal,",
+				"..."
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "Control flow operations",
+			"content": [
+				"Control",
+				"\ufb02ow",
+				"operations"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "SoftMax, Sigmoid, ReLU, Convolution2D, MaxPool, ...",
+			"content": [
+				"SoftMax,",
+				"Sigmoid,",
+				"ReLU,",
+				"Convolution2D,",
+				"MaxPool,",
+				"..."
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

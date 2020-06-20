@@ -1,0 +1,1269 @@
+{
+	"cells": [
+		{
+			"id": 38,
+			"tex": "city",
+			"content": [
+				"city"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 88,
+			"tex": "f-16:0.126",
+			"content": [
+				"f-16:0.126"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 67,
+			"tex": "f-16:0.188",
+			"content": [
+				"f-16:0.188"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 61,
+			"tex": "helicopter:0.188",
+			"content": [
+				"helicopter:0.188"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 77,
+			"tex": "bay:0.093",
+			"content": [
+				"bay:0.093"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 102,
+			"tex": "sunset:0.902",
+			"content": [
+				"sunset:0.902"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 69,
+			"tex": "ships:0.098",
+			"content": [
+				"ships:0.098"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 86,
+			"tex": "sunrise:0.057",
+			"content": [
+				"sunrise:0.057"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 46,
+			"tex": "sky:0.787",
+			"content": [
+				"sky:0.787"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 51,
+			"tex": "mountain:0.021",
+			"content": [
+				"mountain:0.021"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 72,
+			"tex": "bay:0.011",
+			"content": [
+				"bay:0.011"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 97,
+			"tex": "ocean:0.163",
+			"content": [
+				"ocean:0.163"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 57,
+			"tex": "birds:0.011",
+			"content": [
+				"birds:0.011"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 101,
+			"tex": "sunrise",
+			"content": [
+				"sunrise"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 63,
+			"tex": "boeing:0.040",
+			"content": [
+				"boeing:0.040"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 40,
+			"tex": "bay:0.301",
+			"content": [
+				"bay:0.301"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 87,
+			"tex": "ships",
+			"content": [
+				"ships"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 99,
+			"tex": "sky:0.106",
+			"content": [
+				"sky:0.106"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 93,
+			"tex": "ocean:0.022",
+			"content": [
+				"ocean:0.022"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 90,
+			"tex": "helicopter:0.098",
+			"content": [
+				"helicopter:0.098"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 84,
+			"tex": "clouds:0.248",
+			"content": [
+				"clouds:0.248"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 62,
+			"tex": "ships:0.126",
+			"content": [
+				"ships:0.126"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 66,
+			"tex": "helicopter",
+			"content": [
+				"helicopter"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 60,
+			"tex": "boeing:0.258",
+			"content": [
+				"boeing:0.258"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 39,
+			"tex": "buildings:0.656",
+			"content": [
+				"buildings:0.656"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 91,
+			"tex": "bay:0.061",
+			"content": [
+				"bay:0.061"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 49,
+			"tex": "sky:0.248",
+			"content": [
+				"sky:0.248"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 85,
+			"tex": "sunset:0.106",
+			"content": [
+				"sunset:0.106"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 64,
+			"tex": "helicopter:0.038",
+			"content": [
+				"helicopter:0.038"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 114,
+			"tex": "beach:0.040",
+			"content": [
+				"beach:0.040"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 95,
+			"tex": "sunrise:0.902",
+			"content": [
+				"sunrise:0.902"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 74,
+			"tex": "bay:0.188",
+			"content": [
+				"bay:0.188"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 44,
+			"tex": "ships:0.013",
+			"content": [
+				"ships:0.013"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 109,
+			"tex": "bay:0.320",
+			"content": [
+				"bay:0.320"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 45,
+			"tex": "clouds",
+			"content": [
+				"clouds"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 53,
+			"tex": "ocean:0.051",
+			"content": [
+				"ocean:0.051"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 108,
+			"tex": "ocean",
+			"content": [
+				"ocean"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 76,
+			"tex": "ocean:0.093",
+			"content": [
+				"ocean:0.093"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 100,
+			"tex": "ocean:0.026",
+			"content": [
+				"ocean:0.026"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 37,
+			"tex": "ships:0.017",
+			"content": [
+				"ships:0.017"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 55,
+			"tex": "birds:0.037",
+			"content": [
+				"birds:0.037"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 83,
+			"tex": "sunrise:0.302",
+			"content": [
+				"sunrise:0.302"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 73,
+			"tex": "mountain",
+			"content": [
+				"mountain"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 89,
+			"tex": "ocean:0.108",
+			"content": [
+				"ocean:0.108"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 107,
+			"tex": "bay:0.020",
+			"content": [
+				"bay:0.020"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 56,
+			"tex": "ocean:0.012",
+			"content": [
+				"ocean:0.012"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 68,
+			"tex": "boeing:0.153",
+			"content": [
+				"boeing:0.153"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 54,
+			"tex": "sunrise:0.040",
+			"content": [
+				"sunrise:0.040"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 110,
+			"tex": "sky:0.271",
+			"content": [
+				"sky:0.271"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 70,
+			"tex": "f-16:0.038",
+			"content": [
+				"f-16:0.038"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 111,
+			"tex": "clouds:0.260",
+			"content": [
+				"clouds:0.260"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 75,
+			"tex": "beach:0.114",
+			"content": [
+				"beach:0.114"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 48,
+			"tex": "sunset:0.128",
+			"content": [
+				"sunset:0.128"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 58,
+			"tex": "sunset:0.008",
+			"content": [
+				"sunset:0.008"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 79,
+			"tex": "ocean:0.016",
+			"content": [
+				"ocean:0.016"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 65,
+			"tex": "mountain:0.013",
+			"content": [
+				"mountain:0.013"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 112,
+			"tex": "bay:0.087",
+			"content": [
+				"bay:0.087"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 98,
+			"tex": "sunrise:0.353",
+			"content": [
+				"sunrise:0.353"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 52,
+			"tex": "face",
+			"content": [
+				"face"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 43,
+			"tex": "buildings:0.122",
+			"content": [
+				"buildings:0.122"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 104,
+			"tex": "ocean:0.157",
+			"content": [
+				"ocean:0.157"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 96,
+			"tex": "sky:0.317",
+			"content": [
+				"sky:0.317"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 59,
+			"tex": "f-16",
+			"content": [
+				"f-16"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 113,
+			"tex": "clouds:0.041",
+			"content": [
+				"clouds:0.041"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 50,
+			"tex": "ocean:0.041",
+			"content": [
+				"ocean:0.041"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 71,
+			"tex": "ships:0.025",
+			"content": [
+				"ships:0.025"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 41,
+			"tex": "ships:0.097",
+			"content": [
+				"ships:0.097"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 103,
+			"tex": "sky:0.302",
+			"content": [
+				"sky:0.302"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 47,
+			"tex": "ocean:0.260",
+			"content": [
+				"ocean:0.260"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 94,
+			"tex": "sunset",
+			"content": [
+				"sunset"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 105,
+			"tex": "sunset:0.353",
+			"content": [
+				"sunset:0.353"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 42,
+			"tex": "bay:0.123",
+			"content": [
+				"bay:0.123"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 81,
+			"tex": "clouds:0.787",
+			"content": [
+				"clouds:0.787"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 80,
+			"tex": "sky",
+			"content": [
+				"sky"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 106,
+			"tex": "sky:0.057",
+			"content": [
+				"sky:0.057"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 78,
+			"tex": "clouds:0.021",
+			"content": [
+				"clouds:0.021"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 92,
+			"tex": "helicopter:0.025",
+			"content": [
+				"helicopter:0.025"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 82,
+			"tex": "sunset:0.317",
+			"content": [
+				"sunset:0.317"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 21,
+			"tex": "face:0.011",
+			"content": [
+				"face:0.011"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 30,
+			"tex": "helicopter:0.005",
+			"content": [
+				"helicopter:0.005"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 33,
+			"tex": "ships:0.092",
+			"content": [
+				"ships:0.092"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 5,
+			"tex": "ocean:0.320",
+			"content": [
+				"ocean:0.320"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 14,
+			"tex": "bay:0.246",
+			"content": [
+				"bay:0.246"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 4,
+			"tex": "beach:0.626",
+			"content": [
+				"beach:0.626"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 35,
+			"tex": "city:0.122",
+			"content": [
+				"city:0.122"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 1,
+			"tex": "$ClassSim$ (OVR)",
+			"content": [
+				"ClassSim",
+				"(OVR)"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 3
+		},
+		{
+			"id": 29,
+			"tex": "sky:0.005",
+			"content": [
+				"sky:0.005"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 17,
+			"tex": "birds",
+			"content": [
+				"birds"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "",
+			"content": [],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "city:0.301",
+			"content": [
+				"city:0.301"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 10,
+			"tex": "beach",
+			"content": [
+				"beach"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "sunset:0.028",
+			"content": [
+				"sunset:0.028"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 3,
+			"tex": "bay",
+			"content": [
+				"bay"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 31,
+			"tex": "buildings",
+			"content": [
+				"buildings"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "ocean:0.045",
+			"content": [
+				"ocean:0.045"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "buildings:0.015",
+			"content": [
+				"buildings:0.015"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 23,
+			"tex": "mountain:0.008",
+			"content": [
+				"mountain:0.008"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 12,
+			"tex": "ocean:0.245",
+			"content": [
+				"ocean:0.245"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 13,
+			"tex": "mountain:0.114",
+			"content": [
+				"mountain:0.114"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 25,
+			"tex": "f-16:0.258",
+			"content": [
+				"f-16:0.258"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 36,
+			"tex": "bay:0.044",
+			"content": [
+				"bay:0.044"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 24,
+			"tex": "boeing",
+			"content": [
+				"boeing"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "mountain:0.093",
+			"content": [
+				"mountain:0.093"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 27,
+			"tex": "ocean:0.067",
+			"content": [
+				"ocean:0.067"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 19,
+			"tex": "face:0.037",
+			"content": [
+				"face:0.037"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 34,
+			"tex": "bay:0.069",
+			"content": [
+				"bay:0.069"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 28,
+			"tex": "f-16:0.040",
+			"content": [
+				"f-16:0.040"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 8,
+			"tex": "city:0.123",
+			"content": [
+				"city:0.123"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 11,
+			"tex": "bay:0.626",
+			"content": [
+				"bay:0.626"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "beach:0.246",
+			"content": [
+				"beach:0.246"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 26,
+			"tex": "helicopter:0.153",
+			"content": [
+				"helicopter:0.153"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 15,
+			"tex": "ocean:0.040",
+			"content": [
+				"ocean:0.040"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 2,
+			"tex": "$ClassSim$ (multi-class)",
+			"content": [
+				"ClassSim",
+				"(multi-class)"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 4,
+			"end_col": 6
+		},
+		{
+			"id": 32,
+			"tex": "city:0.656",
+			"content": [
+				"city:0.656"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "ocean:0.009",
+			"content": [
+				"ocean:0.009"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 5,
+			"end_col": 5
+		}
+	]
+}

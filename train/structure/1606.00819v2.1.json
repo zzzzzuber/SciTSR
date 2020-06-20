@@ -1,0 +1,1408 @@
+{
+	"cells": [
+		{
+			"id": 33,
+			"tex": "\\textbf{.763}",
+			"content": [
+				".763"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 38,
+			"tex": ".793",
+			"content": [
+				".793"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 8,
+			"end_col": 8
+		},
+		{
+			"id": 48,
+			"tex": ".830",
+			"content": [
+				".830"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 8,
+			"end_col": 8
+		},
+		{
+			"id": 41,
+			"tex": ".770",
+			"content": [
+				".770"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 65,
+			"tex": ".456",
+			"content": [
+				".456"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 20,
+			"tex": "GloVe",
+			"content": [
+				"GloVe"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 42,
+			"tex": ".671",
+			"content": [
+				".671"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 87,
+			"tex": ".824",
+			"content": [
+				".824"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 30,
+			"tex": "SGNS",
+			"content": [
+				"SGNS"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 58,
+			"tex": ".827",
+			"content": [
+				".827"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 8,
+			"end_col": 8
+		},
+		{
+			"id": 49,
+			"tex": ".623",
+			"content": [
+				".623"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 9,
+			"end_col": 9
+		},
+		{
+			"id": 14,
+			"tex": ".627",
+			"content": [
+				".627"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 79,
+			"tex": ".638",
+			"content": [
+				".638"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 9,
+			"end_col": 9
+		},
+		{
+			"id": 45,
+			"tex": ".455",
+			"content": [
+				".455"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 78,
+			"tex": ".808",
+			"content": [
+				".808"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 8,
+			"end_col": 8
+		},
+		{
+			"id": 16,
+			"tex": ".303",
+			"content": [
+				".303"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 60,
+			"tex": "LexVec + MB + $WS_{PPMI}$ + $W$",
+			"content": [
+				"LexVec",
+				"+",
+				"MB",
+				"+",
+				"W",
+				"SP",
+				"P",
+				"M",
+				"I",
+				"+",
+				"W"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 73,
+			"tex": ".733",
+			"content": [
+				".733"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 53,
+			"tex": ".760",
+			"content": [
+				".760"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 44,
+			"tex": ".650",
+			"content": [
+				".650"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 29,
+			"tex": ".573",
+			"content": [
+				".573"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 9,
+			"end_col": 9
+		},
+		{
+			"id": 57,
+			"tex": ".816",
+			"content": [
+				".816"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 40,
+			"tex": "LexVec + MB + $WS_{PPMI}$ + $(W+\\tilde{W})$",
+			"content": [
+				"LexVec",
+				"+",
+				"MB",
+				"+",
+				"W",
+				"SP",
+				"P",
+				"M",
+				"I",
+				"+",
+				"(W",
+				"+",
+				"\u02dcW",
+				")"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 46,
+			"tex": ".322",
+			"content": [
+				".322"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 76,
+			"tex": ".338",
+			"content": [
+				".338"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 61,
+			"tex": ".748",
+			"content": [
+				".748"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 64,
+			"tex": ".636",
+			"content": [
+				".636"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 54,
+			"tex": ".655",
+			"content": [
+				".655"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 68,
+			"tex": ".820",
+			"content": [
+				".820"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 8,
+			"end_col": 8
+		},
+		{
+			"id": 56,
+			"tex": ".336",
+			"content": [
+				".336"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 25,
+			"tex": ".400",
+			"content": [
+				".400"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 71,
+			"tex": ".741",
+			"content": [
+				".741"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": ".615",
+			"content": [
+				".615"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 9,
+			"end_col": 9
+		},
+		{
+			"id": 47,
+			"tex": ".824",
+			"content": [
+				".824"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 62,
+			"tex": ".635",
+			"content": [
+				".635"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 70,
+			"tex": "LexVec + St. + $WS_{PPMI}$ + $W$",
+			"content": [
+				"LexVec",
+				"+",
+				"St.",
+				"+",
+				"W",
+				"SP",
+				"P",
+				"M",
+				"I",
+				"+",
+				"W"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": ".719",
+			"content": [
+				".719"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 28,
+			"tex": ".774",
+			"content": [
+				".774"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 8,
+			"end_col": 8
+		},
+		{
+			"id": 52,
+			"tex": ".671",
+			"content": [
+				".671"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 36,
+			"tex": "\\textbf{.339}",
+			"content": [
+				".339"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 27,
+			"tex": ".725",
+			"content": [
+				".725"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 67,
+			"tex": ".827",
+			"content": [
+				".827"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 75,
+			"tex": ".457",
+			"content": [
+				".457"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 51,
+			"tex": ".763",
+			"content": [
+				".763"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 34,
+			"tex": "\\textbf{.675}",
+			"content": [
+				".675"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 26,
+			"tex": ".338",
+			"content": [
+				".338"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 24,
+			"tex": ".643",
+			"content": [
+				".643"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 15,
+			"tex": ".427",
+			"content": [
+				".427"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 80,
+			"tex": "LexVec + MB + $WS_{SGNS}$ + $(W + \\tilde{W})$",
+			"content": [
+				"LexVec",
+				"+",
+				"MB",
+				"+",
+				"W",
+				"SSGN",
+				"S",
+				"+",
+				"(W",
+				"+",
+				"\u02dcW",
+				")"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": ".736",
+			"content": [
+				".736"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 22,
+			"tex": ".607",
+			"content": [
+				".607"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 66,
+			"tex": ".320",
+			"content": [
+				".320"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 59,
+			"tex": ".630",
+			"content": [
+				".630"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 9,
+			"end_col": 9
+		},
+		{
+			"id": 72,
+			"tex": ".622",
+			"content": [
+				".622"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 37,
+			"tex": ".823",
+			"content": [
+				".823"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 69,
+			"tex": ".632",
+			"content": [
+				".632"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 9,
+			"end_col": 9
+		},
+		{
+			"id": 43,
+			"tex": ".755",
+			"content": [
+				".755"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 55,
+			"tex": ".458",
+			"content": [
+				".458"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 50,
+			"tex": "LexVec + St. + $WS_{PPMI}$ + $(W + \\tilde{W})$",
+			"content": [
+				"LexVec",
+				"+",
+				"St.",
+				"+",
+				"W",
+				"SP",
+				"P",
+				"M",
+				"I",
+				"+",
+				"(W",
+				"+",
+				"\u02dcW",
+				")"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 74,
+			"tex": ".628",
+			"content": [
+				".628"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 77,
+			"tex": ".820",
+			"content": [
+				".820"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 31,
+			"tex": ".770",
+			"content": [
+				".770"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 39,
+			"tex": "\\textbf{.643}",
+			"content": [
+				".643"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 9,
+			"end_col": 9
+		},
+		{
+			"id": 18,
+			"tex": ".756",
+			"content": [
+				".756"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 8,
+			"end_col": 8
+		},
+		{
+			"id": 17,
+			"tex": ".770",
+			"content": [
+				".770"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 35,
+			"tex": ".465",
+			"content": [
+				".465"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 32,
+			"tex": ".670",
+			"content": [
+				".670"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 63,
+			"tex": ".741",
+			"content": [
+				".741"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 9,
+			"tex": "SCWS",
+			"content": [
+				"SCWS"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 9,
+			"end_col": 9
+		},
+		{
+			"id": 88,
+			"tex": ".827",
+			"content": [
+				".827"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 8,
+			"end_col": 8
+		},
+		{
+			"id": 3,
+			"tex": "MEN",
+			"content": [
+				"MEN"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 89,
+			"tex": ".626",
+			"content": [
+				".626"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 9,
+			"end_col": 9
+		},
+		{
+			"id": 90,
+			"tex": "LexVec + St. + $WS_{SGNS}$ + $(W + \\tilde{W})$",
+			"content": [
+				"LexVec",
+				"+",
+				"St.",
+				"+",
+				"W",
+				"SSGN",
+				"S",
+				"+",
+				"(W",
+				"+",
+				"\u02dcW",
+				")"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 91,
+			"tex": "\\textbf{.775}",
+			"content": [
+				".775"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 92,
+			"tex": ".673",
+			"content": [
+				".673"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 93,
+			"tex": ".762",
+			"content": [
+				".762"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 94,
+			"tex": ".654",
+			"content": [
+				".654"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 95,
+			"tex": "\\textbf{.468}",
+			"content": [
+				".468"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 96,
+			"tex": "\\textbf{.339}",
+			"content": [
+				".339"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 97,
+			"tex": "\\textbf{.838}",
+			"content": [
+				".838"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 98,
+			"tex": "\\textbf{.848}",
+			"content": [
+				".848"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 8,
+			"end_col": 8
+		},
+		{
+			"id": 99,
+			"tex": ".628",
+			"content": [
+				".628"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 9,
+			"end_col": 9
+		},
+		{
+			"id": 100,
+			"tex": "LexVec + MB + $WS_{SGNS}$ + $W$",
+			"content": [
+				"LexVec",
+				"+",
+				"MB",
+				"+",
+				"W",
+				"SSGN",
+				"S",
+				"+",
+				"W"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 101,
+			"tex": ".745",
+			"content": [
+				".745"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "WSim",
+			"content": [
+				"WSim"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 102,
+			"tex": ".640",
+			"content": [
+				".640"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 103,
+			"tex": ".734",
+			"content": [
+				".734"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 104,
+			"tex": ".645",
+			"content": [
+				".645"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 105,
+			"tex": ".447",
+			"content": [
+				".447"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 106,
+			"tex": ".311",
+			"content": [
+				".311"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 107,
+			"tex": ".814",
+			"content": [
+				".814"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 108,
+			"tex": ".802",
+			"content": [
+				".802"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 8,
+			"end_col": 8
+		},
+		{
+			"id": 6,
+			"tex": "SimLex-999",
+			"content": [
+				"SimLex-999"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 109,
+			"tex": ".624",
+			"content": [
+				".624"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 9,
+			"end_col": 9
+		},
+		{
+			"id": 13,
+			"tex": ".731",
+			"content": [
+				".731"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 110,
+			"tex": "LexVec + St. + $WS_{SGNS}$ + $W$",
+			"content": [
+				"LexVec",
+				"+",
+				"St.",
+				"+",
+				"W",
+				"SSGN",
+				"S",
+				"+",
+				"W"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 111,
+			"tex": ".740",
+			"content": [
+				".740"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 112,
+			"tex": ".628",
+			"content": [
+				".628"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 113,
+			"tex": ".728",
+			"content": [
+				".728"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 114,
+			"tex": ".640",
+			"content": [
+				".640"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 115,
+			"tex": ".459",
+			"content": [
+				".459"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 116,
+			"tex": "\\textbf{.339}",
+			"content": [
+				".339"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 117,
+			"tex": ".821",
+			"content": [
+				".821"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 118,
+			"tex": ".818",
+			"content": [
+				".818"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 8,
+			"end_col": 8
+		},
+		{
+			"id": 4,
+			"tex": "MTurk",
+			"content": [
+				"MTurk"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 119,
+			"tex": ".638",
+			"content": [
+				".638"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 9,
+			"end_col": 9
+		},
+		{
+			"id": 8,
+			"tex": "RG",
+			"content": [
+				"RG"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 8,
+			"end_col": 8
+		},
+		{
+			"id": 81,
+			"tex": ".768",
+			"content": [
+				".768"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "WRel",
+			"content": [
+				"WRel"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 84,
+			"tex": ".654",
+			"content": [
+				".654"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 82,
+			"tex": "\\textbf{.675}",
+			"content": [
+				".675"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 5,
+			"tex": "RW",
+			"content": [
+				"RW"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 83,
+			"tex": ".755",
+			"content": [
+				".755"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 85,
+			"tex": ".448",
+			"content": [
+				".448"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 7,
+			"tex": "MC",
+			"content": [
+				"MC"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 11,
+			"tex": ".731",
+			"content": [
+				".731"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "PPMI-SVD",
+			"content": [
+				"PPMI-SVD"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": ".617",
+			"content": [
+				".617"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 0,
+			"tex": "Method",
+			"content": [
+				"Method"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 86,
+			"tex": ".312",
+			"content": [
+				".312"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 6,
+			"end_col": 6
+		}
+	]
+}

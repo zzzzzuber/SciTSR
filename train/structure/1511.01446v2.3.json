@@ -1,0 +1,858 @@
+{
+	"cells": [
+		{
+			"id": 56,
+			"tex": "1412",
+			"content": [
+				"1412"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 47,
+			"tex": "{\\bf Task}",
+			"content": [
+				"Task"
+			],
+			"start_row": 7,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 68,
+			"tex": "4541",
+			"content": [
+				"4541"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 9,
+			"tex": "{\\bf Basic}",
+			"content": [
+				"Basic"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 62,
+			"tex": "{\\bf HDFS Read ($10^{5}$ bytes)}",
+			"content": [
+				"HDFS",
+				"Read",
+				"(105",
+				"bytes)"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 32,
+			"tex": "5486",
+			"content": [
+				"5486"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 26,
+			"tex": "{\\bf Memory ($10^{5}$ bytes}",
+			"content": [
+				"Memory",
+				"(105",
+				"bytes"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 31,
+			"tex": "9463",
+			"content": [
+				"9463"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 63,
+			"tex": "1638",
+			"content": [
+				"1638"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 38,
+			"tex": "12463",
+			"content": [
+				"12463"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 17,
+			"tex": "{\\bf Avg.}",
+			"content": [
+				"Avg."
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 39,
+			"tex": "8360",
+			"content": [
+				"8360"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 69,
+			"tex": "{\\bf HDFS Write ($10^{5}$ bytes)}",
+			"content": [
+				"HDFS",
+				"Write",
+				"(105",
+				"bytes)"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 51,
+			"tex": "4033",
+			"content": [
+				"4033"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 64,
+			"tex": "1215",
+			"content": [
+				"1215"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 20,
+			"tex": "11495",
+			"content": [
+				"11495"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 43,
+			"tex": "9784",
+			"content": [
+				"9784"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 55,
+			"tex": "{\\bf Memory ($10^{5}$ bytes}",
+			"content": [
+				"Memory",
+				"(105",
+				"bytes"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 36,
+			"tex": "10968",
+			"content": [
+				"10968"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 53,
+			"tex": "4170",
+			"content": [
+				"4170"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 52,
+			"tex": "2184",
+			"content": [
+				"2184"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 5,
+			"tex": "{\\bf Basic}",
+			"content": [
+				"Basic"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 1,
+			"tex": "{\\bf Scheduler}",
+			"content": [
+				"Scheduler"
+			],
+			"start_row": 0,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 37,
+			"tex": "8762",
+			"content": [
+				"8762"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 42,
+			"tex": "5985",
+			"content": [
+				"5985"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 7,
+			"tex": "{\\bf Basic}",
+			"content": [
+				"Basic"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 10,
+			"tex": "{\\bf ATLAS}",
+			"content": [
+				"ATLAS"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 59,
+			"tex": "1741",
+			"content": [
+				"1741"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 22,
+			"tex": "12647",
+			"content": [
+				"12647"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 25,
+			"tex": "10784",
+			"content": [
+				"10784"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 46,
+			"tex": "7420",
+			"content": [
+				"7420"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 58,
+			"tex": "2496",
+			"content": [
+				"2496"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 71,
+			"tex": "1385",
+			"content": [
+				"1385"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 11,
+			"tex": "{\\bf Resource}",
+			"content": [
+				"Resource"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "{\\bf Avg.}",
+			"content": [
+				"Avg."
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 75,
+			"tex": "3715",
+			"content": [
+				"3715"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 49,
+			"tex": "3855",
+			"content": [
+				"3855"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 70,
+			"tex": "1774",
+			"content": [
+				"1774"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 50,
+			"tex": "2520",
+			"content": [
+				"2520"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 74,
+			"tex": "5052",
+			"content": [
+				"5052"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 14,
+			"tex": "{\\bf Avg.}",
+			"content": [
+				"Avg."
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 27,
+			"tex": "7479",
+			"content": [
+				"7479"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 21,
+			"tex": "8415",
+			"content": [
+				"8415"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 73,
+			"tex": "2429",
+			"content": [
+				"2429"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 72,
+			"tex": "3643",
+			"content": [
+				"3643"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 35,
+			"tex": "7431",
+			"content": [
+				"7431"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 57,
+			"tex": "1058",
+			"content": [
+				"1058"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 34,
+			"tex": "9930",
+			"content": [
+				"9930"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 28,
+			"tex": "4530",
+			"content": [
+				"4530"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 8,
+			"tex": "{\\bf ATLAS}",
+			"content": [
+				"ATLAS"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 65,
+			"tex": "1894",
+			"content": [
+				"1894"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 66,
+			"tex": "1428",
+			"content": [
+				"1428"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 18,
+			"tex": "{\\bf Job}",
+			"content": [
+				"Job"
+			],
+			"start_row": 3,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "{\\bf Avg.}",
+			"content": [
+				"Avg."
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 24,
+			"tex": "14475",
+			"content": [
+				"14475"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 60,
+			"tex": "2638",
+			"content": [
+				"2638"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 45,
+			"tex": "10285",
+			"content": [
+				"10285"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 23,
+			"tex": "9538",
+			"content": [
+				"9538"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 40,
+			"tex": "{\\bf HDFS Write ($10^{3}$ bytes)}",
+			"content": [
+				"HDFS",
+				"Write",
+				"(103",
+				"bytes)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 61,
+			"tex": "2115",
+			"content": [
+				"2115"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 12,
+			"tex": "{\\bf Avg.}",
+			"content": [
+				"Avg."
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 4,
+			"tex": "{\\bf Capacity}",
+			"content": [
+				"Capacity"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 6,
+			"end_col": 7
+		},
+		{
+			"id": 54,
+			"tex": "2851",
+			"content": [
+				"2851"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 0,
+			"tex": "{\\bf Job/Task}",
+			"content": [
+				"Job/Task"
+			],
+			"start_row": 0,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 48,
+			"tex": "{\\bf CPU (ms)}",
+			"content": [
+				"CPU",
+				"(ms)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "{\\bf Fair}",
+			"content": [
+				"Fair"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 4,
+			"end_col": 5
+		},
+		{
+			"id": 16,
+			"tex": "{\\bf Avg.}",
+			"content": [
+				"Avg."
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 44,
+			"tex": "6202",
+			"content": [
+				"6202"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 2,
+			"tex": "{\\bf FIFO}",
+			"content": [
+				"FIFO"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 3
+		},
+		{
+			"id": 41,
+			"tex": "8583",
+			"content": [
+				"8583"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 67,
+			"tex": "7426",
+			"content": [
+				"7426"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 19,
+			"tex": "{\\bf CPU (ms)}",
+			"content": [
+				"CPU",
+				"(ms)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 33,
+			"tex": "{\\bf HDFS Read ($10^{3}$ bytes)}",
+			"content": [
+				"HDFS",
+				"Read",
+				"(103",
+				"bytes)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "{\\bf ATLAS}",
+			"content": [
+				"ATLAS"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 29,
+			"tex": "7741",
+			"content": [
+				"7741"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 30,
+			"tex": "3647",
+			"content": [
+				"3647"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 5,
+			"end_col": 5
+		}
+	]
+}

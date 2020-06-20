@@ -1,0 +1,186 @@
+{
+	"cells": [
+		{
+			"id": 8,
+			"tex": "Regularization",
+			"content": [
+				"Regularization"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "$H=50$",
+			"content": [
+				"H",
+				"=",
+				"50"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "$d=50$",
+			"content": [
+				"d",
+				"=",
+				"50"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "Maximum word length",
+			"content": [
+				"Maximum",
+				"word",
+				"length"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "Initial learning rate",
+			"content": [
+				"Initial",
+				"learning",
+				"rate"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "$\\lambda=10^{-6}$",
+			"content": [
+				"\u03bb",
+				"=",
+				"10\u22126"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "Margin loss discount",
+			"content": [
+				"Margin",
+				"loss",
+				"discount"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "$\\mu=0.2$",
+			"content": [
+				"\u00b5",
+				"=",
+				"0.2"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "Hidden unit number",
+			"content": [
+				"Hidden",
+				"unit",
+				"number"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "Dropout rate on input layer",
+			"content": [
+				"Dropout",
+				"rate",
+				"on",
+				"input",
+				"layer"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "$p=0.2$",
+			"content": [
+				"p",
+				"=",
+				"0.2"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "Character embedding size",
+			"content": [
+				"Character",
+				"embedding",
+				"size"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "$w=4$",
+			"content": [
+				"w",
+				"=",
+				"4"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "$\\alpha=0.2$",
+			"content": [
+				"\u03b1",
+				"=",
+				"0.2"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

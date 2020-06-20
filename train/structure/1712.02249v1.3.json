@@ -1,0 +1,810 @@
+{
+	"cells": [
+		{
+			"id": 31,
+			"tex": "",
+			"content": [],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 41,
+			"tex": "incPCP",
+			"content": [
+				"incPCP"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 54,
+			"tex": "Table \\ref{sbi_quant}",
+			"content": [
+				"Table",
+				"??"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 18,
+			"tex": "Figure \\ref{compare_methods} and Table \\ref{tbl:SGD}",
+			"content": [
+				"Figure",
+				"??",
+				"and",
+				"Table",
+				"??"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 1,
+			"tex": "Abbreviation",
+			"content": [
+				"Abbreviation"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 40,
+			"tex": "Incremental Principal Component Pursuit",
+			"content": [
+				"Incremental",
+				"Principal",
+				"Component",
+				"Pursuit"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "SGD 1",
+			"content": [
+				"SGD",
+				"1"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 66,
+			"tex": "Table \\ref{sbi_quant}",
+			"content": [
+				"Table",
+				"??"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 52,
+			"tex": "RSL2011",
+			"content": [
+				"RSL2011"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 36,
+			"tex": "Incremental Weighted Low-Rank",
+			"content": [
+				"Incremental",
+				"Weighted",
+				"Low-Rank"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "IRLS",
+			"content": [
+				"IRLS"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 56,
+			"tex": "Color Median",
+			"content": [
+				"Color",
+				"Median"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "This paper",
+			"content": [
+				"This",
+				"paper"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 30,
+			"tex": "Figure~\\ref{ROC_methods}--\\ref{Qual_comparison}",
+			"content": [
+				"Figure",
+				"??\u2013??"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 15,
+			"tex": "This paper",
+			"content": [
+				"This",
+				"paper"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 55,
+			"tex": "",
+			"content": [],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 61,
+			"tex": "-",
+			"content": [
+				"-"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "Homotopy",
+			"content": [
+				"Homotopy"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 46,
+			"tex": "Table \\ref{sbi_quant}",
+			"content": [
+				"Table",
+				"??"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 22,
+			"tex": "Figure \\ref{ROC_methods}-\\ref{Qual_comparison}",
+			"content": [
+				"Figure",
+				"??-??"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 6,
+			"tex": "Figure \\ref{compare_methods}--\\ref{Mean_2},and Table\\ref{sbi_quant},\\ref{time}",
+			"content": [
+				"Figure",
+				"??\u2013??,and",
+				"Table??,??"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 17,
+			"tex": "SGD 2",
+			"content": [
+				"SGD",
+				"2"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 43,
+			"tex": "",
+			"content": [],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 47,
+			"tex": "",
+			"content": [],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 21,
+			"tex": "iEALM",
+			"content": [
+				"iEALM"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 53,
+			"tex": "-",
+			"content": [
+				"-"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 59,
+			"tex": "",
+			"content": [],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 64,
+			"tex": "Self-Organizing Background Subtraction1",
+			"content": [
+				"Self-Organizing",
+				"Background",
+				"Subtraction1"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "Appearing in Experiment",
+			"content": [
+				"Appearing",
+				"in",
+				"Experiment"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 23,
+			"tex": "",
+			"content": [],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 42,
+			"tex": "Figure \\ref{SBI}--\\ref{Mean_2}, and Table \\ref{sbi_quant}, \\ref{time}",
+			"content": [
+				"Figure",
+				"??\u2013??,",
+				"and",
+				"Table",
+				"??,",
+				"??"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 44,
+			"tex": "Background estimated by weightless neural networks",
+			"content": [
+				"Background",
+				"estimated",
+				"by",
+				"weightless",
+				"neural",
+				"networks"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 45,
+			"tex": "BEWIS",
+			"content": [
+				"BEWIS"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 35,
+			"tex": "",
+			"content": [],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 10,
+			"tex": "Figure ~\\ref{compare_methods},\\ref{SBI}--\\ref{Mean_2}, and Table \\ref{sbi_quant}, \\ref{time}",
+			"content": [
+				"Figure",
+				"??,??\u2013??,",
+				"and",
+				"Table",
+				"??,",
+				"??"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 9,
+			"tex": "Homotopy",
+			"content": [
+				"Homotopy"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "This paper",
+			"content": [
+				"This",
+				"paper"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 33,
+			"tex": "ReProCS",
+			"content": [
+				"ReProCS"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 62,
+			"tex": "Table \\ref{sbi_quant}",
+			"content": [
+				"Table",
+				"??"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 11,
+			"tex": "This paper",
+			"content": [
+				"This",
+				"paper"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 34,
+			"tex": "Figure~\\ref{ROC_methods}--\\ref{Qual_comparison}",
+			"content": [
+				"Figure",
+				"??\u2013??"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 0,
+			"tex": "Algorithm",
+			"content": [
+				"Algorithm"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "Inexact Augmented Lagrange Method of Multipliers",
+			"content": [
+				"Inexact",
+				"Augmented",
+				"Lagrange",
+				"Method",
+				"of",
+				"Multipliers"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 50,
+			"tex": "Table \\ref{sbi_quant}",
+			"content": [
+				"Table",
+				"??"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 58,
+			"tex": "Table \\ref{sbi_quant}",
+			"content": [
+				"Table",
+				"??"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 3,
+			"tex": "Reference",
+			"content": [
+				"Reference"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 29,
+			"tex": "GRASTA",
+			"content": [
+				"GRASTA"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 51,
+			"tex": "",
+			"content": [],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 14,
+			"tex": "Figure \\ref{compare_methods} and Table \\ref{tbl:SGD}",
+			"content": [
+				"Figure",
+				"??",
+				"and",
+				"Table",
+				"??"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 25,
+			"tex": "GFL",
+			"content": [
+				"GFL"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 67,
+			"tex": "",
+			"content": [],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 28,
+			"tex": "Grassmannian Robust Adaptive Subspace\nTracking Algorithm",
+			"content": [
+				"Grassmannian",
+				"Robust",
+				"Adaptive",
+				"Subspace",
+				"Tracking",
+				"Algorithm"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 39,
+			"tex": "",
+			"content": [],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 63,
+			"tex": "",
+			"content": [],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 65,
+			"tex": "SOBS1",
+			"content": [
+				"SOBS1"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 57,
+			"tex": "-",
+			"content": [
+				"-"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "Stochastic Subgradient Descent 2",
+			"content": [
+				"Stochastic",
+				"Subgradient",
+				"Descent",
+				"2"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 32,
+			"tex": "Recurssive Projected Compressive Sensing",
+			"content": [
+				"Recurssive",
+				"Projected",
+				"Compressive",
+				"Sensing"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "Supervised Generalized Fused Lasso",
+			"content": [
+				"Supervised",
+				"Generalized",
+				"Fused",
+				"Lasso"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "Stochastic Subgradient Descent 1",
+			"content": [
+				"Stochastic",
+				"Subgradient",
+				"Descent",
+				"1"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 38,
+			"tex": "Figure \\ref{Qual_comparison:GFL_inWLR}",
+			"content": [
+				"Figure",
+				"??"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 48,
+			"tex": "Independent Multimodal Background Subtraction Multi-Thread",
+			"content": [
+				"Independent",
+				"Multimodal",
+				"Background",
+				"Subtraction",
+				"Multi-Thread"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 60,
+			"tex": "Photomontage",
+			"content": [
+				"Photomontage"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 37,
+			"tex": "inWLR",
+			"content": [
+				"inWLR"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 27,
+			"tex": "",
+			"content": [],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 49,
+			"tex": "IMBS-MT",
+			"content": [
+				"IMBS-MT"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "Iterative Reweighted Laast Squares",
+			"content": [
+				"Iterative",
+				"Reweighted",
+				"Laast",
+				"Squares"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "Figure \\ref{Qual_comparison:GFL_inWLR}, \\ref{Stuttgart}",
+			"content": [
+				"Figure",
+				"??,",
+				"??"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		}
+	]
+}

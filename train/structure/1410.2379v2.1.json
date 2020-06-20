@@ -1,0 +1,2342 @@
+{
+	"cells": [
+		{
+			"id": 14,
+			"tex": "71",
+			"content": [
+				"71"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 86,
+			"tex": "77",
+			"content": [
+				"77"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 15,
+			"tex": "2.2",
+			"content": [
+				"2.2"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 87,
+			"tex": "1.9",
+			"content": [
+				"1.9"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 16,
+			"tex": "\\ 1c Usable privacy",
+			"content": [
+				"1c",
+				"Usable",
+				"privacy"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 88,
+			"tex": "\\ 5c User-generated design",
+			"content": [
+				"5c",
+				"User-generated",
+				"design"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "8.58",
+			"content": [
+				"8.58"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 89,
+			"tex": "6.16",
+			"content": [
+				"6.16"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "71",
+			"content": [
+				"71"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 90,
+			"tex": "76",
+			"content": [
+				"76"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 19,
+			"tex": "1.7",
+			"content": [
+				"1.7"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 91,
+			"tex": "2.5",
+			"content": [
+				"2.5"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 20,
+			"tex": "\\ 1d Nonretention of data",
+			"content": [
+				"1d",
+				"Nonretention",
+				"of",
+				"data"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 92,
+			"tex": "\\ 5d Customizable design",
+			"content": [
+				"5d",
+				"Customizable",
+				"design"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "8.65",
+			"content": [
+				"8.65"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 93,
+			"tex": "6.36",
+			"content": [
+				"6.36"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "71",
+			"content": [
+				"71"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 94,
+			"tex": "77",
+			"content": [
+				"77"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 23,
+			"tex": "1.7",
+			"content": [
+				"1.7"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 95,
+			"tex": "2.2",
+			"content": [
+				"2.2"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 24,
+			"tex": "{\\bfseries 2--Data Portability}",
+			"content": [
+				"2\u2013Data",
+				"Portability"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 96,
+			"tex": "{\\bfseries 6--User self-governance}",
+			"content": [
+				"6\u2013User",
+				"self-governance"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 25,
+			"tex": "7.90",
+			"content": [
+				"7.90"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 97,
+			"tex": "5.82",
+			"content": [
+				"5.82"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 26,
+			"tex": "69",
+			"content": [
+				"69"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 98,
+			"tex": "63",
+			"content": [
+				"63"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 27,
+			"tex": "1.7",
+			"content": [
+				"1.7"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 99,
+			"tex": "2.7",
+			"content": [
+				"2.7"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 28,
+			"tex": "\\ 2a Free data access",
+			"content": [
+				"2a",
+				"Free",
+				"data",
+				"access"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 100,
+			"tex": "\\ 6a Participatory policy making",
+			"content": [
+				"6a",
+				"Participatory",
+				"policy",
+				"making"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 29,
+			"tex": "7.74",
+			"content": [
+				"7.74"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 101,
+			"tex": "6.30",
+			"content": [
+				"6.30"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 30,
+			"tex": "69",
+			"content": [
+				"69"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 102,
+			"tex": "64",
+			"content": [
+				"64"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 31,
+			"tex": "2.0",
+			"content": [
+				"2.0"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 103,
+			"tex": "2.5",
+			"content": [
+				"2.5"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 32,
+			"tex": "\\ 2b Open formats",
+			"content": [
+				"2b",
+				"Open",
+				"formats"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 104,
+			"tex": "\\ 6b Participatory implementation",
+			"content": [
+				"6b",
+				"Participatory",
+				"implementation"
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 33,
+			"tex": "6.61",
+			"content": [
+				"6.61"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 105,
+			"tex": "6.01",
+			"content": [
+				"6.01"
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 34,
+			"tex": "68",
+			"content": [
+				"68"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 106,
+			"tex": "66",
+			"content": [
+				"66"
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 35,
+			"tex": "2.5",
+			"content": [
+				"2.5"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 107,
+			"tex": "2.6",
+			"content": [
+				"2.6"
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 36,
+			"tex": "\\ 2c Platform independence",
+			"content": [
+				"2c",
+				"Platform",
+				"independence"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 108,
+			"tex": "\\ 6c Participatory adjudication",
+			"content": [
+				"6c",
+				"Participatory",
+				"adjudication"
+			],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 37,
+			"tex": "6.71",
+			"content": [
+				"6.71"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 109,
+			"tex": "\\dag",
+			"content": [
+				"\u2020"
+			],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 38,
+			"tex": "68",
+			"content": [
+				"68"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 110,
+			"tex": "",
+			"content": [],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 39,
+			"tex": "2.3",
+			"content": [
+				"2.3"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 111,
+			"tex": "",
+			"content": [],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 40,
+			"tex": "\\ 2d Free deletion",
+			"content": [
+				"2d",
+				"Free",
+				"deletion"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 112,
+			"tex": "{\\bfseries 7--Universal network access}",
+			"content": [
+				"7\u2013Universal",
+				"network",
+				"access"
+			],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 41,
+			"tex": "8.96",
+			"content": [
+				"8.96"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 113,
+			"tex": "8.40",
+			"content": [
+				"8.40"
+			],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 42,
+			"tex": "69",
+			"content": [
+				"69"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 114,
+			"tex": "82",
+			"content": [
+				"82"
+			],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 43,
+			"tex": "1.5",
+			"content": [
+				"1.5"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 115,
+			"tex": "1.9",
+			"content": [
+				"1.9"
+			],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 44,
+			"tex": "{\\bfseries 3--Creative control}",
+			"content": [
+				"3\u2013Creative",
+				"control"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 116,
+			"tex": "\\ 7a Right to connect",
+			"content": [
+				"7a",
+				"Right",
+				"to",
+				"connect"
+			],
+			"start_row": 29,
+			"end_row": 29,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 45,
+			"tex": "7.77",
+			"content": [
+				"7.77"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 117,
+			"tex": "8.56",
+			"content": [
+				"8.56"
+			],
+			"start_row": 29,
+			"end_row": 29,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 46,
+			"tex": "65",
+			"content": [
+				"65"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 118,
+			"tex": "82",
+			"content": [
+				"82"
+			],
+			"start_row": 29,
+			"end_row": 29,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 47,
+			"tex": "2.4",
+			"content": [
+				"2.4"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 119,
+			"tex": "1.7",
+			"content": [
+				"1.7"
+			],
+			"start_row": 29,
+			"end_row": 29,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 48,
+			"tex": "\\ 3a Originator-discretionary editing control",
+			"content": [
+				"3a",
+				"Originator-discretionary",
+				"editing",
+				"control"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 120,
+			"tex": "\\ 7b Universal digital literacy",
+			"content": [
+				"7b",
+				"Universal",
+				"digital",
+				"literacy"
+			],
+			"start_row": 30,
+			"end_row": 30,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 49,
+			"tex": "7.36",
+			"content": [
+				"7.36"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 121,
+			"tex": "7.45",
+			"content": [
+				"7.45"
+			],
+			"start_row": 30,
+			"end_row": 30,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 50,
+			"tex": "66",
+			"content": [
+				"66"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 122,
+			"tex": "82",
+			"content": [
+				"82"
+			],
+			"start_row": 30,
+			"end_row": 30,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 51,
+			"tex": "2.3",
+			"content": [
+				"2.3"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 123,
+			"tex": "2.2",
+			"content": [
+				"2.2"
+			],
+			"start_row": 30,
+			"end_row": 30,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 52,
+			"tex": "\\ 3b Authorial copyright support",
+			"content": [
+				"3b",
+				"Authorial",
+				"copyright",
+				"support"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 124,
+			"tex": "\\ 7c No- or low-cost service",
+			"content": [
+				"7c",
+				"No-",
+				"or",
+				"low-cost",
+				"service"
+			],
+			"start_row": 31,
+			"end_row": 31,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 53,
+			"tex": "7.65",
+			"content": [
+				"7.65"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 125,
+			"tex": "8.27",
+			"content": [
+				"8.27"
+			],
+			"start_row": 31,
+			"end_row": 31,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 54,
+			"tex": "66",
+			"content": [
+				"66"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 126,
+			"tex": "82",
+			"content": [
+				"82"
+			],
+			"start_row": 31,
+			"end_row": 31,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 55,
+			"tex": "2.5",
+			"content": [
+				"2.5"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 127,
+			"tex": "2.2",
+			"content": [
+				"2.2"
+			],
+			"start_row": 31,
+			"end_row": 31,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 56,
+			"tex": "\\ 3c Reciprocal data sharing",
+			"content": [
+				"3c",
+				"Reciprocal",
+				"data",
+				"sharing"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 128,
+			"tex": "\\ 7d Omnipresent service",
+			"content": [
+				"7d",
+				"Omnipresent",
+				"service"
+			],
+			"start_row": 32,
+			"end_row": 32,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 57,
+			"tex": "6.64",
+			"content": [
+				"6.64"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 129,
+			"tex": "8.43",
+			"content": [
+				"8.43"
+			],
+			"start_row": 32,
+			"end_row": 32,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 58,
+			"tex": "65",
+			"content": [
+				"65"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 130,
+			"tex": "82",
+			"content": [
+				"82"
+			],
+			"start_row": 32,
+			"end_row": 32,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 59,
+			"tex": "2.5",
+			"content": [
+				"2.5"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 131,
+			"tex": "2.0",
+			"content": [
+				"2.0"
+			],
+			"start_row": 32,
+			"end_row": 32,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 60,
+			"tex": "{\\bfseries 4--Software freedom}",
+			"content": [
+				"4\u2013Software",
+				"freedom"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 132,
+			"tex": "\\ 7e Accessibility",
+			"content": [
+				"7e",
+				"Accessibility"
+			],
+			"start_row": 33,
+			"end_row": 33,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 61,
+			"tex": "6.01",
+			"content": [
+				"6.01"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 133,
+			"tex": "7.12",
+			"content": [
+				"7.12"
+			],
+			"start_row": 33,
+			"end_row": 33,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 62,
+			"tex": "73",
+			"content": [
+				"73"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 134,
+			"tex": "80",
+			"content": [
+				"80"
+			],
+			"start_row": 33,
+			"end_row": 33,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 63,
+			"tex": "2.7",
+			"content": [
+				"2.7"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 135,
+			"tex": "2.8",
+			"content": [
+				"2.8"
+			],
+			"start_row": 33,
+			"end_row": 33,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 64,
+			"tex": "\\ 4a Open Source code",
+			"content": [
+				"4a",
+				"Open",
+				"Source",
+				"code"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 136,
+			"tex": "{\\bfseries 8--Freedom of information}",
+			"content": [
+				"8\u2013Freedom",
+				"of",
+				"information"
+			],
+			"start_row": 34,
+			"end_row": 34,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 65,
+			"tex": "5.85",
+			"content": [
+				"5.85"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 137,
+			"tex": "8.01",
+			"content": [
+				"8.01"
+			],
+			"start_row": 34,
+			"end_row": 34,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 66,
+			"tex": "71",
+			"content": [
+				"71"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 138,
+			"tex": "74",
+			"content": [
+				"74"
+			],
+			"start_row": 34,
+			"end_row": 34,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 67,
+			"tex": "2.7",
+			"content": [
+				"2.7"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 139,
+			"tex": "1.7",
+			"content": [
+				"1.7"
+			],
+			"start_row": 34,
+			"end_row": 34,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 68,
+			"tex": "\\ 4b Reciprocal code openness",
+			"content": [
+				"4b",
+				"Reciprocal",
+				"code",
+				"openness"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 140,
+			"tex": "\\ 8a Right to privacy",
+			"content": [
+				"8a",
+				"Right",
+				"to",
+				"privacy"
+			],
+			"start_row": 35,
+			"end_row": 35,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 69,
+			"tex": "5.52",
+			"content": [
+				"5.52"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 141,
+			"tex": "8.72",
+			"content": [
+				"8.72"
+			],
+			"start_row": 35,
+			"end_row": 35,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 70,
+			"tex": "72",
+			"content": [
+				"72"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 142,
+			"tex": "74",
+			"content": [
+				"74"
+			],
+			"start_row": 35,
+			"end_row": 35,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 71,
+			"tex": "2.6",
+			"content": [
+				"2.6"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 143,
+			"tex": "1.9",
+			"content": [
+				"1.9"
+			],
+			"start_row": 35,
+			"end_row": 35,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 72,
+			"tex": "\\ 4c User modifiable platform",
+			"content": [
+				"4c",
+				"User",
+				"modi\ufb01able",
+				"platform"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 144,
+			"tex": "\\ 8b Right to anonymous speech",
+			"content": [
+				"8b",
+				"Right",
+				"to",
+				"anonymous",
+				"speech"
+			],
+			"start_row": 36,
+			"end_row": 36,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 73,
+			"tex": "6.63",
+			"content": [
+				"6.63"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 145,
+			"tex": "7.39",
+			"content": [
+				"7.39"
+			],
+			"start_row": 36,
+			"end_row": 36,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 74,
+			"tex": "74",
+			"content": [
+				"74"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 146,
+			"tex": "74",
+			"content": [
+				"74"
+			],
+			"start_row": 36,
+			"end_row": 36,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 75,
+			"tex": "2.6",
+			"content": [
+				"2.6"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 147,
+			"tex": "2.3",
+			"content": [
+				"2.3"
+			],
+			"start_row": 36,
+			"end_row": 36,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 76,
+			"tex": "{\\bfseries 5--Participatory design}",
+			"content": [
+				"5\u2013Participatory",
+				"design"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 148,
+			"tex": "\\ 8c Freedom from censorship",
+			"content": [
+				"8c",
+				"Freedom",
+				"from",
+				"censorship"
+			],
+			"start_row": 37,
+			"end_row": 37,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 77,
+			"tex": "5.48",
+			"content": [
+				"5.48"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 149,
+			"tex": "8.46",
+			"content": [
+				"8.46"
+			],
+			"start_row": 37,
+			"end_row": 37,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 78,
+			"tex": "77",
+			"content": [
+				"77"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 150,
+			"tex": "74",
+			"content": [
+				"74"
+			],
+			"start_row": 37,
+			"end_row": 37,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 79,
+			"tex": "2.4",
+			"content": [
+				"2.4"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 151,
+			"tex": "1.8",
+			"content": [
+				"1.8"
+			],
+			"start_row": 37,
+			"end_row": 37,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 80,
+			"tex": "\\ 5a User-centered design",
+			"content": [
+				"5a",
+				"User-centered",
+				"design"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 152,
+			"tex": "\\ 8d Open Access to publicly funded data",
+			"content": [
+				"8d",
+				"Open",
+				"Access",
+				"to",
+				"publicly",
+				"funded",
+				"data"
+			],
+			"start_row": 38,
+			"end_row": 38,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 81,
+			"tex": "7.08",
+			"content": [
+				"7.08"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 153,
+			"tex": "8.20",
+			"content": [
+				"8.20"
+			],
+			"start_row": 38,
+			"end_row": 38,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 82,
+			"tex": "75",
+			"content": [
+				"75"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 154,
+			"tex": "74",
+			"content": [
+				"74"
+			],
+			"start_row": 38,
+			"end_row": 38,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 83,
+			"tex": "2.1",
+			"content": [
+				"2.1"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 155,
+			"tex": "2.0",
+			"content": [
+				"2.0"
+			],
+			"start_row": 38,
+			"end_row": 38,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 84,
+			"tex": "\\ 5b User input to design",
+			"content": [
+				"5b",
+				"User",
+				"input",
+				"to",
+				"design"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 156,
+			"tex": "\\ 8e Democratically controlled security",
+			"content": [
+				"8e",
+				"Democratically",
+				"controlled",
+				"security"
+			],
+			"start_row": 39,
+			"end_row": 39,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 85,
+			"tex": "6.83",
+			"content": [
+				"6.83"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 157,
+			"tex": "8.12",
+			"content": [
+				"8.12"
+			],
+			"start_row": 39,
+			"end_row": 39,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 158,
+			"tex": "74",
+			"content": [
+				"74"
+			],
+			"start_row": 39,
+			"end_row": 39,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 159,
+			"tex": "1.9",
+			"content": [
+				"1.9"
+			],
+			"start_row": 39,
+			"end_row": 39,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 160,
+			"tex": "\\ 8f Right to be forgotten",
+			"content": [
+				"8f",
+				"Right",
+				"to",
+				"be",
+				"forgotten"
+			],
+			"start_row": 40,
+			"end_row": 40,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 161,
+			"tex": "7.59",
+			"content": [
+				"7.59"
+			],
+			"start_row": 40,
+			"end_row": 40,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 162,
+			"tex": "74",
+			"content": [
+				"74"
+			],
+			"start_row": 40,
+			"end_row": 40,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 163,
+			"tex": "2.3",
+			"content": [
+				"2.3"
+			],
+			"start_row": 40,
+			"end_row": 40,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 164,
+			"tex": "{\\bfseries 9--Net neutrality}",
+			"content": [
+				"9\u2013Net",
+				"neutrality"
+			],
+			"start_row": 41,
+			"end_row": 41,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 165,
+			"tex": "8.11",
+			"content": [
+				"8.11"
+			],
+			"start_row": 41,
+			"end_row": 41,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 166,
+			"tex": "61",
+			"content": [
+				"61"
+			],
+			"start_row": 41,
+			"end_row": 41,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 167,
+			"tex": "2.5",
+			"content": [
+				"2.5"
+			],
+			"start_row": 41,
+			"end_row": 41,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 168,
+			"tex": "\\ 9a Source neutrality",
+			"content": [
+				"9a",
+				"Source",
+				"neutrality"
+			],
+			"start_row": 42,
+			"end_row": 42,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 169,
+			"tex": "8.39",
+			"content": [
+				"8.39"
+			],
+			"start_row": 42,
+			"end_row": 42,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 170,
+			"tex": "61",
+			"content": [
+				"61"
+			],
+			"start_row": 42,
+			"end_row": 42,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 171,
+			"tex": "2.2",
+			"content": [
+				"2.2"
+			],
+			"start_row": 42,
+			"end_row": 42,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 172,
+			"tex": "\\ 9b Format neutrality",
+			"content": [
+				"9b",
+				"Format",
+				"neutrality"
+			],
+			"start_row": 43,
+			"end_row": 43,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 173,
+			"tex": "7.42",
+			"content": [
+				"7.42"
+			],
+			"start_row": 43,
+			"end_row": 43,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 174,
+			"tex": "61",
+			"content": [
+				"61"
+			],
+			"start_row": 43,
+			"end_row": 43,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 175,
+			"tex": "2.5",
+			"content": [
+				"2.5"
+			],
+			"start_row": 43,
+			"end_row": 43,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 176,
+			"tex": "\\ 9c Content neutrality",
+			"content": [
+				"9c",
+				"Content",
+				"neutrality"
+			],
+			"start_row": 44,
+			"end_row": 44,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 177,
+			"tex": "8.56",
+			"content": [
+				"8.56"
+			],
+			"start_row": 44,
+			"end_row": 44,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 178,
+			"tex": "61",
+			"content": [
+				"61"
+			],
+			"start_row": 44,
+			"end_row": 44,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 179,
+			"tex": "2.2",
+			"content": [
+				"2.2"
+			],
+			"start_row": 44,
+			"end_row": 44,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 180,
+			"tex": "\\ 9d End-user neutrality",
+			"content": [
+				"9d",
+				"End-user",
+				"neutrality"
+			],
+			"start_row": 45,
+			"end_row": 45,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 181,
+			"tex": "8.52",
+			"content": [
+				"8.52"
+			],
+			"start_row": 45,
+			"end_row": 45,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 182,
+			"tex": "61",
+			"content": [
+				"61"
+			],
+			"start_row": 45,
+			"end_row": 45,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 183,
+			"tex": "2.2",
+			"content": [
+				"2.2"
+			],
+			"start_row": 45,
+			"end_row": 45,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 184,
+			"tex": "{\\bfseries 10--Pluralistic open infrastructure}",
+			"content": [
+				"10\u2013Pluralistic",
+				"open",
+				"infrastructure"
+			],
+			"start_row": 46,
+			"end_row": 46,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 185,
+			"tex": "6.84",
+			"content": [
+				"6.84"
+			],
+			"start_row": 46,
+			"end_row": 46,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 186,
+			"tex": "70",
+			"content": [
+				"70"
+			],
+			"start_row": 46,
+			"end_row": 46,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 187,
+			"tex": "2.1",
+			"content": [
+				"2.1"
+			],
+			"start_row": 46,
+			"end_row": 46,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 188,
+			"tex": "\\ 10a Multiplicity of platforms",
+			"content": [
+				"10a",
+				"Multiplicity",
+				"of",
+				"platforms"
+			],
+			"start_row": 47,
+			"end_row": 47,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 189,
+			"tex": "7.24",
+			"content": [
+				"7.24"
+			],
+			"start_row": 47,
+			"end_row": 47,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 190,
+			"tex": "70",
+			"content": [
+				"70"
+			],
+			"start_row": 47,
+			"end_row": 47,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 191,
+			"tex": "2.0",
+			"content": [
+				"2.0"
+			],
+			"start_row": 47,
+			"end_row": 47,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 192,
+			"tex": "\\ 10b Decentralized control",
+			"content": [
+				"10b",
+				"Decentralized",
+				"control"
+			],
+			"start_row": 48,
+			"end_row": 48,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 193,
+			"tex": "8.27",
+			"content": [
+				"8.27"
+			],
+			"start_row": 48,
+			"end_row": 48,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 194,
+			"tex": "70",
+			"content": [
+				"70"
+			],
+			"start_row": 48,
+			"end_row": 48,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 195,
+			"tex": "1.8",
+			"content": [
+				"1.8"
+			],
+			"start_row": 48,
+			"end_row": 48,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 196,
+			"tex": "\\ 10c Transparent control",
+			"content": [
+				"10c",
+				"Transparent",
+				"control"
+			],
+			"start_row": 49,
+			"end_row": 49,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 197,
+			"tex": "7.97",
+			"content": [
+				"7.97"
+			],
+			"start_row": 49,
+			"end_row": 49,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 198,
+			"tex": "70",
+			"content": [
+				"70"
+			],
+			"start_row": 49,
+			"end_row": 49,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 199,
+			"tex": "1.8",
+			"content": [
+				"1.8"
+			],
+			"start_row": 49,
+			"end_row": 49,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 200,
+			"tex": "\\footnotesize \\dag \\ Ratings for 6c were not meaningful: incorrect wording on survey.",
+			"content": [
+				"\u2020",
+				"Ratings",
+				"for",
+				"6c",
+				"were",
+				"not",
+				"meaningful:",
+				"incorrect",
+				"wording",
+				"on",
+				"survey."
+			],
+			"start_row": 50,
+			"end_row": 50,
+			"start_col": 0,
+			"end_col": 3
+		},
+		{
+			"id": 0,
+			"tex": "Principle/Concept",
+			"content": [
+				"Principle/Concept"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "Mean (0-10)",
+			"content": [
+				"Mean",
+				"(0-10)"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "N",
+			"content": [
+				"N"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 3,
+			"tex": "Std. Dev.",
+			"content": [
+				"Std.",
+				"Dev."
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 4,
+			"tex": "{\\bfseries 1--Privacy control}",
+			"content": [
+				"1\u2013Privacy",
+				"control"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "8.69",
+			"content": [
+				"8.69"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "71",
+			"content": [
+				"71"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 7,
+			"tex": "1.9",
+			"content": [
+				"1.9"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 8,
+			"tex": "\\ 1a Originator-discretionary reading control",
+			"content": [
+				"1a",
+				"Originator-discretionary",
+				"reading",
+				"control"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "7.96",
+			"content": [
+				"7.96"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "71",
+			"content": [
+				"71"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 11,
+			"tex": "2.2",
+			"content": [
+				"2.2"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 12,
+			"tex": "\\ 1b Data use transparency",
+			"content": [
+				"1b",
+				"Data",
+				"use",
+				"transparency"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "8.06",
+			"content": [
+				"8.06"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

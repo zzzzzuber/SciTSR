@@ -1,0 +1,366 @@
+{
+	"cells": [
+		{
+			"id": 23,
+			"tex": "Indicator of the finish of a task",
+			"content": [
+				"Indicator",
+				"of",
+				"the",
+				"\ufb01nish",
+				"of",
+				"a",
+				"task"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "Time that a task can be delayed by with no overall performance loss",
+			"content": [
+				"Time",
+				"that",
+				"a",
+				"task",
+				"can",
+				"be",
+				"delayed",
+				"by",
+				"with",
+				"no",
+				"overall",
+				"performance",
+				"loss"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "$f_{opt}$",
+			"content": [
+				"fopt"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "TDS consisting of tasks that depend on $task$ as the input",
+			"content": [
+				"TDS",
+				"consisting",
+				"of",
+				"tasks",
+				"that",
+				"depend",
+				"on",
+				"task",
+				"as",
+				"the",
+				"input"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "$task, t_1, t_2$",
+			"content": [
+				"task,",
+				"t1,",
+				"t2"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "$slack$",
+			"content": [
+				"slack"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "$ratio$",
+			"content": [
+				"ratio"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "One task trace to finish matrix factorizations with zero total slack",
+			"content": [
+				"One",
+				"task",
+				"trace",
+				"to",
+				"\ufb01nish",
+				"matrix",
+				"factorizations",
+				"with",
+				"zero",
+				"total",
+				"slack"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "$\\mathsf{TDS}_{out}$\\textsf{($task$)}",
+			"content": [
+				"TDSout(task)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "The highest CPU frequency set by DVFS",
+			"content": [
+				"The",
+				"highest",
+				"CPU",
+				"frequency",
+				"set",
+				"by",
+				"DVFS"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "One task of matrix factorizations",
+			"content": [
+				"One",
+				"task",
+				"of",
+				"matrix",
+				"factorizations"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "TDS consisting of tasks that are depended by $task$ as the input",
+			"content": [
+				"TDS",
+				"consisting",
+				"of",
+				"tasks",
+				"that",
+				"are",
+				"depended",
+				"by",
+				"task",
+				"as",
+				"the",
+				"input"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "$\\mathsf{TDS}_{in}$\\textsf{($task$)}",
+			"content": [
+				"TDSin(task)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "$CritPath$",
+			"content": [
+				"CritP",
+				"ath"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "$N_{proc}$",
+			"content": [
+				"Nproc"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "Current CPU frequency in use",
+			"content": [
+				"Current",
+				"CPU",
+				"frequency",
+				"in",
+				"use"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "Square root of the total number of processes",
+			"content": [
+				"Square",
+				"root",
+				"of",
+				"the",
+				"total",
+				"number",
+				"of",
+				"processes"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "$CurFreq$",
+			"content": [
+				"CurF",
+				"req"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "$DoneFlag$",
+			"content": [
+				"DoneF",
+				"lag"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "$f_l$",
+			"content": [
+				"fl"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "Ratio between split durations for optimal frequency approximation",
+			"content": [
+				"Ratio",
+				"between",
+				"split",
+				"durations",
+				"for",
+				"optimal",
+				"frequency",
+				"approximation"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "Optimal ideal frequency to finish a task with its slack eliminated",
+			"content": [
+				"Optimal",
+				"ideal",
+				"frequency",
+				"to",
+				"\ufb01nish",
+				"a",
+				"task",
+				"with",
+				"its",
+				"slack",
+				"eliminated"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "The lowest CPU frequency set by DVFS",
+			"content": [
+				"The",
+				"lowest",
+				"CPU",
+				"frequency",
+				"set",
+				"by",
+				"DVFS"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "$f_h$",
+			"content": [
+				"fh"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

@@ -1,0 +1,197 @@
+{
+	"cells": [
+		{
+			"id": 6,
+			"tex": "4",
+			"content": [
+				"4"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "6",
+			"content": [
+				"6"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "5",
+			"content": [
+				"5"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "character trigram: $c_{-1}c_{0}c_1$",
+			"content": [
+				"character",
+				"trigram:",
+				"c\u22121c0c1"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "character type unigram: $type(c_0)$",
+			"content": [
+				"character",
+				"type",
+				"unigram:",
+				"type(c0)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "character types: $type(c_{-1})type(c_0)type(c_1)$",
+			"content": [
+				"character",
+				"types:",
+				"type(c\u22121)type(c0)type(c1)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "character unigram: $c_i$ ,$-2\\leq i \\leq 2$",
+			"content": [
+				"character",
+				"unigram:",
+				"ci",
+				",\u22122",
+				"\u2264",
+				"i",
+				"\u2264",
+				"2"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "1",
+			"content": [
+				"1"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "3",
+			"content": [
+				"3"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "2",
+			"content": [
+				"2"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "character bigram: $c_{i-1}c_i$ ,$-1\\leq i \\leq 2$; $c_{-1}c_{1}$ and $c_{0}c_{2}$",
+			"content": [
+				"character",
+				"bigram:",
+				"ci\u22121ci",
+				",\u22121",
+				"\u2264",
+				"i",
+				"\u2264",
+				"2;",
+				"c\u22121c1",
+				"and",
+				"c0c2"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "character types: $type(c_{-2})type(c_{-1})type(c_0)type(c_1)type(c_{2})$",
+			"content": [
+				"character",
+				"types:",
+				"type(c\u22122)type(c\u22121)type(c0)type(c1)type(c2)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "whether two characters are equal or not: $c_0==c_{-2}$ and $c_0==c_{1}$",
+			"content": [
+				"whether",
+				"two",
+				"characters",
+				"are",
+				"equal",
+				"or",
+				"not:",
+				"c0",
+				"==",
+				"c\u22122",
+				"and",
+				"c0",
+				"==",
+				"c1"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "7",
+			"content": [
+				"7"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

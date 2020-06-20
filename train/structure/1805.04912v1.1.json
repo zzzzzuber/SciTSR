@@ -1,0 +1,753 @@
+{
+	"cells": [
+		{
+			"id": 67,
+			"tex": "$\\textbf{0.715}$",
+			"content": [
+				"0.715"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 8,
+			"end_col": 8
+		},
+		{
+			"id": 57,
+			"tex": "-",
+			"content": [
+				"-"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 41,
+			"tex": "I-Autorec",
+			"content": [
+				"I-Autorec"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "MAE",
+			"content": [
+				"MAE"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 45,
+			"tex": "-",
+			"content": [
+				"-"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 8,
+			"tex": "RMSE",
+			"content": [
+				"RMSE"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 7,
+			"tex": "MAE",
+			"content": [
+				"MAE"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 35,
+			"tex": "$0.976$",
+			"content": [
+				"0.976"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 58,
+			"tex": "-",
+			"content": [
+				"-"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 8,
+			"end_col": 8
+		},
+		{
+			"id": 6,
+			"tex": "RMSE",
+			"content": [
+				"RMSE"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 31,
+			"tex": "-",
+			"content": [
+				"-"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 8,
+			"end_col": 8
+		},
+		{
+			"id": 54,
+			"tex": "$0.765$",
+			"content": [
+				"0.765"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 5,
+			"tex": "",
+			"content": [],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "Area (IV)",
+			"content": [
+				"Area",
+				"(IV)"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 7,
+			"end_col": 8
+		},
+		{
+			"id": 24,
+			"tex": "$\\textbf{0.839}$",
+			"content": [
+				"0.839"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 64,
+			"tex": "$0.864$",
+			"content": [
+				"0.864"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 3,
+			"tex": "Area (III)",
+			"content": [
+				"Area",
+				"(III)"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 5,
+			"end_col": 6
+		},
+		{
+			"id": 30,
+			"tex": "-",
+			"content": [
+				"-"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 38,
+			"tex": "-",
+			"content": [
+				"-"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 2,
+			"tex": "Area (II)",
+			"content": [
+				"Area",
+				"(II)"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 4
+		},
+		{
+			"id": 51,
+			"tex": "$0.889$",
+			"content": [
+				"0.889"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "Area (I)",
+			"content": [
+				"Area",
+				"(I)"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 2
+		},
+		{
+			"id": 12,
+			"tex": "RMSE",
+			"content": [
+				"RMSE"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 66,
+			"tex": "$\\textbf{0.904}$",
+			"content": [
+				"0.904"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 0,
+			"tex": "",
+			"content": [],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "-",
+			"content": [
+				"-"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 44,
+			"tex": "-",
+			"content": [
+				"-"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 55,
+			"tex": "-",
+			"content": [
+				"-"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 40,
+			"tex": "-",
+			"content": [
+				"-"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 8,
+			"end_col": 8
+		},
+		{
+			"id": 47,
+			"tex": "$\\textbf{0.670}$",
+			"content": [
+				"0.670"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 11,
+			"tex": "MAE",
+			"content": [
+				"MAE"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 21,
+			"tex": "-",
+			"content": [
+				"-"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 49,
+			"tex": "-",
+			"content": [
+				"-"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 8,
+			"end_col": 8
+		},
+		{
+			"id": 28,
+			"tex": "-",
+			"content": [
+				"-"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 39,
+			"tex": "-",
+			"content": [
+				"-"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 50,
+			"tex": "Deep U-Autorec",
+			"content": [
+				"Deep",
+				"U-Autorec"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 56,
+			"tex": "-",
+			"content": [
+				"-"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 16,
+			"tex": "$0.671$",
+			"content": [
+				"0.671"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 14,
+			"tex": "U-CF-NADE-S",
+			"content": [
+				"U-CF-NADE-S"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 42,
+			"tex": "$0.841$",
+			"content": [
+				"0.841"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 37,
+			"tex": "-",
+			"content": [
+				"-"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 20,
+			"tex": "-",
+			"content": [
+				"-"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 65,
+			"tex": "$0.685$",
+			"content": [
+				"0.685"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 60,
+			"tex": "$0.850$",
+			"content": [
+				"0.850"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "-",
+			"content": [
+				"-"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 52,
+			"tex": "$0.702$",
+			"content": [
+				"0.702"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 25,
+			"tex": "$\\textbf{0.651}$",
+			"content": [
+				"0.651"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 59,
+			"tex": "NMC-S",
+			"content": [
+				"NMC-S"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 34,
+			"tex": "$0.722$",
+			"content": [
+				"0.722"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 32,
+			"tex": "U-Autorec",
+			"content": [
+				"U-Autorec"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 63,
+			"tex": "$\\textbf{0.699}$",
+			"content": [
+				"0.699"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 15,
+			"tex": "$0.855$",
+			"content": [
+				"0.855"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 26,
+			"tex": "-",
+			"content": [
+				"-"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 46,
+			"tex": "$\\textbf{0.856}$",
+			"content": [
+				"0.856"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 62,
+			"tex": "$\\textbf{0.883}$",
+			"content": [
+				"0.883"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 19,
+			"tex": "-",
+			"content": [
+				"-"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 29,
+			"tex": "-",
+			"content": [
+				"-"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 48,
+			"tex": "-",
+			"content": [
+				"-"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 13,
+			"tex": "MAE",
+			"content": [
+				"MAE"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 8,
+			"end_col": 8
+		},
+		{
+			"id": 53,
+			"tex": "$0.969$",
+			"content": [
+				"0.969"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 61,
+			"tex": "$0.675$",
+			"content": [
+				"0.675"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 23,
+			"tex": "I-CF-NADE-S",
+			"content": [
+				"I-CF-NADE-S"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "RMSE",
+			"content": [
+				"RMSE"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 43,
+			"tex": "$0.662$",
+			"content": [
+				"0.662"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 36,
+			"tex": "$0.781$",
+			"content": [
+				"0.781"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 22,
+			"tex": "-",
+			"content": [
+				"-"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 8,
+			"end_col": 8
+		},
+		{
+			"id": 33,
+			"tex": "$0.906$",
+			"content": [
+				"0.906"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "-",
+			"content": [
+				"-"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 4,
+			"end_col": 4
+		}
+	]
+}

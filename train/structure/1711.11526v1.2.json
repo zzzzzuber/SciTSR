@@ -1,0 +1,472 @@
+{
+	"cells": [
+		{
+			"id": 5,
+			"tex": "Single-epoch + redshift",
+			"content": [
+				"Single-epoch",
+				"+",
+				"redshift"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "Synthetic",
+			"content": [
+				"Synthetic"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 34,
+			"tex": "\\textbf{Synthetic}",
+			"content": [
+				"Synthetic"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 8,
+			"tex": "Single-epoch, w/o redshift",
+			"content": [
+				"Single-epoch,",
+				"w/o",
+				"redshift"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 24,
+			"tex": "0.97",
+			"content": [
+				"0.97"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 13,
+			"tex": "accuracy$\\ll 0.9$",
+			"content": [
+				"accuracy(cid:28)",
+				"0.9"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 31,
+			"tex": "0.981",
+			"content": [
+				"0.981"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 15,
+			"tex": "Multi-epoch (4-40) + redshift",
+			"content": [
+				"Multi-epoch",
+				"(4-40)",
+				"+",
+				"redshift"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "Lochner2016 ",
+			"content": [
+				"Lochner2016"
+			],
+			"start_row": 4,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "Poznanski2007 ",
+			"content": [
+				"Poznanski2007"
+			],
+			"start_row": 1,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 28,
+			"tex": "0.981",
+			"content": [
+				"0.981"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 30,
+			"tex": "SNPCC (synthetic)",
+			"content": [
+				"SNPCC",
+				"(synthetic)"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 33,
+			"tex": "\\textbf{Single-epoch, w/o redshift}",
+			"content": [
+				"Single-epoch,",
+				"w/o",
+				"redshift"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 32,
+			"tex": "\\textbf{Proposed}",
+			"content": [
+				"Proposed"
+			],
+			"start_row": 9,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "SNLS3 (synthetic)",
+			"content": [
+				"SNLS3",
+				"(synthetic)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 17,
+			"tex": "0.984",
+			"content": [
+				"0.984"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 25,
+			"tex": "Charnock2016 ",
+			"content": [
+				"Charnock2016"
+			],
+			"start_row": 7,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "SNPCC (synthetic)",
+			"content": [
+				"SNPCC",
+				"(synthetic)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 35,
+			"tex": "\\textbf{0.958}",
+			"content": [
+				"0.958"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 36,
+			"tex": "\\textbf{Multi-epoch (4), w/o redshift}",
+			"content": [
+				"Multi-epoch",
+				"(4),",
+				"w/o",
+				"redshift"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "SNPCC (synthetic)",
+			"content": [
+				"SNPCC",
+				"(synthetic)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 37,
+			"tex": "\\textbf{Synthetic}",
+			"content": [
+				"Synthetic"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 38,
+			"tex": "\\textbf{0.995}",
+			"content": [
+				"0.995"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 26,
+			"tex": "Multi-epoch (4-40) + redshift",
+			"content": [
+				"Multi-epoch",
+				"(4-40)",
+				"+",
+				"redshift"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "Moller2016",
+			"content": [
+				"Moller2016"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "Dataset",
+			"content": [
+				"Dataset"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 11,
+			"tex": "Single-epoch + redshift",
+			"content": [
+				"Single-epoch",
+				"+",
+				"redshift"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "accuracy$=0.97$",
+			"content": [
+				"accuracy=",
+				"0.97"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 18,
+			"tex": "Multi-epoch (4-40), w/o redshift",
+			"content": [
+				"Multi-epoch",
+				"(4-40),",
+				"w/o",
+				"redshift"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "0.976",
+			"content": [
+				"0.976"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 6,
+			"tex": "SNLS (partly real)",
+			"content": [
+				"SNLS",
+				"(partly",
+				"real)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 1,
+			"tex": "Features",
+			"content": [
+				"Features"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "SNPCC (synthetic)",
+			"content": [
+				"SNPCC",
+				"(synthetic)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 0,
+			"tex": "Method",
+			"content": [
+				"Method"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "SNLS (partly real)",
+			"content": [
+				"SNLS",
+				"(partly",
+				"real)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 3,
+			"tex": "AUC",
+			"content": [
+				"AUC"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 10,
+			"tex": "accuracy$=0.60$",
+			"content": [
+				"accuracy=",
+				"0.60"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 22,
+			"tex": "Multi-epoch (not disclosed) + redshift",
+			"content": [
+				"Multi-epoch",
+				"(not",
+				"disclosed)",
+				"+",
+				"redshift"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 29,
+			"tex": "Multi-epoch (4-40), w/o redshift",
+			"content": [
+				"Multi-epoch",
+				"(4-40),",
+				"w/o",
+				"redshift"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

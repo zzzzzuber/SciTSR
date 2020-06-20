@@ -1,0 +1,1094 @@
+{
+	"cells": [
+		{
+			"id": 89,
+			"tex": "-",
+			"content": [
+				"-"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 9,
+			"end_col": 9
+		},
+		{
+			"id": 90,
+			"tex": "{AMANDA}",
+			"content": [
+				"AMANDA"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 91,
+			"tex": "\\textbf{46.68}",
+			"content": [
+				"46.68"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 92,
+			"tex": "\\textbf{53.27}",
+			"content": [
+				"53.27"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 93,
+			"tex": "\\textbf{46.58}",
+			"content": [
+				"46.58"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 94,
+			"tex": "\\textbf{53.13}",
+			"content": [
+				"53.13"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 95,
+			"tex": "\\textbf{60.31}",
+			"content": [
+				"60.31"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 96,
+			"tex": "\\textbf{64.90}",
+			"content": [
+				"64.90"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 97,
+			"tex": "\\textbf{55.14}",
+			"content": [
+				"55.14"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 8,
+			"end_col": 8
+		},
+		{
+			"id": 98,
+			"tex": "\\textbf{62.88}",
+			"content": [
+				"62.88"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 9,
+			"end_col": 9
+		},
+		{
+			"id": 3,
+			"tex": "\\textbf{Verified}",
+			"content": [
+				"Veri\ufb01ed"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 6,
+			"end_col": 9
+		},
+		{
+			"id": 2,
+			"tex": "\\textbf{Distant Supervision}",
+			"content": [
+				"Distant",
+				"Supervision"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 5
+		},
+		{
+			"id": 1,
+			"tex": "\\textbf{Domain}",
+			"content": [
+				"Domain"
+			],
+			"start_row": 0,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "\\textbf{Model}",
+			"content": [
+				"Model"
+			],
+			"start_row": 0,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "\\textbf{Dev}",
+			"content": [
+				"Dev"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 3
+		},
+		{
+			"id": 5,
+			"tex": "\\textbf{Test}",
+			"content": [
+				"Test"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 4,
+			"end_col": 5
+		},
+		{
+			"id": 6,
+			"tex": "\\textbf{Dev}",
+			"content": [
+				"Dev"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 6,
+			"end_col": 7
+		},
+		{
+			"id": 7,
+			"tex": "\\textbf{Test}",
+			"content": [
+				"Test"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 8,
+			"end_col": 9
+		},
+		{
+			"id": 8,
+			"tex": "\\textbf{EM}",
+			"content": [
+				"EM"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 9,
+			"tex": "\\textbf{F1}",
+			"content": [
+				"F1"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 10,
+			"tex": "\\textbf{EM}",
+			"content": [
+				"EM"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 11,
+			"tex": "\\textbf{F1}",
+			"content": [
+				"F1"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 12,
+			"tex": "\\textbf{EM}",
+			"content": [
+				"EM"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 13,
+			"tex": "\\textbf{F1}",
+			"content": [
+				"F1"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 14,
+			"tex": "\\textbf{EM}",
+			"content": [
+				"EM"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 8,
+			"end_col": 8
+		},
+		{
+			"id": 15,
+			"tex": "\\textbf{F1}",
+			"content": [
+				"F1"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 9,
+			"end_col": 9
+		},
+		{
+			"id": 16,
+			"tex": "$^\\ddagger$Random",
+			"content": [
+				"\u2021Random"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "Wiki",
+			"content": [
+				"Wiki"
+			],
+			"start_row": 3,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "12.72",
+			"content": [
+				"12.72"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 19,
+			"tex": "22.91",
+			"content": [
+				"22.91"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 20,
+			"tex": "12.74",
+			"content": [
+				"12.74"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 21,
+			"tex": "22.35",
+			"content": [
+				"22.35"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 22,
+			"tex": "14.81",
+			"content": [
+				"14.81"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 23,
+			"tex": "23.31",
+			"content": [
+				"23.31"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 25,
+			"tex": "25.44",
+			"content": [
+				"25.44"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 9,
+			"end_col": 9
+		},
+		{
+			"id": 48,
+			"tex": "-",
+			"content": [
+				"-"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 70,
+			"tex": "30.17",
+			"content": [
+				"30.17"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 8,
+			"end_col": 8
+		},
+		{
+			"id": 74,
+			"tex": "47.40",
+			"content": [
+				"47.40"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 52,
+			"tex": "-",
+			"content": [
+				"-"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 9,
+			"end_col": 9
+		},
+		{
+			"id": 50,
+			"tex": "55.83",
+			"content": [
+				"55.83"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 83,
+			"tex": "48.34",
+			"content": [
+				"48.34"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 39,
+			"tex": "45.91",
+			"content": [
+				"45.91"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 81,
+			"tex": "$^\\star$MEMEN",
+			"content": [
+				"(cid:63)MEMEN"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 76,
+			"tex": "47.05",
+			"content": [
+				"47.05"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 79,
+			"tex": "49.54",
+			"content": [
+				"49.54"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 8,
+			"end_col": 8
+		},
+		{
+			"id": 49,
+			"tex": "49.28",
+			"content": [
+				"49.28"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 41,
+			"tex": "53.70",
+			"content": [
+				"53.70"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 24,
+			"tex": "15.41",
+			"content": [
+				"15.41"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 8,
+			"end_col": 8
+		},
+		{
+			"id": 45,
+			"tex": "43.16",
+			"content": [
+				"43.16"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 72,
+			"tex": "$^\\ddagger$BiDAF",
+			"content": [
+				"\u2021BiDAF"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 53,
+			"tex": "{AMANDA}",
+			"content": [
+				"AMANDA"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 43,
+			"tex": "50.71",
+			"content": [
+				"50.71"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 9,
+			"end_col": 9
+		},
+		{
+			"id": 61,
+			"tex": "\\textbf{55.93}",
+			"content": [
+				"55.93"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 9,
+			"end_col": 9
+		},
+		{
+			"id": 68,
+			"tex": "27.38",
+			"content": [
+				"27.38"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 47,
+			"tex": "-",
+			"content": [
+				"-"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 73,
+			"tex": "41.08",
+			"content": [
+				"41.08"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 67,
+			"tex": "28.38",
+			"content": [
+				"28.38"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 75,
+			"tex": "40.74",
+			"content": [
+				"40.74"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 77,
+			"tex": "51.38",
+			"content": [
+				"51.38"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 80,
+			"tex": "55.80",
+			"content": [
+				"55.80"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 9,
+			"end_col": 9
+		},
+		{
+			"id": 46,
+			"tex": "46.90",
+			"content": [
+				"46.90"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 38,
+			"tex": "40.32",
+			"content": [
+				"40.32"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 36,
+			"tex": "40.26",
+			"content": [
+				"40.26"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 42,
+			"tex": "44.86",
+			"content": [
+				"44.86"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 8,
+			"end_col": 8
+		},
+		{
+			"id": 69,
+			"tex": "31.91",
+			"content": [
+				"31.91"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 58,
+			"tex": "\\textbf{52.86}",
+			"content": [
+				"52.86"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 37,
+			"tex": "45.74",
+			"content": [
+				"45.74"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 82,
+			"tex": "44.25",
+			"content": [
+				"44.25"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 88,
+			"tex": "-",
+			"content": [
+				"-"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 8,
+			"end_col": 8
+		},
+		{
+			"id": 65,
+			"tex": "29.08",
+			"content": [
+				"29.08"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 26,
+			"tex": "$^\\ddagger$Classifier",
+			"content": [
+				"\u2021Classi\ufb01er"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 29,
+			"tex": "22.45",
+			"content": [
+				"22.45"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 59,
+			"tex": "\\textbf{58.74}",
+			"content": [
+				"58.74"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 28,
+			"tex": "27.68",
+			"content": [
+				"27.68"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 33,
+			"tex": "27.23",
+			"content": [
+				"27.23"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 8,
+			"end_col": 8
+		},
+		{
+			"id": 34,
+			"tex": "31.37",
+			"content": [
+				"31.37"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 9,
+			"end_col": 9
+		},
+		{
+			"id": 64,
+			"tex": "24.64",
+			"content": [
+				"24.64"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 66,
+			"tex": "24.00",
+			"content": [
+				"24.00"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 56,
+			"tex": "\\textbf{46.67}",
+			"content": [
+				"46.67"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 54,
+			"tex": "\\textbf{46.95}",
+			"content": [
+				"46.95"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 85,
+			"tex": "-",
+			"content": [
+				"-"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 60,
+			"tex": "\\textbf{50.51}",
+			"content": [
+				"50.51"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 8,
+			"end_col": 8
+		},
+		{
+			"id": 84,
+			"tex": "-",
+			"content": [
+				"-"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 62,
+			"tex": "$^\\ddagger$Classifier",
+			"content": [
+				"\u2021Classi\ufb01er"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 63,
+			"tex": "Web",
+			"content": [
+				"Web"
+			],
+			"start_row": 8,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 86,
+			"tex": "53.27",
+			"content": [
+				"53.27"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 87,
+			"tex": "57.64",
+			"content": [
+				"57.64"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 71,
+			"tex": "34.67",
+			"content": [
+				"34.67"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 9,
+			"end_col": 9
+		},
+		{
+			"id": 27,
+			"tex": "23.42",
+			"content": [
+				"23.42"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 78,
+			"tex": "55.47",
+			"content": [
+				"55.47"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 35,
+			"tex": "$^\\ddagger$BiDAF",
+			"content": [
+				"\u2021BiDAF"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 32,
+			"tex": "29.43",
+			"content": [
+				"29.43"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 51,
+			"tex": "-",
+			"content": [
+				"-"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 8,
+			"end_col": 8
+		},
+		{
+			"id": 55,
+			"tex": "\\textbf{52.51}",
+			"content": [
+				"52.51"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 30,
+			"tex": "26.52",
+			"content": [
+				"26.52"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 40,
+			"tex": "47.47",
+			"content": [
+				"47.47"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 57,
+			"tex": "\\textbf{52.22}",
+			"content": [
+				"52.22"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 44,
+			"tex": "$^\\star$MEMEN",
+			"content": [
+				"(cid:63)MEMEN"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 31,
+			"tex": "24.91",
+			"content": [
+				"24.91"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 6,
+			"end_col": 6
+		}
+	]
+}

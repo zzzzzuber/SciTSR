@@ -1,0 +1,261 @@
+{
+	"cells": [
+		{
+			"id": 4,
+			"tex": "the number of workers $n$",
+			"content": [
+				"the",
+				"number",
+				"of",
+				"workers",
+				"n"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "the task budget range $[B^-, B^+]$",
+			"content": [
+				"the",
+				"task",
+				"budget",
+				"range",
+				"[B\u2212,",
+				"B+]"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "1K, 2K, \\textbf{5K}, 8K, 10K",
+			"content": [
+				"1K,",
+				"2K,",
+				"5K,",
+				"8K,",
+				"10K"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "the moving distance range $[d^-, d^+]$",
+			"content": [
+				"the",
+				"moving",
+				"distance",
+				"range",
+				"[d\u2212,",
+				"d+]"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "[1, 5], \\textbf{[5, 10]}, [10, 15], [15, 20], [20, 25]",
+			"content": [
+				"[1,",
+				"5],",
+				"[5,",
+				"10],",
+				"[10,",
+				"15],",
+				"[15,",
+				"20],",
+				"[20,",
+				"25]"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "1K, 2K, \\textbf{5K}, 8K, 10K",
+			"content": [
+				"1K,",
+				"2K,",
+				"5K,",
+				"8K,",
+				"10K"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "the unit price w.r.t. distance $[C^-, C^+]$",
+			"content": [
+				"the",
+				"unit",
+				"price",
+				"w.r.t.",
+				"distance",
+				"[C\u2212,",
+				"C",
+				"+]"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "[0.1, 0.2], \\textbf{[0.2, 0.3]}, [0.3, 0.4], [0.4, 0.5]",
+			"content": [
+				"[0.1,",
+				"0.2],",
+				"[0.2,",
+				"0.3],",
+				"[0.3,",
+				"0.4],",
+				"[0.4,",
+				"0.5]"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "[10, 20], \\textbf{[20, 30]}, [30, 40], [40, 50]",
+			"content": [
+				"[10,",
+				"20],",
+				"[20,",
+				"30],",
+				"[30,",
+				"40],",
+				"[40,",
+				"50]"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "[0.1, 0.2], [0.2, 0.3], \\textbf{[0.3, 0.4]}, [0.4, 0.5]",
+			"content": [
+				"[0.1,",
+				"0.2],",
+				"[0.2,",
+				"0.3],",
+				"[0.3,",
+				"0.4],",
+				"[0.4,",
+				"0.5]"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "the number of tasks $m$",
+			"content": [
+				"the",
+				"number",
+				"of",
+				"tasks",
+				"m"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "{\\bf \\qquad \\qquad \\qquad Values}",
+			"content": [
+				"Values"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "the velocity range $[v^-, v^+]$",
+			"content": [
+				"the",
+				"velocity",
+				"range",
+				"[v\u2212,",
+				"v+]"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "[0.25, 0.5], [0.5, 1], \\textbf{[1, 2]}, [2, 3], [3, 4]",
+			"content": [
+				"[0.25,",
+				"0.5],",
+				"[0.5,",
+				"1],",
+				"[1,",
+				"2],",
+				"[2,",
+				"3],",
+				"[3,",
+				"4]"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "the expiration time range $[rt^-, rt^+]$",
+			"content": [
+				"the",
+				"expiration",
+				"time",
+				"range",
+				"[rt\u2212,",
+				"rt+]"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "{\\bf \\qquad \\qquad \\quad Parameters}",
+			"content": [
+				"Parameters"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

@@ -1,0 +1,262 @@
+{
+	"cells": [
+		{
+			"id": 7,
+			"tex": "$12 \\times 12 \\times 32$",
+			"content": [
+				"12",
+				"\u00d7",
+				"12",
+				"\u00d7",
+				"32"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "Max-pool, 2x2",
+			"content": [
+				"Max-pool,",
+				"2x2"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "$10$",
+			"content": [
+				"10"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "Max-pool, 2x2",
+			"content": [
+				"Max-pool,",
+				"2x2"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "$256$",
+			"content": [
+				"256"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "Conv $3 \\times 3 \\times 64$, batch norm",
+			"content": [
+				"Conv",
+				"3",
+				"\u00d7",
+				"3",
+				"\u00d7",
+				"64,",
+				"batch",
+				"norm"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "Description",
+			"content": [
+				"Description"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "$10 \\times 10 \\times 64$",
+			"content": [
+				"10",
+				"\u00d7",
+				"10",
+				"\u00d7",
+				"64"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "Shape",
+			"content": [
+				"Shape"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "$28 \\times 28 \\times 1$",
+			"content": [
+				"28",
+				"\u00d7",
+				"28",
+				"\u00d7",
+				"1"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "$4 \\times 4 \\times 64$",
+			"content": [
+				"4",
+				"\u00d7",
+				"4",
+				"\u00d7",
+				"64"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "$24 \\times 24 \\times 32$",
+			"content": [
+				"24",
+				"\u00d7",
+				"24",
+				"\u00d7",
+				"32"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "Conv $5 \\times 5 \\times 32$, batch norm",
+			"content": [
+				"Conv",
+				"5",
+				"\u00d7",
+				"5",
+				"\u00d7",
+				"32,",
+				"batch",
+				"norm"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "$28 \\times 28$ Mono image",
+			"content": [
+				"28",
+				"\u00d7",
+				"28",
+				"Mono",
+				"image"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "Dropout, 50\\\nFully connected, 256 units",
+			"content": [
+				"Dropout,",
+				"50",
+				"Fully",
+				"connected,",
+				"256",
+				"units"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "$8 \\times 8 \\times 64$",
+			"content": [
+				"8",
+				"\u00d7",
+				"8",
+				"\u00d7",
+				"64"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "Conv $3 \\times 3 \\times 64$, batch norm",
+			"content": [
+				"Conv",
+				"3",
+				"\u00d7",
+				"3",
+				"\u00d7",
+				"64,",
+				"batch",
+				"norm"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "Fully connected, 10 units, softmax",
+			"content": [
+				"Fully",
+				"connected,",
+				"10",
+				"units,",
+				"softmax"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

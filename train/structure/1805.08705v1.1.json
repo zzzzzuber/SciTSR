@@ -1,0 +1,1700 @@
+{
+	"cells": [
+		{
+			"id": 111,
+			"tex": "VGG-16",
+			"content": [
+				"VGG-16"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 112,
+			"tex": "\\textbf{0.845}",
+			"content": [
+				"0.845"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 113,
+			"tex": "0.856",
+			"content": [
+				"0.856"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 114,
+			"tex": "0.863",
+			"content": [
+				"0.863"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 115,
+			"tex": "0.865",
+			"content": [
+				"0.865"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 116,
+			"tex": "CNNBH*",
+			"content": [
+				"CNNBH*"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 117,
+			"tex": "VGG-16",
+			"content": [
+				"VGG-16"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 118,
+			"tex": "0.833",
+			"content": [
+				"0.833"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 119,
+			"tex": "0.847",
+			"content": [
+				"0.847"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 120,
+			"tex": "0.855",
+			"content": [
+				"0.855"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 121,
+			"tex": "0.855",
+			"content": [
+				"0.855"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 122,
+			"tex": "\\textbf{SCDH(Ours)}",
+			"content": [
+				"SCDH(Ours)"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 123,
+			"tex": "VGG-16",
+			"content": [
+				"VGG-16"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 124,
+			"tex": "0.841",
+			"content": [
+				"0.841"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 125,
+			"tex": "\\textbf{0.860}",
+			"content": [
+				"0.860"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 126,
+			"tex": "\\textbf{0.865}",
+			"content": [
+				"0.865"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 127,
+			"tex": "\\textbf{0.870}",
+			"content": [
+				"0.870"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 128,
+			"tex": "Fine-tuning from ResNet-50 Net",
+			"content": [
+				"Fine-tuning",
+				"from",
+				"ResNet-50",
+				"Net"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 0,
+			"end_col": 5
+		},
+		{
+			"id": 129,
+			"tex": "DSH*",
+			"content": [
+				"DSH*"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 130,
+			"tex": "ResNet-50",
+			"content": [
+				"ResNet-50"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 131,
+			"tex": "0.886",
+			"content": [
+				"0.886"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 132,
+			"tex": "0.900",
+			"content": [
+				"0.900"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 133,
+			"tex": "0.896",
+			"content": [
+				"0.896"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 134,
+			"tex": "0.895",
+			"content": [
+				"0.895"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 135,
+			"tex": "CNNBH*",
+			"content": [
+				"CNNBH*"
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 136,
+			"tex": "ResNet-50",
+			"content": [
+				"ResNet-50"
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 137,
+			"tex": "\\textbf{0.895}",
+			"content": [
+				"0.895"
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 138,
+			"tex": "0.902",
+			"content": [
+				"0.902"
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 0,
+			"tex": "",
+			"content": [],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 139,
+			"tex": "0.910",
+			"content": [
+				"0.910"
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 140,
+			"tex": "0.905",
+			"content": [
+				"0.905"
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 1,
+			"tex": "",
+			"content": [],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 141,
+			"tex": "SSDH*",
+			"content": [
+				"SSDH*"
+			],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "MAP",
+			"content": [
+				"MAP"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 5
+		},
+		{
+			"id": 142,
+			"tex": "ResNet-50",
+			"content": [
+				"ResNet-50"
+			],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 143,
+			"tex": "0.894",
+			"content": [
+				"0.894"
+			],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 144,
+			"tex": "\\textbf{0.910}",
+			"content": [
+				"0.910"
+			],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 3,
+			"tex": "Method",
+			"content": [
+				"Method"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 145,
+			"tex": "0.911",
+			"content": [
+				"0.911"
+			],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 4,
+			"tex": "Net",
+			"content": [
+				"Net"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 146,
+			"tex": "0.915",
+			"content": [
+				"0.915"
+			],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 5,
+			"tex": "12 bits",
+			"content": [
+				"12",
+				"bits"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 147,
+			"tex": "\\textbf{SCDH(Ours)}",
+			"content": [
+				"SCDH(Ours)"
+			],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "24 bits",
+			"content": [
+				"24",
+				"bits"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 148,
+			"tex": "ResNet-50",
+			"content": [
+				"ResNet-50"
+			],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "32 bits",
+			"content": [
+				"32",
+				"bits"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 149,
+			"tex": "0.894",
+			"content": [
+				"0.894"
+			],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 8,
+			"tex": "48 bits",
+			"content": [
+				"48",
+				"bits"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 150,
+			"tex": "\\textbf{0.910}",
+			"content": [
+				"0.910"
+			],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 9,
+			"tex": "Fine-tuning from AlexNet or VGG-F Net",
+			"content": [
+				"Fine-tuning",
+				"from",
+				"AlexNet",
+				"or",
+				"VGG-F",
+				"Net"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 5
+		},
+		{
+			"id": 151,
+			"tex": "\\textbf{0.913}",
+			"content": [
+				"0.913"
+			],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 10,
+			"tex": "DHN~",
+			"content": [
+				"DHN"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 152,
+			"tex": "\\textbf{0.918}",
+			"content": [
+				"0.918"
+			],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 11,
+			"tex": "AlexNet",
+			"content": [
+				"AlexNet"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "0.555",
+			"content": [
+				"0.555"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 13,
+			"tex": "0.594",
+			"content": [
+				"0.594"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 14,
+			"tex": "0.603",
+			"content": [
+				"0.603"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 15,
+			"tex": "0.621",
+			"content": [
+				"0.621"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 16,
+			"tex": "DQN~",
+			"content": [
+				"DQN"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "AlexNet",
+			"content": [
+				"AlexNet"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "0.554",
+			"content": [
+				"0.554"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 19,
+			"tex": "0.558",
+			"content": [
+				"0.558"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 20,
+			"tex": "0.564",
+			"content": [
+				"0.564"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 21,
+			"tex": "0.580",
+			"content": [
+				"0.580"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 22,
+			"tex": "DPSH~",
+			"content": [
+				"DPSH"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "VGG-F",
+			"content": [
+				"VGG-F"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 24,
+			"tex": "0.682",
+			"content": [
+				"0.682"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 25,
+			"tex": "0.686",
+			"content": [
+				"0.686"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 26,
+			"tex": "0.725",
+			"content": [
+				"0.725"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 27,
+			"tex": "0.733",
+			"content": [
+				"0.733"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 28,
+			"tex": "DSH~*",
+			"content": [
+				"DSH",
+				"*"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 29,
+			"tex": "VGG-F",
+			"content": [
+				"VGG-F"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 30,
+			"tex": "0.604",
+			"content": [
+				"0.604"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 31,
+			"tex": "0.746",
+			"content": [
+				"0.746"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 32,
+			"tex": "0.781",
+			"content": [
+				"0.781"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 33,
+			"tex": "0.810",
+			"content": [
+				"0.810"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 34,
+			"tex": "DISH~",
+			"content": [
+				"DISH"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 35,
+			"tex": "AlexNet",
+			"content": [
+				"AlexNet"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 36,
+			"tex": "0.758",
+			"content": [
+				"0.758"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 37,
+			"tex": "0.784",
+			"content": [
+				"0.784"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 38,
+			"tex": "0.799",
+			"content": [
+				"0.799"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 39,
+			"tex": "0.791",
+			"content": [
+				"0.791"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 40,
+			"tex": "DSDH~",
+			"content": [
+				"DSDH"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 41,
+			"tex": "VGG-F",
+			"content": [
+				"VGG-F"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 42,
+			"tex": "0.740",
+			"content": [
+				"0.740"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 43,
+			"tex": "0.786",
+			"content": [
+				"0.786"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 44,
+			"tex": "0.801",
+			"content": [
+				"0.801"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 45,
+			"tex": "0.820",
+			"content": [
+				"0.820"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 46,
+			"tex": "CNNBH*",
+			"content": [
+				"CNNBH*"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 47,
+			"tex": "AlexNet",
+			"content": [
+				"AlexNet"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 48,
+			"tex": "0.794",
+			"content": [
+				"0.794"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 49,
+			"tex": "0.809",
+			"content": [
+				"0.809"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 50,
+			"tex": "0.808",
+			"content": [
+				"0.808"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 51,
+			"tex": "0.814",
+			"content": [
+				"0.814"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 52,
+			"tex": "SSDH*",
+			"content": [
+				"SSDH*"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 53,
+			"tex": "AlexNet",
+			"content": [
+				"AlexNet"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 54,
+			"tex": "0.789",
+			"content": [
+				"0.789"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 55,
+			"tex": "0.808",
+			"content": [
+				"0.808"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 56,
+			"tex": "0.813",
+			"content": [
+				"0.813"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 57,
+			"tex": "0.822",
+			"content": [
+				"0.822"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 58,
+			"tex": "Cls-LSH*",
+			"content": [
+				"Cls-LSH*"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 59,
+			"tex": "AlexNet",
+			"content": [
+				"AlexNet"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 60,
+			"tex": "0.749",
+			"content": [
+				"0.749"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 61,
+			"tex": "0.766",
+			"content": [
+				"0.766"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 62,
+			"tex": "0.778",
+			"content": [
+				"0.778"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 63,
+			"tex": "0.780",
+			"content": [
+				"0.780"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 64,
+			"tex": "Cls-onehot*",
+			"content": [
+				"Cls-onehot*"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 65,
+			"tex": "AlexNet",
+			"content": [
+				"AlexNet"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 66,
+			"tex": "0.715",
+			"content": [
+				"0.715"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 2,
+			"end_col": 5
+		},
+		{
+			"id": 67,
+			"tex": "\\textbf{SCDH(Ours)}",
+			"content": [
+				"SCDH(Ours)"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 68,
+			"tex": "AlexNet",
+			"content": [
+				"AlexNet"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 69,
+			"tex": "\\textbf{0.801}",
+			"content": [
+				"0.801"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 70,
+			"tex": "\\textbf{0.822}",
+			"content": [
+				"0.822"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 71,
+			"tex": "\\textbf{0.828}",
+			"content": [
+				"0.828"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 72,
+			"tex": "\\textbf{0.836}",
+			"content": [
+				"0.836"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 73,
+			"tex": "Fine-tuning from VGG-16 Net",
+			"content": [
+				"Fine-tuning",
+				"from",
+				"VGG-16",
+				"Net"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 5
+		},
+		{
+			"id": 74,
+			"tex": "NINH~*",
+			"content": [
+				"NINH",
+				"*"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 75,
+			"tex": "VGG-16",
+			"content": [
+				"VGG-16"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 76,
+			"tex": "N/A",
+			"content": [
+				"N/A"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 77,
+			"tex": "0.677",
+			"content": [
+				"0.677"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 78,
+			"tex": "0.688",
+			"content": [
+				"0.688"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 79,
+			"tex": "0.699",
+			"content": [
+				"0.699"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 80,
+			"tex": "FTDE~",
+			"content": [
+				"FTDE"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 81,
+			"tex": "VGG-16",
+			"content": [
+				"VGG-16"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 82,
+			"tex": "N/A",
+			"content": [
+				"N/A"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 83,
+			"tex": "0.760",
+			"content": [
+				"0.760"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 84,
+			"tex": "0.768",
+			"content": [
+				"0.768"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 85,
+			"tex": "0.769",
+			"content": [
+				"0.769"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 86,
+			"tex": "BOH~",
+			"content": [
+				"BOH"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 87,
+			"tex": "VGG-16",
+			"content": [
+				"VGG-16"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 88,
+			"tex": "0.620",
+			"content": [
+				"0.620"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 89,
+			"tex": "0.633",
+			"content": [
+				"0.633"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 90,
+			"tex": "0.644",
+			"content": [
+				"0.644"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 91,
+			"tex": "0.657",
+			"content": [
+				"0.657"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 92,
+			"tex": "DSH*",
+			"content": [
+				"DSH*"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 93,
+			"tex": "VGG-16",
+			"content": [
+				"VGG-16"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 94,
+			"tex": "0.818",
+			"content": [
+				"0.818"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 95,
+			"tex": "0.825",
+			"content": [
+				"0.825"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 96,
+			"tex": "0.847",
+			"content": [
+				"0.847"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 97,
+			"tex": "0.849",
+			"content": [
+				"0.849"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 98,
+			"tex": "DISH~",
+			"content": [
+				"DISH"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 99,
+			"tex": "VGG-16",
+			"content": [
+				"VGG-16"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 100,
+			"tex": "0.841",
+			"content": [
+				"0.841"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 101,
+			"tex": "0.854",
+			"content": [
+				"0.854"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 102,
+			"tex": "0.859",
+			"content": [
+				"0.859"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 103,
+			"tex": "0.857",
+			"content": [
+				"0.857"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 104,
+			"tex": "DRLIH~",
+			"content": [
+				"DRLIH"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 105,
+			"tex": "VGG-16",
+			"content": [
+				"VGG-16"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 106,
+			"tex": "0.816",
+			"content": [
+				"0.816"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 107,
+			"tex": "0.843",
+			"content": [
+				"0.843"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 108,
+			"tex": "0.855",
+			"content": [
+				"0.855"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 109,
+			"tex": "0.853",
+			"content": [
+				"0.853"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 110,
+			"tex": "SSDH*",
+			"content": [
+				"SSDH*"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

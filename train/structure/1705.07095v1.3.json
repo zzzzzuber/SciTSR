@@ -1,0 +1,633 @@
+{
+	"cells": [
+		{
+			"id": 1,
+			"tex": "$\\textit{FacultyEmeritus}(V1)$",
+			"content": [
+				"FacultyEmeritus(V",
+				"1)"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 31,
+			"tex": "$\\textit{TaughtBy}(V1,V2,V3)$",
+			"content": [
+				"TaughtBy(V",
+				"1,",
+				"V",
+				"2,",
+				"V",
+				"3)"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 33,
+			"tex": "$\\textit{PreQuals}(V1)$",
+			"content": [
+				"PreQuals(V",
+				"1)"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "$\\textit{Student}(V1)$",
+			"content": [
+				"Student(V",
+				"1)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 36,
+			"tex": "1.08275",
+			"content": [
+				"1.08275"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "$\\textit{TempAdvisedBy}(V1,V2)$",
+			"content": [
+				"TempAdvisedBy(V",
+				"1,",
+				"V",
+				"2)"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 41,
+			"tex": "$\\textit{PreQuals}(V1) \\vee \\textit{PostQuals}(V1) \\vee \\textit{ProjectMember}(V2,V1) \\vee \\neg \\textit{TempAdvisedBy}(V1,V3)$",
+			"content": [
+				"PreQuals(V",
+				"1)\u2228PostQuals(V",
+				"1)\u2228ProjectMember(V",
+				"2,",
+				"V",
+				"1)\u2228\u00acTempAdvisedBy(V",
+				"1,",
+				"V",
+				"3)"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 32,
+			"tex": "-4.69704",
+			"content": [
+				"-4.69704"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "$\\textit{Publication}(V1,V2)$",
+			"content": [
+				"Publication(V",
+				"1,",
+				"V",
+				"2)"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 39,
+			"tex": "$\\textit{Faculty}(V1) \\vee \\neg \\textit{TempAdvisedBy}(V2,V1) \\vee \\textit{FacultyAffiliate}(V1)$",
+			"content": [
+				"Faculty(V",
+				"1)",
+				"\u2228",
+				"\u00acTempAdvisedBy(V",
+				"2,",
+				"V",
+				"1)",
+				"\u2228",
+				"FacultyA\ufb03liate(V",
+				"1)"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 44,
+			"tex": "-12.0071",
+			"content": [
+				"-12.0071"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 29,
+			"tex": "$\\textit{Professor}(V1)$",
+			"content": [
+				"Professor(V",
+				"1)"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "-2.06003",
+			"content": [
+				"-2.06003"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 45,
+			"tex": "$\\neg \\textit{Student}(V1) \\vee \\textit{FacultyAdjunct}(V1) \\vee \\textit{Professor}(V1) \\vee \\textit{Faculty}(V1) \\vee \\textit{FacultyAffiliate}(V1)$",
+			"content": [
+				"\u00acStudent(V",
+				"1)\u2228FacultyAdjunct(V",
+				"1)\u2228Professor(V",
+				"1)\u2228Faculty(V",
+				"1)\u2228FacultyA\ufb03liate(V",
+				"1)"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "-5.10868",
+			"content": [
+				"-5.10868"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 38,
+			"tex": "6.07986",
+			"content": [
+				"6.07986"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "-0.0551981",
+			"content": [
+				"-0.0551981"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 40,
+			"tex": "2.48337",
+			"content": [
+				"2.48337"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 34,
+			"tex": "1.67999e-06",
+			"content": [
+				"1.67999e-06"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "$\\textit{AdvisedBy}(V1,V2)$",
+			"content": [
+				"AdvisedBy(V",
+				"1,",
+				"V",
+				"2)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "-4.12274",
+			"content": [
+				"-4.12274"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "0",
+			"content": [
+				"0"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "-4.44769",
+			"content": [
+				"-4.44769"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 30,
+			"tex": "-6.31879",
+			"content": [
+				"-6.31879"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 37,
+			"tex": "$\\neg \\textit{TaughtBy}(V1,V2,V3) \\vee \\neg \\textit{FacultyAdjunct}(V2) \\vee \\neg \\textit{Publication}(V4,V2)$",
+			"content": [
+				"\u00acTaughtBy(V",
+				"1,",
+				"V",
+				"2,",
+				"V",
+				"3)",
+				"\u2228",
+				"\u00acFacultyAdjunct(V",
+				"2)",
+				"\u2228",
+				"\u00acPublication(V",
+				"4,",
+				"V",
+				"2)"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "$\\textit{Faculty}(V1)$",
+			"content": [
+				"Faculty(V",
+				"1)"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "-3.18786",
+			"content": [
+				"-3.18786"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "-4.90068",
+			"content": [
+				"-4.90068"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "$\\textit{AdvisedBy}(V1,V1)$",
+			"content": [
+				"AdvisedBy(V",
+				"1,",
+				"V",
+				"1)"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "$\\textit{FacultyAdjunct}(V1)$",
+			"content": [
+				"FacultyAdjunct(V",
+				"1)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "-0.80596",
+			"content": [
+				"-0.80596"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "$\\textit{TempAdvisedBy}(V1,V1)$",
+			"content": [
+				"TempAdvisedBy(V",
+				"1,",
+				"V",
+				"1)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "-2.95067",
+			"content": [
+				"-2.95067"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 25,
+			"tex": "$\\textit{ProjectMember}(V1,V2)$",
+			"content": [
+				"ProjectMember(V",
+				"1,",
+				"V",
+				"2)"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "$\\textit{PostGenerals}(V1)$",
+			"content": [
+				"PostGenerals(V",
+				"1)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 28,
+			"tex": "5.10868",
+			"content": [
+				"5.10868"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "$\\textit{PostQuals}(V1)$",
+			"content": [
+				"PostQuals(V",
+				"1)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 47,
+			"tex": "$\\textit{PostQuals}(V1) \\vee \\textit{FacultyAdjunct}(V1) \\vee \\neg \\textit{Faculty}(V1) \\vee \\neg \\textit{AdvisedBy}(V2,V1) \\vee \\textit{FacultyAffiliate}(V1)$",
+			"content": [
+				"PostQuals(V",
+				"1)\u2228FacultyAdjunct(V",
+				"1)\u2228\u00acFaculty(V",
+				"1)\u2228\u00acAdvisedBy(V",
+				"2,",
+				"V",
+				"1)\u2228",
+				"FacultyA\ufb03liate(V",
+				"1)"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 42,
+			"tex": "9.33506",
+			"content": [
+				"9.33506"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 35,
+			"tex": "$\\neg \\textit{TaughtBy}(V1,V2,V3) \\vee \\neg \\textit{FacultyAdjunct}(V2) \\vee \\neg \\textit{TempAdvisedBy}(V2,V4)$",
+			"content": [
+				"\u00acTaughtBy(V",
+				"1,",
+				"V",
+				"2,",
+				"V",
+				"3)\u2228\u00acFacultyAdjunct(V",
+				"2)\u2228\u00acTempAdvisedBy(V",
+				"2,",
+				"V",
+				"4)"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "-6.56008",
+			"content": [
+				"-6.56008"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "$\\textit{ta}(V1,V2,V3)$",
+			"content": [
+				"ta(V",
+				"1,",
+				"V",
+				"2,",
+				"V",
+				"3)"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "-3.64133",
+			"content": [
+				"-3.64133"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "$\\textit{FacultyAffiliate}(V1)$",
+			"content": [
+				"FacultyA\ufb03liate(V",
+				"1)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "-0.0391718",
+			"content": [
+				"-0.0391718"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 46,
+			"tex": "-2.05975",
+			"content": [
+				"-2.05975"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 43,
+			"tex": "$\\textit{PreQuals}(V1) \\vee \\textit{PostQuals}(V1) \\vee \\neg \\textit{AdvisedBy}(V1,V2) \\vee \\textit{PostGenerals}(V1)$",
+			"content": [
+				"PreQuals(V",
+				"1)",
+				"\u2228",
+				"PostQuals(V",
+				"1)",
+				"\u2228",
+				"\u00acAdvisedBy(V",
+				"1,",
+				"V",
+				"2)",
+				"\u2228",
+				"PostGenerals(V",
+				"1)"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "-5.64478",
+			"content": [
+				"-5.64478"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

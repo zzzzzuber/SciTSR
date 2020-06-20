@@ -1,0 +1,420 @@
+{
+	"cells": [
+		{
+			"id": 26,
+			"tex": "$28$ KB",
+			"content": [
+				"28",
+				"KB"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 12,
+			"tex": "Pooled Buffers for Secondary Logs",
+			"content": [
+				"Pooled",
+				"Bu\ufb00ers",
+				"for",
+				"Secondary",
+				"Logs"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 25,
+			"tex": "$1$",
+			"content": [
+				"1"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "$1$",
+			"content": [
+				"1"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "Pooled Buffers for Recovery",
+			"content": [
+				"Pooled",
+				"Bu\ufb00ers",
+				"for",
+				"Recovery"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "$2$",
+			"content": [
+				"2"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 28,
+			"tex": "$1$",
+			"content": [
+				"1"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "$5$",
+			"content": [
+				"5"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "$128$ MB",
+			"content": [
+				"128",
+				"MB"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 2,
+			"tex": "Aggregated Memory Consumption",
+			"content": [
+				"Aggregated",
+				"Memory",
+				"Consumption"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 20,
+			"tex": "$8$ MB",
+			"content": [
+				"8",
+				"MB"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 9,
+			"tex": "Version Buffers",
+			"content": [
+				"Version",
+				"Bu\ufb00ers"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 32,
+			"tex": "$\\sim 45$ MB",
+			"content": [
+				"\u223c",
+				"45",
+				"MB"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 10,
+			"tex": "N",
+			"content": [
+				"N"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "Pooled Buffer for Reorganization",
+			"content": [
+				"Pooled",
+				"Bu\ufb00er",
+				"for",
+				"Reorganization"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "Range Sizes Hash Table",
+			"content": [
+				"Range",
+				"Sizes",
+				"Hash",
+				"Table"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 30,
+			"tex": "Version Hash Table for Reorganization",
+			"content": [
+				"Version",
+				"Hash",
+				"Table",
+				"for",
+				"Reorganization"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "Write Buffer",
+			"content": [
+				"Write",
+				"Bu\ufb00er"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "N$* 3$ MB",
+			"content": [
+				"N\u22173",
+				"MB"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 4,
+			"tex": "$1$",
+			"content": [
+				"1"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "$32$ MB",
+			"content": [
+				"32",
+				"MB"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 1,
+			"tex": "Quantity",
+			"content": [
+				"Quantity"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 27,
+			"tex": "Range Buffers Hash Table",
+			"content": [
+				"Range",
+				"Bu\ufb00ers",
+				"Hash",
+				"Table"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "$\\sim 50$ MB",
+			"content": [
+				"\u223c",
+				"50",
+				"MB"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 15,
+			"tex": "Pooled Read/Write Buffers for Version Logs",
+			"content": [
+				"Pooled",
+				"Read/Write",
+				"Bu\ufb00ers",
+				"for",
+				"Version",
+				"Logs"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 29,
+			"tex": "$44$ KB",
+			"content": [
+				"44",
+				"KB"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 6,
+			"tex": "Secondary Log Buffers",
+			"content": [
+				"Secondary",
+				"Log",
+				"Bu\ufb00ers"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "N$* 128$ KB",
+			"content": [
+				"N\u2217128",
+				"KB"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 13,
+			"tex": "$8*8$ MB$+32*1$ MB$+64*0.5$ MB",
+			"content": [
+				"8",
+				"\u2217",
+				"8",
+				"MB+32",
+				"\u2217",
+				"1",
+				"MB+64",
+				"\u2217",
+				"0.5",
+				"MB"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "Data Structure",
+			"content": [
+				"Data",
+				"Structure"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 31,
+			"tex": "$1$",
+			"content": [
+				"1"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "N",
+			"content": [
+				"N"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "$40$ MB",
+			"content": [
+				"40",
+				"MB"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		}
+	]
+}

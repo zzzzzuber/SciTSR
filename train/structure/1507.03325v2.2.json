@@ -1,0 +1,356 @@
+{
+	"cells": [
+		{
+			"id": 25,
+			"tex": "Masks out certain pixels that fall in a given ellipse",
+			"content": [
+				"Masks",
+				"out",
+				"certain",
+				"pixels",
+				"that",
+				"fall",
+				"in",
+				"a",
+				"given",
+				"ellipse"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 23,
+			"tex": "Converts from coefficient representations to ellipse axes and angles",
+			"content": [
+				"Converts",
+				"from",
+				"coe\ufb03cient",
+				"representations",
+				"to",
+				"ellipse",
+				"axes",
+				"and",
+				"angles"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 5,
+			"tex": "Builds background from an input image",
+			"content": [
+				"Builds",
+				"background",
+				"from",
+				"an",
+				"input",
+				"image"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 1,
+			"tex": "API",
+			"content": [
+				"API"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "ellipse\\_axes()",
+			"content": [
+				"ellipse",
+				"axes()"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "Returns the background as a 2D array",
+			"content": [
+				"Returns",
+				"the",
+				"background",
+				"as",
+				"a",
+				"2D",
+				"array"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 19,
+			"tex": "Ellipse",
+			"content": [
+				"Ellipse"
+			],
+			"start_row": 8,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "mask\\_ellipse()",
+			"content": [
+				"mask",
+				"ellipse()"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "backarray()",
+			"content": [
+				"backarray()"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "Explanation",
+			"content": [
+				"Explanation"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 12,
+			"tex": "Returns objects extracted from the input image",
+			"content": [
+				"Returns",
+				"objects",
+				"extracted",
+				"from",
+				"the",
+				"input",
+				"image"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 18,
+			"tex": "Calculate iron radius within an ellipse",
+			"content": [
+				"Calculate",
+				"iron",
+				"radius",
+				"within",
+				"an",
+				"ellipse"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 3,
+			"tex": "Background",
+			"content": [
+				"Background"
+			],
+			"start_row": 1,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "Group",
+			"content": [
+				"Group"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "Sums data in circular apertures",
+			"content": [
+				"Sums",
+				"data",
+				"in",
+				"circular",
+				"apertures"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 10,
+			"tex": "Extractor",
+			"content": [
+				"Extractor"
+			],
+			"start_row": 4,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "Subtracts a given background from image",
+			"content": [
+				"Subtracts",
+				"a",
+				"given",
+				"background",
+				"from",
+				"image"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 20,
+			"tex": "ellipse\\_coeffs()",
+			"content": [
+				"ellipse",
+				"coe\ufb00s()"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "sum\\_ellipse()",
+			"content": [
+				"sum",
+				"ellipse()"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "makeback()",
+			"content": [
+				"makeback()"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "subbackarray()",
+			"content": [
+				"subbackarray()"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "Sums data in elliptical apertures",
+			"content": [
+				"Sums",
+				"data",
+				"in",
+				"elliptical",
+				"apertures"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 17,
+			"tex": "kron\\_radius()",
+			"content": [
+				"kron",
+				"radius()"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "Converts from ellipse axes and angle to coefficient representations",
+			"content": [
+				"Converts",
+				"from",
+				"ellipse",
+				"axes",
+				"and",
+				"angle",
+				"to",
+				"coe\ufb03cient",
+				"representations"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 11,
+			"tex": "extract()",
+			"content": [
+				"extract()"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "sum\\_circle()",
+			"content": [
+				"sum",
+				"circle()"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

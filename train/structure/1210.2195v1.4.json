@@ -1,0 +1,171 @@
+{
+	"cells": [
+		{
+			"id": 11,
+			"tex": "print usage information",
+			"content": [
+				"print",
+				"usage",
+				"information"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "show counterexample if a test case fails",
+			"content": [
+				"show",
+				"counterexample",
+				"if",
+				"a",
+				"test",
+				"case",
+				"fails"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "show description of a test case if it fails",
+			"content": [
+				"show",
+				"description",
+				"of",
+				"a",
+				"test",
+				"case",
+				"if",
+				"it",
+				"fails"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "\\verb!-ce!",
+			"content": [
+				"-ce"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "\\verb!-d!",
+			"content": [
+				"-d"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "Option",
+			"content": [
+				"Option"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "Description",
+			"content": [
+				"Description"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "\\verb!-help!, \\verb!-h!",
+			"content": [
+				"-help,",
+				"-h"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "do not show counterexample if a test case fails",
+			"content": [
+				"do",
+				"not",
+				"show",
+				"counterexample",
+				"if",
+				"a",
+				"test",
+				"case",
+				"fails"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "\\verb!-D!",
+			"content": [
+				"-D"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "\\verb!-CE!",
+			"content": [
+				"-CE"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "do not show description of a test case if it fails",
+			"content": [
+				"do",
+				"not",
+				"show",
+				"description",
+				"of",
+				"a",
+				"test",
+				"case",
+				"if",
+				"it",
+				"fails"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

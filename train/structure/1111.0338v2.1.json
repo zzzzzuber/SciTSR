@@ -1,0 +1,328 @@
+{
+	"cells": [
+		{
+			"id": 5,
+			"tex": "Token Type: rating, unigram or digram",
+			"content": [
+				"Token",
+				"Type:",
+				"rating,",
+				"unigram",
+				"or",
+				"digram"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "R",
+			"content": [
+				"R"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "$SymD_{KLD\\_r}$",
+			"content": [
+				"SymDKLD",
+				"r"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "KLD",
+			"content": [
+				"KLD"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "LR",
+			"content": [
+				"LR"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "IR",
+			"content": [
+				"IR"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "NB",
+			"content": [
+				"NB"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "AR",
+			"content": [
+				"AR"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "$SymD_{KLD\\_r\\_c}$",
+			"content": [
+				"SymDKLD",
+				"r",
+				"c"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "$SymD_{KLD\\_l\\_r\\_c}$",
+			"content": [
+				"SymDKLD",
+				"l",
+				"r",
+				"c"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "symmetric KLD of rating and category tokens",
+			"content": [
+				"symmetric",
+				"KLD",
+				"of",
+				"rating",
+				"and",
+				"category",
+				"tokens"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "$SymD_{KLD}(IR,AR)$",
+			"content": [
+				"SymDKLD(IR,",
+				"AR)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "symmetric KLD distance between $IR$ and $AR$",
+			"content": [
+				"symmetric",
+				"KLD",
+				"distance",
+				"between",
+				"IR",
+				"and",
+				"AR"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "$SymD_{KLD\\_l}$",
+			"content": [
+				"SymDKLD",
+				"l"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "$SymD_{KLD\\_c}$",
+			"content": [
+				"SymDKLD",
+				"c"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "Identified Record (corresponding to a certain reviewer)",
+			"content": [
+				"Identi\ufb01ed",
+				"Record",
+				"(corresponding",
+				"to",
+				"a",
+				"certain",
+				"reviewer)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "Symmetrical Kullback-Leibler Divergence Model",
+			"content": [
+				"Symmetrical",
+				"Kullback-Leibler",
+				"Divergence",
+				"Model"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "symmetric KLD of lexical, rating and category tokens",
+			"content": [
+				"symmetric",
+				"KLD",
+				"of",
+				"lexical,",
+				"rating",
+				"and",
+				"category",
+				"tokens"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "Anonymous Record",
+			"content": [
+				"Anonymous",
+				"Record"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "Na\\\"ive Bayes Model",
+			"content": [
+				"Na\u00a8\u0131ve",
+				"Bayes",
+				"Model"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "symmetric KLD of rating tokens",
+			"content": [
+				"symmetric",
+				"KLD",
+				"of",
+				"rating",
+				"tokens"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "Linkability Ratio",
+			"content": [
+				"Linkability",
+				"Ratio"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "symmetric KLD of lexical(unigram or digram) tokens",
+			"content": [
+				"symmetric",
+				"KLD",
+				"of",
+				"lexical(unigram",
+				"or",
+				"digram)",
+				"tokens"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "symmetric KLD of category tokens",
+			"content": [
+				"symmetric",
+				"KLD",
+				"of",
+				"category",
+				"tokens"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

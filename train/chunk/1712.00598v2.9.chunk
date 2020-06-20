@@ -1,0 +1,398 @@
+{"chunks": [
+    {
+        "pos": [
+            139.74600219726562,
+            201.1404571533203,
+            540.7990112304688,
+            544.7840576171875
+        ],
+        "text": "Symbol/Abbrev."
+    },
+    {
+        "pos": [
+            213.09561157226562,
+            255.36900329589844,
+            540.7990112304688,
+            544.7840576171875
+        ],
+        "text": "Description"
+    },
+    {
+        "pos": [
+            160.15699768066406,
+            180.231689453125,
+            529.595947265625,
+            534.9210205078125
+        ],
+        "text": "λ cy,A"
+    },
+    {
+        "pos": [
+            213.09500122070312,
+            662.9402465820312,
+            530.9359741210938,
+            536.3795776367188
+        ],
+        "text": "weight for the cycle consistency loss between an original image from domain A and its reconstruction. (a − >fb − >ra)"
+    },
+    {
+        "pos": [
+            160.00607299804688,
+            180.09571838378906,
+            520.1319580078125,
+            525.4559936523438
+        ],
+        "text": "λ cy,B"
+    },
+    {
+        "pos": [
+            213.09507751464844,
+            663.0625610351562,
+            521.470947265625,
+            526.91455078125
+        ],
+        "text": "weight for the cycle consistency loss between an original image from domain B and its reconstruction. (b − >fa − >rb)"
+    },
+    {
+        "pos": [
+            158.87710571289062,
+            181.51319885253906,
+            510.6009521484375,
+            515.9920043945312
+        ],
+        "text": "λ p,afb"
+    },
+    {
+        "pos": [
+            213.09510803222656,
+            647.66650390625,
+            512.0069580078125,
+            515.9920043945312
+        ],
+        "text": "weight for the perceptual loss between an original image from domain A and its transformed fake image in domain B"
+    },
+    {
+        "pos": [
+            158.87710571289062,
+            181.51319885253906,
+            501.1359558105469,
+            506.5270080566406
+        ],
+        "text": "λ p,bfa"
+    },
+    {
+        "pos": [
+            213.09510803222656,
+            647.66650390625,
+            502.5419616699219,
+            506.5270080566406
+        ],
+        "text": "weight for the perceptual loss between an original image from domain B and its transformed fake image in domain A"
+    },
+    {
+        "pos": [
+            157.04710388183594,
+            183.3408966064453,
+            491.6719665527344,
+            497.0630187988281
+        ],
+        "text": "λ p,farb"
+    },
+    {
+        "pos": [
+            213.09510803222656,
+            657.7808227539062,
+            493.0779724121094,
+            497.0630187988281
+        ],
+        "text": "weight for the perceptual loss between a transformed fake image in domain B and the reconstructed image in domain A"
+    },
+    {
+        "pos": [
+            157.04710388183594,
+            183.3408966064453,
+            482.20697021484375,
+            487.5980224609375
+        ],
+        "text": "λ p,fbra"
+    },
+    {
+        "pos": [
+            213.09510803222656,
+            657.7808227539062,
+            483.61297607421875,
+            487.5980224609375
+        ],
+        "text": "weight for the perceptual loss between a transformed fake image in domain A and the reconstructed image in domain B"
+    },
+    {
+        "pos": [
+            157.1171112060547,
+            183.27401733398438,
+            472.74298095703125,
+            478.134033203125
+        ],
+        "text": "λ ep,afb"
+    },
+    {
+        "pos": [
+            213.09510803222656,
+            673.1295776367188,
+            474.14898681640625,
+            478.134033203125
+        ],
+        "text": "weight for the edge preservation loss between an original image from domain A and its transformed fake image in domain B"
+    },
+    {
+        "pos": [
+            157.1171112060547,
+            183.27401733398438,
+            463.2779846191406,
+            468.6690368652344
+        ],
+        "text": "λ ep,bfa"
+    },
+    {
+        "pos": [
+            213.09510803222656,
+            673.1295776367188,
+            464.6839904785156,
+            468.6690368652344
+        ],
+        "text": "weight for the edge preservation loss between an original image from domain B and its transformed fake image in domain A"
+    },
+    {
+        "pos": [
+            155.287109375,
+            185.10171508789062,
+            453.8139953613281,
+            459.2050476074219
+        ],
+        "text": "λ ep,farb"
+    },
+    {
+        "pos": [
+            213.09510803222656,
+            683.2437133789062,
+            455.2200012207031,
+            459.2050476074219
+        ],
+        "text": "weight for the edge preservation loss between a transformed fake image in domain B and the reconstructed image in domain A"
+    },
+    {
+        "pos": [
+            155.287109375,
+            185.10171508789062,
+            444.3489990234375,
+            449.74005126953125
+        ],
+        "text": "λ ep,farb"
+    },
+    {
+        "pos": [
+            213.09510803222656,
+            683.2437133789062,
+            445.7550048828125,
+            449.74005126953125
+        ],
+        "text": "weight for the edge preservation loss between a transformed fake image in domain A and the reconstructed image in domain B"
+    },
+    {
+        "pos": [
+            157.70510864257812,
+            182.68502807617188,
+            434.885009765625,
+            440.27606201171875
+        ],
+        "text": "λ ei,afb"
+    },
+    {
+        "pos": [
+            213.09510803222656,
+            673.7807006835938,
+            436.291015625,
+            440.27606201171875
+        ],
+        "text": "weight for the edge introduction loss between an original image from domain A and its transformed fake image in domain B"
+    },
+    {
+        "pos": [
+            157.70510864257812,
+            182.68502807617188,
+            425.4200134277344,
+            430.8110656738281
+        ],
+        "text": "λ ei,bfa"
+    },
+    {
+        "pos": [
+            213.09510803222656,
+            673.7807006835938,
+            426.8260192871094,
+            430.8110656738281
+        ],
+        "text": "weight for the edge introduction loss between an original image from domain B and its transformed fake image in domain A"
+    },
+    {
+        "pos": [
+            155.87510681152344,
+            184.51272583007812,
+            415.9560241699219,
+            421.3470764160156
+        ],
+        "text": "λ ei,farb"
+    },
+    {
+        "pos": [
+            213.09510803222656,
+            683.8948364257812,
+            417.3620300292969,
+            421.3470764160156
+        ],
+        "text": "weight for the edge introduction loss between a transformed fake image in domain B and the reconstructed image in domain A"
+    },
+    {
+        "pos": [
+            155.87510681152344,
+            184.51272583007812,
+            406.4920349121094,
+            411.882080078125
+        ],
+        "text": "λ ei,fbra"
+    },
+    {
+        "pos": [
+            213.09510803222656,
+            683.8948364257812,
+            407.89703369140625,
+            411.882080078125
+        ],
+        "text": "weight for the edge introduction loss between a transformed fake image in domain A and the reconstructed image in domain B"
+    },
+    {
+        "pos": [
+            153.19110107421875,
+            187.6944580078125,
+            398.43304443359375,
+            402.4180908203125
+        ],
+        "text": "Load size"
+    },
+    {
+        "pos": [
+            213.0951690673828,
+            342.6667175292969,
+            398.43304443359375,
+            402.4180908203125
+        ],
+        "text": "input images are scaled to this size"
+    },
+    {
+        "pos": [
+            153.2440948486328,
+            187.64065551757812,
+            388.9680480957031,
+            392.9530944824219
+        ],
+        "text": "Crop size"
+    },
+    {
+        "pos": [
+            213.09715270996094,
+            488.44427490234375,
+            388.9680480957031,
+            392.9530944824219
+        ],
+        "text": "the size of the random crop taken out of the resized image during training"
+    },
+    {
+        "pos": [
+            160.48609924316406,
+            179.7080535888672,
+            378.2890625,
+            383.4891052246094
+        ],
+        "text": "N iter"
+    },
+    {
+        "pos": [
+            213.0950927734375,
+            370.8226318359375,
+            379.5040588378906,
+            383.4891052246094
+        ],
+        "text": "Number of iterations at start learning rate"
+    },
+    {
+        "pos": [
+            150.17709350585938,
+            189.9990692138672,
+            368.6340637207031,
+            374.02410888671875
+        ],
+        "text": "N iter,decay"
+    },
+    {
+        "pos": [
+            213.0950927734375,
+            432.64837646484375,
+            370.0390625,
+            374.02410888671875
+        ],
+        "text": "Number of iterations to linearly decay learning rate to zero"
+    },
+    {
+        "pos": [
+            165.53509521484375,
+            175.115966796875,
+            360.5750732421875,
+            364.56011962890625
+        ],
+        "text": "Lr"
+    },
+    {
+        "pos": [
+            213.0950927734375,
+            321.31793212890625,
+            360.5750732421875,
+            364.56011962890625
+        ],
+        "text": "Initial learning rate for adam"
+    },
+    {
+        "pos": [
+            165.99209594726562,
+            174.39601135253906,
+            350.0030822753906,
+            355.0951232910156
+        ],
+        "text": "β 1"
+    },
+    {
+        "pos": [
+            213.09510803222656,
+            308.3633117675781,
+            351.1100769042969,
+            355.0951232910156
+        ],
+        "text": "Momentum term of adam"
+    },
+    {
+        "pos": [
+            154.13211059570312,
+            186.7529296875,
+            341.6460876464844,
+            345.6311340332031
+        ],
+        "text": "Pool size"
+    },
+    {
+        "pos": [
+            213.0941162109375,
+            530.7545776367188,
+            341.6460876464844,
+            345.6311340332031
+        ],
+        "text": "The size of image buﬀer that stores previously generated images for the discriminatorr"
+    }
+]}

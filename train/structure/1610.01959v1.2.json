@@ -1,0 +1,181 @@
+{
+	"cells": [
+		{
+			"id": 11,
+			"tex": "$\\mathcal O (ND \\mathrm{min} \\{ N,D\\} + N^2(K^4 + dK^2) + NdK^3)$",
+			"content": [
+				"O(N",
+				"Dmin{N,",
+				"D}",
+				"+",
+				"N",
+				"2(K",
+				"4",
+				"+",
+				"dK",
+				"2)",
+				"+",
+				"N",
+				"dK",
+				"3)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "$\\mathcal O(ND\\mathrm{min}\\{N,D \\} + NDK)$",
+			"content": [
+				"O(N",
+				"Dmin{N,",
+				"D}",
+				"+",
+				"N",
+				"DK)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "$\\mathbf Y$ and $ \\mathbf B^{(1)}$",
+			"content": [
+				"Y",
+				"and",
+				"B(1)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "Total",
+			"content": [
+				"Total"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "Computational Cost",
+			"content": [
+				"Computational",
+				"Cost"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "$\\mathcal O(dK^2 + N(K^3 + dK) )$",
+			"content": [
+				"O(dK",
+				"2",
+				"+",
+				"N",
+				"(K",
+				"3",
+				"+",
+				"dK))"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "$ \\mathcal O (N^2(K^4 + dK^2) NdK^3 )$",
+			"content": [
+				"O(N",
+				"2(K",
+				"4",
+				"+",
+				"dK",
+				"2)N",
+				"dK",
+				"3)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "$NK$ BF iterations",
+			"content": [
+				"N",
+				"K",
+				"BF",
+				"iterations"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "$\\mathbf Q_{\\mathrm{bf}}$ by $\\mathbf B_{\\mathrm{bf}}$",
+			"content": [
+				"Qbf",
+				"by",
+				"Bbf"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "$\\mathcal O(ND \\mathrm{min}\\{N,D \\})$",
+			"content": [
+				"O(N",
+				"Dmin{N,",
+				"D})"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "Computational Task",
+			"content": [
+				"Computational",
+				"Task"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "One bit flip",
+			"content": [
+				"One",
+				"bit",
+				"\ufb02ip"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

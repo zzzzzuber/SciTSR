@@ -1,0 +1,285 @@
+{
+	"cells": [
+		{
+			"id": 8,
+			"tex": "SSIM",
+			"content": [
+				"SSIM"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 7,
+			"tex": "L2",
+			"content": [
+				"L2"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 6,
+			"tex": "SSIM",
+			"content": [
+				"SSIM"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 4,
+			"tex": "$\\sigma=50$",
+			"content": [
+				"\u03c3",
+				"=",
+				"50"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 5,
+			"end_col": 6
+		},
+		{
+			"id": 5,
+			"tex": "L2",
+			"content": [
+				"L2"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "\\textbf{26.06}",
+			"content": [
+				"26.06"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 22,
+			"tex": "\\textbf{0.8219}",
+			"content": [
+				"0.8219"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 12,
+			"tex": "\\textbf{31.50}",
+			"content": [
+				"31.50"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 24,
+			"tex": "\\textbf{0.7113}",
+			"content": [
+				"0.7113"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 11,
+			"tex": "PSNR",
+			"content": [
+				"PSNR"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "25.80",
+			"content": [
+				"25.80"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 15,
+			"tex": "0.8201",
+			"content": [
+				"0.8201"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 14,
+			"tex": "\\textbf{29.01}",
+			"content": [
+				"29.01"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 3,
+			"tex": "$\\sigma=25$",
+			"content": [
+				"\u03c3",
+				"=",
+				"25"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 4
+		},
+		{
+			"id": 20,
+			"tex": "\\textbf{0.8864}",
+			"content": [
+				"0.8864"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 0,
+			"tex": "Inference",
+			"content": [
+				"Inference"
+			],
+			"start_row": 0,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "Training",
+			"content": [
+				"Training"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 6
+		},
+		{
+			"id": 9,
+			"tex": "L2",
+			"content": [
+				"L2"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 21,
+			"tex": "28.83",
+			"content": [
+				"28.83"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 10,
+			"tex": "SSIM",
+			"content": [
+				"SSIM"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 2,
+			"tex": "$\\sigma=15$",
+			"content": [
+				"\u03c3",
+				"=",
+				"15"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 2
+		},
+		{
+			"id": 17,
+			"tex": "0.7094",
+			"content": [
+				"0.7094"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 13,
+			"tex": "0.8852",
+			"content": [
+				"0.8852"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 19,
+			"tex": "31.31",
+			"content": [
+				"31.31"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "SSIM",
+			"content": [
+				"SSIM"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

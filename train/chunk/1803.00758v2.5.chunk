@@ -1,0 +1,191 @@
+{"chunks": [
+    {
+        "pos": [
+            142.23699951171875,
+            499.6077575683594,
+            564.260986328125,
+            569.2423095703125
+        ],
+        "text": "2D Convolutional (ﬁlters=64, kernel size=3, activation=\u201drelu\u201d, padding=\u201dsame\u201d)"
+    },
+    {
+        "pos": [
+            142.23699951171875,
+            499.6077575683594,
+            551.906982421875,
+            556.8883056640625
+        ],
+        "text": "2D Convolutional (ﬁlters=64, kernel size=3, activation=\u201crelu\u201d, padding=\u201csame\u201d)"
+    },
+    {
+        "pos": [
+            142.23699951171875,
+            499.6077575683594,
+            539.5540161132812,
+            544.5353393554688
+        ],
+        "text": "2D Convolutional (ﬁlters=64, kernel size=3, activation=\u201crelu\u201d, padding=\u201csame\u201d)"
+    },
+    {
+        "pos": [
+            219.88999938964844,
+            421.9547424316406,
+            527.2000122070312,
+            532.1813354492188
+        ],
+        "text": "Max Pooling (pool size=(2, 2), strides=(2, 2))"
+    },
+    {
+        "pos": [
+            139.74600219726562,
+            502.0987854003906,
+            514.8460083007812,
+            519.8273315429688
+        ],
+        "text": "2D Convolutional (ﬁlters=128, kernel size=3, activation=\u201crelu\u201d, padding=\u201csame\u201d)"
+    },
+    {
+        "pos": [
+            139.74600219726562,
+            502.0987854003906,
+            502.4930114746094,
+            507.47430419921875
+        ],
+        "text": "2D Convolutional (ﬁlters=128, kernel size=3, activation=\u201crelu\u201d, padding=\u201csame\u201d)"
+    },
+    {
+        "pos": [
+            139.74600219726562,
+            502.0987854003906,
+            490.1390075683594,
+            495.12030029296875
+        ],
+        "text": "2D Convolutional (ﬁlters=128, kernel size=3, activation=\u201crelu\u201d, padding=\u201csame\u201d)"
+    },
+    {
+        "pos": [
+            219.88999938964844,
+            421.9547424316406,
+            477.7850036621094,
+            482.76629638671875
+        ],
+        "text": "Max Pooling (pool size=(2, 2), strides=(2, 2))"
+    },
+    {
+        "pos": [
+            139.74600219726562,
+            502.0987854003906,
+            465.4320068359375,
+            470.4132995605469
+        ],
+        "text": "2D Convolutional (ﬁlters=256, kernel size=3, activation=\u201crelu\u201d, padding=\u201csame\u201d)"
+    },
+    {
+        "pos": [
+            139.74600219726562,
+            502.0987854003906,
+            453.0780029296875,
+            458.0592956542969
+        ],
+        "text": "2D Convolutional (ﬁlters=256, kernel size=3, activation=\u201crelu\u201d, padding=\u201csame\u201d)"
+    },
+    {
+        "pos": [
+            139.74600219726562,
+            502.0987854003906,
+            440.7239990234375,
+            445.7052917480469
+        ],
+        "text": "2D Convolutional (ﬁlters=256, kernel size=3, activation=\u201crelu\u201d, padding=\u201csame\u201d)"
+    },
+    {
+        "pos": [
+            219.88999938964844,
+            421.9547424316406,
+            428.3710021972656,
+            433.352294921875
+        ],
+        "text": "Max Pooling (pool size=(2, 2), strides=(2, 2))"
+    },
+    {
+        "pos": [
+            139.74600219726562,
+            502.0987854003906,
+            416.0169982910156,
+            420.998291015625
+        ],
+        "text": "2D Convolutional (ﬁlters=512, kernel size=3, activation=\u201crelu\u201d, padding=\u201csame\u201d)"
+    },
+    {
+        "pos": [
+            139.74600219726562,
+            502.0987854003906,
+            403.6629943847656,
+            408.644287109375
+        ],
+        "text": "2D Convolutional (ﬁlters=512, kernel size=3, activation=\u201crelu\u201d, padding=\u201csame\u201d)"
+    },
+    {
+        "pos": [
+            139.74600219726562,
+            502.0987854003906,
+            391.30999755859375,
+            396.2912902832031
+        ],
+        "text": "2D Convolutional (ﬁlters=512, kernel size=3, activation=\u201crelu\u201d, padding=\u201csame\u201d)"
+    },
+    {
+        "pos": [
+            219.88999938964844,
+            421.9547424316406,
+            378.95599365234375,
+            383.9372863769531
+        ],
+        "text": "Max Pooling (pool size=(2, 2), strides=(2, 2))"
+    },
+    {
+        "pos": [
+            250.79600524902344,
+            391.04736328125,
+            366.60198974609375,
+            371.5832824707031
+        ],
+        "text": "Dense (1024, activation=\u201crelu\u201d)"
+    },
+    {
+        "pos": [
+            292.3349914550781,
+            349.5133056640625,
+            354.2489929199219,
+            359.23028564453125
+        ],
+        "text": "Dropout(0.5)"
+    },
+    {
+        "pos": [
+            253.28700256347656,
+            388.55706787109375,
+            341.8949890136719,
+            346.87628173828125
+        ],
+        "text": "Dense (512, activation=\u201crelu\u201d)"
+    },
+    {
+        "pos": [
+            292.3349914550781,
+            349.5133056640625,
+            329.541015625,
+            334.5223083496094
+        ],
+        "text": "Dropout(0.5)"
+    },
+    {
+        "pos": [
+            260.3580017089844,
+            381.4862060546875,
+            317.18798828125,
+            322.1692810058594
+        ],
+        "text": "Dense (1, activation=None))"
+    }
+]}

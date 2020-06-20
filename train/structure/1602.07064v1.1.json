@@ -1,0 +1,270 @@
+{
+	"cells": [
+		{
+			"id": 9,
+			"tex": "brothers",
+			"content": [
+				"brothers"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "ID of the taxon",
+			"content": [
+				"ID",
+				"of",
+				"the",
+				"taxon"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 13,
+			"tex": "integer",
+			"content": [
+				"integer"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "brothersLeft",
+			"content": [
+				"brothersLeft"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "Number of brother taxons that are above this",
+			"content": [
+				"Number",
+				"of",
+				"brother",
+				"taxons",
+				"that",
+				"are",
+				"above",
+				"this"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 3,
+			"tex": "depth",
+			"content": [
+				"depth"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "\\textbf{Attribute}",
+			"content": [
+				"Attribute"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "Level of the current taxon (begins with 0)",
+			"content": [
+				"Level",
+				"of",
+				"the",
+				"current",
+				"taxon",
+				"(begins",
+				"with",
+				"0)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 16,
+			"tex": "integer",
+			"content": [
+				"integer"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "sameLevel",
+			"content": [
+				"sameLevel"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "Number of brothers of the current taxon",
+			"content": [
+				"Number",
+				"of",
+				"brothers",
+				"of",
+				"the",
+				"current",
+				"taxon"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 1,
+			"tex": "\\textbf{Type }",
+			"content": [
+				"Type"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "string",
+			"content": [
+				"string"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "integer",
+			"content": [
+				"integer"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "integer",
+			"content": [
+				"integer"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "Number of children of the current taxon",
+			"content": [
+				"Number",
+				"of",
+				"children",
+				"of",
+				"the",
+				"current",
+				"taxon"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 2,
+			"tex": "\\textbf{Description }",
+			"content": [
+				"Description"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 18,
+			"tex": "name",
+			"content": [
+				"name"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "integer",
+			"content": [
+				"integer"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "Number of taxons with the same depth",
+			"content": [
+				"Number",
+				"of",
+				"taxons",
+				"with",
+				"the",
+				"same",
+				"depth"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 6,
+			"tex": "children",
+			"content": [
+				"children"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

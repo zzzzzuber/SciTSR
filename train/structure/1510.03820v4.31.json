@@ -1,0 +1,563 @@
+{
+	"cells": [
+		{
+			"id": 5,
+			"tex": "\\bf max,all (1-max)",
+			"content": [
+				"max,all",
+				"(1-max)"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 42,
+			"tex": "MPQA",
+			"content": [
+				"MPQA"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "80.68 (80.14,81.21)",
+			"content": [
+				"80.68",
+				"(80.14,81.21)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 10,
+			"tex": "80.99 (80.65,81.30)",
+			"content": [
+				"80.99",
+				"(80.65,81.30)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 6,
+			"tex": "MR",
+			"content": [
+				"MR"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "SST-1",
+			"content": [
+				"SST-1"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "81.28 (81.16,81.54)",
+			"content": [
+				"81.28",
+				"(81.16,81.54)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 7,
+			"tex": "79.75 (79.47,80.03)",
+			"content": [
+				"79.75",
+				"(79.47,80.03)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 25,
+			"tex": "92.60 (92.28,92.76)",
+			"content": [
+				"92.60",
+				"(92.28,92.76)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 34,
+			"tex": "91.47 (91.15,91.64)",
+			"content": [
+				"91.47",
+				"(91.15,91.64)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 39,
+			"tex": "83.44(83.06,83.90)",
+			"content": [
+				"83.44(83.06,83.90)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 8,
+			"tex": "80.20 (80.02,80.35)",
+			"content": [
+				"80.20",
+				"(80.02,80.35)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 35,
+			"tex": "91.56 (91.67,91.88)",
+			"content": [
+				"91.56",
+				"(91.67,91.88)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 4,
+			"tex": "\\bf max,30",
+			"content": [
+				"max,30"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 44,
+			"tex": "89.39 (89.14,89.56)",
+			"content": [
+				"89.39",
+				"(89.14,89.56)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 43,
+			"tex": "89.15 (88.83,89.47)",
+			"content": [
+				"89.15",
+				"(88.83,89.47)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "\\bf max,20",
+			"content": [
+				"max,20"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 22,
+			"tex": "85.38 (85.31,85.49)",
+			"content": [
+				"85.38",
+				"(85.31,85.49)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 21,
+			"tex": "85.18 (84.64,85.59)",
+			"content": [
+				"85.18",
+				"(84.64,85.59)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 47,
+			"tex": "89.39 (89.04,89.73)",
+			"content": [
+				"89.39",
+				"(89.04,89.73)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 17,
+			"tex": "47.00 (46.54,47.26)",
+			"content": [
+				"47.00",
+				"(46.54,47.26)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 41,
+			"tex": "83.93 (83.48,84.39)",
+			"content": [
+				"83.93",
+				"(83.48,84.39)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 33,
+			"tex": "91.52 (91.23,91.72)",
+			"content": [
+				"91.52",
+				"(91.23,91.72)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 30,
+			"tex": "TREC",
+			"content": [
+				"TREC"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 37,
+			"tex": "81.72 (81.21,82.20)",
+			"content": [
+				"81.72",
+				"(81.21,82.20)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "46.75 (46.35,47.36)",
+			"content": [
+				"46.75",
+				"(46.35,47.36)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 16,
+			"tex": "47.02 (46.59,47.59)",
+			"content": [
+				"47.02",
+				"(46.59,47.59)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 1,
+			"tex": "\\bf max,3",
+			"content": [
+				"max,3"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "46.10(45.37,46.84)",
+			"content": [
+				"46.10(45.37,46.84)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 28,
+			"tex": "93.13 (92.79,93.32)",
+			"content": [
+				"93.13",
+				"(92.79,93.32)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 18,
+			"tex": "SST-2",
+			"content": [
+				"SST-2"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 46,
+			"tex": "89.37 (88.99,89.61)",
+			"content": [
+				"89.37",
+				"(88.99,89.61)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 27,
+			"tex": "93.06 (92.81,93.19)",
+			"content": [
+				"93.06",
+				"(92.81,93.19)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 38,
+			"tex": "82.71 (82.06,83.30)",
+			"content": [
+				"82.71",
+				"(82.06,83.30)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 2,
+			"tex": "\\bf max,10",
+			"content": [
+				"max,10"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 13,
+			"tex": "44.98 (44.06,45.68)",
+			"content": [
+				"44.98",
+				"(44.06,45.68)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "",
+			"content": [],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "85.50 (85.31,85.83)",
+			"content": [
+				"85.50",
+				"(85.31,85.83)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 32,
+			"tex": "91.42 (91.16,91.71)",
+			"content": [
+				"91.42",
+				"(91.16,91.71)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 36,
+			"tex": "CR",
+			"content": [
+				"CR"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "84.63 (84.44,84.88)",
+			"content": [
+				"84.63",
+				"(84.44,84.88)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 19,
+			"tex": "83.69(83.46,84.07)",
+			"content": [
+				"83.69(83.46,84.07)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 26,
+			"tex": "92.87 (92.69,93.17)",
+			"content": [
+				"92.87",
+				"(92.69,93.17)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 45,
+			"tex": "89.30 (89.16,89.60)",
+			"content": [
+				"89.30",
+				"(89.16,89.60)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 31,
+			"tex": "90.29 (89.93,90.61)",
+			"content": [
+				"90.29",
+				"(89.93,90.61)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 40,
+			"tex": "83.70 (83.31,84.25)",
+			"content": [
+				"83.70",
+				"(83.31,84.25)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 24,
+			"tex": "Subj",
+			"content": [
+				"Subj"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 29,
+			"tex": "93.20 (93.00,93.36)",
+			"content": [
+				"93.20",
+				"(93.00,93.36)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 5,
+			"end_col": 5
+		}
+	]
+}

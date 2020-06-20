@@ -1,0 +1,300 @@
+{
+	"cells": [
+		{
+			"id": 0,
+			"tex": "",
+			"content": [],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "$\\mathcal{O}(|V|^2 n d)$",
+			"content": [
+				"O(|V",
+				"|2nd)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 22,
+			"tex": "N/A",
+			"content": [
+				"N/A"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "Attributed linear root-paths",
+			"content": [
+				"Attributed",
+				"linear",
+				"root-paths"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "$\\mathcal{O}(h \\max_l |V^l|^2) (n + d + h)$",
+			"content": [
+				"O(h",
+				"maxl",
+				"|V",
+				"l|2)(n",
+				"+",
+				"d",
+				"+",
+				"h)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 5,
+			"tex": "",
+			"content": [],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 6,
+			"tex": "All-paths",
+			"content": [
+				"All-paths"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "Root-paths",
+			"content": [
+				"Root-paths"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "$\\mathcal{O} (|V|^2 m n)$",
+			"content": [
+				"O(|V",
+				"|2mn)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "Attributed all-paths",
+			"content": [
+				"Attributed",
+				"all-paths"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "$\\mathcal{O}(h \\max_l |V^l|^2) (n + h)$",
+			"content": [
+				"O(h",
+				"maxl",
+				"|V",
+				"l|2)(n",
+				"+",
+				"h)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 7,
+			"tex": "$\\mathcal{O}(|V|^4 m n)$",
+			"content": [
+				"O(|V",
+				"|4mn)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "$\\mathcal{O}(h |V|^2 \\max_l |V^l|^2) (n + d + h)$",
+			"content": [
+				"O(h|V",
+				"|2",
+				"maxl",
+				"|V",
+				"l|2)(n",
+				"+",
+				"d",
+				"+",
+				"h)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 1,
+			"tex": "Embedded paths",
+			"content": [
+				"Embedded",
+				"paths"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "N/A",
+			"content": [
+				"N/A"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "N/A",
+			"content": [
+				"N/A"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "",
+			"content": [],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "$\\mathcal{O} (|V| h n d)$",
+			"content": [
+				"O(|V",
+				"|hnd)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 8,
+			"tex": "$\\mathcal{O}(|V|^2 h \\max_l |V^l|^2(n + h)$",
+			"content": [
+				"O(|V",
+				"|2h",
+				"maxl",
+				"|V",
+				"l|2(n",
+				"+",
+				"h)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 2,
+			"tex": "Node-path",
+			"content": [
+				"Node-path"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 4,
+			"tex": "($m$ landmark points)",
+			"content": [
+				"(m",
+				"landmark",
+				"points)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "N/A",
+			"content": [
+				"N/A"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "Attributed root-paths",
+			"content": [
+				"Attributed",
+				"root-paths"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "Pointcloud kernel",
+			"content": [
+				"Pointcloud",
+				"kernel"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

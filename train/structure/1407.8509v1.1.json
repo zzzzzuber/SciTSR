@@ -1,0 +1,360 @@
+{
+	"cells": [
+		{
+			"id": 13,
+			"tex": "$5$",
+			"content": [
+				"5"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "Description",
+			"content": [
+				"Description"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 20,
+			"tex": "Regularization parameter",
+			"content": [
+				"Regularization",
+				"parameter"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 28,
+			"tex": "$0.65$",
+			"content": [
+				"0.65"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "Link ellipse (sensitivity area) width",
+			"content": [
+				"Link",
+				"ellipse",
+				"(sensitivity",
+				"area)",
+				"width"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 19,
+			"tex": "$0.1$",
+			"content": [
+				"0.1"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "Background/Foreground pixel threshold",
+			"content": [
+				"Background/Foreground",
+				"pixel",
+				"threshold"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 14,
+			"tex": "Background image training period [s]",
+			"content": [
+				"Background",
+				"image",
+				"training",
+				"period",
+				"[s]"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 24,
+			"tex": "$\\delta_{c}$",
+			"content": [
+				"\u03b4c"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "\\\nParameter",
+			"content": [
+				"Parameter"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "Pixels' correlation distance",
+			"content": [
+				"Pixels\u2019",
+				"correlation",
+				"distance"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 4,
+			"tex": "$-90$",
+			"content": [
+				"\u221290"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "$\\lambda$",
+			"content": [
+				"\u03bb"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "$2$",
+			"content": [
+				"2"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "Pixels' intensity variance",
+			"content": [
+				"Pixels\u2019",
+				"intensity",
+				"variance"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 21,
+			"tex": "$\\sigma_{x}^{2}$",
+			"content": [
+				"\u03c32",
+				"x"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "$0.001$",
+			"content": [
+				"0.001"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "Link RSS FIFO buffer length [s]",
+			"content": [
+				"Link",
+				"RSS",
+				"FIFO",
+				"bu\ufb00er",
+				"length",
+				"[s]"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 12,
+			"tex": "$T_b$",
+			"content": [
+				"Tb"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "$1$",
+			"content": [
+				"1"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 29,
+			"tex": "Pixel width [m]",
+			"content": [
+				"Pixel",
+				"width",
+				"[m]"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 6,
+			"tex": "$T_w$",
+			"content": [
+				"Tw"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 25,
+			"tex": "$1$",
+			"content": [
+				"1"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "$5$",
+			"content": [
+				"5"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "$K_b$",
+			"content": [
+				"Kb"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "Value",
+			"content": [
+				"Value"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "$\\alpha_r$",
+			"content": [
+				"\u03b1r"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "Link connectivity threshold [dBm]",
+			"content": [
+				"Link",
+				"connectivity",
+				"threshold",
+				"[dBm]"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 27,
+			"tex": "$p$",
+			"content": [
+				"p"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "$\\Upsilon_r$",
+			"content": [
+				"\u03a5r"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

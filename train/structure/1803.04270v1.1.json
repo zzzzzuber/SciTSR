@@ -1,0 +1,552 @@
+{
+	"cells": [
+		{
+			"id": 28,
+			"tex": "$F_i(t)$",
+			"content": [
+				"Fi(t)"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "Switches in the network",
+			"content": [
+				"Switches",
+				"in",
+				"the",
+				"network"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "$R$",
+			"content": [
+				"R"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 36,
+			"tex": "$T_{max}$",
+			"content": [
+				"Tmax"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "Rule $i$ of flow $i$",
+			"content": [
+				"Rule",
+				"i",
+				"of",
+				"\ufb02ow",
+				"i"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "Whether switch $j$ caches rule of flow $i$",
+			"content": [
+				"Whether",
+				"switch",
+				"j",
+				"caches",
+				"rule",
+				"of",
+				"\ufb02ow",
+				"i"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "Switch $j$",
+			"content": [
+				"Switch",
+				"j"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "Rules in the network",
+			"content": [
+				"Rules",
+				"in",
+				"the",
+				"network"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 29,
+			"tex": "Traffic of flow $i$ from time 0 to $t$",
+			"content": [
+				"Tra\ufb03c",
+				"of",
+				"\ufb02ow",
+				"i",
+				"from",
+				"time",
+				"0",
+				"to",
+				"t"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 35,
+			"tex": "Time to the next coming packet of $f_i$ at time $t$",
+			"content": [
+				"Time",
+				"to",
+				"the",
+				"next",
+				"coming",
+				"packet",
+				"of",
+				"fi",
+				"at",
+				"time",
+				"t"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 37,
+			"tex": "Maximum waiting time for the next packet coming",
+			"content": [
+				"Maximum",
+				"waiting",
+				"time",
+				"for",
+				"the",
+				"next",
+				"packet",
+				"coming"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "Notation",
+			"content": [
+				"Notation"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "$B_j$",
+			"content": [
+				"Bj"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "$s_j$",
+			"content": [
+				"sj"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "Flows in the network",
+			"content": [
+				"Flows",
+				"in",
+				"the",
+				"network"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "$X_{ij}$",
+			"content": [
+				"Xij"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 33,
+			"tex": "Cache hit ratio of entire network",
+			"content": [
+				"Cache",
+				"hit",
+				"ratio",
+				"of",
+				"entire",
+				"network"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "Flow $i$",
+			"content": [
+				"Flow",
+				"i"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "$f_i$",
+			"content": [
+				"fi"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 25,
+			"tex": "Cache Hits of rule $i$ at time $t$",
+			"content": [
+				"Cache",
+				"Hits",
+				"of",
+				"rule",
+				"i",
+				"at",
+				"time",
+				"t"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 30,
+			"tex": "$C_i(t)$",
+			"content": [
+				"Ci(t)"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 31,
+			"tex": "Cache hit ratio of flow $i$ from time 0 to $t$",
+			"content": [
+				"Cache",
+				"hit",
+				"ratio",
+				"of",
+				"\ufb02ow",
+				"i",
+				"from",
+				"time",
+				"0",
+				"to",
+				"t"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "Cache size of switch $j$",
+			"content": [
+				"Cache",
+				"size",
+				"of",
+				"switch",
+				"j"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "Switches in the forwarding path of flow $i$",
+			"content": [
+				"Switches",
+				"in",
+				"the",
+				"forwarding",
+				"path",
+				"of",
+				"\ufb02ow",
+				"i"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 26,
+			"tex": "$H_i(t)$",
+			"content": [
+				"Hi(t)"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "$S_i$",
+			"content": [
+				"Si"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 38,
+			"tex": "$T_{next}$",
+			"content": [
+				"Tnext"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 39,
+			"tex": "Possible maximum time to the next packet coming",
+			"content": [
+				"Possible",
+				"maximum",
+				"time",
+				"to",
+				"the",
+				"next",
+				"packet",
+				"coming"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 32,
+			"tex": "$C(t)$",
+			"content": [
+				"C(t)"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "Network traffic density function of flow $i$ at time $t$",
+			"content": [
+				"Network",
+				"tra\ufb03c",
+				"density",
+				"function",
+				"of",
+				"\ufb02ow",
+				"i",
+				"at",
+				"time",
+				"t"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "Flow $i$",
+			"content": [
+				"Flow",
+				"i"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "$f_i(t)$",
+			"content": [
+				"fi(t)"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "$h_i(t)$",
+			"content": [
+				"hi(t)"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 34,
+			"tex": "$T(f_i, t)$",
+			"content": [
+				"T",
+				"(fi,",
+				"t)"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "$F$",
+			"content": [
+				"F"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "Cache hits of rule $i$ from time 0 to $t$",
+			"content": [
+				"Cache",
+				"hits",
+				"of",
+				"rule",
+				"i",
+				"from",
+				"time",
+				"0",
+				"to",
+				"t"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "$f_i$",
+			"content": [
+				"fi"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "Description",
+			"content": [
+				"Description"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "$S$",
+			"content": [
+				"S"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "$r_i$",
+			"content": [
+				"ri"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

@@ -1,0 +1,491 @@
+{
+	"cells": [
+		{
+			"id": 27,
+			"tex": "8 devices/Rank, 8 sub-ranks/rank,",
+			"content": [
+				"8",
+				"devices/Rank,",
+				"8",
+				"sub-ranks/rank,"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "Private, 32KB, 4-way, 64B cache line,",
+			"content": [
+				"Private,",
+				"32KB,",
+				"4-way,",
+				"64B",
+				"cache",
+				"line,"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 31,
+			"tex": "DDR3-1333MHz, x8, 8 banks,",
+			"content": [
+				"DDR3-1333MHz,",
+				"x8,",
+				"8",
+				"banks,"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 24,
+			"tex": "\\textbf{DRAM Parameters}",
+			"content": [
+				"DRAM",
+				"Parameters"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 1
+		},
+		{
+			"id": 26,
+			"tex": "2 64-bit Channels, 2 Ranks/Channel,",
+			"content": [
+				"2",
+				"64-bit",
+				"Channels,",
+				"2",
+				"Ranks/Channel,"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 32,
+			"tex": "32768 Rows/bank, 1024 Columns/Row",
+			"content": [
+				"32768",
+				"Rows/bank,",
+				"1024",
+				"Columns/Row"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "9 CPU cycles hit (4+5)",
+			"content": [
+				"9",
+				"CPU",
+				"cycles",
+				"hit",
+				"(4+5)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "Channel-interleave mapping",
+			"content": [
+				"Channel-interleave",
+				"mapping"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 29,
+			"tex": "x8-width sub-rank, 1 device/sub-rank",
+			"content": [
+				"x8-width",
+				"sub-rank,",
+				"1",
+				"device/sub-rank"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "\\textbf{L3 Cache}",
+			"content": [
+				"L3",
+				"Cache"
+			],
+			"start_row": 7,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "max fetch/retire per cycle: 4/2,",
+			"content": [
+				"max",
+				"fetch/retire",
+				"per",
+				"cycle:",
+				"4/2,"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "\\textbf{Link Bus}",
+			"content": [
+				"Link",
+				"Bus"
+			],
+			"start_row": 11,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 33,
+			"tex": "8 KB Row Buffer per Bank, BL=8,",
+			"content": [
+				"8",
+				"KB",
+				"Row",
+				"Bu\ufb00er",
+				"per",
+				"Bank,",
+				"BL=8,"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "\\textbf{Controller}",
+			"content": [
+				"Controller"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 25,
+			"tex": "\\textbf{Memory}",
+			"content": [
+				"Memory"
+			],
+			"start_row": 16,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 36,
+			"tex": "Micron 2Gb SDRAM",
+			"content": [
+				"Micron",
+				"2Gb",
+				"SDRAM"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "Shared, 16-way, 64B cache line,",
+			"content": [
+				"Shared,",
+				"16-way,",
+				"64B",
+				"cache",
+				"line,"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "\\textbf{Scheduler}",
+			"content": [
+				"Scheduler"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "2 buffer schedulers/MC,",
+			"content": [
+				"2",
+				"bu\ufb00er",
+				"schedulers/MC,"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 34,
+			"tex": "Time and power parameters from",
+			"content": [
+				"Time",
+				"and",
+				"power",
+				"parameters",
+				"from"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "Read/Write Queue: 64/64",
+			"content": [
+				"Read/Write",
+				"Queue:",
+				"64/64"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "2.7GHz, 256-entry,",
+			"content": [
+				"2.7GHz,",
+				"256-entry,"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 30,
+			"tex": "\\textbf{DRAM Device}",
+			"content": [
+				"DRAM",
+				"Device"
+			],
+			"start_row": 19,
+			"end_row": 22,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "\\textbf{L2 Cache}",
+			"content": [
+				"L2",
+				"Cache"
+			],
+			"start_row": 5,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "2.7GHz, point-to-point,",
+			"content": [
+				"2.7GHz,",
+				"point-to-point,"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 35,
+			"tex": "",
+			"content": [],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "5 pipeline (latency of non-mem instr)",
+			"content": [
+				"5",
+				"pipeline",
+				"(latency",
+				"of",
+				"non-mem",
+				"instr)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "FRFCFS , closed page",
+			"content": [
+				"FRFCFS",
+				",",
+				"closed",
+				"page"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "\\textbf{Memory}",
+			"content": [
+				"Memory"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 28,
+			"tex": "",
+			"content": [],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "1MB/core, 45 CPU cycles hit (40+5)",
+			"content": [
+				"1MB/core,",
+				"45",
+				"CPU",
+				"cycles",
+				"hit",
+				"(40+5)"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "Private, 256KB, 8-way, 64B cache line,",
+			"content": [
+				"Private,",
+				"256KB,",
+				"8-way,",
+				"64B",
+				"cache",
+				"line,"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "\\textbf{Reorder Buffer}",
+			"content": [
+				"Reorder",
+				"Bu\ufb00er"
+			],
+			"start_row": 0,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "read/write bus width: 16/16",
+			"content": [
+				"read/write",
+				"bus",
+				"width:",
+				"16/16"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "\\textbf{L1 Cache}",
+			"content": [
+				"L1",
+				"Cache"
+			],
+			"start_row": 3,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "\\textbf{Buffer}",
+			"content": [
+				"Bu\ufb00er"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "15 CPU cycles hit (10+5)",
+			"content": [
+				"15",
+				"CPU",
+				"cycles",
+				"hit",
+				"(10+5)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

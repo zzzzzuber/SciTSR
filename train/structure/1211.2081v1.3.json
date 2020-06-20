@@ -1,0 +1,314 @@
+{
+	"cells": [
+		{
+			"id": 5,
+			"tex": "\\quad perform the following three stages:",
+			"content": [
+				"perform",
+				"the",
+				"following",
+				"three",
+				"stages:"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "\\quad \\quad with the highest service rate given by (\\ref{serviceRateExpression}).",
+			"content": [
+				"with",
+				"the",
+				"highest",
+				"service",
+				"rate",
+				"given",
+				"by",
+				"(??)."
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "\\quad \\emph{Stage \\uppercase\\expandafter{\\romannumeral2}: Coalition Formation}",
+			"content": [
+				"Stage",
+				"II:",
+				"Coalition",
+				"Formation"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "\\textbf{Period \\uppercase\\expandafter{\\romannumeral1}: V2R Phase}",
+			"content": [
+				"Period",
+				"I:",
+				"V2R",
+				"Phase"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "\\quad and the OBUs in $\\Omega$ keep receiving data from the RSU when they pass through.",
+			"content": [
+				"and",
+				"the",
+				"OBUs",
+				"in",
+				"\u2126",
+				"keep",
+				"receiving",
+				"data",
+				"from",
+				"the",
+				"RSU",
+				"when",
+				"they",
+				"pass",
+				"through."
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "\\quad \\quad The OBUs perform the splitting scheme in Table \\ref{split} every $K$ slots, and the network",
+			"content": [
+				"The",
+				"OBUs",
+				"perform",
+				"the",
+				"splitting",
+				"scheme",
+				"in",
+				"Table",
+				"??",
+				"every",
+				"K",
+				"slots,",
+				"and",
+				"the",
+				"network"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "\\quad \\emph{Stage \\uppercase\\expandafter{\\romannumeral3}: Data Broadcasting}",
+			"content": [
+				"Stage",
+				"III:",
+				"Data",
+				"Broadcasting"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "\\quad \\quad For each subnetwork, the OBUs perform the coalition formation algorithm in Table",
+			"content": [
+				"For",
+				"each",
+				"subnetwork,",
+				"the",
+				"OBUs",
+				"perform",
+				"the",
+				"coalition",
+				"formation",
+				"algorithm",
+				"in",
+				"Table"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "\\quad The RSU periodically broadcasts the packets of popular file $\\Gamma = \\{\\gamma_0,\\ldots,\\gamma_{M-1}\\}$,",
+			"content": [
+				"The",
+				"RSU",
+				"periodically",
+				"broadcasts",
+				"the",
+				"packets",
+				"of",
+				"popular",
+				"\ufb01le",
+				"\u0393",
+				"=",
+				"{\u03b30,",
+				".",
+				".",
+				".",
+				",",
+				"\u03b3M\u22121},"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "\\textbf{Period \\uppercase\\expandafter{\\romannumeral2}: V2V Phase}",
+			"content": [
+				"Period",
+				"II:",
+				"V2V",
+				"Phase"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "\\quad \\quad \\ref{coalitionFormationAlgorithm} to obtain the final partition $\\Pi_{final}$ in the current slot.",
+			"content": [
+				"??",
+				"to",
+				"obtain",
+				"the",
+				"\ufb01nal",
+				"partition",
+				"\u03a0f",
+				"inal",
+				"in",
+				"the",
+				"current",
+				"slot."
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "\\quad \\quad For each subnetwork, the OBUs in coalition $S$ broadcast the packets resulting",
+			"content": [
+				"For",
+				"each",
+				"subnetwork,",
+				"the",
+				"OBUs",
+				"in",
+				"coalition",
+				"S",
+				"broadcast",
+				"the",
+				"packets",
+				"resulting"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "\\quad With the initially possessed packets given by (\\ref{initialSegmentNumber}) and (\\ref{firstReceivedIndex}), the OBUs periodically",
+			"content": [
+				"With",
+				"the",
+				"initially",
+				"possessed",
+				"packets",
+				"given",
+				"by",
+				"(??)",
+				"and",
+				"(??),",
+				"the",
+				"OBUs",
+				"periodically"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "\\quad \\quad may split into smaller subnetworks.",
+			"content": [
+				"may",
+				"split",
+				"into",
+				"smaller",
+				"subnetworks."
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "\\quad \\emph{Stage \\uppercase\\expandafter{\\romannumeral1}: Network Splitting}",
+			"content": [
+				"Stage",
+				"I:",
+				"Network",
+				"Splitting"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "\\quad \\quad from the greedy algorithm proposed in Section \\uppercase\\expandafter{\\romannumeral3}, where $S \\in \\Pi_{final}$ is the coalition",
+			"content": [
+				"from",
+				"the",
+				"greedy",
+				"algorithm",
+				"proposed",
+				"in",
+				"Section",
+				"III,",
+				"where",
+				"S",
+				"\u2208",
+				"\u03a0f",
+				"inal",
+				"is",
+				"the",
+				"coalition"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

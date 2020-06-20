@@ -1,0 +1,144 @@
+{
+	"cells": [
+		{
+			"id": 0,
+			"tex": "Method",
+			"content": [
+				"Method"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "\\verb'3 Layer MLP-4096'",
+			"content": [
+				"3",
+				"Layer",
+				"MLP-4096"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "0.421",
+			"content": [
+				"0.421"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 2
+		},
+		{
+			"id": 10,
+			"tex": "\\verb'3 Layer MLP-4096-LN'",
+			"content": [
+				"3",
+				"Layer",
+				"MLP-4096-LN"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "\\textbf{0.809}",
+			"content": [
+				"0.809"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 2
+		},
+		{
+			"id": 5,
+			"tex": "0.424",
+			"content": [
+				"0.424"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 2
+		},
+		{
+			"id": 6,
+			"tex": "\\verb'2 Layer MoE-16'",
+			"content": [
+				"2",
+				"Layer",
+				"MoE-16"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "\\verb'Many-to-Many'",
+			"content": [
+				"Many-to-Many"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "\\verb'2 Layer MoE-2'",
+			"content": [
+				"2",
+				"Layer",
+				"MoE-2"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "GAP@20",
+			"content": [
+				"GAP@20"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 2
+		},
+		{
+			"id": 3,
+			"tex": "0.791",
+			"content": [
+				"0.791"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 2
+		},
+		{
+			"id": 9,
+			"tex": "0.802",
+			"content": [
+				"0.802"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 2
+		}
+	]
+}

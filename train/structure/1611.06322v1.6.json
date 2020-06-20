@@ -1,0 +1,297 @@
+{
+	"cells": [
+		{
+			"id": 13,
+			"tex": "categorical feat. based on the number of unique words",
+			"content": [
+				"categorical",
+				"feat.",
+				"based",
+				"on",
+				"the",
+				"number",
+				"of",
+				"unique",
+				"words"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "distance to the closest previous rumour",
+			"content": [
+				"distance",
+				"to",
+				"the",
+				"closest",
+				"previous",
+				"rumour"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "Pseudo Feedback",
+			"content": [
+				"Pseudo",
+				"Feedback"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "POS",
+			"content": [
+				"POS"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "\\textbf{Description}",
+			"content": [
+				"Description"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "Social Media",
+			"content": [
+				"Social",
+				"Media"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "categorical feat. based on the number of URLs, pictures",
+			"content": [
+				"categorical",
+				"feat.",
+				"based",
+				"on",
+				"the",
+				"number",
+				"of",
+				"URLs,",
+				"pictures"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "Sentiment",
+			"content": [
+				"Sentiment"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "\\textbf{Category}",
+			"content": [
+				"Category"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "Length",
+			"content": [
+				"Length"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "categorical feat. based on the number of !?.,",
+			"content": [
+				"categorical",
+				"feat.",
+				"based",
+				"on",
+				"the",
+				"number",
+				"of",
+				"!?.,"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "URLs",
+			"content": [
+				"URLs"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "categorical feat. based on the number of hash-tags and user-names",
+			"content": [
+				"categorical",
+				"feat.",
+				"based",
+				"on",
+				"the",
+				"number",
+				"of",
+				"hash-tags",
+				"and",
+				"user-names"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "categorical feat. based on the number of strong/weak negative/positive words",
+			"content": [
+				"categorical",
+				"feat.",
+				"based",
+				"on",
+				"the",
+				"number",
+				"of",
+				"strong/weak",
+				"negative/positive",
+				"words"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "Emotion",
+			"content": [
+				"Emotion"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "degree of positive/negative/sad/anxious/surprised emotion",
+			"content": [
+				"degree",
+				"of",
+				"positive/negative/sad/anxious/surprised",
+				"emotion"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "Punctuation",
+			"content": [
+				"Punctuation"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "Novelty",
+			"content": [
+				"Novelty"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "novelty score based kterm length 1-3 for all and key-words",
+			"content": [
+				"novelty",
+				"score",
+				"based",
+				"kterm",
+				"length",
+				"1-3",
+				"for",
+				"all",
+				"and",
+				"key-words"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "categorical feat. based on the number of verbs, nouns, adjectives, quantity and time words",
+			"content": [
+				"categorical",
+				"feat.",
+				"based",
+				"on",
+				"the",
+				"number",
+				"of",
+				"verbs,",
+				"nouns,",
+				"adjectives,",
+				"quantity",
+				"and",
+				"time",
+				"words"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

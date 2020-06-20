@@ -1,0 +1,542 @@
+{
+	"cells": [
+		{
+			"id": 17,
+			"tex": "Phased LSTM",
+			"content": [
+				"Phased",
+				"LSTM"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "Clock-work RNN",
+			"content": [
+				"Clock-work",
+				"RNN"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 37,
+			"tex": "0.3021 $\\pm$ 0.0014",
+			"content": [
+				"0.3021",
+				"\u00b1",
+				"0.0014"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 15,
+			"tex": "0.5308 $\\pm$ 0.0005",
+			"content": [
+				"0.5308",
+				"\u00b1",
+				"0.0005"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 13,
+			"tex": "0.8064 $\\pm$ 0.0005",
+			"content": [
+				"0.8064",
+				"\u00b1",
+				"0.0005"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "0.7722 $\\pm$ 0.0007",
+			"content": [
+				"0.7722",
+				"\u00b1",
+				"0.0007"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 18,
+			"tex": "0.8474 $\\pm$ 0.0005",
+			"content": [
+				"0.8474",
+				"\u00b1",
+				"0.0005"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 28,
+			"tex": "0.8967 $\\pm$ 0.0011",
+			"content": [
+				"0.8967",
+				"\u00b1",
+				"0.0011"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "0.8400 $\\pm$ 0.0001",
+			"content": [
+				"0.8400",
+				"\u00b1",
+				"0.0001"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 24,
+			"tex": "0.7181 $\\pm$ 0.0003",
+			"content": [
+				"0.7181",
+				"\u00b1",
+				"0.0003"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 33,
+			"tex": "attr encoding",
+			"content": [
+				"attr",
+				"encoding"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 30,
+			"tex": "0.7325 $\\pm$ 0.0022",
+			"content": [
+				"0.7325",
+				"\u00b1",
+				"0.0022"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 26,
+			"tex": "0.2208 $\\pm$ 0.0003",
+			"content": [
+				"0.2208",
+				"\u00b1",
+				"0.0003"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 7,
+			"tex": "Independent LSTM",
+			"content": [
+				"Independent",
+				"LSTM"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 25,
+			"tex": "0.6516 $\\pm$ 0.0002",
+			"content": [
+				"0.6516",
+				"\u00b1",
+				"0.0002"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 12,
+			"tex": "Independent LSTM(shared weight)",
+			"content": [
+				"Independent",
+				"LSTM(shared",
+				"weight)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "0.2969 $\\pm$ 0.0008",
+			"content": [
+				"0.2969",
+				"\u00b1",
+				"0.0008"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 21,
+			"tex": "0.3575 $\\pm$ 0.0026",
+			"content": [
+				"0.3575",
+				"\u00b1",
+				"0.0026"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 38,
+			"tex": "HE-LSTM",
+			"content": [
+				"HE-LSTM"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "0.4900 $\\pm$ 0.0075",
+			"content": [
+				"0.4900",
+				"\u00b1",
+				"0.0075"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 3,
+			"tex": "\\textbf{AUC }",
+			"content": [
+				"AUC"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 36,
+			"tex": "0.7231 $\\pm$ 0.0028",
+			"content": [
+				"0.7231",
+				"\u00b1",
+				"0.0028"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 4,
+			"tex": "\\textbf{AP}",
+			"content": [
+				"AP"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 8,
+			"tex": "0.8771 $\\pm$ 0.0005",
+			"content": [
+				"0.8771",
+				"\u00b1",
+				"0.0005"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 41,
+			"tex": "\\textbf{0.7987 $\\pm$ 0.0008}",
+			"content": [
+				"0.7987",
+				"\u00b1",
+				"0.0008"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 0,
+			"tex": "Methods",
+			"content": [
+				"Methods"
+			],
+			"start_row": 0,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "0.5573 $\\pm$ 0.0006",
+			"content": [
+				"0.5573",
+				"\u00b1",
+				"0.0006"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 6,
+			"tex": "\\textbf{AP }",
+			"content": [
+				"AP"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 1,
+			"tex": "death",
+			"content": [
+				"death"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 2
+		},
+		{
+			"id": 40,
+			"tex": "\\textbf{0.7687 $\\pm$ 0.0011}",
+			"content": [
+				"0.7687",
+				"\u00b1",
+				"0.0011"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 42,
+			"tex": "\\textbf{0.3914 $\\pm$ 0.0013}",
+			"content": [
+				"0.3914",
+				"\u00b1",
+				"0.0013"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 10,
+			"tex": "0.7196 $\\pm$ 0.0006",
+			"content": [
+				"0.7196",
+				"\u00b1",
+				"0.0006"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 27,
+			"tex": "RETAIN",
+			"content": [
+				"RETAIN"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 39,
+			"tex": "\\textbf{0.9516 $\\pm$ 0.0003}",
+			"content": [
+				"0.9516",
+				"\u00b1",
+				"0.0003"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "0.1098 $\\pm$ 0.0005",
+			"content": [
+				"0.1098",
+				"\u00b1",
+				"0.0005"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 2,
+			"tex": "lab test",
+			"content": [
+				"lab",
+				"test"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 4
+		},
+		{
+			"id": 5,
+			"tex": "\\textbf{AUC }",
+			"content": [
+				"AUC"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 35,
+			"tex": "0.7445 $\\pm$ 0.0007",
+			"content": [
+				"0.7445",
+				"\u00b1",
+				"0.0007"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 14,
+			"tex": "0.5301$\\pm$ 0.0006",
+			"content": [
+				"0.5301\u00b1",
+				"0.0006"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 32,
+			"tex": "LSTM + event embedding \\",
+			"content": [
+				"LSTM",
+				"+",
+				"event",
+				"embedding"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 34,
+			"tex": "0.9466 $\\pm$ 0.0002",
+			"content": [
+				"0.9466",
+				"\u00b1",
+				"0.0002"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 31,
+			"tex": "0.3096 $\\pm$ 0.0052",
+			"content": [
+				"0.3096",
+				"\u00b1",
+				"0.0052"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 29,
+			"tex": "0.5808 $\\pm$ 0.0114",
+			"content": [
+				"0.5808",
+				"\u00b1",
+				"0.0114"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		}
+	]
+}

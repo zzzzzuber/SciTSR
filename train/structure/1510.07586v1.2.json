@@ -1,0 +1,217 @@
+{
+	"cells": [
+		{
+			"id": 6,
+			"tex": "$p_i, p_j, p_i \\land p_j$",
+			"content": [
+				"pi,",
+				"pj,",
+				"pi",
+				"\u2227",
+				"pj"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "Relation label and its conjunction with all other features",
+			"content": [
+				"Relation",
+				"label",
+				"and",
+				"its",
+				"conjunction",
+				"with",
+				"all",
+				"other",
+				"features"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "$c_i, c_j, c_i \\land c_j$",
+			"content": [
+				"ci,",
+				"cj,",
+				"ci",
+				"\u2227",
+				"cj"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "Words in the corresponding spans and their conjunction",
+			"content": [
+				"Words",
+				"in",
+				"the",
+				"corresponding",
+				"spans",
+				"and",
+				"their",
+				"conjunction"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "$w_i, w_j, w_i \\land w_j$",
+			"content": [
+				"wi,",
+				"wj,",
+				"wi",
+				"\u2227",
+				"wj"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "POS tags of words in spans and their conjunction",
+			"content": [
+				"POS",
+				"tags",
+				"of",
+				"words",
+				"in",
+				"spans",
+				"and",
+				"their",
+				"conjunction"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "$dir$",
+			"content": [
+				"dir"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "The two concepts and their conjunction",
+			"content": [
+				"The",
+				"two",
+				"concepts",
+				"and",
+				"their",
+				"conjunction"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "$r$",
+			"content": [
+				"r"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "All dependency edges with tail in $w_i$ and head in $w_j$",
+			"content": [
+				"All",
+				"dependency",
+				"edges",
+				"with",
+				"tail",
+				"in",
+				"wi",
+				"and",
+				"head",
+				"in",
+				"wj"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "\\textbf{Feature label}",
+			"content": [
+				"Feature",
+				"label"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "$dep_{ij}$",
+			"content": [
+				"depij"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "\\textbf{Description }",
+			"content": [
+				"Description"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "Binary feature which is true iff $i < j$",
+			"content": [
+				"Binary",
+				"feature",
+				"which",
+				"is",
+				"true",
+				"i\ufb00",
+				"i",
+				"<",
+				"j"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

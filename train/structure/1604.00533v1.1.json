@@ -1,0 +1,133 @@
+{
+	"cells": [
+		{
+			"id": 2,
+			"tex": "Mean-Shift",
+			"content": [
+				"Mean-Shift"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "AFHA",
+			"content": [
+				"AFHA"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "$O(ncdi) + O(nc^2di)$",
+			"content": [
+				"O(ncdi)",
+				"+",
+				"O(nc2di)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "\\textbf{Method}",
+			"content": [
+				"Method"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "RFHA",
+			"content": [
+				"RFHA"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "$O(\\sum_{k=1}^N {n^r_k n^g_k n^b_k + i_kdc_k^2}) + O(idc^2) + O(ncdi)$",
+			"content": [
+				"O((cid:80)N",
+				"k=1",
+				"nr",
+				"kng",
+				"knb",
+				"k",
+				"+",
+				"ikdc2",
+				"k)",
+				"+",
+				"O(idc2)",
+				"+",
+				"O(ncdi)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "Proposed",
+			"content": [
+				"Proposed"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "$O(n^rn^gn^b) + O(idc^2) + O(nc^2di)$",
+			"content": [
+				"O(nrngnb)",
+				"+",
+				"O(idc2)",
+				"+",
+				"O(nc2di)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "$O(n^2di)$",
+			"content": [
+				"O(n2di)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "\\textbf{Computational Complexity}",
+			"content": [
+				"Computational",
+				"Complexity"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

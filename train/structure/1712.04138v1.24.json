@@ -1,0 +1,1517 @@
+{
+	"cells": [
+		{
+			"id": 24,
+			"tex": "$\\lambda_h = 0.5$, $\\gamma = 1.2$",
+			"content": [
+				"\u03bbh",
+				"=",
+				"0.5,",
+				"\u03b3",
+				"=",
+				"1.2"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "0.00000",
+			"content": [
+				"0.00000"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 2,
+			"tex": "FrRCNN",
+			"content": [
+				"FrRCNN"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 5,
+			"tex": "\\textbf{0.82383}",
+			"content": [
+				"0.82383"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "0.00000",
+			"content": [
+				"0.00000"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 18,
+			"tex": "0.80759",
+			"content": [
+				"0.80759"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 26,
+			"tex": "0.86421",
+			"content": [
+				"0.86421"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 0,
+			"tex": "Deformation",
+			"content": [
+				"Deformation"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "DoNN",
+			"content": [
+				"DoNN"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "0.81419",
+			"content": [
+				"0.81419"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 17,
+			"tex": "\\textbf{0.95685}",
+			"content": [
+				"0.95685"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "\\textbf{0.91931}",
+			"content": [
+				"0.91931"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "0.79135",
+			"content": [
+				"0.79135"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 21,
+			"tex": "\\textbf{0.97405}",
+			"content": [
+				"0.97405"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "$\\lambda_h = 0.5$, $\\gamma = 0.8$",
+			"content": [
+				"\u03bbh",
+				"=",
+				"0.5,",
+				"\u03b3",
+				"=",
+				"0.8"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "0.80774",
+			"content": [
+				"0.80774"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 13,
+			"tex": "\\textbf{0.93689}",
+			"content": [
+				"0.93689"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "0.83695",
+			"content": [
+				"0.83695"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 12,
+			"tex": "$\\lambda_h = 0.5$, $\\gamma = 0.6$",
+			"content": [
+				"\u03bbh",
+				"=",
+				"0.5,",
+				"\u03b3",
+				"=",
+				"0.6"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "0.85912",
+			"content": [
+				"0.85912"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 20,
+			"tex": "$\\lambda_h = 0.5$, $\\gamma = 1.0$",
+			"content": [
+				"\u03bbh",
+				"=",
+				"0.5,",
+				"\u03b3",
+				"=",
+				"1.0"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "0.00000",
+			"content": [
+				"0.00000"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 3,
+			"tex": "YOLO",
+			"content": [
+				"YOLO"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 8,
+			"tex": "$\\lambda_h = 0.5$, $\\gamma = 0.4$",
+			"content": [
+				"\u03bbh",
+				"=",
+				"0.5,",
+				"\u03b3",
+				"=",
+				"0.4"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "$\\lambda_h = 0.5$,$\\gamma = 0.2$",
+			"content": [
+				"\u03bbh",
+				"=",
+				"0.5,\u03b3",
+				"=",
+				"0.2"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 25,
+			"tex": "\\textbf{0.93893}",
+			"content": [
+				"0.93893"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "0.86540",
+			"content": [
+				"0.86540"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 63,
+			"tex": "0.89211",
+			"content": [
+				"0.89211"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 90,
+			"tex": "0.92728",
+			"content": [
+				"0.92728"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 110,
+			"tex": "0.99902",
+			"content": [
+				"0.99902"
+			],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 89,
+			"tex": "\\textbf{0.99431}",
+			"content": [
+				"0.99431"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 111,
+			"tex": "0.92118",
+			"content": [
+				"0.92118"
+			],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 54,
+			"tex": "0.85504",
+			"content": [
+				"0.85504"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 88,
+			"tex": "$\\lambda_h = 0.9$, $\\gamma = 0.4$",
+			"content": [
+				"\u03bbh",
+				"=",
+				"0.9,",
+				"\u03b3",
+				"=",
+				"0.4"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 112,
+			"tex": "$\\lambda_h = 0.9$, $\\gamma = 1.6$",
+			"content": [
+				"\u03bbh",
+				"=",
+				"0.9,",
+				"\u03b3",
+				"=",
+				"1.6"
+			],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 62,
+			"tex": "0.97628",
+			"content": [
+				"0.97628"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 87,
+			"tex": "\\textbf{0.87129}",
+			"content": [
+				"0.87129"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 113,
+			"tex": "\\textbf{0.99918}",
+			"content": [
+				"0.99918"
+			],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 44,
+			"tex": "$\\lambda_h = 0.7$, $\\gamma = 0.2$",
+			"content": [
+				"\u03bbh",
+				"=",
+				"0.7,",
+				"\u03b3",
+				"=",
+				"0.2"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 86,
+			"tex": "0.00000",
+			"content": [
+				"0.00000"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 114,
+			"tex": "0.99837",
+			"content": [
+				"0.99837"
+			],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 30,
+			"tex": "0.86660",
+			"content": [
+				"0.86660"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 85,
+			"tex": "0.83497",
+			"content": [
+				"0.83497"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 115,
+			"tex": "0.92003",
+			"content": [
+				"0.92003"
+			],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 84,
+			"tex": "$\\lambda_h = 0.9$, $\\gamma = 0.2$",
+			"content": [
+				"\u03bbh",
+				"=",
+				"0.9,",
+				"\u03b3",
+				"=",
+				"0.2"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 116,
+			"tex": "$\\lambda_h = 0.9$, $\\gamma = 1.8$",
+			"content": [
+				"\u03bbh",
+				"=",
+				"0.9,",
+				"\u03b3",
+				"=",
+				"1.8"
+			],
+			"start_row": 29,
+			"end_row": 29,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 83,
+			"tex": "0.93536",
+			"content": [
+				"0.93536"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 117,
+			"tex": "0.99726",
+			"content": [
+				"0.99726"
+			],
+			"start_row": 29,
+			"end_row": 29,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 82,
+			"tex": "0.93607",
+			"content": [
+				"0.93607"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 118,
+			"tex": "\\textbf{0.99782}",
+			"content": [
+				"0.99782"
+			],
+			"start_row": 29,
+			"end_row": 29,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 45,
+			"tex": "\\textbf{0.85802}",
+			"content": [
+				"0.85802"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 81,
+			"tex": "\\textbf{0.99276}",
+			"content": [
+				"0.99276"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 119,
+			"tex": "0.92106",
+			"content": [
+				"0.92106"
+			],
+			"start_row": 29,
+			"end_row": 29,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 36,
+			"tex": "$\\lambda_h = 0.5$, $\\gamma = 1.8$",
+			"content": [
+				"\u03bbh",
+				"=",
+				"0.5,",
+				"\u03b3",
+				"=",
+				"1.8"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 80,
+			"tex": "$\\lambda_h = 0.7$, $\\gamma = 2.0$",
+			"content": [
+				"\u03bbh",
+				"=",
+				"0.7,",
+				"\u03b3",
+				"=",
+				"2.0"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 120,
+			"tex": "$\\lambda_h = 0.9$, $\\gamma = 2.0$",
+			"content": [
+				"\u03bbh",
+				"=",
+				"0.9,",
+				"\u03b3",
+				"=",
+				"2.0"
+			],
+			"start_row": 30,
+			"end_row": 30,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 42,
+			"tex": "0.86694",
+			"content": [
+				"0.86694"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 79,
+			"tex": "0.93151",
+			"content": [
+				"0.93151"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 121,
+			"tex": "0.99658",
+			"content": [
+				"0.99658"
+			],
+			"start_row": 30,
+			"end_row": 30,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 95,
+			"tex": "0.91910",
+			"content": [
+				"0.91910"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 122,
+			"tex": "\\textbf{0.99678}",
+			"content": [
+				"0.99678"
+			],
+			"start_row": 30,
+			"end_row": 30,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 94,
+			"tex": "0.96821",
+			"content": [
+				"0.96821"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 123,
+			"tex": "0.92229",
+			"content": [
+				"0.92229"
+			],
+			"start_row": 30,
+			"end_row": 30,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 28,
+			"tex": "$\\lambda_h = 0.5$, $\\gamma = 1.4$",
+			"content": [
+				"\u03bbh",
+				"=",
+				"0.5,",
+				"\u03b3",
+				"=",
+				"1.4"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 93,
+			"tex": "\\textbf{0.99829}",
+			"content": [
+				"0.99829"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 52,
+			"tex": "$\\lambda_h = 0.7$, $\\gamma = 0.6$",
+			"content": [
+				"\u03bbh",
+				"=",
+				"0.7,",
+				"\u03b3",
+				"=",
+				"0.6"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 92,
+			"tex": "$\\lambda_h = 0.9$, $\\gamma = 0.6$",
+			"content": [
+				"\u03bbh",
+				"=",
+				"0.9,",
+				"\u03b3",
+				"=",
+				"0.6"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 91,
+			"tex": "0.87093",
+			"content": [
+				"0.87093"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 41,
+			"tex": "\\textbf{0.91227}",
+			"content": [
+				"0.91227"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 78,
+			"tex": "0.93769",
+			"content": [
+				"0.93769"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 77,
+			"tex": "\\textbf{0.99530}",
+			"content": [
+				"0.99530"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 76,
+			"tex": "$\\lambda_h = 0.7$, $\\gamma = 1.8$",
+			"content": [
+				"\u03bbh",
+				"=",
+				"0.7,",
+				"\u03b3",
+				"=",
+				"1.8"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 75,
+			"tex": "0.91749",
+			"content": [
+				"0.91749"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 74,
+			"tex": "0.94142",
+			"content": [
+				"0.94142"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 73,
+			"tex": "\\textbf{0.99743}",
+			"content": [
+				"0.99743"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 51,
+			"tex": "0.82594",
+			"content": [
+				"0.82594"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 72,
+			"tex": "$\\lambda_h = 0.7$, $\\gamma = 1.6$",
+			"content": [
+				"\u03bbh",
+				"=",
+				"0.7,",
+				"\u03b3",
+				"=",
+				"1.6"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 32,
+			"tex": "$\\lambda_h = 0.5$, $\\gamma = 1.6$",
+			"content": [
+				"\u03bbh",
+				"=",
+				"0.5,",
+				"\u03b3",
+				"=",
+				"1.6"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 71,
+			"tex": "0.89431",
+			"content": [
+				"0.89431"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 70,
+			"tex": "0.95966",
+			"content": [
+				"0.95966"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 48,
+			"tex": "$\\lambda_h = 0.7$, $\\gamma = 0.4$",
+			"content": [
+				"\u03bbh",
+				"=",
+				"0.7,",
+				"\u03b3",
+				"=",
+				"0.4"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 69,
+			"tex": "\\textbf{0.99740}",
+			"content": [
+				"0.99740"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 68,
+			"tex": "$\\lambda_h = 0.7$, $\\gamma = 1.4$",
+			"content": [
+				"\u03bbh",
+				"=",
+				"0.7,",
+				"\u03b3",
+				"=",
+				"1.4"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 35,
+			"tex": "0.87612",
+			"content": [
+				"0.87612"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 67,
+			"tex": "0.88061",
+			"content": [
+				"0.88061"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 43,
+			"tex": "0.90924",
+			"content": [
+				"0.90924"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 66,
+			"tex": "0.96343",
+			"content": [
+				"0.96343"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 37,
+			"tex": "\\textbf{0.91799}",
+			"content": [
+				"0.91799"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 96,
+			"tex": "$\\lambda_h = 0.9$, $\\gamma = 0.8$",
+			"content": [
+				"\u03bbh",
+				"=",
+				"0.9,",
+				"\u03b3",
+				"=",
+				"0.8"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 59,
+			"tex": "0.88413",
+			"content": [
+				"0.88413"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 65,
+			"tex": "\\textbf{0.99776}",
+			"content": [
+				"0.99776"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 53,
+			"tex": "\\textbf{0.99237}",
+			"content": [
+				"0.99237"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 56,
+			"tex": "$\\lambda_h = 0.7$, $\\gamma = 0.8$",
+			"content": [
+				"\u03bbh",
+				"=",
+				"0.7,",
+				"\u03b3",
+				"=",
+				"0.8"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "0.86557",
+			"content": [
+				"0.86557"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 58,
+			"tex": "0.92334",
+			"content": [
+				"0.92334"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 55,
+			"tex": "0.86705",
+			"content": [
+				"0.86705"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 29,
+			"tex": "\\textbf{0.92623}",
+			"content": [
+				"0.92623"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 60,
+			"tex": "$\\lambda_h = 0.7$, $\\gamma = 1.0$",
+			"content": [
+				"\u03bbh",
+				"=",
+				"0.7,",
+				"\u03b3",
+				"=",
+				"1.0"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 61,
+			"tex": "\\textbf{0.99824}",
+			"content": [
+				"0.99824"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 46,
+			"tex": "0.00000",
+			"content": [
+				"0.00000"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 40,
+			"tex": "$\\lambda_h = 0.5$, $\\gamma = 2.0$",
+			"content": [
+				"\u03bbh",
+				"=",
+				"0.5,",
+				"\u03b3",
+				"=",
+				"2.0"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 64,
+			"tex": "$\\lambda_h = 0.7$, $\\gamma = 1.2$",
+			"content": [
+				"\u03bbh",
+				"=",
+				"0.7,",
+				"\u03b3",
+				"=",
+				"1.2"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 57,
+			"tex": "\\textbf{0.99381}",
+			"content": [
+				"0.99381"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 34,
+			"tex": "0.87586",
+			"content": [
+				"0.87586"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 31,
+			"tex": "0.86074",
+			"content": [
+				"0.86074"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 50,
+			"tex": "0.00000",
+			"content": [
+				"0.00000"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 39,
+			"tex": "0.89935",
+			"content": [
+				"0.89935"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 97,
+			"tex": "\\textbf{0.99862}",
+			"content": [
+				"0.99862"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 98,
+			"tex": "0.99262",
+			"content": [
+				"0.99262"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 33,
+			"tex": "\\textbf{0.92196}",
+			"content": [
+				"0.92196"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 99,
+			"tex": "0.92616",
+			"content": [
+				"0.92616"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 47,
+			"tex": "0.72217",
+			"content": [
+				"0.72217"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 100,
+			"tex": "$\\lambda_h = 0.9$, $\\gamma = 1.0$",
+			"content": [
+				"\u03bbh",
+				"=",
+				"0.9,",
+				"\u03b3",
+				"=",
+				"1.0"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 38,
+			"tex": "0.87833",
+			"content": [
+				"0.87833"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 101,
+			"tex": "\\textbf{0.99956}",
+			"content": [
+				"0.99956"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 102,
+			"tex": "0.99888",
+			"content": [
+				"0.99888"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 103,
+			"tex": "0.93559",
+			"content": [
+				"0.93559"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 104,
+			"tex": "$\\lambda_h = 0.9$, $\\gamma = 1.2$",
+			"content": [
+				"\u03bbh",
+				"=",
+				"0.9,",
+				"\u03b3",
+				"=",
+				"1.2"
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 105,
+			"tex": "\\textbf{0.99976}",
+			"content": [
+				"0.99976"
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 49,
+			"tex": "\\textbf{0.94511}",
+			"content": [
+				"0.94511"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 106,
+			"tex": "0.99871",
+			"content": [
+				"0.99871"
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 107,
+			"tex": "0.91672",
+			"content": [
+				"0.91672"
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 108,
+			"tex": "$\\lambda_h = 0.9$, $\\gamma = 1.4$",
+			"content": [
+				"\u03bbh",
+				"=",
+				"0.9,",
+				"\u03b3",
+				"=",
+				"1.4"
+			],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 109,
+			"tex": "\\textbf{0.99930}",
+			"content": [
+				"0.99930"
+			],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

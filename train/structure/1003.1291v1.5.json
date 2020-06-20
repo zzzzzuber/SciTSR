@@ -1,0 +1,848 @@
+{
+	"cells": [
+		{
+			"id": 24,
+			"tex": "{\\tt -t, --template}",
+			"content": [
+				"-t,",
+				"--template"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 38,
+			"tex": "\\tt -i <history|now|evolution>",
+			"content": [
+				"-i",
+				"<history|now|evolution>"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 0,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "{\\tt -w, --worker}",
+			"content": [
+				"-w,",
+				"--worker"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 40,
+			"tex": "Description",
+			"content": [
+				"Description"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 25,
+			"tex": "add template file",
+			"content": [
+				"add",
+				"template",
+				"file"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "Subcommand",
+			"content": [
+				"Subcommand"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "{\\tt -c, --create}",
+			"content": [
+				"-c,",
+				"--create"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 55,
+			"tex": "{\\tt FROM-TO}",
+			"content": [
+				"FROM-TO"
+			],
+			"start_row": 31,
+			"end_row": 31,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 46,
+			"tex": "append extra variables from template file",
+			"content": [
+				"append",
+				"extra",
+				"variables",
+				"from",
+				"template",
+				"file"
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 56,
+			"tex": "deletes the range [FROM,TO]",
+			"content": [
+				"deletes",
+				"the",
+				"range",
+				"[FROM,TO]"
+			],
+			"start_row": 31,
+			"end_row": 31,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 29,
+			"tex": "show debugging information",
+			"content": [
+				"show",
+				"debugging",
+				"information"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 33,
+			"tex": "{\\tt -c <PARAMETER\\_FILE> [-w WORKER\\_FILE] [-t TEMPLATE\\_FILE]}",
+			"content": [
+				"-c",
+				"<PARAMETER",
+				"FILE>",
+				"[-w",
+				"WORKER",
+				"FILE]",
+				"[-t",
+				"TEMPLATE",
+				"FILE]"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 1
+		},
+		{
+			"id": 50,
+			"tex": "only those which were [not] submitted",
+			"content": [
+				"only",
+				"those",
+				"which",
+				"were",
+				"[not]",
+				"submitted"
+			],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 39,
+			"tex": "Argument",
+			"content": [
+				"Argument"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "information about status of the submitted jobs",
+			"content": [
+				"information",
+				"about",
+				"status",
+				"of",
+				"the",
+				"submitted",
+				"jobs"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "{\\tt -d, --delete}",
+			"content": [
+				"-d,",
+				"--delete"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "Description",
+			"content": [
+				"Description"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 41,
+			"tex": "{\\tt PARAMETER\\_FILE}",
+			"content": [
+				"PARAMETER",
+				"FILE"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "{\\tt -l, --license}",
+			"content": [
+				"-l,",
+				"--license"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 61,
+			"tex": "{\\tt now}",
+			"content": [
+				"now"
+			],
+			"start_row": 34,
+			"end_row": 34,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "{\\tt -s, --submit}",
+			"content": [
+				"-s,",
+				"--submit"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "{\\tt --signal}",
+			"content": [
+				"--signal"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 57,
+			"tex": "{\\tt SIG}",
+			"content": [
+				"SIG"
+			],
+			"start_row": 32,
+			"end_row": 32,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 63,
+			"tex": "{\\tt evolution}",
+			"content": [
+				"evolution"
+			],
+			"start_row": 35,
+			"end_row": 35,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 52,
+			"tex": "only those whose jobs have [not] finished",
+			"content": [
+				"only",
+				"those",
+				"whose",
+				"jobs",
+				"have",
+				"[not]",
+				"finished"
+			],
+			"start_row": 29,
+			"end_row": 29,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 35,
+			"tex": "\\tt -s <all|[un]submitted|[un]finished|[un]successful|FROM-TO>",
+			"content": [
+				"-s",
+				"<all|[un]submitted|[un]finished|[un]successful|FROM-TO>"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 0,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "Option",
+			"content": [
+				"Option"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 53,
+			"tex": "{\\tt [un]successful}",
+			"content": [
+				"[un]successful"
+			],
+			"start_row": 30,
+			"end_row": 30,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "add worker file",
+			"content": [
+				"add",
+				"worker",
+				"file"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 51,
+			"tex": "{\\tt [un]finished}",
+			"content": [
+				"[un]finished"
+			],
+			"start_row": 29,
+			"end_row": 29,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 49,
+			"tex": "{\\tt [un]submitted}",
+			"content": [
+				"[un]submitted"
+			],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "{\\tt -h, --help}",
+			"content": [
+				"-h,",
+				"--help"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 28,
+			"tex": "{\\tt --debug}",
+			"content": [
+				"--debug"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 31,
+			"tex": "assign a key=value pair for configuration settings",
+			"content": [
+				"assign",
+				"a",
+				"key=value",
+				"pair",
+				"for",
+				"configuration",
+				"settings"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 45,
+			"tex": "{\\tt TEMPLATE\\_FILE}",
+			"content": [
+				"TEMPLATE",
+				"FILE"
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "print help",
+			"content": [
+				"print",
+				"help"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 36,
+			"tex": "\\tt -p <all|[un]finished|[un]successful|FROM-TO>",
+			"content": [
+				"-p",
+				"<all|[un]finished|[un]successful|FROM-TO>"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 0,
+			"end_col": 1
+		},
+		{
+			"id": 27,
+			"tex": "add signal for kill",
+			"content": [
+				"add",
+				"signal",
+				"for",
+				"kill"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 44,
+			"tex": "executable file to be run remotely",
+			"content": [
+				"executable",
+				"file",
+				"to",
+				"be",
+				"run",
+				"remotely"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 54,
+			"tex": "only those whose jobs finished [un]succesfully",
+			"content": [
+				"only",
+				"those",
+				"whose",
+				"jobs",
+				"finished",
+				"[un]succesfully"
+			],
+			"start_row": 30,
+			"end_row": 30,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "delete templates",
+			"content": [
+				"delete",
+				"templates"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "{\\tt -k, --kill}",
+			"content": [
+				"-k,",
+				"--kill"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "version number of the program",
+			"content": [
+				"version",
+				"number",
+				"of",
+				"the",
+				"program"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 32,
+			"tex": "Syntax",
+			"content": [
+				"Syntax"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 48,
+			"tex": "all the templates are subcommanded",
+			"content": [
+				"all",
+				"the",
+				"templates",
+				"are",
+				"subcommanded"
+			],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "kill the existing jobs from templates",
+			"content": [
+				"kill",
+				"the",
+				"existing",
+				"jobs",
+				"from",
+				"templates"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 43,
+			"tex": "{\\tt WORKER\\_FILE}",
+			"content": [
+				"WORKER",
+				"FILE"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 34,
+			"tex": "\\tt -d <all|[un]submitted|[un]finished|[un]successful|FROM-TO>",
+			"content": [
+				"-d",
+				"<all|[un]submitted|[un]finished|[un]successful|FROM-TO>"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "{\\tt -v, --version}",
+			"content": [
+				"-v,",
+				"--version"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "purge the existing jobs from templates",
+			"content": [
+				"purge",
+				"the",
+				"existing",
+				"jobs",
+				"from",
+				"templates"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 30,
+			"tex": "{\\tt --config key=value}",
+			"content": [
+				"--config",
+				"key=value"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 59,
+			"tex": "{\\tt history}",
+			"content": [
+				"history"
+			],
+			"start_row": 33,
+			"end_row": 33,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "submit the jobs from templates",
+			"content": [
+				"submit",
+				"the",
+				"jobs",
+				"from",
+				"templates"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "create templates",
+			"content": [
+				"create",
+				"templates"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "credits and license",
+			"content": [
+				"credits",
+				"and",
+				"license"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 37,
+			"tex": "\\tt -k <all|[un]finished|[un]successful|FROM-TO> [--signal SIG]",
+			"content": [
+				"-k",
+				"<all|[un]finished|[un]successful|FROM-TO>",
+				"[--signal",
+				"SIG]"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 0,
+			"end_col": 1
+		},
+		{
+			"id": 60,
+			"tex": "full historic information about each job",
+			"content": [
+				"full",
+				"historic",
+				"information",
+				"about",
+				"each",
+				"job"
+			],
+			"start_row": 33,
+			"end_row": 33,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 64,
+			"tex": "timely snapshots of job statuses",
+			"content": [
+				"timely",
+				"snapshots",
+				"of",
+				"job",
+				"statuses"
+			],
+			"start_row": 35,
+			"end_row": 35,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 62,
+			"tex": "last status update for each job",
+			"content": [
+				"last",
+				"status",
+				"update",
+				"for",
+				"each",
+				"job"
+			],
+			"start_row": 34,
+			"end_row": 34,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 42,
+			"tex": "file with parameter description",
+			"content": [
+				"file",
+				"with",
+				"parameter",
+				"description"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 58,
+			"tex": "kill with signal passed to gwkill",
+			"content": [
+				"kill",
+				"with",
+				"signal",
+				"passed",
+				"to",
+				"gwkill"
+			],
+			"start_row": 32,
+			"end_row": 32,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 47,
+			"tex": "{\\tt all}",
+			"content": [
+				"all"
+			],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "Description",
+			"content": [
+				"Description"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "{\\tt -i, --info}",
+			"content": [
+				"-i,",
+				"--info"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "{\\tt -p, --purge}",
+			"content": [
+				"-p,",
+				"--purge"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

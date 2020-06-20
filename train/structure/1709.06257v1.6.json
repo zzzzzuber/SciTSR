@@ -1,0 +1,613 @@
+{
+	"cells": [
+		{
+			"id": 27,
+			"tex": "$med(flux - flux_{med})$",
+			"content": [
+				"med(f",
+				"lux",
+				"\u2212",
+				"f",
+				"luxmed)"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "beyond1std",
+			"content": [
+				"beyond1std"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "median absolute deviation",
+			"content": [
+				"median",
+				"absolute",
+				"deviation"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "$0.5 * (mag_{max} - mag_{min})$",
+			"content": [
+				"0.5",
+				"\u2217",
+				"(magmax",
+				"\u2212",
+				"magmin)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 25,
+			"tex": "$max(|(mag_{i+1}-mag_{i})/(t_{i+1}-t_{i})|)$",
+			"content": [
+				"max(|(magi+1",
+				"\u2212",
+				"magi)/(ti+1",
+				"\u2212",
+				"ti)|)"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "amplitude",
+			"content": [
+				"amplitude"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "max slope",
+			"content": [
+				"max",
+				"slope"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "$mag_{max}$",
+			"content": [
+				"magmax"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "b where mag = a * t + b",
+			"content": [
+				"b",
+				"where",
+				"mag",
+				"=",
+				"a",
+				"*",
+				"t",
+				"+",
+				"b"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "$(flux_{75} - flux_{25}) / (flux_{95} - flux_{5})$",
+			"content": [
+				"(f",
+				"lux75",
+				"\u2212",
+				"f",
+				"lux25)/(f",
+				"lux95",
+				"\u2212",
+				"f",
+				"lux5)"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 38,
+			"tex": "std",
+			"content": [
+				"std"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "flux percentile ratio mid50",
+			"content": [
+				"\ufb02ux",
+				"percentile",
+				"ratio",
+				"mid50"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 37,
+			"tex": "$\\mu_4/\\sigma^4$",
+			"content": [
+				"\u00b54/\u03c34"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "$(flux_{67.5} - flux_{32.5}) / (flux_{95} - flux_{5})$",
+			"content": [
+				"(f",
+				"lux67.5",
+				"\u2212",
+				"f",
+				"lux32.5)/(f",
+				"lux95",
+				"\u2212",
+				"f",
+				"lux5)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 36,
+			"tex": "small kurtosis",
+			"content": [
+				"small",
+				"kurtosis"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "flux percentile ratio mid35",
+			"content": [
+				"\ufb02ux",
+				"percentile",
+				"ratio",
+				"mid35"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 35,
+			"tex": "$\\mu_3/\\sigma^3$",
+			"content": [
+				"\u00b53/\u03c33"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "$(flux_{60} - flux_{40}) / (flux_{95} - flux_{5})$",
+			"content": [
+				"(f",
+				"lux60",
+				"\u2212",
+				"f",
+				"lux40)/(f",
+				"lux95",
+				"\u2212",
+				"f",
+				"lux5)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 34,
+			"tex": "skew",
+			"content": [
+				"skew"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "flux percentile ratio mid20",
+			"content": [
+				"\ufb02ux",
+				"percentile",
+				"ratio",
+				"mid20"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 33,
+			"tex": "$(flux_{95} - flux_{5}) / flux_{med}$",
+			"content": [
+				"(f",
+				"lux95",
+				"\u2212",
+				"f",
+				"lux5)/f",
+				"luxmed"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "$<mag>$",
+			"content": [
+				"<",
+				"mag",
+				">"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 32,
+			"tex": "percent difference flux percentile",
+			"content": [
+				"percent",
+				"di\ufb00erence",
+				"\ufb02ux",
+				"percentile"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "meanmag",
+			"content": [
+				"meanmag"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 31,
+			"tex": "$p(flux_{i+1} - flux_{i} > 0; i = n-30, n)$",
+			"content": [
+				"p(f",
+				"luxi+1",
+				"\u2212",
+				"f",
+				"luxi",
+				">",
+				"0;",
+				"i",
+				"=",
+				"n",
+				"\u2212",
+				"30,",
+				"n)"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 30,
+			"tex": "pair slope trend",
+			"content": [
+				"pair",
+				"slope",
+				"trend"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "maxmag",
+			"content": [
+				"maxmag"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 29,
+			"tex": "$p(|flux - flux_{med}| < 0.1 * flux_{med})$",
+			"content": [
+				"p(|f",
+				"lux",
+				"\u2212",
+				"f",
+				"luxmed|",
+				"<",
+				"0.1",
+				"\u2217",
+				"f",
+				"luxmed)"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "minmag",
+			"content": [
+				"minmag"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 28,
+			"tex": "median buffer range percentage",
+			"content": [
+				"median",
+				"bu\ufb00er",
+				"range",
+				"percentage"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "$mag_{min}$",
+			"content": [
+				"magmin"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "linear trend",
+			"content": [
+				"linear",
+				"trend"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "Formula",
+			"content": [
+				"Formula"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "$(flux_{90} - flux_{10}) / (flux_{95} - flux_{5})$",
+			"content": [
+				"(f",
+				"lux90",
+				"\u2212",
+				"f",
+				"lux10)/(f",
+				"lux95",
+				"\u2212",
+				"f",
+				"lux5)"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 43,
+			"tex": "$var_k$ (mag)",
+			"content": [
+				"vark",
+				"(mag)"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "Feature",
+			"content": [
+				"Feature"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "flux percentile ratio mid80",
+			"content": [
+				"\ufb02ux",
+				"percentile",
+				"ratio",
+				"mid80"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 42,
+			"tex": "stetson k",
+			"content": [
+				"stetson",
+				"k"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "$(flux_{82.5} - flux_{17.5}) / (flux_{95} - flux_{5})$",
+			"content": [
+				"(f",
+				"lux82.5",
+				"\u2212",
+				"f",
+				"lux17.5)/(f",
+				"lux95",
+				"\u2212",
+				"f",
+				"lux5)"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 41,
+			"tex": "$var_j$ (mag)",
+			"content": [
+				"varj",
+				"(mag)"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "flux percentile ratio mid65",
+			"content": [
+				"\ufb02ux",
+				"percentile",
+				"ratio",
+				"mid65"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 40,
+			"tex": "stetson j",
+			"content": [
+				"stetson",
+				"j"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 39,
+			"tex": "$\\sigma$",
+			"content": [
+				"\u03c3"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "$p(|(mag - <mag>)| > \\sigma)$",
+			"content": [
+				"p(|(mag\u2212",
+				"<",
+				"mag",
+				">)|",
+				">",
+				"\u03c3)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

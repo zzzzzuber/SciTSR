@@ -1,0 +1,146 @@
+{"chunks": [
+    {
+        "pos": [
+            139.74600219726562,
+            244.325439453125,
+            617.6610107421875,
+            622.642333984375
+        ],
+        "text": "PeriodI:V2RPhase"
+    },
+    {
+        "pos": [
+            149.70899963378906,
+            502.0356140136719,
+            592.2559814453125,
+            600.554443359375
+        ],
+        "text": "The RSU periodically broadcasts the packets of popular ﬁle Γ= { γ 0 ,...,γ M − 1 } ,"
+    },
+    {
+        "pos": [
+            149.70901489257812,
+            496.7171630859375,
+            569.8400268554688,
+            574.8213500976562
+        ],
+        "text": "and the OBUs in Ω keep receiving data from the RSU when they pass through."
+    },
+    {
+        "pos": [
+            139.7460174560547,
+            249.05767822265625,
+            545.9300537109375,
+            550.911376953125
+        ],
+        "text": "PeriodII:V2VPhase"
+    },
+    {
+        "pos": [
+            149.70901489257812,
+            511.9571533203125,
+            522.01904296875,
+            527.0003662109375
+        ],
+        "text": "With the initially possessed packets given by (??) and (??), the OBUs periodically"
+    },
+    {
+        "pos": [
+            149.7090606689453,
+            301.0000305175781,
+            498.1090393066406,
+            503.09033203125
+        ],
+        "text": "perform the following three stages:"
+    },
+    {
+        "pos": [
+            149.7090606689453,
+            262.4099426269531,
+            474.19903564453125,
+            479.1803283691406
+        ],
+        "text": "StageI:NetworkSplitting"
+    },
+    {
+        "pos": [
+            159.6710662841797,
+            526.6669311523438,
+            450.28802490234375,
+            455.2693176269531
+        ],
+        "text": "The OBUs perform the splitting scheme in Table ??every Kslots, and the network"
+    },
+    {
+        "pos": [
+            159.67105102539062,
+            314.36724853515625,
+            426.3780212402344,
+            431.35931396484375
+        ],
+        "text": "may split into smaller subnetworks."
+    },
+    {
+        "pos": [
+            149.70904541015625,
+            279.0973205566406,
+            402.468017578125,
+            407.4493103027344
+        ],
+        "text": "StageII:CoalitionFormation"
+    },
+    {
+        "pos": [
+            159.67105102539062,
+            524.41357421875,
+            378.5570068359375,
+            383.5382995605469
+        ],
+        "text": "For each subnetwork, the OBUs perform the coalition formation algorithm in Table"
+    },
+    {
+        "pos": [
+            159.67105102539062,
+            410.15106201171875,
+            353.15301513671875,
+            359.6282958984375
+        ],
+        "text": "??to obtain the ﬁnal partition Π final in the current slot."
+    },
+    {
+        "pos": [
+            149.70904541015625,
+            274.4248962402344,
+            330.73699951171875,
+            335.7182922363281
+        ],
+        "text": "StageIII:DataBroadcasting"
+    },
+    {
+        "pos": [
+            159.67105102539062,
+            499.93310546875,
+            306.82598876953125,
+            311.8072814941406
+        ],
+        "text": "For each subnetwork, the OBUs in coalition Sbroadcast the packets resulting"
+    },
+    {
+        "pos": [
+            159.67105102539062,
+            526.5108032226562,
+            281.4219970703125,
+            289.720458984375
+        ],
+        "text": "from the greedy algorithm proposed in Section III, where S ∈ Π final is the coalition"
+    },
+    {
+        "pos": [
+            159.67105102539062,
+            348.04913330078125,
+            259.0059814453125,
+            263.9872741699219
+        ],
+        "text": "with the highest service rate given by (??).."
+    }
+]}

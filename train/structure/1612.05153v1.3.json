@@ -1,0 +1,133 @@
+{
+	"cells": [
+		{
+			"id": 4,
+			"tex": "Batch Normalization (On, Off)",
+			"content": [
+				"Batch",
+				"Normalization",
+				"(On,",
+				"O\ufb00)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "Optimizer (Plain SGD, Momentum, Nesterov Momentum, Adam)",
+			"content": [
+				"Optimizer",
+				"(Plain",
+				"SGD,",
+				"Momentum,",
+				"Nesterov",
+				"Momentum,",
+				"Adam)"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "Learning Rate (0.001, 0.01, 0.1, 0.5, 1.0, 2.0, 10.0, 50.0, 100.0)",
+			"content": [
+				"Learning",
+				"Rate",
+				"(0.001,",
+				"0.01,",
+				"0.1,",
+				"0.5,",
+				"1.0,",
+				"2.0,",
+				"10.0,",
+				"50.0,",
+				"100.0)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "$L_1$ Penalty (Off, 1e-07, 1e-08, 1e-09)",
+			"content": [
+				"L1",
+				"Penalty",
+				"(O\ufb00,",
+				"1e-07,",
+				"1e-08,",
+				"1e-09)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "Learning rate Scheduler (On, Off)",
+			"content": [
+				"Learning",
+				"rate",
+				"Scheduler",
+				"(On,",
+				"O\ufb00)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "$L_2$ Penalty (Off, 1e-07, 1e-08, 1e-09)",
+			"content": [
+				"L2",
+				"Penalty",
+				"(O\ufb00,",
+				"1e-07,",
+				"1e-08,",
+				"1e-09)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "Dropout (Off, 0.1, 0.3, 0.5)",
+			"content": [
+				"Dropout",
+				"(O\ufb00,",
+				"0.1,",
+				"0.3,",
+				"0.5)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "Momentum (Off, 0.7, 0.8, 0.9)",
+			"content": [
+				"Momentum",
+				"(O\ufb00,",
+				"0.7,",
+				"0.8,",
+				"0.9)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

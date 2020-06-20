@@ -1,0 +1,134 @@
+{
+	"cells": [
+		{
+			"id": 0,
+			"tex": "Micro-architectural parameters",
+			"content": [
+				"Micro-architectural",
+				"parameters"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "Value",
+			"content": [
+				"Value"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "128KB/8KB/8KB",
+			"content": [
+				"128KB/8KB/8KB"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "On-chip $W$/$U$/$V$ memory per PE",
+			"content": [
+				"On-chip",
+				"W",
+				"/U",
+				"/V",
+				"memory",
+				"per",
+				"PE"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "Flow control of NoC router",
+			"content": [
+				"Flow",
+				"control",
+				"of",
+				"NoC",
+				"router"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "Quantization scheme",
+			"content": [
+				"Quantization",
+				"scheme"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "Activation register no. per PE",
+			"content": [
+				"Activation",
+				"register",
+				"no.",
+				"per",
+				"PE"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "64",
+			"content": [
+				"64"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "16-bit fixed point",
+			"content": [
+				"16-bit",
+				"\ufb01xed",
+				"point"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "Packet-buffer with credit",
+			"content": [
+				"Packet-bu\ufb00er",
+				"with",
+				"credit"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

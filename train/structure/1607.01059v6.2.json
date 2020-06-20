@@ -1,0 +1,162 @@
+{
+	"cells": [
+		{
+			"id": 1,
+			"tex": "Data Set Parameters",
+			"content": [
+				"Data",
+				"Set",
+				"Parameters"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "Algorithm Parameters",
+			"content": [
+				"Algorithm",
+				"Parameters"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "$N$: Dictionary size",
+			"content": [
+				"N",
+				":",
+				"Dictionary",
+				"size"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 3,
+			"tex": "$d$, $n$: Local PCA parameters",
+			"content": [
+				"d,",
+				"n:",
+				"Local",
+				"PCA",
+				"parameters"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "t: Time in seconds",
+			"content": [
+				"t:",
+				"Time",
+				"in",
+				"seconds"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 7,
+			"tex": "$\\eta$: Noise level",
+			"content": [
+				"\u03b7:",
+				"Noise",
+				"level"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "Output Parameters",
+			"content": [
+				"Output",
+				"Parameters"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 6,
+			"tex": "$\\lambda$: Error/sparsity trade-off",
+			"content": [
+				"\u03bb:",
+				"Error/sparsity",
+				"trade-o\ufb00"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "$r$: Pruning parameter (set automatically)",
+			"content": [
+				"r:",
+				"Pruning",
+				"parameter",
+				"(set",
+				"automatically)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "$\\kappa$: \\# of Homotopy iterations",
+			"content": [
+				"\u03ba:",
+				"#",
+				"of",
+				"Homotopy",
+				"iterations"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 4,
+			"tex": "$N_0$: Class size",
+			"content": [
+				"N0:",
+				"Class",
+				"size"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "",
+			"content": [],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

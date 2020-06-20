@@ -1,0 +1,403 @@
+{
+	"cells": [
+		{
+			"id": 10,
+			"tex": "$Residual block, 128 filters$",
+			"content": [
+				"Residualblock,",
+				"128f",
+				"ilters"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "$Residual block, 128 filters$",
+			"content": [
+				"Residualblock,",
+				"128f",
+				"ilters"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "$64\\times64\\times64$",
+			"content": [
+				"64",
+				"\u00d7",
+				"64",
+				"\u00d7",
+				"64"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "$3\\times3\\times128$ conv, pad $1$, stride $2$",
+			"content": [
+				"3",
+				"\u00d7",
+				"3",
+				"\u00d7",
+				"128",
+				"conv,",
+				"pad",
+				"1,",
+				"stride",
+				"2"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "$3\\times3\\times64$ deconv, pad $1$, stride $2$",
+			"content": [
+				"3",
+				"\u00d7",
+				"3",
+				"\u00d7",
+				"64",
+				"deconv,",
+				"pad",
+				"1,",
+				"stride",
+				"2"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 25,
+			"tex": "$3\\times128\\times128$",
+			"content": [
+				"3",
+				"\u00d7",
+				"128",
+				"\u00d7",
+				"128"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "$128\\times32\\times32$",
+			"content": [
+				"128",
+				"\u00d7",
+				"32",
+				"\u00d7",
+				"32"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "$128\\times32\\times32$",
+			"content": [
+				"128",
+				"\u00d7",
+				"32",
+				"\u00d7",
+				"32"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "$128\\times32\\times32$",
+			"content": [
+				"128",
+				"\u00d7",
+				"32",
+				"\u00d7",
+				"32"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "$9\\times9\\times32$ conv, pad $4$, stride $1$",
+			"content": [
+				"9",
+				"\u00d7",
+				"9",
+				"\u00d7",
+				"32",
+				"conv,",
+				"pad",
+				"4,",
+				"stride",
+				"1"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "$32\\times127\\times127$",
+			"content": [
+				"32",
+				"\u00d7",
+				"127",
+				"\u00d7",
+				"127"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "$3\\times3\\times32$ deconv, pad $1$, stride $2$",
+			"content": [
+				"3",
+				"\u00d7",
+				"3",
+				"\u00d7",
+				"32",
+				"deconv,",
+				"pad",
+				"1,",
+				"stride",
+				"2"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "Input",
+			"content": [
+				"Input"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "$32\\times128\\times128$",
+			"content": [
+				"32",
+				"\u00d7",
+				"128",
+				"\u00d7",
+				"128"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "$64\\times64\\times64$",
+			"content": [
+				"64",
+				"\u00d7",
+				"64",
+				"\u00d7",
+				"64"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "$128\\times32\\times32$",
+			"content": [
+				"128",
+				"\u00d7",
+				"32",
+				"\u00d7",
+				"32"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "Activation size",
+			"content": [
+				"Activation",
+				"size"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "$Residual block, 128 filters$",
+			"content": [
+				"Residualblock,",
+				"128f",
+				"ilters"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "$Residual block, 128 filters$",
+			"content": [
+				"Residualblock,",
+				"128f",
+				"ilters"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "$128\\times32\\times32$",
+			"content": [
+				"128",
+				"\u00d7",
+				"32",
+				"\u00d7",
+				"32"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "Layer",
+			"content": [
+				"Layer"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "$10\\times10\\times3$ deconv, pad $4$, stride $1$",
+			"content": [
+				"10",
+				"\u00d7",
+				"10",
+				"\u00d7",
+				"3",
+				"deconv,",
+				"pad",
+				"4,",
+				"stride",
+				"1"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "$3\\times128\\times128$",
+			"content": [
+				"3",
+				"\u00d7",
+				"128",
+				"\u00d7",
+				"128"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "$128\\times32\\times32$",
+			"content": [
+				"128",
+				"\u00d7",
+				"32",
+				"\u00d7",
+				"32"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "$3\\times3\\times64$ conv, pad $1$, stride $2$",
+			"content": [
+				"3",
+				"\u00d7",
+				"3",
+				"\u00d7",
+				"64",
+				"conv,",
+				"pad",
+				"1,",
+				"stride",
+				"2"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "$Residual block, 128 filters$",
+			"content": [
+				"Residualblock,",
+				"128f",
+				"ilters"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

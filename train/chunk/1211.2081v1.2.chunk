@@ -1,0 +1,74 @@
+{"chunks": [
+    {
+        "pos": [
+            139.74600219726562,
+            366.20721435546875,
+            522.0189819335938,
+            528.8234252929688
+        ],
+        "text": "For any OBU i ∈ Ω, it performs the following steps:"
+    },
+    {
+        "pos": [
+            149.70899963378906,
+            504.79266357421875,
+            498.1089782714844,
+            503.09027099609375
+        ],
+        "text": "a) Discover its neighbors, where the well-known neighboring discovery algorithms"
+    },
+    {
+        "pos": [
+            149.70899963378906,
+            341.3225402832031,
+            474.198974609375,
+            479.1802673339844
+        ],
+        "text": "in ad hoc routing discovery can be engaged."
+    },
+    {
+        "pos": [
+            149.70899963378906,
+            509.5279235839844,
+            450.2879638671875,
+            455.2692565917969
+        ],
+        "text": "b) Discover the nearby subnetworks that have at least one member as its neighbor"
+    },
+    {
+        "pos": [
+            149.70899963378906,
+            273.352783203125,
+            426.3779602050781,
+            431.3592529296875
+        ],
+        "text": "by asking from its neighbors"
+    },
+    {
+        "pos": [
+            149.70899963378906,
+            503.05462646484375,
+            400.97296142578125,
+            407.4492492675781
+        ],
+        "text": "c) Join the largest nearby subnetwork with the number of members below N max ."
+    },
+    {
+        "pos": [
+            149.70901489257812,
+            503.8573303222656,
+            378.55694580078125,
+            383.5382385253906
+        ],
+        "text": "d) If there is no subnetworks, or all the subnetworks have the maximal members,"
+    },
+    {
+        "pos": [
+            149.70901489257812,
+            448.9528503417969,
+            354.6469421386719,
+            359.62823486328125
+        ],
+        "text": "OBU iestablishes a new subnetwork with itself as the only member.."
+    }
+]}

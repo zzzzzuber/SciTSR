@@ -1,0 +1,328 @@
+{
+	"cells": [
+		{
+			"id": 1,
+			"tex": "$0.05,~c_4~=~0.20$ and initialize parameters $\\mathbf{x_i},~\\mathbf{v_i}$",
+			"content": [
+				"0.05,",
+				"c4",
+				"=",
+				"0.20",
+				"and",
+				"initialize",
+				"parameters",
+				"xi,",
+				"vi"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "\\hspace{4mm}$t \\leftarrow t+1$",
+			"content": [
+				"t",
+				"\u2190",
+				"t",
+				"+",
+				"1"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "\\hspace{6mm}Then update the velocity of each particle as in Eq (7).",
+			"content": [
+				"Then",
+				"update",
+				"the",
+				"velocity",
+				"of",
+				"each",
+				"particle",
+				"as",
+				"in",
+				"Eq",
+				"(7)."
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "\\hspace{4mm}\\textbf{Function evaluation step:}",
+			"content": [
+				"Function",
+				"evaluation",
+				"step:"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "\\hspace{4mm}\\textbf{Velocity update step:}",
+			"content": [
+				"Velocity",
+				"update",
+				"step:"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "\\hspace{6mm}Add updated velocity to existing position.",
+			"content": [
+				"Add",
+				"updated",
+				"velocity",
+				"to",
+				"existing",
+				"position."
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "\\hspace{8mm}\\textbf{end if}",
+			"content": [
+				"end",
+				"if"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "\\hspace{6mm}\\textbf{end for}",
+			"content": [
+				"end",
+				"for"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "\\hspace{6mm}Calculate the function $f(\\mathbf{x})$ for $\\mathbf{x}_i$",
+			"content": [
+				"Calculate",
+				"the",
+				"function",
+				"f",
+				"(x)",
+				"for",
+				"xi"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "\\hspace{6mm}\\textbf{for} $m$ = 1 to $k$",
+			"content": [
+				"for",
+				"m",
+				"=",
+				"1",
+				"to",
+				"k"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "\\hspace{2mm}\\textbf{while} $t < t_{max}$",
+			"content": [
+				"while",
+				"t",
+				"<",
+				"tmax"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "\\hspace{6mm}Randomly choose values for $r_1,~r_2,~r_3,~r_4$ in the range `0' and `1'.",
+			"content": [
+				"Randomly",
+				"choose",
+				"values",
+				"for",
+				"r1,",
+				"r2,",
+				"r3,",
+				"r4",
+				"in",
+				"the",
+				"range",
+				"\u20180\u2019",
+				"and",
+				"\u20181\u2019."
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "\\textbf{Outputs:} Global best value",
+			"content": [
+				"Outputs:",
+				"Global",
+				"best",
+				"value"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "\\hspace{2mm}$t=0$,",
+			"content": [
+				"t",
+				"=",
+				"0,"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "\\hspace{4mm}\\textbf{Position update step:}",
+			"content": [
+				"Position",
+				"update",
+				"step:"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "\\hspace{6mm}Check constraint on the particles $\\mathbf{x}^TP_1\\mathbf{x}~\\leq~1$.",
+			"content": [
+				"Check",
+				"constraint",
+				"on",
+				"the",
+				"particles",
+				"xT",
+				"P1x",
+				"\u2264",
+				"1."
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "\\textbf{Inputs:} $k=10$, $t_{max}=T$ and $f(\\mathbf{x})$; set $w~=~ 0.05,~c_1~=~0.05,~c_2~=~0.05,~c_3~=$",
+			"content": [
+				"Inputs:",
+				"k",
+				"=",
+				"10,",
+				"tmax",
+				"=",
+				"T",
+				"and",
+				"f",
+				"(x);",
+				"set",
+				"w",
+				"=",
+				"0.05,",
+				"c1",
+				"=",
+				"0.05,",
+				"c2",
+				"=",
+				"0.05,",
+				"c3",
+				"="
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "\\hspace{2mm}\\textbf{end while}",
+			"content": [
+				"end",
+				"while"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "\\hspace{8mm}\\textbf{if} $\\mathbf{x}_m^TP_1\\mathbf{x}_m~>~1$ \\textbf{then}",
+			"content": [
+				"if",
+				"xT",
+				"mP1xm",
+				">",
+				"1",
+				"then"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "\\hspace{10mm}$\\mathbf{x}_m = \\mathbf{x}_{m prev}$",
+			"content": [
+				"xm",
+				"=",
+				"xmprev"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

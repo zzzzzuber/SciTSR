@@ -1,0 +1,307 @@
+{
+	"cells": [
+		{
+			"id": 6,
+			"tex": "(Miller's algorithm~)",
+			"content": [
+				"(Miller\u2019s",
+				"algorithm",
+				")"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "$ 2{\\bf S}_{p^k} + 2{\\bf M}_{p^k} = 3.6{\\bf M}_{p^k}$(line {\\bf 3})",
+			"content": [
+				"2Spk",
+				"+",
+				"2Mpk",
+				"=",
+				"3.6Mpk",
+				"(line",
+				"3)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 15,
+			"tex": "$2{\\bf S}_{p^k} + 2{\\bf M}_{p^k}$",
+			"content": [
+				"2Spk",
+				"+",
+				"2Mpk"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "{\\bf Algorithm~\\ref{our:algoMiller}}",
+			"content": [
+				"Algorithm",
+				"??"
+			],
+			"start_row": 7,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "= $3.6{\\bf M}_{p^k}$",
+			"content": [
+				"=",
+				"3.6Mpk"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "= $2.8{\\bf M}_{p^k}$",
+			"content": [
+				"=",
+				"2.8Mpk"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 22,
+			"tex": "= $2.6{\\bf M}_{p^k}$",
+			"content": [
+				"=",
+				"2.6Mpk"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "$1{\\bf S}_{p^k} + 1{\\bf M}_{p^k}$",
+			"content": [
+				"1Spk",
+				"+",
+				"1Mpk"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "Doubling and Addition",
+			"content": [
+				"Doubling",
+				"and",
+				"Addition"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 7,
+			"tex": "= $4.6{\\bf M}_{p^k}$",
+			"content": [
+				"=",
+				"4.6Mpk"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "$2{\\bf S}_{p^k} + 3{\\bf M}_{p^k}$",
+			"content": [
+				"2Spk",
+				"+",
+				"3Mpk"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "$2{\\bf S}_{p^k} + 5{\\bf M}_{p^k}$",
+			"content": [
+				"2Spk",
+				"+",
+				"5Mpk"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 20,
+			"tex": "$ 2{\\bf S}_{p^k} + 1{\\bf M}_{p^k}$",
+			"content": [
+				"2Spk",
+				"+",
+				"1Mpk"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "= $5.6{\\bf M}_{p^k}$",
+			"content": [
+				"=",
+				"5.6Mpk"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 16,
+			"tex": "$2{\\bf S}_{p^k} + 4{\\bf M}_{p^k}$",
+			"content": [
+				"2Spk",
+				"+",
+				"4Mpk"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 14,
+			"tex": "{\\bf Algorithm~\\ref{algo:Miller1}}",
+			"content": [
+				"Algorithm",
+				"??"
+			],
+			"start_row": 5,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "{\\bf Algorithm in~}",
+			"content": [
+				"Algorithm",
+				"in"
+			],
+			"start_row": 3,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "$ 2{\\bf S}_{p^k} + 3{\\bf M}_{p^k} = 4.6{\\bf M}_{p^k}$ (line {\\bf 4})",
+			"content": [
+				"2Spk",
+				"+",
+				"3Mpk",
+				"=",
+				"4.6Mpk",
+				"(line",
+				"4)"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 1,
+			"tex": "Doubling",
+			"content": [
+				"Doubling"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "$1{\\bf S}_{p^k} + 2{\\bf M}_{p^k}$",
+			"content": [
+				"1Spk",
+				"+",
+				"2Mpk"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 3,
+			"tex": "{\\bf Algorithm~\\ref{algo:Miller}}",
+			"content": [
+				"Algorithm",
+				"??"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "",
+			"content": [],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "= $6.6{\\bf M}_{p^k}$",
+			"content": [
+				"=",
+				"6.6Mpk"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 12,
+			"tex": "= $1.8{\\bf M}_{p^k}$",
+			"content": [
+				"=",
+				"1.8Mpk"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

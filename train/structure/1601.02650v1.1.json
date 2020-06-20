@@ -1,0 +1,571 @@
+{
+	"cells": [
+		{
+			"id": 23,
+			"tex": "\\verb|{?Q rdfs:subPropertyOf ?Q}.|",
+			"content": [
+				"{?Q",
+				"rdfs:subPropertyOf",
+				"?Q}."
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 13,
+			"tex": "\\verb|=>|",
+			"content": [
+				"=>"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 28,
+			"tex": "\\verb|=>|",
+			"content": [
+				"=>"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 30,
+			"tex": "\\verb|{?A rdfs:subClassOf ?B. ?S rdf:type ?A}|",
+			"content": [
+				"{?A",
+				"rdfs:subClassOf",
+				"?B.",
+				"?S",
+				"rdf:type",
+				"?A}"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 40,
+			"tex": "\\verb|=>|",
+			"content": [
+				"=>"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 25,
+			"tex": "\\verb|=>|",
+			"content": [
+				"=>"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "\\verb|{?P rdfs:subPropertyOf ?R}.|",
+			"content": [
+				"{?P",
+				"rdfs:subPropertyOf",
+				"?R}."
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 5,
+			"tex": "\\verb|{?P rdf:type rdf:Property}.|",
+			"content": [
+				"{?P",
+				"rdf:type",
+				"rdf:Property}."
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 36,
+			"tex": "\\verb|{?B rdfs:subClassOf ?C. ?A rdfs:subClassOf ?B}|",
+			"content": [
+				"{?B",
+				"rdfs:subClassOf",
+				"?C.",
+				"?A",
+				"rdfs:subClassOf",
+				"?B}"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 41,
+			"tex": "\\verb|{?X rdfs:subPropertyOf rdfs:member}.|",
+			"content": [
+				"{?X",
+				"rdfs:subPropertyOf",
+				"rdfs:member}."
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 38,
+			"tex": "\\verb|{?A rdfs:subClassOf ?C}.|",
+			"content": [
+				"{?A",
+				"rdfs:subClassOf",
+				"?C}."
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 39,
+			"tex": "\\verb|{?X rdf:type rdfs:ContainerMembershipProperty}|",
+			"content": [
+				"{?X",
+				"rdf:type",
+				"rdfs:ContainerMembershipProperty}"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 33,
+			"tex": "\\verb|{?Q rdf:type rdfs:Class}|",
+			"content": [
+				"{?Q",
+				"rdf:type",
+				"rdfs:Class}"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "\\verb|{?Q rdfs:subPropertyOf ?R. ?P rdfs:subPropertyOf ?Q}|",
+			"content": [
+				"{?Q",
+				"rdfs:subPropertyOf",
+				"?R.",
+				"?P",
+				"rdfs:subPropertyOf",
+				"?Q}"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "\\verb|{?P rdfs:subPropertyOf ?R. ?S ?P ?O}|",
+			"content": [
+				"{?P",
+				"rdfs:subPropertyOf",
+				"?R.",
+				"?S",
+				"?P",
+				"?O}"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "\\verb|{?O rdf:type rdfs:Resource}.|",
+			"content": [
+				"{?O",
+				"rdf:type",
+				"rdfs:Resource}."
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 26,
+			"tex": "\\verb|{?S ?R ?O}.|",
+			"content": [
+				"{?S",
+				"?R",
+				"?O}."
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 1,
+			"tex": "",
+			"content": [],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "\\verb|=>|",
+			"content": [
+				"=>"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "\\verb|{?S ?P ?O}|",
+			"content": [
+				"{?S",
+				"?P",
+				"?O}"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 31,
+			"tex": "\\verb|=>|",
+			"content": [
+				"=>"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 29,
+			"tex": "\\verb|{?C rdfs:subClassOf rdfs:Resource}.|",
+			"content": [
+				"{?C",
+				"rdfs:subClassOf",
+				"rdfs:Resource}."
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 37,
+			"tex": "\\verb|=>|",
+			"content": [
+				"=>"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 42,
+			"tex": "\\verb|{?X rdf:type rdfs:Datatype}|",
+			"content": [
+				"{?X",
+				"rdf:type",
+				"rdfs:Datatype}"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "\\verb|=>|",
+			"content": [
+				"=>"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 43,
+			"tex": "\\verb|=>|",
+			"content": [
+				"=>"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "\\verb|{?S ?P ?O}|",
+			"content": [
+				"{?S",
+				"?P",
+				"?O}"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "\\verb|=>|",
+			"content": [
+				"=>"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "\\verb|{?S rdf:type rdfs:Resource}.|",
+			"content": [
+				"{?S",
+				"rdf:type",
+				"rdfs:Resource}."
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 0,
+			"tex": "Conditions",
+			"content": [
+				"Conditions"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 34,
+			"tex": "\\verb|=>|",
+			"content": [
+				"=>"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "\\verb|{?S rdf:type ?C}.|",
+			"content": [
+				"{?S",
+				"rdf:type",
+				"?C}."
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 6,
+			"tex": "\\verb|{?P rdfs:domain ?C. ?S ?P ?O}|",
+			"content": [
+				"{?P",
+				"rdfs:domain",
+				"?C.",
+				"?S",
+				"?P",
+				"?O}"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "\\verb|=>|",
+			"content": [
+				"=>"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 35,
+			"tex": "\\verb|{?Q rdfs:subClassOf ?Q}.|",
+			"content": [
+				"{?Q",
+				"rdfs:subClassOf",
+				"?Q}."
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 7,
+			"tex": "\\verb|=>|",
+			"content": [
+				"=>"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "\\verb|{?P rdfs:range ?C. ?S ?P ?O}|",
+			"content": [
+				"{?P",
+				"rdfs:range",
+				"?C.",
+				"?S",
+				"?P",
+				"?O}"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 44,
+			"tex": "\\verb|{?X rdfs:subClassOf rdfs:Literal}.|",
+			"content": [
+				"{?X",
+				"rdfs:subClassOf",
+				"rdfs:Literal}."
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 2,
+			"tex": "Conclusions",
+			"content": [
+				"Conclusions"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 27,
+			"tex": "\\verb|{?C rdf:type rdfs:Class}|",
+			"content": [
+				"{?C",
+				"rdf:type",
+				"rdfs:Class}"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 32,
+			"tex": "\\verb|{?S rdf:type ?B}.|",
+			"content": [
+				"{?S",
+				"rdf:type",
+				"?B}."
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 12,
+			"tex": "\\verb|{?S ?P ?O}|",
+			"content": [
+				"{?S",
+				"?P",
+				"?O}"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "\\verb|{?Q rdf:type rdf:Property}|",
+			"content": [
+				"{?Q",
+				"rdf:type",
+				"rdf:Property}"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "\\verb|{?O rdf:type ?C}.|",
+			"content": [
+				"{?O",
+				"rdf:type",
+				"?C}."
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 19,
+			"tex": "\\verb|=>|",
+			"content": [
+				"=>"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

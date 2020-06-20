@@ -1,0 +1,940 @@
+{
+	"cells": [
+		{
+			"id": 15,
+			"tex": "Max of softmax imdata + imflow + imsumdiff",
+			"content": [
+				"Max",
+				"of",
+				"softmax",
+				"imdata",
+				"+",
+				"im\ufb02ow",
+				"+",
+				"imsumdi\ufb00"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 36,
+			"tex": "kernelized second order pooling of local dynamics",
+			"content": [
+				"kernelized",
+				"second",
+				"order",
+				"pooling",
+				"of",
+				"local",
+				"dynamics"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 35,
+			"tex": "48.6",
+			"content": [
+				"48.6"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 34,
+			"tex": "55.6",
+			"content": [
+				"55.6"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 33,
+			"tex": "second order pooling of imflow",
+			"content": [
+				"second",
+				"order",
+				"pooling",
+				"of",
+				"im\ufb02ow"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "47.0",
+			"content": [
+				"47.0"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 32,
+			"tex": "52.0",
+			"content": [
+				"52.0"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 10,
+			"tex": "33.9",
+			"content": [
+				"33.9"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 31,
+			"tex": "49.7",
+			"content": [
+				"49.7"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "softmax of only imdata",
+			"content": [
+				"softmax",
+				"of",
+				"only",
+				"imdata"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 30,
+			"tex": "second order pooling of imdata",
+			"content": [
+				"second",
+				"order",
+				"pooling",
+				"of",
+				"imdata"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "47.8",
+			"content": [
+				"47.8"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 8,
+			"tex": "45.4",
+			"content": [
+				"45.4"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 29,
+			"tex": "49.3",
+			"content": [
+				"49.3"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 53,
+			"tex": "58.9",
+			"content": [
+				"58.9"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 54,
+			"tex": "kernelized second order pooling of flow + imdata (VGG Two-Stream)",
+			"content": [
+				"kernelized",
+				"second",
+				"order",
+				"pooling",
+				"of",
+				"\ufb02ow",
+				"+",
+				"imdata",
+				"(VGG",
+				"Two-Stream)"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "35.3",
+			"content": [
+				"35.3"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 28,
+			"tex": "51.3",
+			"content": [
+				"51.3"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 52,
+			"tex": "60.0",
+			"content": [
+				"60.0"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "softmax of only imsumdiff",
+			"content": [
+				"softmax",
+				"of",
+				"only",
+				"imsumdi\ufb00"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "second order pooling of local dynamics (1)",
+			"content": [
+				"second",
+				"order",
+				"pooling",
+				"of",
+				"local",
+				"dynamics",
+				"(1)"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "45.3",
+			"content": [
+				"45.3"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 26,
+			"tex": "67.3",
+			"content": [
+				"67.3"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 4,
+			"tex": "37.6",
+			"content": [
+				"37.6"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 25,
+			"tex": "64.2",
+			"content": [
+				"64.2"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "softmax of only imflow",
+			"content": [
+				"softmax",
+				"of",
+				"only",
+				"im\ufb02ow"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 51,
+			"tex": "second order pooling of flow + imdata (VGG Two-Stream)",
+			"content": [
+				"second",
+				"order",
+				"pooling",
+				"of",
+				"\ufb02ow",
+				"+",
+				"imdata",
+				"(VGG",
+				"Two-Stream)"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "Accuracy",
+			"content": [
+				"Accuracy"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 12,
+			"tex": "Max of softmax imdata + imflow",
+			"content": [
+				"Max",
+				"of",
+				"softmax",
+				"imdata",
+				"+",
+				"im\ufb02ow"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 50,
+			"tex": "64.9",
+			"content": [
+				"64.9"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 69,
+			"tex": "kernelized second order pooling + all features + Alexnet",
+			"content": [
+				"kernelized",
+				"second",
+				"order",
+				"pooling",
+				"+",
+				"all",
+				"features",
+				"+",
+				"Alexnet"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "mAP",
+			"content": [
+				"mAP"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 49,
+			"tex": "66.8",
+			"content": [
+				"66.8"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 70,
+			"tex": "",
+			"content": [],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 48,
+			"tex": "second order pooling of flow + imdata + trajectories",
+			"content": [
+				"second",
+				"order",
+				"pooling",
+				"of",
+				"\ufb02ow",
+				"+",
+				"imdata",
+				"+",
+				"trajectories"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 68,
+			"tex": "66.4",
+			"content": [
+				"66.4"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 0,
+			"tex": "Expt",
+			"content": [
+				"Expt"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 47,
+			"tex": "65.8",
+			"content": [
+				"65.8"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 67,
+			"tex": "68.5",
+			"content": [
+				"68.5"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 46,
+			"tex": "67.8",
+			"content": [
+				"67.8"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 66,
+			"tex": "Kernelized second order pooling imdata + imflow + sumdiff + stein",
+			"content": [
+				"Kernelized",
+				"second",
+				"order",
+				"pooling",
+				"imdata",
+				"+",
+				"im\ufb02ow",
+				"+",
+				"sumdi\ufb00",
+				"+",
+				"stein"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 45,
+			"tex": "second order pooling of flow + imdata + dynamics + trajectories",
+			"content": [
+				"second",
+				"order",
+				"pooling",
+				"of",
+				"\ufb02ow",
+				"+",
+				"imdata",
+				"+",
+				"dynamics",
+				"+",
+				"trajectories"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 65,
+			"tex": "70.0",
+			"content": [
+				"70.0"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 44,
+			"tex": "53.4",
+			"content": [
+				"53.4"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 43,
+			"tex": "60.6",
+			"content": [
+				"60.6"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 64,
+			"tex": "73.5",
+			"content": [
+				"73.5"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "38.1",
+			"content": [
+				"38.1"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 42,
+			"tex": "kernelized second order pooling of imflow",
+			"content": [
+				"kernelized",
+				"second",
+				"order",
+				"pooling",
+				"of",
+				"im\ufb02ow"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 63,
+			"tex": "kernelized second order pooling of all features + trajectories",
+			"content": [
+				"kernelized",
+				"second",
+				"order",
+				"pooling",
+				"of",
+				"all",
+				"features",
+				"+",
+				"trajectories"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 41,
+			"tex": "55.7",
+			"content": [
+				"55.7"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 40,
+			"tex": "52.5",
+			"content": [
+				"52.5"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 39,
+			"tex": "kernelized second order pooling of imdata",
+			"content": [
+				"kernelized",
+				"second",
+				"order",
+				"pooling",
+				"of",
+				"imdata"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 38,
+			"tex": "56.4",
+			"content": [
+				"56.4"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 24,
+			"tex": "max pool of fc6+fc7 features imdata+ imflow + imsumdiff + traj (linear)",
+			"content": [
+				"max",
+				"pool",
+				"of",
+				"fc6+fc7",
+				"features",
+				"imdata+",
+				"im\ufb02ow",
+				"+",
+				"imsumdi\ufb00",
+				"+",
+				"traj",
+				"(linear)"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 37,
+			"tex": "55.7",
+			"content": [
+				"55.7"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 62,
+			"tex": "67.9",
+			"content": [
+				"67.9"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 23,
+			"tex": "65.3",
+			"content": [
+				"65.3"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 61,
+			"tex": "69.8",
+			"content": [
+				"69.8"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "68.5",
+			"content": [
+				"68.5"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 60,
+			"tex": "kernelized second order pooling of flow + imdata + trajectories",
+			"content": [
+				"kernelized",
+				"second",
+				"order",
+				"pooling",
+				"of",
+				"\ufb02ow",
+				"+",
+				"imdata",
+				"+",
+				"trajectories"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "Stack softmax and then kernelized pool (195x195)",
+			"content": [
+				"Stack",
+				"softmax",
+				"and",
+				"then",
+				"kernelized",
+				"pool",
+				"(195x195)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 59,
+			"tex": "65.4",
+			"content": [
+				"65.4"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 20,
+			"tex": "63.9",
+			"content": [
+				"63.9"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 58,
+			"tex": "65.6",
+			"content": [
+				"65.6"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "62.2",
+			"content": [
+				"62.2"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 57,
+			"tex": "kernelized second order pooling of flow + imdata + dynamics",
+			"content": [
+				"kernelized",
+				"second",
+				"order",
+				"pooling",
+				"of",
+				"\ufb02ow",
+				"+",
+				"imdata",
+				"+",
+				"dynamics"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "Stacked max pool softmax of imdata + imflow + imsumdiff (RBF)",
+			"content": [
+				"Stacked",
+				"max",
+				"pool",
+				"softmax",
+				"of",
+				"imdata",
+				"+",
+				"im\ufb02ow",
+				"+",
+				"imsumdi\ufb00",
+				"(RBF)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 56,
+			"tex": "63.7",
+			"content": [
+				"63.7"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 17,
+			"tex": "49.9",
+			"content": [
+				"49.9"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 55,
+			"tex": "64.4",
+			"content": [
+				"64.4"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "39.5",
+			"content": [
+				"39.5"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

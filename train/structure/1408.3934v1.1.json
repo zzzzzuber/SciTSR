@@ -1,0 +1,214 @@
+{
+	"cells": [
+		{
+			"id": 10,
+			"tex": "\\textbf{Tokens}: ['Ive', 'had', 'a', 'lot', 'of', 'fun', 'tonight.tk']",
+			"content": [
+				"Tokens:",
+				"[\u2019Ive\u2019,",
+				"\u2019had\u2019,",
+				"\u2019a\u2019,",
+				"\u2019lot\u2019,",
+				"\u2019of\u2019,",
+				"\u2019fun\u2019,",
+				"\u2019tonight.tk\u2019]"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "\\textbf{Tokens}: ['Hi', 'I', 'want', 'to', 'meet', 'you', 'tonight', 'spamdomain.com.Support', 'me'",
+			"content": [
+				"Tokens:",
+				"[\u2019Hi\u2019,",
+				"\u2019I\u2019,",
+				"\u2019want\u2019,",
+				"\u2019to\u2019,",
+				"\u2019meet\u2019,",
+				"\u2019you\u2019,",
+				"\u2019tonight\u2019,",
+				"\u2019spamdomain.com.Support\u2019,",
+				"\u2019me\u2019"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "\\textbf{Problem}: Incorrect URL detection (wrong TLD)",
+			"content": [
+				"Problem:",
+				"Incorrect",
+				"URL",
+				"detection",
+				"(wrong",
+				"TLD)"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "\\textbf{Problem}: Incorrect tokenization and no CTA detection",
+			"content": [
+				"Problem:",
+				"Incorrect",
+				"tokenization",
+				"and",
+				"no",
+				"CTA",
+				"detection"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "\\textbf{CTA}:[none]",
+			"content": [
+				"CTA:[none]"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "Examples of incorrectly processed messages",
+			"content": [
+				"Examples",
+				"of",
+				"incorrectly",
+				"processed",
+				"messages"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "\\textbf{Problem}: Incorrect URL detection (no URL)",
+			"content": [
+				"Problem:",
+				"Incorrect",
+				"URL",
+				"detection",
+				"(no",
+				"URL)"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "\\textbf{Tokens}: ['rOtOcarr0', 'K0nprare', '0ld', 'trashed', 'crashed', 'up', 'k', 'a', 'r', 's', 'callus', 'now555O5O5O5O']",
+			"content": [
+				"Tokens:",
+				"[\u2019rOtOcarr0\u2019,",
+				"\u2019K0nprare\u2019,",
+				"\u20190ld\u2019,",
+				"\u2019trashed\u2019,",
+				"\u2019crashed\u2019,",
+				"\u2019up\u2019,",
+				"\u2019k\u2019,",
+				"\u2019a\u2019,",
+				"\u2019r\u2019,",
+				"\u2019s\u2019,",
+				"\u2019callus\u2019,",
+				"\u2019now555O5O5O5O\u2019]"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "\\textbf{Message}: Hi, I want to meet you tonight, spamdomain.com.Support me",
+			"content": [
+				"Message:",
+				"Hi,",
+				"I",
+				"want",
+				"to",
+				"meet",
+				"you",
+				"tonight,",
+				"spamdomain.com.Support",
+				"me"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "\\textbf{CTA}:['spamdomain.com.Support']",
+			"content": [
+				"CTA:[\u2019spamdomain.com.Support\u2019]"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "\\textbf{Message}: Ive had a lot of fun tonight.tk",
+			"content": [
+				"Message:",
+				"Ive",
+				"had",
+				"a",
+				"lot",
+				"of",
+				"fun",
+				"tonight.tk"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "\\textbf{Message}: \\textbackslash{}rOtOcarr0.K0nprare/0ld/trashed/crashed up/k.a.r.s/\\textbackslash{}callus now555O5O5O5O",
+			"content": [
+				"Message:",
+				"\\rOtOcarr0.K0nprare/0ld/trashed/crashed",
+				"up/k.a.r.s/\\callus",
+				"now555O5O5O5O"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "\\textbf{CTA}:['tonight.tk']",
+			"content": [
+				"CTA:[\u2019tonight.tk\u2019]"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

@@ -1,0 +1,130 @@
+{
+	"cells": [
+		{
+			"id": 2,
+			"tex": "\\textbf{NDCG@1}",
+			"content": [
+				"NDCG@1"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 10,
+			"tex": "1.57\\",
+			"content": [
+				"1.57"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 8,
+			"tex": "2.87\\\nMatch-Tensor+SSM",
+			"content": [
+				"2.87",
+				"Match-Tensor+SSM"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 6,
+			"tex": "SSM",
+			"content": [
+				"SSM"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "\\textbf{ERR}",
+			"content": [
+				"ERR"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 4,
+			"tex": "\\textbf{NDCG@10}",
+			"content": [
+				"NDCG@10"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 1,
+			"tex": "\\textbf{AUC}",
+			"content": [
+				"AUC"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "2.07\\\nMatch-Tensor (Exact Only)+SSM",
+			"content": [
+				"2.07",
+				"Match-Tensor",
+				"(Exact",
+				"Only)+SSM"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 7,
+			"tex": "2.02\\\nMatch-Tensor",
+			"content": [
+				"2.02",
+				"Match-Tensor"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "\\textbf{Model}",
+			"content": [
+				"Model"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "\\textbf{NDCG@3}",
+			"content": [
+				"NDCG@3"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 3
+		}
+	]
+}

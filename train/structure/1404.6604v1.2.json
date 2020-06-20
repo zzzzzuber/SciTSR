@@ -1,0 +1,2447 @@
+{
+	"cells": [
+		{
+			"id": 104,
+			"tex": "\\hspace{2.2cm} \\verb+by hypothesis Hr1, Hunion definition of is_union_r+",
+			"content": [
+				"by",
+				"hypothesis",
+				"Hr1,",
+				"Hunion",
+				"definition",
+				"of",
+				"is_union_r"
+			],
+			"start_row": 52,
+			"end_row": 52,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 45,
+			"tex": "then we can prove\n$a_1=a_2$",
+			"content": [
+				"then",
+				"we",
+				"can",
+				"prove",
+				"a1",
+				"=",
+				"a2"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 54,
+			"tex": "\\hspace{1.9cm} \\verb+prove A!equal(a1,a2)+",
+			"content": [
+				"prove",
+				"A!equal(a1,a2)"
+			],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 70,
+			"tex": "\\hspace{1.9cm} \\verb+hypothesis H42 : relation(r1,a2,b),+",
+			"content": [
+				"hypothesis",
+				"H42",
+				":",
+				"relation(r1,a2,b),"
+			],
+			"start_row": 35,
+			"end_row": 35,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 105,
+			"tex": "since $R_3 = R_1 \\cup R_2$ and by definition of $\\cup$.",
+			"content": [
+				"since",
+				"R3",
+				"=",
+				"R1",
+				"\u222a",
+				"R2",
+				"and",
+				"by",
+				"de\ufb01nition",
+				"of",
+				"\u222a."
+			],
+			"start_row": 52,
+			"end_row": 52,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 48,
+			"tex": "\\hspace{1.9cm} \\verb+ definition of is_left_unique+",
+			"content": [
+				"definition",
+				"of",
+				"is_left_unique"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 80,
+			"tex": "\\hspace{1.1cm} \\verb+ Ha1, Ha2+",
+			"content": [
+				"Ha1,",
+				"Ha2"
+			],
+			"start_row": 40,
+			"end_row": 40,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 65,
+			"tex": "then we can prove\n$a_1=a_2$",
+			"content": [
+				"then",
+				"we",
+				"can",
+				"prove",
+				"a1",
+				"=",
+				"a2"
+			],
+			"start_row": 32,
+			"end_row": 32,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 58,
+			"tex": "\\hspace{1.9cm} \\verb+ definition of is_left_unique+",
+			"content": [
+				"definition",
+				"of",
+				"is_left_unique"
+			],
+			"start_row": 29,
+			"end_row": 29,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 76,
+			"tex": "\\hspace{1.1cm} \\verb+<3>f qed by step <3>1, <3>2, <3>3, <3>4+",
+			"content": [
+				"<3>f",
+				"qed",
+				"by",
+				"step",
+				"<3>1,",
+				"<3>2,",
+				"<3>3,",
+				"<3>4"
+			],
+			"start_row": 38,
+			"end_row": 38,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 53,
+			"tex": "and $(a_2,b) \\in R_2$,",
+			"content": [
+				"and",
+				"(a2,",
+				"b)",
+				"\u2208",
+				"R2,"
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 86,
+			"tex": "\\hspace{0.5cm} \\verb+<1>2 hypothesis Hlu3 : is_left_unique(r3),+",
+			"content": [
+				"<1>2",
+				"hypothesis",
+				"Hlu3",
+				":",
+				"is_left_unique(r3),"
+			],
+			"start_row": 43,
+			"end_row": 43,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 37,
+			"tex": "and let us prove that\n$a_1=a_2$.",
+			"content": [
+				"and",
+				"let",
+				"us",
+				"prove",
+				"that",
+				"a1",
+				"=",
+				"a2."
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 90,
+			"tex": "\\hspace{1.2cm} \\verb+/\\ (all a1 a2 : A, all b : B,+",
+			"content": [
+				"/\\",
+				"(all",
+				"a1",
+				"a2",
+				":",
+				"A,",
+				"all",
+				"b",
+				":",
+				"B,"
+			],
+			"start_row": 45,
+			"end_row": 45,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 85,
+			"tex": "",
+			"content": [],
+			"start_row": 42,
+			"end_row": 42,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 97,
+			"tex": "Let\n$a_1,a_2:A$ and $b:B$ be elements",
+			"content": [
+				"Let",
+				"a1,",
+				"a2",
+				":",
+				"A",
+				"and",
+				"b",
+				":",
+				"B",
+				"be",
+				"elements"
+			],
+			"start_row": 48,
+			"end_row": 48,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 84,
+			"tex": "\\mbox{}",
+			"content": [],
+			"start_row": 42,
+			"end_row": 42,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 89,
+			"tex": "and let us prove that $R_1$ and $R_2$ are injective,",
+			"content": [
+				"and",
+				"let",
+				"us",
+				"prove",
+				"that",
+				"R1",
+				"and",
+				"R2",
+				"are",
+				"injective,"
+			],
+			"start_row": 44,
+			"end_row": 44,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 44,
+			"tex": "\\hspace{1.9cm} \\verb+prove A!equal(a1,a2)+",
+			"content": [
+				"prove",
+				"A!equal(a1,a2)"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 93,
+			"tex": "$((a_1,b) \\in R_1 \\land (a_2,b) \\in R_2) \\Rightarrow a_1=a_2$",
+			"content": [
+				"((a1,",
+				"b)",
+				"\u2208",
+				"R1",
+				"\u2227",
+				"(a2,",
+				"b)",
+				"\u2208",
+				"R2)",
+				"\u21d2",
+				"a1",
+				"=",
+				"a2"
+			],
+			"start_row": 46,
+			"end_row": 46,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 82,
+			"tex": "\\hspace{1.1cm} \\verb+ definition of is_union_r+",
+			"content": [
+				"definition",
+				"of",
+				"is_union_r"
+			],
+			"start_row": 41,
+			"end_row": 41,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 101,
+			"tex": "and let us prove that $a_1=a_2$.",
+			"content": [
+				"and",
+				"let",
+				"us",
+				"prove",
+				"that",
+				"a1",
+				"=",
+				"a2."
+			],
+			"start_row": 50,
+			"end_row": 50,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 67,
+			"tex": "by using\nhypothesis (\\verb+Heq+).",
+			"content": [
+				"by",
+				"using",
+				"hypothesis",
+				"(Heq)."
+			],
+			"start_row": 33,
+			"end_row": 33,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 111,
+			"tex": "Thus, by definition, $R_1$ is also injective.",
+			"content": [
+				"Thus,",
+				"by",
+				"de\ufb01nition,",
+				"R1",
+				"is",
+				"also",
+				"injective."
+			],
+			"start_row": 55,
+			"end_row": 55,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 79,
+			"tex": "since\nby hypothesis $R_3 = R_1 \\cup R_2$,",
+			"content": [
+				"since",
+				"by",
+				"hypothesis",
+				"R3",
+				"=",
+				"R1",
+				"\u222a",
+				"R2,"
+			],
+			"start_row": 39,
+			"end_row": 39,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 113,
+			"tex": "Similarly we prove\nthat $R_2$ is injective.",
+			"content": [
+				"Similarly",
+				"we",
+				"prove",
+				"that",
+				"R2",
+				"is",
+				"injective."
+			],
+			"start_row": 56,
+			"end_row": 56,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 94,
+			"tex": "\\hspace{0.8cm} \\verb+<2>1 prove is_left_unique(r1)+",
+			"content": [
+				"<2>1",
+				"prove",
+				"is_left_unique(r1)"
+			],
+			"start_row": 47,
+			"end_row": 47,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 98,
+			"tex": "\\hspace{1.9cm} \\verb+hypothesis Hr1:relation(r1,a1,b)/\\relation(r1,a2,b),+",
+			"content": [
+				"hypothesis",
+				"Hr1:relation(r1,a1,b)/\\relation(r1,a2,b),"
+			],
+			"start_row": 49,
+			"end_row": 49,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 92,
+			"tex": "\\hspace{1.2cm}\\verb+((relation(r1,a1,b)/\\relation(r2,a2,b))->A!equal(a1,a2)))+",
+			"content": [
+				"((relation(r1,a1,b)/\\relation(r2,a2,b))->A!equal(a1,a2)))"
+			],
+			"start_row": 46,
+			"end_row": 46,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 63,
+			"tex": "and $(a_2,b) \\in R_2$,",
+			"content": [
+				"and",
+				"(a2,",
+				"b)",
+				"\u2208",
+				"R2,"
+			],
+			"start_row": 31,
+			"end_row": 31,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 59,
+			"tex": "and by\ndefinition of an injective relation.",
+			"content": [
+				"and",
+				"by",
+				"de\ufb01nition",
+				"of",
+				"an",
+				"injective",
+				"relation."
+			],
+			"start_row": 29,
+			"end_row": 29,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 81,
+			"tex": "and\n$(a_1,b) \\in R_3$ and $(a_2,b) \\in R_3$,",
+			"content": [
+				"and",
+				"(a1,",
+				"b)",
+				"\u2208",
+				"R3",
+				"and",
+				"(a2,",
+				"b)",
+				"\u2208",
+				"R3,"
+			],
+			"start_row": 40,
+			"end_row": 40,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 38,
+			"tex": "",
+			"content": [],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 110,
+			"tex": "\\hspace{1.1cm} \\verb+<3>f qed by step <3>1 definition of is_left_unique+",
+			"content": [
+				"<3>f",
+				"qed",
+				"by",
+				"step",
+				"<3>1",
+				"definition",
+				"of",
+				"is_left_unique"
+			],
+			"start_row": 55,
+			"end_row": 55,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 121,
+			"tex": "We prove that $(a_1,b) \\in R_3 \\land (a_2,b) \\in R_3$",
+			"content": [
+				"We",
+				"prove",
+				"that",
+				"(a1,",
+				"b)",
+				"\u2208",
+				"R3",
+				"\u2227",
+				"(a2,",
+				"b)",
+				"\u2208",
+				"R3"
+			],
+			"start_row": 60,
+			"end_row": 60,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 61,
+			"tex": "If\nwe suppose that $(a_1,b) \\in R_1$,",
+			"content": [
+				"If",
+				"we",
+				"suppose",
+				"that",
+				"(a1,",
+				"b)",
+				"\u2208",
+				"R1,"
+			],
+			"start_row": 30,
+			"end_row": 30,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 133,
+			"tex": "$\\forall a_1,a_2:A \\, \\forall b:B \\, \\, ((a_1,b) \\in R_1 \\land\n(a_2,b) \\in R_2) $",
+			"content": [
+				"\u2200a1,",
+				"a2",
+				":",
+				"A\u2200b",
+				":",
+				"B",
+				"((a1,",
+				"b)",
+				"\u2208",
+				"R1",
+				"\u2227",
+				"(a2,",
+				"b)",
+				"\u2208",
+				"R2)"
+			],
+			"start_row": 66,
+			"end_row": 66,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 88,
+			"tex": "\\hspace{1.2cm} \\verb+prove is_left_unique(r1) /\\ is_left_unique(r2)+",
+			"content": [
+				"prove",
+				"is_left_unique(r1)",
+				"/\\",
+				"is_left_unique(r2)"
+			],
+			"start_row": 44,
+			"end_row": 44,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 39,
+			"tex": "We consider 4 cases.",
+			"content": [
+				"We",
+				"consider",
+				"4",
+				"cases."
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 91,
+			"tex": "and are such that\n$\\forall a_1,a_2:A$ $\\forall b:B$,",
+			"content": [
+				"and",
+				"are",
+				"such",
+				"that",
+				"\u2200a1,",
+				"a2",
+				":",
+				"A",
+				"\u2200b",
+				":",
+				"B,"
+			],
+			"start_row": 45,
+			"end_row": 45,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 56,
+			"tex": "\\hspace{1.9cm} \\verb+by hypothesis H21, H22, Hlu2+",
+			"content": [
+				"by",
+				"hypothesis",
+				"H21,",
+				"H22,",
+				"Hlu2"
+			],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 50,
+			"tex": "\\hspace{1.1cm} \\verb+<3>2 hypothesis H21 : relation(r2,a1,b),+",
+			"content": [
+				"<3>2",
+				"hypothesis",
+				"H21",
+				":",
+				"relation(r2,a1,b),"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 118,
+			"tex": "\\hspace{1.9cm} \\verb+prove A!equal(a1,a2)+",
+			"content": [
+				"prove",
+				"A!equal(a1,a2)"
+			],
+			"start_row": 59,
+			"end_row": 59,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 60,
+			"tex": "\\hspace{1.1cm} \\verb+<3>3 hypothesis H31 : relation(r1,a1,b),+",
+			"content": [
+				"<3>3",
+				"hypothesis",
+				"H31",
+				":",
+				"relation(r1,a1,b),"
+			],
+			"start_row": 30,
+			"end_row": 30,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 142,
+			"tex": "\\hspace{1.1cm} \\verb+ by hypothesis H0, Hunion definition of is_union_r+",
+			"content": [
+				"by",
+				"hypothesis",
+				"H0,",
+				"Hunion",
+				"definition",
+				"of",
+				"is_union_r"
+			],
+			"start_row": 71,
+			"end_row": 71,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 107,
+			"tex": "Hence,\nsince $R_3$ is injective, we get $a_1=a_2$",
+			"content": [
+				"Hence,",
+				"since",
+				"R3",
+				"is",
+				"injective,",
+				"we",
+				"get",
+				"a1",
+				"=",
+				"a2"
+			],
+			"start_row": 53,
+			"end_row": 53,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 47,
+			"tex": "since (by\nhypothesis) $R_1$ is injective,",
+			"content": [
+				"since",
+				"(by",
+				"hypothesis)",
+				"R1",
+				"is",
+				"injective,"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 72,
+			"tex": "\\hspace{1.9cm} \\verb+prove A!equal(a1,a2)+",
+			"content": [
+				"prove",
+				"A!equal(a1,a2)"
+			],
+			"start_row": 36,
+			"end_row": 36,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 114,
+			"tex": "\\hspace{1.1cm} \\verb+<3>1 assume a1 a2 : A, assume b : B,+",
+			"content": [
+				"<3>1",
+				"assume",
+				"a1",
+				"a2",
+				":",
+				"A,",
+				"assume",
+				"b",
+				":",
+				"B,"
+			],
+			"start_row": 57,
+			"end_row": 57,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 106,
+			"tex": "\\hspace{1.4cm} \\verb+<4>f qed by step <4>1 hypothesis Hlu3+",
+			"content": [
+				"<4>f",
+				"qed",
+				"by",
+				"step",
+				"<4>1",
+				"hypothesis",
+				"Hlu3"
+			],
+			"start_row": 53,
+			"end_row": 53,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 103,
+			"tex": "We prove that $(a_1,b) \\in R_3 \\land (a_2,b) \\in R_3$",
+			"content": [
+				"We",
+				"prove",
+				"that",
+				"(a1,",
+				"b)",
+				"\u2208",
+				"R3",
+				"\u2227",
+				"(a2,",
+				"b)",
+				"\u2208",
+				"R3"
+			],
+			"start_row": 51,
+			"end_row": 51,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 74,
+			"tex": "\\hspace{1.9cm} \\verb+by hypothesis H41, H42, Heq+",
+			"content": [
+				"by",
+				"hypothesis",
+				"H41,",
+				"H42,",
+				"Heq"
+			],
+			"start_row": 37,
+			"end_row": 37,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 51,
+			"tex": "If\nwe suppose that $(a_1,b) \\in R_2$,",
+			"content": [
+				"If",
+				"we",
+				"suppose",
+				"that",
+				"(a1,",
+				"b)",
+				"\u2208",
+				"R2,"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 71,
+			"tex": "and $(a_2,b) \\in R_1$,",
+			"content": [
+				"and",
+				"(a2,",
+				"b)",
+				"\u2208",
+				"R1,"
+			],
+			"start_row": 35,
+			"end_row": 35,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 100,
+			"tex": "\\hspace{1.9cm} \\verb+prove A!equal(a1,a2)+",
+			"content": [
+				"prove",
+				"A!equal(a1,a2)"
+			],
+			"start_row": 50,
+			"end_row": 50,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 66,
+			"tex": "\\hspace{1.9cm} \\verb+by hypothesis H31, H32, Heq+",
+			"content": [
+				"by",
+				"hypothesis",
+				"H31,",
+				"H32,",
+				"Heq"
+			],
+			"start_row": 33,
+			"end_row": 33,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 75,
+			"tex": "by using\nhypothesis (\\verb+Heq+).",
+			"content": [
+				"by",
+				"using",
+				"hypothesis",
+				"(Heq)."
+			],
+			"start_row": 37,
+			"end_row": 37,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 46,
+			"tex": "\\hspace{1.9cm} \\verb+by hypothesis H11, H12, Hlu1+",
+			"content": [
+				"by",
+				"hypothesis",
+				"H11,",
+				"H12,",
+				"Hlu1"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 55,
+			"tex": "then we can prove\n$a_1=a_2$",
+			"content": [
+				"then",
+				"we",
+				"can",
+				"prove",
+				"a1",
+				"=",
+				"a2"
+			],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 95,
+			"tex": "We first prove\nthat $R_1$ is injective.",
+			"content": [
+				"We",
+				"\ufb01rst",
+				"prove",
+				"that",
+				"R1",
+				"is",
+				"injective."
+			],
+			"start_row": 47,
+			"end_row": 47,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 69,
+			"tex": "If\nwe suppose that $(a_1,b) \\in R_2$,",
+			"content": [
+				"If",
+				"we",
+				"suppose",
+				"that",
+				"(a1,",
+				"b)",
+				"\u2208",
+				"R2,"
+			],
+			"start_row": 34,
+			"end_row": 34,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 115,
+			"tex": "Let\n$a_1,a_2:A$ and $b:B$ be elements",
+			"content": [
+				"Let",
+				"a1,",
+				"a2",
+				":",
+				"A",
+				"and",
+				"b",
+				":",
+				"B",
+				"be",
+				"elements"
+			],
+			"start_row": 57,
+			"end_row": 57,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 57,
+			"tex": "since (by\nhypothesis) $R_2$ is injective,",
+			"content": [
+				"since",
+				"(by",
+				"hypothesis)",
+				"R2",
+				"is",
+				"injective,"
+			],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 83,
+			"tex": "we can\nconclude by definition of $\\cup$.",
+			"content": [
+				"we",
+				"can",
+				"conclude",
+				"by",
+				"de\ufb01nition",
+				"of",
+				"\u222a."
+			],
+			"start_row": 41,
+			"end_row": 41,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 42,
+			"tex": "\\hspace{1.9cm} \\verb+hypothesis H12 : relation(r1,a2,b),+",
+			"content": [
+				"hypothesis",
+				"H12",
+				":",
+				"relation(r1,a2,b),"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 77,
+			"tex": "In\nthese 4 cases, $a_1=a_2$ and",
+			"content": [
+				"In",
+				"these",
+				"4",
+				"cases,",
+				"a1",
+				"=",
+				"a2",
+				"and"
+			],
+			"start_row": 38,
+			"end_row": 38,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 68,
+			"tex": "\\hspace{1.1cm} \\verb+<3>4 hypothesis H41 : relation(r2,a1,b),+",
+			"content": [
+				"<3>4",
+				"hypothesis",
+				"H41",
+				":",
+				"relation(r2,a1,b),"
+			],
+			"start_row": 34,
+			"end_row": 34,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 96,
+			"tex": "\\hspace{1.1cm} \\verb+<3>1 assume a1 a2 : A, assume b : B,+",
+			"content": [
+				"<3>1",
+				"assume",
+				"a1",
+				"a2",
+				":",
+				"A,",
+				"assume",
+				"b",
+				":",
+				"B,"
+			],
+			"start_row": 48,
+			"end_row": 48,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 109,
+			"tex": "by definition of an injective relation.",
+			"content": [
+				"by",
+				"de\ufb01nition",
+				"of",
+				"an",
+				"injective",
+				"relation."
+			],
+			"start_row": 54,
+			"end_row": 54,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 43,
+			"tex": "and $(a_2,b) \\in R_1$,",
+			"content": [
+				"and",
+				"(a2,",
+				"b)",
+				"\u2208",
+				"R1,"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 78,
+			"tex": "\\hspace{1.1cm} \\verb+ hypothesis Hunion,+",
+			"content": [
+				"hypothesis",
+				"Hunion,"
+			],
+			"start_row": 39,
+			"end_row": 39,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 99,
+			"tex": "such that $(a_1,b) \\in R_1 \\land (a_2,b) \\in R_1$,",
+			"content": [
+				"such",
+				"that",
+				"(a1,",
+				"b)",
+				"\u2208",
+				"R1",
+				"\u2227",
+				"(a2,",
+				"b)",
+				"\u2208",
+				"R1,"
+			],
+			"start_row": 49,
+			"end_row": 49,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 52,
+			"tex": "\\hspace{1.9cm} \\verb+hypothesis H22 : relation(r2,a2,b),+",
+			"content": [
+				"hypothesis",
+				"H22",
+				":",
+				"relation(r2,a2,b),"
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 102,
+			"tex": "\\hspace{1.4cm} \\verb+<4>1 prove relation(r3,a1,b) /\\ relation(r3,a2,b)+",
+			"content": [
+				"<4>1",
+				"prove",
+				"relation(r3,a1,b)",
+				"/\\",
+				"relation(r3,a2,b)"
+			],
+			"start_row": 51,
+			"end_row": 51,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 87,
+			"tex": "Now, let us suppose that $R_3$ is injective,",
+			"content": [
+				"Now,",
+				"let",
+				"us",
+				"suppose",
+				"that",
+				"R3",
+				"is",
+				"injective,"
+			],
+			"start_row": 43,
+			"end_row": 43,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 40,
+			"tex": "\\hspace{1.1cm} \\verb+<3>1 hypothesis H11 : relation(r1,a1,b),+",
+			"content": [
+				"<3>1",
+				"hypothesis",
+				"H11",
+				":",
+				"relation(r1,a1,b),"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 62,
+			"tex": "\\hspace{1.9cm} \\verb+hypothesis H32 : relation(r2,a2,b),+",
+			"content": [
+				"hypothesis",
+				"H32",
+				":",
+				"relation(r2,a2,b),"
+			],
+			"start_row": 31,
+			"end_row": 31,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 41,
+			"tex": "If\nwe suppose that $(a_1,b) \\in R_1$,",
+			"content": [
+				"If",
+				"we",
+				"suppose",
+				"that",
+				"(a1,",
+				"b)",
+				"\u2208",
+				"R1,"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 117,
+			"tex": "such that $(a_1,b) \\in R_2 \\land (a_2,b) \\in R_2$,",
+			"content": [
+				"such",
+				"that",
+				"(a1,",
+				"b)",
+				"\u2208",
+				"R2",
+				"\u2227",
+				"(a2,",
+				"b)",
+				"\u2208",
+				"R2,"
+			],
+			"start_row": 58,
+			"end_row": 58,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 116,
+			"tex": "\\hspace{1.9cm} \\verb+hypothesis Hr2:relation(r2,a1,b)/\\relation(r2,a2,b),+",
+			"content": [
+				"hypothesis",
+				"Hr2:relation(r2,a1,b)/\\relation(r2,a2,b),"
+			],
+			"start_row": 58,
+			"end_row": 58,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 108,
+			"tex": "\\hspace{1.4cm} \\verb+ definition of is_left_unique+",
+			"content": [
+				"definition",
+				"of",
+				"is_left_unique"
+			],
+			"start_row": 54,
+			"end_row": 54,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 49,
+			"tex": "and by\ndefinition of an injective relation.",
+			"content": [
+				"and",
+				"by",
+				"de\ufb01nition",
+				"of",
+				"an",
+				"injective",
+				"relation."
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 112,
+			"tex": "\\hspace{0.8cm} \\verb+<2>2 prove is_left_unique(r2)+",
+			"content": [
+				"<2>2",
+				"prove",
+				"is_left_unique(r2)"
+			],
+			"start_row": 56,
+			"end_row": 56,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 64,
+			"tex": "\\hspace{1.9cm} \\verb+prove A!equal(a1,a2)+",
+			"content": [
+				"prove",
+				"A!equal(a1,a2)"
+			],
+			"start_row": 32,
+			"end_row": 32,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 36,
+			"tex": "\\hspace{1.6cm} \\verb+prove A!equal(a1, a2)+",
+			"content": [
+				"prove",
+				"A!equal(a1,",
+				"a2)"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 120,
+			"tex": "\\hspace{1.4cm} \\verb+<4>1 prove relation(r3,a1,b) /\\ relation(r3,a2,b)+",
+			"content": [
+				"<4>1",
+				"prove",
+				"relation(r3,a1,b)",
+				"/\\",
+				"relation(r3,a2,b)"
+			],
+			"start_row": 60,
+			"end_row": 60,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 119,
+			"tex": "and let us prove that $a_1=a_2$.",
+			"content": [
+				"and",
+				"let",
+				"us",
+				"prove",
+				"that",
+				"a1",
+				"=",
+				"a2."
+			],
+			"start_row": 59,
+			"end_row": 59,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 73,
+			"tex": "then we can prove\n$a_1=a_2$",
+			"content": [
+				"then",
+				"we",
+				"can",
+				"prove",
+				"a1",
+				"=",
+				"a2"
+			],
+			"start_row": 36,
+			"end_row": 36,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "\\hspace{1cm} \\verb+ ((relation(r1,a1,b) /\\ relation(r2,a2,b))+",
+			"content": [
+				"((relation(r1,a1,b)",
+				"/\\",
+				"relation(r2,a2,b))"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 153,
+			"tex": "",
+			"content": [],
+			"start_row": 76,
+			"end_row": 76,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 139,
+			"tex": "such that $(a_1,b) \\in R_1 \\land (a_2,b) \\in R_2$.",
+			"content": [
+				"such",
+				"that",
+				"(a1,",
+				"b)",
+				"\u2208",
+				"R1",
+				"\u2227",
+				"(a2,",
+				"b)",
+				"\u2208",
+				"R2."
+			],
+			"start_row": 69,
+			"end_row": 69,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "$R_2$\nis injective,",
+			"content": [
+				"R2",
+				"is",
+				"injective,"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 130,
+			"tex": "\\hspace{0.8cm} \\verb+<2>3 prove all a1 a2 : A, all b : B,+",
+			"content": [
+				"<2>3",
+				"prove",
+				"all",
+				"a1",
+				"a2",
+				":",
+				"A,",
+				"all",
+				"b",
+				":",
+				"B,"
+			],
+			"start_row": 65,
+			"end_row": 65,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 155,
+			"tex": "This concludes the proof of\nthe theorem.",
+			"content": [
+				"This",
+				"concludes",
+				"the",
+				"proof",
+				"of",
+				"the",
+				"theorem."
+			],
+			"start_row": 77,
+			"end_row": 77,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 146,
+			"tex": "\\hspace{1.1cm} \\verb+ definition of is_left_unique+",
+			"content": [
+				"definition",
+				"of",
+				"is_left_unique"
+			],
+			"start_row": 73,
+			"end_row": 73,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 145,
+			"tex": "Hence,since $R_3$ is injective, we get $a_1=a_2$",
+			"content": [
+				"Hence,since",
+				"R3",
+				"is",
+				"injective,",
+				"we",
+				"get",
+				"a1",
+				"=",
+				"a2"
+			],
+			"start_row": 72,
+			"end_row": 72,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "such that $R_3 = R_1 \\cup R_2$.",
+			"content": [
+				"such",
+				"that",
+				"R3",
+				"=",
+				"R1",
+				"\u222a",
+				"R2."
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "",
+			"content": [],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 151,
+			"tex": "This concludes the proof of the\nequivalence \\verb+<0>1+.",
+			"content": [
+				"This",
+				"concludes",
+				"the",
+				"proof",
+				"of",
+				"the",
+				"equivalence",
+				"<0>1."
+			],
+			"start_row": 75,
+			"end_row": 75,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 150,
+			"tex": "\\hspace{0.5cm} \\verb+<1>f conclude+",
+			"content": [
+				"<1>f",
+				"conclude"
+			],
+			"start_row": 75,
+			"end_row": 75,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 122,
+			"tex": "\\hspace{2.2cm} \\verb+by hypothesis Hr2, Hunion definition of is_union_r+",
+			"content": [
+				"by",
+				"hypothesis",
+				"Hr2,",
+				"Hunion",
+				"definition",
+				"of",
+				"is_union_r"
+			],
+			"start_row": 61,
+			"end_row": 61,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "",
+			"content": [],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 125,
+			"tex": "Hence,since $R_3$ is injective, we get $a_1=a_2$",
+			"content": [
+				"Hence,since",
+				"R3",
+				"is",
+				"injective,",
+				"we",
+				"get",
+				"a1",
+				"=",
+				"a2"
+			],
+			"start_row": 62,
+			"end_row": 62,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 24,
+			"tex": "\\hspace{1.4cm} \\verb+ ((relation (r1,a1,b) /\\ relation(r2,a2,b))+",
+			"content": [
+				"((relation",
+				"(r1,a1,b)",
+				"/\\",
+				"relation(r2,a2,b))"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 135,
+			"tex": "\\hspace{1.8cm} $\\Rightarrow a_1=a_2$",
+			"content": [
+				"\u21d2",
+				"a1",
+				"=",
+				"a2"
+			],
+			"start_row": 67,
+			"end_row": 67,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 134,
+			"tex": "\\hspace{0.8cm} \\verb+ -> A!equal(a1,a2))+",
+			"content": [
+				"->",
+				"A!equal(a1,a2))"
+			],
+			"start_row": 67,
+			"end_row": 67,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 152,
+			"tex": "\\mbox{}",
+			"content": [],
+			"start_row": 76,
+			"end_row": 76,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 140,
+			"tex": "\\hspace{1.1cm} \\verb+ prove relation(r3,a1,b) /\\ relation(r3,a2,b)+",
+			"content": [
+				"prove",
+				"relation(r3,a1,b)",
+				"/\\",
+				"relation(r3,a2,b)"
+			],
+			"start_row": 70,
+			"end_row": 70,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "and that $\\forall a_1,a_2:A \\, \\forall b:B$",
+			"content": [
+				"and",
+				"that",
+				"\u2200a1,",
+				"a2",
+				":",
+				"A\u2200b",
+				":",
+				"B"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "\\hspace{1cm} \\verb+hypothesis Hunion : is_union_r(r1,r2,r3),+",
+			"content": [
+				"hypothesis",
+				"Hunion",
+				":",
+				"is_union_r(r1,r2,r3),"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 147,
+			"tex": "by definition of an injective relation.",
+			"content": [
+				"by",
+				"de\ufb01nition",
+				"of",
+				"an",
+				"injective",
+				"relation."
+			],
+			"start_row": 73,
+			"end_row": 73,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 33,
+			"tex": "such that $(a_1,b) \\in R_3$",
+			"content": [
+				"such",
+				"that",
+				"(a1,",
+				"b)",
+				"\u2208",
+				"R3"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "\\hspace{0.5cm} \\verb+<1>1 hypothesis Hlu1 : is_left_unique(r1),+",
+			"content": [
+				"<1>1",
+				"hypothesis",
+				"Hlu1",
+				":",
+				"is_left_unique(r1),"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 136,
+			"tex": "\\hspace{1.1cm} \\verb+<3>1 assume a1 a2 : A, assume b : B,+",
+			"content": [
+				"<3>1",
+				"assume",
+				"a1",
+				"a2",
+				":",
+				"A,",
+				"assume",
+				"b",
+				":",
+				"B,"
+			],
+			"start_row": 68,
+			"end_row": 68,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "",
+			"content": [],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 138,
+			"tex": "\\hspace{1.1cm} \\verb+ hypothesis H0:relation(r1,a1,b)/\\relation(r2,a2,b),+",
+			"content": [
+				"hypothesis",
+				"H0:relation(r1,a1,b)/\\relation(r2,a2,b),"
+			],
+			"start_row": 69,
+			"end_row": 69,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "\\hspace{1cm} \\verb+ -> A!equal (a1, a2))))+",
+			"content": [
+				"->",
+				"A!equal",
+				"(a1,",
+				"a2))))"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 131,
+			"tex": "It\nremains to prove that",
+			"content": [
+				"It",
+				"remains",
+				"to",
+				"prove",
+				"that"
+			],
+			"start_row": 65,
+			"end_row": 65,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 148,
+			"tex": "\\hspace{0.8cm} \\verb+<2>f conclude+",
+			"content": [
+				"<2>f",
+				"conclude"
+			],
+			"start_row": 74,
+			"end_row": 74,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "",
+			"content": [],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 126,
+			"tex": "\\hspace{1.4cm} \\verb+ definition of is_left_unique+",
+			"content": [
+				"definition",
+				"of",
+				"is_left_unique"
+			],
+			"start_row": 63,
+			"end_row": 63,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "\\mbox{}",
+			"content": [],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 132,
+			"tex": "\\hspace{0.8cm} \\verb+ ((relation(r1,a1,b) /\\ relation(r2,a2,b))+",
+			"content": [
+				"((relation(r1,a1,b)",
+				"/\\",
+				"relation(r2,a2,b))"
+			],
+			"start_row": 66,
+			"end_row": 66,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "\\hspace{1cm} \\verb+ <-> is_left_unique(r3)+",
+			"content": [
+				"<->",
+				"is_left_unique(r3)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "First, let us suppose that $R_1$ is injective,",
+			"content": [
+				"First,",
+				"let",
+				"us",
+				"suppose",
+				"that",
+				"R1",
+				"is",
+				"injective,"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 31,
+			"tex": "Let\n$a_1,a_2:A$ and $b:B$ be elements",
+			"content": [
+				"Let",
+				"a1,",
+				"a2",
+				":",
+				"A",
+				"and",
+				"b",
+				":",
+				"B",
+				"be",
+				"elements"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 27,
+			"tex": "",
+			"content": [],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 149,
+			"tex": "This concludes the proof of the\nconjunction \\verb+<2>1+.",
+			"content": [
+				"This",
+				"concludes",
+				"the",
+				"proof",
+				"of",
+				"the",
+				"conjunction",
+				"<2>1."
+			],
+			"start_row": 74,
+			"end_row": 74,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "{\\tt proof =}",
+			"content": [
+				"proof",
+				"="
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 35,
+			"tex": "and $(a_2,b) \\in R_3$,",
+			"content": [
+				"and",
+				"(a2,",
+				"b)",
+				"\u2208",
+				"R3,"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "\\hspace{1cm} \\verb+ /\\(all a1 a2 : A, all b : B,+",
+			"content": [
+				"/\\(all",
+				"a1",
+				"a2",
+				":",
+				"A,",
+				"all",
+				"b",
+				":",
+				"B,"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "\\hspace{1.4cm} \\verb+hypothesis Heq : all a1 a2 : A, all b : B,+",
+			"content": [
+				"hypothesis",
+				"Heq",
+				":",
+				"all",
+				"a1",
+				"a2",
+				":",
+				"A,",
+				"all",
+				"b",
+				":",
+				"B,"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 32,
+			"tex": "\\hspace{1.6cm} \\verb+hypothesis Ha1 : relation(r3,a1,b),+",
+			"content": [
+				"hypothesis",
+				"Ha1",
+				":",
+				"relation(r3,a1,b),"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 137,
+			"tex": "Let\n$a_1,a_2:A$ and $b:B$ be elements",
+			"content": [
+				"Let",
+				"a1,",
+				"a2",
+				":",
+				"A",
+				"and",
+				"b",
+				":",
+				"B",
+				"be",
+				"elements"
+			],
+			"start_row": 68,
+			"end_row": 68,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 25,
+			"tex": "$((a_1,b) \\in R_1 \\land (a_2,b) \\in R_2) \\Rightarrow a_1=a_2$",
+			"content": [
+				"((a1,",
+				"b)",
+				"\u2208",
+				"R1",
+				"\u2227",
+				"(a2,",
+				"b)",
+				"\u2208",
+				"R2)",
+				"\u21d2",
+				"a1",
+				"=",
+				"a2"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "\\hspace{1cm} \\verb+prove (is_left_unique(r1) /\\ is_left_unique(r2)+",
+			"content": [
+				"prove",
+				"(is_left_unique(r1)",
+				"/\\",
+				"is_left_unique(r2)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 129,
+			"tex": "Thus, by definition, $R_2$ is also injective.",
+			"content": [
+				"Thus,",
+				"by",
+				"de\ufb01nition,",
+				"R2",
+				"is",
+				"also",
+				"injective."
+			],
+			"start_row": 64,
+			"end_row": 64,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "Let\n$R_1$, $R_2$ and $R_3$ be binary relations.",
+			"content": [
+				"Let",
+				"R1,",
+				"R2",
+				"and",
+				"R3",
+				"be",
+				"binary",
+				"relations."
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 141,
+			"tex": "We can prove that $(a_1,b) \\in R_3 \\land (a_2,b) \\in R_3$",
+			"content": [
+				"We",
+				"can",
+				"prove",
+				"that",
+				"(a1,",
+				"b)",
+				"\u2208",
+				"R3",
+				"\u2227",
+				"(a2,",
+				"b)",
+				"\u2208",
+				"R3"
+			],
+			"start_row": 70,
+			"end_row": 70,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "",
+			"content": [],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "\\hspace{0.2cm} \\verb+<0>1 assume r1 r2 r3 : Self,+",
+			"content": [
+				"<0>1",
+				"assume",
+				"r1",
+				"r2",
+				"r3",
+				":",
+				"Self,"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 124,
+			"tex": "\\hspace{1.4cm} \\verb+<4>f qed by step <4>1 hypothesis Hlu3+",
+			"content": [
+				"<4>f",
+				"qed",
+				"by",
+				"step",
+				"<4>1",
+				"hypothesis",
+				"Hlu3"
+			],
+			"start_row": 62,
+			"end_row": 62,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 144,
+			"tex": "\\hspace{1.1cm} \\verb+<3>f qed by step <3>1 hypothesis Hlu3+",
+			"content": [
+				"<3>f",
+				"qed",
+				"by",
+				"step",
+				"<3>1",
+				"hypothesis",
+				"Hlu3"
+			],
+			"start_row": 72,
+			"end_row": 72,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 28,
+			"tex": "\\hspace{1.4cm} \\verb+prove is_left_unique(r3)+",
+			"content": [
+				"prove",
+				"is_left_unique(r3)"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 127,
+			"tex": "by definition of an injective relation.",
+			"content": [
+				"by",
+				"de\ufb01nition",
+				"of",
+				"an",
+				"injective",
+				"relation."
+			],
+			"start_row": 63,
+			"end_row": 63,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "",
+			"content": [],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "Let us prove the desired equivalence.",
+			"content": [
+				"Let",
+				"us",
+				"prove",
+				"the",
+				"desired",
+				"equivalence."
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 123,
+			"tex": "since $R_3 = R_1 \\cup R_2$ and by definition of $\\cup$.",
+			"content": [
+				"since",
+				"R3",
+				"=",
+				"R1",
+				"\u222a",
+				"R2",
+				"and",
+				"by",
+				"de\ufb01nition",
+				"of",
+				"\u222a."
+			],
+			"start_row": 61,
+			"end_row": 61,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 29,
+			"tex": "and let us prove\nthat $R_3$ is injective.",
+			"content": [
+				"and",
+				"let",
+				"us",
+				"prove",
+				"that",
+				"R3",
+				"is",
+				"injective."
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 128,
+			"tex": "\\hspace{1.1cm} \\verb+<3>f qed by step <3>1 definition of is_left_unique+",
+			"content": [
+				"<3>f",
+				"qed",
+				"by",
+				"step",
+				"<3>1",
+				"definition",
+				"of",
+				"is_left_unique"
+			],
+			"start_row": 64,
+			"end_row": 64,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 30,
+			"tex": "\\hspace{0.8cm} \\verb+<2>1 assume a1 a2 : A, assume b : B,+",
+			"content": [
+				"<2>1",
+				"assume",
+				"a1",
+				"a2",
+				":",
+				"A,",
+				"assume",
+				"b",
+				":",
+				"B,"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 154,
+			"tex": "\\hspace{0.2cm} \\verb+<0>f conclude;+",
+			"content": [
+				"<0>f",
+				"conclude;"
+			],
+			"start_row": 77,
+			"end_row": 77,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "\\hspace{1.4cm} \\verb+ -> A!equal(a1,a2)),+",
+			"content": [
+				"->",
+				"A!equal(a1,a2)),"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 143,
+			"tex": "since $R_3 = R_1 \\cup R_2$ and by definition of $\\cup$.",
+			"content": [
+				"since",
+				"R3",
+				"=",
+				"R1",
+				"\u222a",
+				"R2",
+				"and",
+				"by",
+				"de\ufb01nition",
+				"of",
+				"\u222a."
+			],
+			"start_row": 71,
+			"end_row": 71,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 34,
+			"tex": "\\hspace{1.6cm} \\verb+hypothesis Ha2 : relation(r3,a2,b),+",
+			"content": [
+				"hypothesis",
+				"Ha2",
+				":",
+				"relation(r3,a2,b),"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "\\hspace{1.4cm} \\verb+hypothesis Hlu2 : is_left_unique(r2),+",
+			"content": [
+				"hypothesis",
+				"Hlu2",
+				":",
+				"is_left_unique(r2),"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

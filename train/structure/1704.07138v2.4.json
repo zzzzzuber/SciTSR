@@ -1,0 +1,403 @@
+{
+	"cells": [
+		{
+			"id": 13,
+			"tex": "Embedding Size",
+			"content": [
+				"Embedding",
+				"Size"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "\\textbf{EN-FR}",
+			"content": [
+				"EN-FR"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "40",
+			"content": [
+				"40"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 29,
+			"tex": "60000",
+			"content": [
+				"60000"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "Embedding Size",
+			"content": [
+				"Embedding",
+				"Size"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "74000",
+			"content": [
+				"74000"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "Source Vocab Size",
+			"content": [
+				"Source",
+				"Vocab",
+				"Size"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 30,
+			"tex": "Target Vocab Size",
+			"content": [
+				"Target",
+				"Vocab",
+				"Size"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "\\textbf{EN-PT}",
+			"content": [
+				"EN-PT"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "300",
+			"content": [
+				"300"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "1000",
+			"content": [
+				"1000"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "50",
+			"content": [
+				"50"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "Batch Size",
+			"content": [
+				"Batch",
+				"Size"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 28,
+			"tex": "Source Vocab Size",
+			"content": [
+				"Source",
+				"Vocab",
+				"Size"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "90000",
+			"content": [
+				"90000"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "\\bf Training Configurations",
+			"content": [
+				"Training",
+				"Con\ufb01gurations"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 1
+		},
+		{
+			"id": 31,
+			"tex": "74000",
+			"content": [
+				"74000"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "1000",
+			"content": [
+				"1000"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 32,
+			"tex": "Batch Size",
+			"content": [
+				"Batch",
+				"Size"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "Source Vocab Size",
+			"content": [
+				"Source",
+				"Vocab",
+				"Size"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "Recurrent Layers Size",
+			"content": [
+				"Recurrent",
+				"Layers",
+				"Size"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "Embedding Size",
+			"content": [
+				"Embedding",
+				"Size"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "Target Vocab Size",
+			"content": [
+				"Target",
+				"Vocab",
+				"Size"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "800",
+			"content": [
+				"800"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "Target Vocab Size",
+			"content": [
+				"Target",
+				"Vocab",
+				"Size"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "\\textbf{EN-DE}",
+			"content": [
+				"EN-DE"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "80000",
+			"content": [
+				"80000"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "66000",
+			"content": [
+				"66000"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 25,
+			"tex": "200",
+			"content": [
+				"200"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "Batch Size",
+			"content": [
+				"Batch",
+				"Size"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 33,
+			"tex": "40",
+			"content": [
+				"40"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "300",
+			"content": [
+				"300"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 26,
+			"tex": "Recurrent Layers Size",
+			"content": [
+				"Recurrent",
+				"Layers",
+				"Size"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "Recurrent Layers Size",
+			"content": [
+				"Recurrent",
+				"Layers",
+				"Size"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

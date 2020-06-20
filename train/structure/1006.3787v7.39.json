@@ -1,0 +1,657 @@
+{
+	"cells": [
+		{
+			"id": 7,
+			"tex": "\\verb+ rappel = 0.290\tprecision = 0.093\tf-mesure = 0.141+",
+			"content": [
+				"rappel",
+				"=",
+				"0.290",
+				"precision",
+				"=",
+				"0.093",
+				"f-mesure",
+				"=",
+				"0.141"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "\\verb+ rappel = 0.041\tprecision = 0.050\tf-mesure = 0.045+",
+			"content": [
+				"rappel",
+				"=",
+				"0.041",
+				"precision",
+				"=",
+				"0.050",
+				"f-mesure",
+				"=",
+				"0.045"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "\\verb+ rappel = 0.018\tprecision = 0.039\tf-mesure = 0.024+",
+			"content": [
+				"rappel",
+				"=",
+				"0.018",
+				"precision",
+				"=",
+				"0.039",
+				"f-mesure",
+				"=",
+				"0.024"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "\\verb+- classe 1820 (attendus = 169, ramenes = 227.00, corrects = 28.00)+",
+			"content": [
+				"-",
+				"classe",
+				"1820",
+				"(attendus",
+				"=",
+				"169,",
+				"ramenes",
+				"=",
+				"227.00,",
+				"corrects",
+				"=",
+				"28.00)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 31,
+			"tex": "\\verb+ macro rappel = 0.097\tmacro precision = 0.093\tmacro F-mesure = 0.095+",
+			"content": [
+				"macro",
+				"rappel",
+				"=",
+				"0.097",
+				"macro",
+				"precision",
+				"=",
+				"0.093",
+				"macro",
+				"F-mesure",
+				"=",
+				"0.095"
+			],
+			"start_row": 31,
+			"end_row": 31,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 30,
+			"tex": "\\verb+- sur l'ensemble des 15 classes+",
+			"content": [
+				"-",
+				"sur",
+				"l\u2019ensemble",
+				"des",
+				"15",
+				"classes"
+			],
+			"start_row": 30,
+			"end_row": 30,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 29,
+			"tex": "\\verb+ rappel = 0.313\tprecision = 0.136\tf-mesure = 0.190+",
+			"content": [
+				"rappel",
+				"=",
+				"0.313",
+				"precision",
+				"=",
+				"0.136",
+				"f-mesure",
+				"=",
+				"0.190"
+			],
+			"start_row": 29,
+			"end_row": 29,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "\\verb+ rappel = 0.089\tprecision = 0.103\tf-mesure = 0.096+",
+			"content": [
+				"rappel",
+				"=",
+				"0.089",
+				"precision",
+				"=",
+				"0.103",
+				"f-mesure",
+				"=",
+				"0.096"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 28,
+			"tex": "\\verb+- classe 1940 (attendus = 198, ramenes = 455.00, corrects = 62.00)+",
+			"content": [
+				"-",
+				"classe",
+				"1940",
+				"(attendus",
+				"=",
+				"198,",
+				"ramenes",
+				"=",
+				"455.00,",
+				"corrects",
+				"=",
+				"62.00)"
+			],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "\\verb+ rappel = 0.055\tprecision = 0.104\tf-mesure = 0.072+",
+			"content": [
+				"rappel",
+				"=",
+				"0.055",
+				"precision",
+				"=",
+				"0.104",
+				"f-mesure",
+				"=",
+				"0.072"
+			],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "\\verb+ rappel = 0.035\tprecision = 0.064\tf-mesure = 0.045+",
+			"content": [
+				"rappel",
+				"=",
+				"0.035",
+				"precision",
+				"=",
+				"0.064",
+				"f-mesure",
+				"=",
+				"0.045"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "\\verb+- classe 1930 (attendus = 200, ramenes = 106.00, corrects = 11.00)+",
+			"content": [
+				"-",
+				"classe",
+				"1930",
+				"(attendus",
+				"=",
+				"200,",
+				"ramenes",
+				"=",
+				"106.00,",
+				"corrects",
+				"=",
+				"11.00)"
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "\\verb+- classe 1860 (attendus = 170, ramenes = 94.00, corrects = 6.00)+",
+			"content": [
+				"-",
+				"classe",
+				"1860",
+				"(attendus",
+				"=",
+				"170,",
+				"ramenes",
+				"=",
+				"94.00,",
+				"corrects",
+				"=",
+				"6.00)"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 25,
+			"tex": "\\verb+ rappel = 0.065\tprecision = 0.074\tf-mesure = 0.069+",
+			"content": [
+				"rappel",
+				"=",
+				"0.065",
+				"precision",
+				"=",
+				"0.074",
+				"f-mesure",
+				"=",
+				"0.069"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "\\verb+- classe 1870 (attendus = 169, ramenes = 85.00, corrects = 9.00)+",
+			"content": [
+				"-",
+				"classe",
+				"1870",
+				"(attendus",
+				"=",
+				"169,",
+				"ramenes",
+				"=",
+				"85.00,",
+				"corrects",
+				"=",
+				"9.00)"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "\\verb+ rappel = 0.036\tprecision = 0.072\tf-mesure = 0.048+",
+			"content": [
+				"rappel",
+				"=",
+				"0.036",
+				"precision",
+				"=",
+				"0.072",
+				"f-mesure",
+				"=",
+				"0.048"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "\\verb+- classe 1800 (attendus = 169, ramenes = 77.00, corrects = 3.00)+",
+			"content": [
+				"-",
+				"classe",
+				"1800",
+				"(attendus",
+				"=",
+				"169,",
+				"ramenes",
+				"=",
+				"77.00,",
+				"corrects",
+				"=",
+				"3.00)"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "\\verb+- classe 1830 (attendus = 169, ramenes = 526.00, corrects = 49.00)+",
+			"content": [
+				"-",
+				"classe",
+				"1830",
+				"(attendus",
+				"=",
+				"169,",
+				"ramenes",
+				"=",
+				"526.00,",
+				"corrects",
+				"=",
+				"49.00)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "\\verb+- classe 1850 (attendus = 169, ramenes = 141.00, corrects = 7.00)+",
+			"content": [
+				"-",
+				"classe",
+				"1850",
+				"(attendus",
+				"=",
+				"169,",
+				"ramenes",
+				"=",
+				"141.00,",
+				"corrects",
+				"=",
+				"7.00)"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "\\verb+- classe 1880 (attendus = 169, ramenes = 145.00, corrects = 15.00)+",
+			"content": [
+				"-",
+				"classe",
+				"1880",
+				"(attendus",
+				"=",
+				"169,",
+				"ramenes",
+				"=",
+				"145.00,",
+				"corrects",
+				"=",
+				"15.00)"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "\\verb+- classe 1810 (attendus = 169, ramenes = 92.00, corrects = 19.00)+",
+			"content": [
+				"-",
+				"classe",
+				"1810",
+				"(attendus",
+				"=",
+				"169,",
+				"ramenes",
+				"=",
+				"92.00,",
+				"corrects",
+				"=",
+				"19.00)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "\\verb+ rappel = 0.166\tprecision = 0.123\tf-mesure = 0.141+",
+			"content": [
+				"rappel",
+				"=",
+				"0.166",
+				"precision",
+				"=",
+				"0.123",
+				"f-mesure",
+				"=",
+				"0.141"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "\\verb+- classe 1890 (attendus = 197, ramenes = 109.00, corrects = 10.00)+",
+			"content": [
+				"-",
+				"classe",
+				"1890",
+				"(attendus",
+				"=",
+				"197,",
+				"ramenes",
+				"=",
+				"109.00,",
+				"corrects",
+				"=",
+				"10.00)"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "\\verb+ rappel = 0.112\tprecision = 0.207\tf-mesure = 0.146+",
+			"content": [
+				"rappel",
+				"=",
+				"0.112",
+				"precision",
+				"=",
+				"0.207",
+				"f-mesure",
+				"=",
+				"0.146"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "\\verb+ rappel = 0.053\tprecision = 0.106\tf-mesure = 0.071+",
+			"content": [
+				"rappel",
+				"=",
+				"0.053",
+				"precision",
+				"=",
+				"0.106",
+				"f-mesure",
+				"=",
+				"0.071"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "\\verb+- classe 1920 (attendus = 200, ramenes = 175.00, corrects = 13.00)+",
+			"content": [
+				"-",
+				"classe",
+				"1920",
+				"(attendus",
+				"=",
+				"200,",
+				"ramenes",
+				"=",
+				"175.00,",
+				"corrects",
+				"=",
+				"13.00)"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "\\verb+ rappel = 0.025\tprecision = 0.058\tf-mesure = 0.035+",
+			"content": [
+				"rappel",
+				"=",
+				"0.025",
+				"precision",
+				"=",
+				"0.058",
+				"f-mesure",
+				"=",
+				"0.035"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "\\verb+ rappel = 0.051\tprecision = 0.092\tf-mesure = 0.065+",
+			"content": [
+				"rappel",
+				"=",
+				"0.051",
+				"precision",
+				"=",
+				"0.092",
+				"f-mesure",
+				"=",
+				"0.065"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "\\verb+- classe 1910 (attendus = 201, ramenes = 86.00, corrects = 5.00)+",
+			"content": [
+				"-",
+				"classe",
+				"1910",
+				"(attendus",
+				"=",
+				"201,",
+				"ramenes",
+				"=",
+				"86.00,",
+				"corrects",
+				"=",
+				"5.00)"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "\\verb+- classe 1840 (attendus = 169, ramenes = 83.00, corrects = 6.00)+",
+			"content": [
+				"-",
+				"classe",
+				"1840",
+				"(attendus",
+				"=",
+				"169,",
+				"ramenes",
+				"=",
+				"83.00,",
+				"corrects",
+				"=",
+				"6.00)"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "\\verb+ rappel = 0.113\tprecision = 0.072\tf-mesure = 0.088+",
+			"content": [
+				"rappel",
+				"=",
+				"0.113",
+				"precision",
+				"=",
+				"0.072",
+				"f-mesure",
+				"=",
+				"0.088"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "\\verb+- classe 1900 (attendus = 203, ramenes = 320.00, corrects = 23.00)+",
+			"content": [
+				"-",
+				"classe",
+				"1900",
+				"(attendus",
+				"=",
+				"203,",
+				"ramenes",
+				"=",
+				"320.00,",
+				"corrects",
+				"=",
+				"23.00)"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

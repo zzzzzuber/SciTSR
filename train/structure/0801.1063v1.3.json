@@ -1,0 +1,1290 @@
+{
+	"cells": [
+		{
+			"id": 44,
+			"tex": "walk walking restaurants distance street away close location shopping shops",
+			"content": [
+				"walk",
+				"walking",
+				"restaurants",
+				"distance",
+				"street",
+				"away",
+				"close",
+				"location",
+				"shopping",
+				"shops"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 8,
+			"tex": "food restaurant bar good dinner service breakfast ate eat drinks menu buffet meal",
+			"content": [
+				"food",
+				"restaurant",
+				"bar",
+				"good",
+				"dinner",
+				"service",
+				"breakfast",
+				"ate",
+				"eat",
+				"drinks",
+				"menu",
+				"bu\ufb00et",
+				"meal"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 27,
+			"tex": "(all topics)",
+			"content": [
+				"(all",
+				"topics)"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "MG-LDA",
+			"content": [
+				"MG-LDA"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 37,
+			"tex": "smells/stains",
+			"content": [
+				"smells/stains"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 54,
+			"tex": "",
+			"content": [],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 48,
+			"tex": "MG-LDA",
+			"content": [
+				"MG-LDA"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "staff friendly helpful very desk extremely help directions courteous concierge",
+			"content": [
+				"sta\ufb00",
+				"friendly",
+				"helpful",
+				"very",
+				"desk",
+				"extremely",
+				"help",
+				"directions",
+				"courteous",
+				"concierge"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 65,
+			"tex": "airport hotel shuttle bus very minutes flight hour free did taxi train car",
+			"content": [
+				"airport",
+				"hotel",
+				"shuttle",
+				"bus",
+				"very",
+				"minutes",
+				"\ufb02ight",
+				"hour",
+				"free",
+				"did",
+				"taxi",
+				"train",
+				"car"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 4,
+			"tex": "amenities",
+			"content": [
+				"amenities"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 36,
+			"tex": "",
+			"content": [],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "",
+			"content": [],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 56,
+			"tex": "beach great pool very place ocean stay view just nice stayed clean beautiful",
+			"content": [
+				"beach",
+				"great",
+				"pool",
+				"very",
+				"place",
+				"ocean",
+				"stay",
+				"view",
+				"just",
+				"nice",
+				"stayed",
+				"clean",
+				"beautiful"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 68,
+			"tex": "breakfast coffee fruit room juice fresh eggs continental very toast morning",
+			"content": [
+				"breakfast",
+				"co\ufb00ee",
+				"fruit",
+				"room",
+				"juice",
+				"fresh",
+				"eggs",
+				"continental",
+				"very",
+				"toast",
+				"morning"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 38,
+			"tex": "room smoking bathroom smoke carpet wall smell walls light ceiling dirty",
+			"content": [
+				"room",
+				"smoking",
+				"bathroom",
+				"smoke",
+				"carpet",
+				"wall",
+				"smell",
+				"walls",
+				"light",
+				"ceiling",
+				"dirty"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 46,
+			"tex": "pricing",
+			"content": [
+				"pricing"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "",
+			"content": [],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 41,
+			"tex": "room bed beds bathroom comfortable large size tv king small double bedroom",
+			"content": [
+				"room",
+				"bed",
+				"beds",
+				"bathroom",
+				"comfortable",
+				"large",
+				"size",
+				"tv",
+				"king",
+				"small",
+				"double",
+				"bedroom"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 57,
+			"tex": "",
+			"content": [],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "label",
+			"content": [
+				"label"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 31,
+			"tex": "getting there",
+			"content": [
+				"getting",
+				"there"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 30,
+			"tex": "",
+			"content": [],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "coffee microwave fridge tv ice room refrigerator machine kitchen maker iron dryer",
+			"content": [
+				"co\ufb00ee",
+				"microwave",
+				"fridge",
+				"tv",
+				"ice",
+				"room",
+				"refrigerator",
+				"machine",
+				"kitchen",
+				"maker",
+				"iron",
+				"dryer"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 14,
+			"tex": "shower water bathroom hot towels toilet tub bath sink pressure soap shampoo",
+			"content": [
+				"shower",
+				"water",
+				"bathroom",
+				"hot",
+				"towels",
+				"toilet",
+				"tub",
+				"bath",
+				"sink",
+				"pressure",
+				"soap",
+				"shampoo"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 19,
+			"tex": "spa",
+			"content": [
+				"spa"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 75,
+			"tex": "",
+			"content": [],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "noise/conditioning",
+			"content": [
+				"noise/conditioning"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 39,
+			"tex": "",
+			"content": [],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "",
+			"content": [],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 55,
+			"tex": "beach resorts",
+			"content": [
+				"beach",
+				"resorts"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "top words",
+			"content": [
+				"top",
+				"words"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 66,
+			"tex": "",
+			"content": [],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 51,
+			"tex": "global",
+			"content": [
+				"global"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 62,
+			"tex": "room did smoking bed night stay got went like desk smoke non-smoking smell",
+			"content": [
+				"room",
+				"did",
+				"smoking",
+				"bed",
+				"night",
+				"stay",
+				"got",
+				"went",
+				"like",
+				"desk",
+				"smoke",
+				"non-smoking",
+				"smell"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 49,
+			"tex": "beach resorts",
+			"content": [
+				"beach",
+				"resorts"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 71,
+			"tex": "hotel rooms very centre situated well location excellent city comfortable good",
+			"content": [
+				"hotel",
+				"rooms",
+				"very",
+				"centre",
+				"situated",
+				"well",
+				"location",
+				"excellent",
+				"city",
+				"comfortable",
+				"good"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 22,
+			"tex": "parking",
+			"content": [
+				"parking"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 33,
+			"tex": "",
+			"content": [],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 47,
+			"tex": "\\$ night rate price paid worth pay cost charge extra day fee parking",
+			"content": [
+				"$",
+				"night",
+				"rate",
+				"price",
+				"paid",
+				"worth",
+				"pay",
+				"cost",
+				"charge",
+				"extra",
+				"day",
+				"fee",
+				"parking"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 63,
+			"tex": "",
+			"content": [],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "",
+			"content": [],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 32,
+			"tex": "airport shuttle minutes bus took taxi train hour ride station cab driver line",
+			"content": [
+				"airport",
+				"shuttle",
+				"minutes",
+				"bus",
+				"took",
+				"taxi",
+				"train",
+				"hour",
+				"ride",
+				"station",
+				"cab",
+				"driver",
+				"line"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 50,
+			"tex": "beach ocean view hilton balcony resort ritz island head club pool oceanfront",
+			"content": [
+				"beach",
+				"ocean",
+				"view",
+				"hilton",
+				"balcony",
+				"resort",
+				"ritz",
+				"island",
+				"head",
+				"club",
+				"pool",
+				"oceanfront"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 25,
+			"tex": "staff",
+			"content": [
+				"sta\ufb00"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 34,
+			"tex": "check in",
+			"content": [
+				"check",
+				"in"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 69,
+			"tex": "LDA",
+			"content": [
+				"LDA"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "",
+			"content": [],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 53,
+			"tex": "vegas strip casino las rock hard station palace pool circus renaissance",
+			"content": [
+				"vegas",
+				"strip",
+				"casino",
+				"las",
+				"rock",
+				"hard",
+				"station",
+				"palace",
+				"pool",
+				"circus",
+				"renaissance"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 15,
+			"tex": "",
+			"content": [],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 45,
+			"tex": "",
+			"content": [],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 28,
+			"tex": "Internet",
+			"content": [
+				"Internet"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 52,
+			"tex": "Las Vegas",
+			"content": [
+				"Las",
+				"Vegas"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "pool area hot tub indoor nice swimming outdoor fitness spa heated use kids",
+			"content": [
+				"pool",
+				"area",
+				"hot",
+				"tub",
+				"indoor",
+				"nice",
+				"swimming",
+				"outdoor",
+				"\ufb01tness",
+				"spa",
+				"heated",
+				"use",
+				"kids"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 61,
+			"tex": "smells/stains",
+			"content": [
+				"smells/stains"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 29,
+			"tex": "internet free access wireless use lobby high computer available speed business",
+			"content": [
+				"internet",
+				"free",
+				"access",
+				"wireless",
+				"use",
+				"lobby",
+				"high",
+				"computer",
+				"available",
+				"speed",
+				"business"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 17,
+			"tex": "breakfast coffee continental morning fruit fresh buffet included free hot\njuice",
+			"content": [
+				"breakfast",
+				"co\ufb00ee",
+				"continental",
+				"morning",
+				"fruit",
+				"fresh",
+				"bu\ufb00et",
+				"included",
+				"free",
+				"hot",
+				"juice"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 7,
+			"tex": "food and drink",
+			"content": [
+				"food",
+				"and",
+				"drink"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 43,
+			"tex": "location",
+			"content": [
+				"location"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "",
+			"content": [],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 73,
+			"tex": "pricing",
+			"content": [
+				"pricing"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 60,
+			"tex": "",
+			"content": [],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 64,
+			"tex": "getting there",
+			"content": [
+				"getting",
+				"there"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 67,
+			"tex": "breakfast",
+			"content": [
+				"breakfast"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 40,
+			"tex": "comfort",
+			"content": [
+				"comfort"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 74,
+			"tex": "card credit \\$ charged hotel night room charge money deposit stay pay cash did",
+			"content": [
+				"card",
+				"credit",
+				"$",
+				"charged",
+				"hotel",
+				"night",
+				"room",
+				"charge",
+				"money",
+				"deposit",
+				"stay",
+				"pay",
+				"cash",
+				"did"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 13,
+			"tex": "bathroom",
+			"content": [
+				"bathroom"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "parking car park lot valet garage free street parked rental cars spaces space",
+			"content": [
+				"parking",
+				"car",
+				"park",
+				"lot",
+				"valet",
+				"garage",
+				"free",
+				"street",
+				"parked",
+				"rental",
+				"cars",
+				"spaces",
+				"space"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 11,
+			"tex": "air noise door room hear open night conditioning loud window noisy doors windows",
+			"content": [
+				"air",
+				"noise",
+				"door",
+				"room",
+				"hear",
+				"open",
+				"night",
+				"conditioning",
+				"loud",
+				"window",
+				"noisy",
+				"doors",
+				"windows"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 35,
+			"tex": "early check morning arrived late hours pm ready day hour flight wait",
+			"content": [
+				"early",
+				"check",
+				"morning",
+				"arrived",
+				"late",
+				"hours",
+				"pm",
+				"ready",
+				"day",
+				"hour",
+				"\ufb02ight",
+				"wait"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 58,
+			"tex": "Las Vegas",
+			"content": [
+				"Las",
+				"Vegas"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 42,
+			"tex": "",
+			"content": [],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 59,
+			"tex": "vegas strip great casino \\$ good hotel food las rock room very pool nice",
+			"content": [
+				"vegas",
+				"strip",
+				"great",
+				"casino",
+				"$",
+				"good",
+				"hotel",
+				"food",
+				"las",
+				"rock",
+				"room",
+				"very",
+				"pool",
+				"nice"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 72,
+			"tex": "(out of 45)",
+			"content": [
+				"(out",
+				"of",
+				"45)"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 70,
+			"tex": "location",
+			"content": [
+				"location"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "breakfast",
+			"content": [
+				"breakfast"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 24,
+			"tex": "local",
+			"content": [
+				"local"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 87,
+			"tex": "",
+			"content": [],
+			"start_row": 29,
+			"end_row": 29,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 84,
+			"tex": "",
+			"content": [],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 89,
+			"tex": "motel rooms nice hotel like place stay parking price \\$ santa stayed good",
+			"content": [
+				"motel",
+				"rooms",
+				"nice",
+				"hotel",
+				"like",
+				"place",
+				"stay",
+				"parking",
+				"price",
+				"$",
+				"santa",
+				"stayed",
+				"good"
+			],
+			"start_row": 29,
+			"end_row": 29,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 79,
+			"tex": "noise",
+			"content": [
+				"noise"
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 81,
+			"tex": "",
+			"content": [],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 88,
+			"tex": "-",
+			"content": [
+				"-"
+			],
+			"start_row": 29,
+			"end_row": 29,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 85,
+			"tex": "cleanliness",
+			"content": [
+				"cleanliness"
+			],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 78,
+			"tex": "",
+			"content": [],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 83,
+			"tex": "hotel best stay hotels stayed reviews service great time really just say rooms",
+			"content": [
+				"hotel",
+				"best",
+				"stay",
+				"hotels",
+				"stayed",
+				"reviews",
+				"service",
+				"great",
+				"time",
+				"really",
+				"just",
+				"say",
+				"rooms"
+			],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 86,
+			"tex": "hotel room dirty stay bathroom rooms like place carpet old very worst bed",
+			"content": [
+				"hotel",
+				"room",
+				"dirty",
+				"stay",
+				"bathroom",
+				"rooms",
+				"like",
+				"place",
+				"carpet",
+				"old",
+				"very",
+				"worst",
+				"bed"
+			],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 77,
+			"tex": "room hotel told desk did manager asked said service called stay rooms",
+			"content": [
+				"room",
+				"hotel",
+				"told",
+				"desk",
+				"did",
+				"manager",
+				"asked",
+				"said",
+				"service",
+				"called",
+				"stay",
+				"rooms"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 82,
+			"tex": "opinion",
+			"content": [
+				"opinion"
+			],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 80,
+			"tex": "room very hotel night noise did hear sleep bed door stay floor time just like",
+			"content": [
+				"room",
+				"very",
+				"hotel",
+				"night",
+				"noise",
+				"did",
+				"hear",
+				"sleep",
+				"bed",
+				"door",
+				"stay",
+				"\ufb02oor",
+				"time",
+				"just",
+				"like"
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 76,
+			"tex": "front desk",
+			"content": [
+				"front",
+				"desk"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

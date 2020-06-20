@@ -1,0 +1,522 @@
+{
+	"cells": [
+		{
+			"id": 2,
+			"tex": "PDV modification by an Attack",
+			"content": [
+				"PDV",
+				"modi\ufb01cation",
+				"by",
+				"an",
+				"Attack"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 35,
+			"tex": "Number of subflows after a split",
+			"content": [
+				"Number",
+				"of",
+				"sub\ufb02ows",
+				"after",
+				"a",
+				"split"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 30,
+			"tex": "$P_{NL}$",
+			"content": [
+				"PN",
+				"L"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 29,
+			"tex": "Packet loss probability",
+			"content": [
+				"Packet",
+				"loss",
+				"probability"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "PDV or Jitter introduced by the network",
+			"content": [
+				"PDV",
+				"or",
+				"Jitter",
+				"introduced",
+				"by",
+				"the",
+				"network"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 34,
+			"tex": "$S$",
+			"content": [
+				"S"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "Timing information at the creator",
+			"content": [
+				"Timing",
+				"information",
+				"at",
+				"the",
+				"creator"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "$X$",
+			"content": [
+				"X"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "\\textbf{Parameters}",
+			"content": [
+				"Parameters"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 1
+		},
+		{
+			"id": 37,
+			"tex": "Maximum delay constraint for an attacker",
+			"content": [
+				"Maximum",
+				"delay",
+				"constraint",
+				"for",
+				"an",
+				"attacker"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 25,
+			"tex": "Synchronization constant",
+			"content": [
+				"Synchronization",
+				"constant"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 24,
+			"tex": "$\\rho$",
+			"content": [
+				"\u03c1"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "$\\gamma$",
+			"content": [
+				"\u03b3"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 28,
+			"tex": "$P_L$",
+			"content": [
+				"PL"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "$W$",
+			"content": [
+				"W"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "Threshold to consider a packet as lost",
+			"content": [
+				"Threshold",
+				"to",
+				"consider",
+				"a",
+				"packet",
+				"as",
+				"lost"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 31,
+			"tex": "Probability of packet loss due to the network",
+			"content": [
+				"Probability",
+				"of",
+				"packet",
+				"loss",
+				"due",
+				"to",
+				"the",
+				"network"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "$M$",
+			"content": [
+				"M"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "$C$",
+			"content": [
+				"C"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "IPD at the Detector",
+			"content": [
+				"IPD",
+				"at",
+				"the",
+				"Detector"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "$\\eta$",
+			"content": [
+				"\u03b7"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 32,
+			"tex": "$P_M$",
+			"content": [
+				"PM"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "$N$",
+			"content": [
+				"N"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "Network delays",
+			"content": [
+				"Network",
+				"delays"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "IPD modification by a Watermark",
+			"content": [
+				"IPD",
+				"modi\ufb01cation",
+				"by",
+				"a",
+				"Watermark"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "Original sequence length",
+			"content": [
+				"Original",
+				"sequence",
+				"length"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 38,
+			"tex": "$W_{max}$",
+			"content": [
+				"Wmax"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "$L$",
+			"content": [
+				"L"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "\\textbf{Random Variables}",
+			"content": [
+				"Random",
+				"Variables"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 1
+		},
+		{
+			"id": 39,
+			"tex": "Maximum delay constraint for the watermark",
+			"content": [
+				"Maximum",
+				"delay",
+				"constraint",
+				"for",
+				"the",
+				"watermark"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "Matched sequence length",
+			"content": [
+				"Matched",
+				"sequence",
+				"length"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "IPD at the Creator",
+			"content": [
+				"IPD",
+				"at",
+				"the",
+				"Creator"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "$D$",
+			"content": [
+				"D"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "$J$",
+			"content": [
+				"J"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "Threshold for the likelihood-ratio test to reject $H_0$",
+			"content": [
+				"Threshold",
+				"for",
+				"the",
+				"likelihood-ratio",
+				"test",
+				"to",
+				"reject",
+				"H0"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "Timing information at the detector",
+			"content": [
+				"Timing",
+				"information",
+				"at",
+				"the",
+				"detector"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "$A$",
+			"content": [
+				"A"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 36,
+			"tex": "$A_{max}$",
+			"content": [
+				"Amax"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "$Y$",
+			"content": [
+				"Y"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 33,
+			"tex": "Probability of not detecting a packet",
+			"content": [
+				"Probability",
+				"of",
+				"not",
+				"detecting",
+				"a",
+				"packet"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

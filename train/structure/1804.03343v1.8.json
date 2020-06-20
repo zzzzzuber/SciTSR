@@ -1,0 +1,433 @@
+{
+	"cells": [
+		{
+			"id": 7,
+			"tex": "$(\\frac{h}{2}, \\frac{w}{2}, 64) \\to (\\frac{h}{4}, \\frac{w}{4}, 128)$",
+			"content": [
+				"(",
+				"h",
+				"2",
+				",",
+				"w",
+				"2",
+				",",
+				"64)",
+				"\u2192",
+				"(",
+				"h",
+				"4",
+				",",
+				"w",
+				"4",
+				",",
+				"128)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "$(\\frac{h}{8}, \\frac{w}{8}, 256) \\to (\\frac{h}{16}, \\frac{w}{16}, 512)$",
+			"content": [
+				"(",
+				"h",
+				"8",
+				",",
+				"w",
+				"8",
+				",",
+				"256)",
+				"\u2192",
+				"(",
+				"h",
+				"16",
+				",",
+				"w",
+				"16",
+				",",
+				"512)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "CONV-(N1024, K4, S2, P1), IN, Leaky ReLU",
+			"content": [
+				"CONV-(N1024,",
+				"K4,",
+				"S2,",
+				"P1),",
+				"IN,",
+				"Leaky",
+				"ReLU"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 13,
+			"tex": "$(\\frac{h}{16}, \\frac{w}{16}, 512) \\to (\\frac{h}{32}, \\frac{w}{32}, 1024)$",
+			"content": [
+				"(",
+				"h",
+				"16",
+				",",
+				"w",
+				"16",
+				",",
+				"512)",
+				"\u2192",
+				"(",
+				"h",
+				"32",
+				",",
+				"w",
+				"32",
+				",",
+				"1024)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "$(h, w, 3) \\to (\\frac{h}{2}, \\frac{w}{2}, 64)$",
+			"content": [
+				"(h,",
+				"w,",
+				"3)",
+				"\u2192",
+				"(",
+				"h",
+				"2",
+				",",
+				"w",
+				"2",
+				",",
+				"64)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "Hidden Layer",
+			"content": [
+				"Hidden",
+				"Layer"
+			],
+			"start_row": 2,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "CONV-(N512, K4, S2, P1), IN, Leaky ReLU",
+			"content": [
+				"CONV-(N512,",
+				"K4,",
+				"S2,",
+				"P1),",
+				"IN,",
+				"Leaky",
+				"ReLU"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 10,
+			"tex": "CONV-(N256, K4, S2, P1), IN, Leaky ReLU",
+			"content": [
+				"CONV-(N256,",
+				"K4,",
+				"S2,",
+				"P1),",
+				"IN,",
+				"Leaky",
+				"ReLU"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 9,
+			"tex": "$(\\frac{h}{4}, \\frac{w}{4}, 128) \\to (\\frac{h}{8}, \\frac{w}{8}, 256)$",
+			"content": [
+				"(",
+				"h",
+				"4",
+				",",
+				"w",
+				"4",
+				",",
+				"128)",
+				"\u2192",
+				"(",
+				"h",
+				"8",
+				",",
+				"w",
+				"8",
+				",",
+				"256)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "Layer Information",
+			"content": [
+				"Layer",
+				"Information"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 0,
+			"tex": "Part",
+			"content": [
+				"Part"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "CONV-(N128, K4, S2, P1), IN, Leaky ReLU",
+			"content": [
+				"CONV-(N128,",
+				"K4,",
+				"S2,",
+				"P1),",
+				"IN,",
+				"Leaky",
+				"ReLU"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 5,
+			"tex": "CONV-(N64, K4, S2, P1), IN, Leaky ReLU",
+			"content": [
+				"CONV-(N64,",
+				"K4,",
+				"S2,",
+				"P1),",
+				"IN,",
+				"Leaky",
+				"ReLU"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 22,
+			"tex": "CONV-(N($c_i$), K4, S2, P1), IN, Leaky ReLU",
+			"content": [
+				"CONV-(N(ci),",
+				"K4,",
+				"S2,",
+				"P1),",
+				"IN,",
+				"Leaky",
+				"ReLU"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 21,
+			"tex": "$(\\frac{h}{64}, \\frac{w}{64}, 2048) \\to (1, 1, c_i)$",
+			"content": [
+				"(",
+				"h",
+				"64",
+				",",
+				"w",
+				"64",
+				",",
+				"2048)",
+				"\u2192",
+				"(1,",
+				"1,",
+				"ci)"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "Output Layer ($\\mathbf{D}_{{cls}}$)",
+			"content": [
+				"Output",
+				"Layer",
+				"(Dcls)"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "CONV-(N1, K4, S2, P1), IN, Leaky ReLU",
+			"content": [
+				"CONV-(N1,",
+				"K4,",
+				"S2,",
+				"P1),",
+				"IN,",
+				"Leaky",
+				"ReLU"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 18,
+			"tex": "$(\\frac{h}{64}, \\frac{w}{64}, 2048) \\to (\\frac{h}{64}, \\frac{w}{64}, 1)$",
+			"content": [
+				"(",
+				"h",
+				"64",
+				",",
+				"w",
+				"64",
+				",",
+				"2048)",
+				"\u2192",
+				"(",
+				"h",
+				"64",
+				",",
+				"w",
+				"64",
+				",",
+				"1)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "Output Layer ($\\mathbf{D}$)",
+			"content": [
+				"Output",
+				"Layer",
+				"(D)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "Input Layer",
+			"content": [
+				"Input",
+				"Layer"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "CONV-(N2048, K4, S2, P1), IN, Leaky ReLU",
+			"content": [
+				"CONV-(N2048,",
+				"K4,",
+				"S2,",
+				"P1),",
+				"IN,",
+				"Leaky",
+				"ReLU"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 15,
+			"tex": "$(\\frac{h}{32}, \\frac{w}{32}, 64) \\to (\\frac{h}{64}, \\frac{w}{64}, 2048)$",
+			"content": [
+				"(",
+				"h",
+				"32",
+				",",
+				"w",
+				"32",
+				",",
+				"64)",
+				"\u2192",
+				"(",
+				"h",
+				"64",
+				",",
+				"w",
+				"64",
+				",",
+				"2048)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "Input $\\to$ Output Shape",
+			"content": [
+				"Input",
+				"\u2192",
+				"Output",
+				"Shape"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

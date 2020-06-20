@@ -1,0 +1,955 @@
+{
+	"cells": [
+		{
+			"id": 17,
+			"tex": "$i^{th}$ foreground document in $D_f$",
+			"content": [
+				"ith",
+				"foreground",
+				"document",
+				"in",
+				"Df"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 62,
+			"tex": "$\\beta_b$",
+			"content": [
+				"\u03b2b"
+			],
+			"start_row": 31,
+			"end_row": 31,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 40,
+			"tex": "$s_c$",
+			"content": [
+				"sc"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 58,
+			"tex": "$\\phi_f$",
+			"content": [
+				"\u03c6f"
+			],
+			"start_row": 29,
+			"end_row": 29,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 28,
+			"tex": "$T_f$",
+			"content": [
+				"Tf"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 71,
+			"tex": "sampled word at each position",
+			"content": [
+				"sampled",
+				"word",
+				"at",
+				"each",
+				"position"
+			],
+			"start_row": 35,
+			"end_row": 35,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 31,
+			"tex": "total number of topics",
+			"content": [
+				"total",
+				"number",
+				"of",
+				"topics"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 34,
+			"tex": "$N_u$",
+			"content": [
+				"Nu"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 52,
+			"tex": "$\\alpha_b$",
+			"content": [
+				"\u03b1b"
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "$D_f$",
+			"content": [
+				"Df"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 45,
+			"tex": "set of nodes in spatial region",
+			"content": [
+				"set",
+				"of",
+				"nodes",
+				"in",
+				"spatial",
+				"region"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 65,
+			"tex": "dirichlet hyperparameter for generating foreground topics",
+			"content": [
+				"dirichlet",
+				"hyperparameter",
+				"for",
+				"generating",
+				"foreground",
+				"topics"
+			],
+			"start_row": 32,
+			"end_row": 32,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 32,
+			"tex": "$N_d$",
+			"content": [
+				"Nd"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 38,
+			"tex": "$\\gamma$",
+			"content": [
+				"\u03b3"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 66,
+			"tex": "$\\theta$",
+			"content": [
+				"\u03b8"
+			],
+			"start_row": 33,
+			"end_row": 33,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "words in $i^{th}$ foreground document in $D_f$",
+			"content": [
+				"words",
+				"in",
+				"ith",
+				"foreground",
+				"document",
+				"in",
+				"Df"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "$D_{bi}$",
+			"content": [
+				"Dbi"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "$i^{th}$ document in $D$",
+			"content": [
+				"ith",
+				"document",
+				"in",
+				"D"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "Explanation",
+			"content": [
+				"Explanation"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 41,
+			"tex": "center of spatial region",
+			"content": [
+				"center",
+				"of",
+				"spatial",
+				"region"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "$w_{bi}$",
+			"content": [
+				"wbi"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 43,
+			"tex": "size of spatial region",
+			"content": [
+				"size",
+				"of",
+				"spatial",
+				"region"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 25,
+			"tex": "words in $i^{th}$ document in $D$",
+			"content": [
+				"words",
+				"in",
+				"ith",
+				"document",
+				"in",
+				"D"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 36,
+			"tex": "$\\eta$",
+			"content": [
+				"\u03b7"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 48,
+			"tex": "$S$",
+			"content": [
+				"S"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 64,
+			"tex": "$\\beta_f$",
+			"content": [
+				"\u03b2f"
+			],
+			"start_row": 32,
+			"end_row": 32,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 46,
+			"tex": "$p$",
+			"content": [
+				"p"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "$i^{th}$ background document in $D_b$",
+			"content": [
+				"ith",
+				"background",
+				"document",
+				"in",
+				"Db"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "$D$",
+			"content": [
+				"D"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 39,
+			"tex": "severity hyperparameter for $\\delta$",
+			"content": [
+				"severity",
+				"hyperparameter",
+				"for",
+				"\u03b4"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 61,
+			"tex": "all topics from $1..(T_b+T_f)$",
+			"content": [
+				"all",
+				"topics",
+				"from",
+				"1..(Tb",
+				"+",
+				"Tf",
+				")"
+			],
+			"start_row": 30,
+			"end_row": 30,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 47,
+			"tex": "sparsity parameter",
+			"content": [
+				"sparsity",
+				"parameter"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 35,
+			"tex": "number of unique words in the dictionary",
+			"content": [
+				"number",
+				"of",
+				"unique",
+				"words",
+				"in",
+				"the",
+				"dictionary"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "number of foreground documents",
+			"content": [
+				"number",
+				"of",
+				"foreground",
+				"documents"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 42,
+			"tex": "$n$",
+			"content": [
+				"n"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 30,
+			"tex": "$T = T_b + T_f$",
+			"content": [
+				"T",
+				"=",
+				"Tb",
+				"+",
+				"Tf"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "words in $i^{th}$ background document in $D_b$",
+			"content": [
+				"words",
+				"in",
+				"ith",
+				"background",
+				"document",
+				"in",
+				"Db"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 68,
+			"tex": "$z$",
+			"content": [
+				"z"
+			],
+			"start_row": 34,
+			"end_row": 34,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "$T_b$",
+			"content": [
+				"Tb"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 70,
+			"tex": "$w$",
+			"content": [
+				"w"
+			],
+			"start_row": 35,
+			"end_row": 35,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 37,
+			"tex": "hyperparameter for distribution of $\\gamma$",
+			"content": [
+				"hyperparameter",
+				"for",
+				"distribution",
+				"of",
+				"\u03b3"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 60,
+			"tex": "$\\phi$",
+			"content": [
+				"\u03c6"
+			],
+			"start_row": 30,
+			"end_row": 30,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "$D_i$",
+			"content": [
+				"Di"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "Symbol",
+			"content": [
+				"Symbol"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 67,
+			"tex": "multinomial parameter for document-specific topic mixture",
+			"content": [
+				"multinomial",
+				"parameter",
+				"for",
+				"document-speci\ufb01c",
+				"topic",
+				"mixture"
+			],
+			"start_row": 33,
+			"end_row": 33,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 50,
+			"tex": "$\\delta$",
+			"content": [
+				"\u03b4"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "$N_b$",
+			"content": [
+				"Nb"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "number of background documents",
+			"content": [
+				"number",
+				"of",
+				"background",
+				"documents"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "$D_{fi}$",
+			"content": [
+				"Df",
+				"i"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "corpus consisting of foreground documents",
+			"content": [
+				"corpus",
+				"consisting",
+				"of",
+				"foreground",
+				"documents"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 24,
+			"tex": "$w_i$",
+			"content": [
+				"wi"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 51,
+			"tex": "variable capturing if doc has new topic",
+			"content": [
+				"variable",
+				"capturing",
+				"if",
+				"doc",
+				"has",
+				"new",
+				"topic"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 69,
+			"tex": "sampled topic per word position",
+			"content": [
+				"sampled",
+				"topic",
+				"per",
+				"word",
+				"position"
+			],
+			"start_row": 34,
+			"end_row": 34,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 55,
+			"tex": "dirichlet hyperparameter for mixture of all topics",
+			"content": [
+				"dirichlet",
+				"hyperparameter",
+				"for",
+				"mixture",
+				"of",
+				"all",
+				"topics"
+			],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 54,
+			"tex": "$\\alpha$",
+			"content": [
+				"\u03b1"
+			],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 44,
+			"tex": "$S_{cn}$",
+			"content": [
+				"Scn"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 57,
+			"tex": "background topics from $1..T_b$",
+			"content": [
+				"background",
+				"topics",
+				"from",
+				"1..Tb"
+			],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 59,
+			"tex": "foreground topics from $1..T_f$",
+			"content": [
+				"foreground",
+				"topics",
+				"from",
+				"1..Tf"
+			],
+			"start_row": 29,
+			"end_row": 29,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "$D_b$",
+			"content": [
+				"Db"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 49,
+			"tex": "a subset of $S_{cn}$",
+			"content": [
+				"a",
+				"subset",
+				"of",
+				"Scn"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 63,
+			"tex": "dirichlet hyperparameter for generating background topics",
+			"content": [
+				"dirichlet",
+				"hyperparameter",
+				"for",
+				"generating",
+				"background",
+				"topics"
+			],
+			"start_row": 31,
+			"end_row": 31,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 29,
+			"tex": "number of foreground topics",
+			"content": [
+				"number",
+				"of",
+				"foreground",
+				"topics"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 27,
+			"tex": "number of background topics",
+			"content": [
+				"number",
+				"of",
+				"background",
+				"topics"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "$N = N_b + N_f$",
+			"content": [
+				"N",
+				"=",
+				"Nb",
+				"+",
+				"Nf"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 33,
+			"tex": "number of words in a single document",
+			"content": [
+				"number",
+				"of",
+				"words",
+				"in",
+				"a",
+				"single",
+				"document"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "total number of documents",
+			"content": [
+				"total",
+				"number",
+				"of",
+				"documents"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "corpus consisting of background documents",
+			"content": [
+				"corpus",
+				"consisting",
+				"of",
+				"background",
+				"documents"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 53,
+			"tex": "dirichlet hyperparameter for mixture of old topics",
+			"content": [
+				"dirichlet",
+				"hyperparameter",
+				"for",
+				"mixture",
+				"of",
+				"old",
+				"topics"
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "$w_{fi}$",
+			"content": [
+				"wf",
+				"i"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "$N_f$",
+			"content": [
+				"Nf"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "composite corpus consisting of documents from $D_b$ and $D_f$",
+			"content": [
+				"composite",
+				"corpus",
+				"consisting",
+				"of",
+				"documents",
+				"from",
+				"Db",
+				"and",
+				"Df"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 56,
+			"tex": "$\\phi_b$",
+			"content": [
+				"\u03c6b"
+			],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

@@ -1,0 +1,173 @@
+{
+	"cells": [
+		{
+			"id": 9,
+			"tex": "Hadoop streaming jobs",
+			"content": [
+				"Hadoop",
+				"streaming",
+				"jobs"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "BI",
+			"content": [
+				"BI"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "DEV",
+			"content": [
+				"DEV"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "STR",
+			"content": [
+				"STR"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "Tenant",
+			"content": [
+				"Tenant"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "MV",
+			"content": [
+				"MV"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "I/O-intensive, periodic but bursty",
+			"content": [
+				"I/O-intensive,",
+				"periodic",
+				"but",
+				"bursty"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "Long-running, CPU-intensive",
+			"content": [
+				"Long-running,",
+				"CPU-intensive"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "Mixture of different types of jobs",
+			"content": [
+				"Mixture",
+				"of",
+				"di\ufb00erent",
+				"types",
+				"of",
+				"jobs"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "APP",
+			"content": [
+				"APP"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "Small, lightweight jobs",
+			"content": [
+				"Small,",
+				"lightweight",
+				"jobs"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "ETL",
+			"content": [
+				"ETL"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "I/O-intensive SQL queries",
+			"content": [
+				"I/O-intensive",
+				"SQL",
+				"queries"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "Characteristics",
+			"content": [
+				"Characteristics"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

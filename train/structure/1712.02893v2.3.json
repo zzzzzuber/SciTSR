@@ -1,0 +1,277 @@
+{
+	"cells": [
+		{
+			"id": 14,
+			"tex": "23.23",
+			"content": [
+				"23.23"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 3,
+			"tex": "SSIM",
+			"content": [
+				"SSIM"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 15,
+			"tex": "0.8201",
+			"content": [
+				"0.8201"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 1,
+			"tex": "MSE",
+			"content": [
+				"MSE"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "0.7934",
+			"content": [
+				"0.7934"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 18,
+			"tex": "24.78",
+			"content": [
+				"24.78"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 4,
+			"tex": "\\rule[-1ex]{0pt}{3.5ex} No guidance (Baseline)",
+			"content": [
+				"No",
+				"guidance",
+				"(Baseline)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "0.0215",
+			"content": [
+				"0.0215"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "\\rule[-1ex]{0pt}{3.5ex} Only texture guidance",
+			"content": [
+				"Only",
+				"texture",
+				"guidance"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "0.0316",
+			"content": [
+				"0.0316"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "\\rule[-1ex]{0pt}{3.5ex} Double guidance (trained separately)",
+			"content": [
+				"Double",
+				"guidance",
+				"(trained",
+				"separately)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "0.8671",
+			"content": [
+				"0.8671"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 21,
+			"tex": "\\textbf{0.0051}",
+			"content": [
+				"0.0051"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "\\rule[-1ex]{0pt}{3.5ex} Only structure guidance",
+			"content": [
+				"Only",
+				"structure",
+				"guidance"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "\\rule[-1ex]{0pt}{3.5ex}",
+			"content": [],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "\\textbf{25.07}",
+			"content": [
+				"25.07"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 20,
+			"tex": "\\rule[-1ex]{0pt}{3.5ex} Double guidance (fine-tuned)",
+			"content": [
+				"Double",
+				"guidance",
+				"(\ufb01ne-tuned)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "0.0118",
+			"content": [
+				"0.0118"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "20.32",
+			"content": [
+				"20.32"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 17,
+			"tex": "0.0059",
+			"content": [
+				"0.0059"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "PSNR",
+			"content": [
+				"PSNR"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 10,
+			"tex": "21.71",
+			"content": [
+				"21.71"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 19,
+			"tex": "0.9078",
+			"content": [
+				"0.9078"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 23,
+			"tex": "\\textbf{0.9152}",
+			"content": [
+				"0.9152"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		}
+	]
+}

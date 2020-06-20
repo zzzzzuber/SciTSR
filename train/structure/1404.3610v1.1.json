@@ -1,0 +1,392 @@
+{
+	"cells": [
+		{
+			"id": 2,
+			"tex": "personalcount",
+			"content": [
+				"personalcount"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "Definition",
+			"content": [
+				"De\ufb01nition"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "Feature",
+			"content": [
+				"Feature"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "Weighted number of bigrams in tweet contained in corpus of noise tweets.",
+			"content": [
+				"Weighted",
+				"number",
+				"of",
+				"bigrams",
+				"in",
+				"tweet",
+				"contained",
+				"in",
+				"corpus",
+				"of",
+				"noise",
+				"tweets."
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "bigrams\\_noise",
+			"content": [
+				"bigrams",
+				"noise"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "Ratio of a measure of similarity between tweet and targeted community corpus by its uncertainty.",
+			"content": [
+				"Ratio",
+				"of",
+				"a",
+				"measure",
+				"of",
+				"similarity",
+				"between",
+				"tweet",
+				"and",
+				"targeted",
+				"community",
+				"corpus",
+				"by",
+				"its",
+				"uncertainty."
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "sis\\_signal",
+			"content": [
+				"sis",
+				"signal"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "Ratio of a measure of similarity between tweet and noise corpus by its uncertainty.",
+			"content": [
+				"Ratio",
+				"of",
+				"a",
+				"measure",
+				"of",
+				"similarity",
+				"between",
+				"tweet",
+				"and",
+				"noise",
+				"corpus",
+				"by",
+				"its",
+				"uncertainty."
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "sis\\_noise",
+			"content": [
+				"sis",
+				"noise"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "Number of nouns in tweet divided by the total number of words.",
+			"content": [
+				"Number",
+				"of",
+				"nouns",
+				"in",
+				"tweet",
+				"divided",
+				"by",
+				"the",
+				"total",
+				"number",
+				"of",
+				"words."
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "tagnoun",
+			"content": [
+				"tagnoun"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "Number of words contained in a list of most common words in tweets rated as not english.",
+			"content": [
+				"Number",
+				"of",
+				"words",
+				"contained",
+				"in",
+				"a",
+				"list",
+				"of",
+				"most",
+				"common",
+				"words",
+				"in",
+				"tweets",
+				"rated",
+				"as",
+				"not",
+				"english."
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "is\\_notenglish",
+			"content": [
+				"is",
+				"notenglish"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "Number of first person pronouns in tweet.",
+			"content": [
+				"Number",
+				"of",
+				"\ufb01rst",
+				"person",
+				"pronouns",
+				"in",
+				"tweet."
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "Number of characters in tweet.",
+			"content": [
+				"Number",
+				"of",
+				"characters",
+				"in",
+				"tweet."
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "ncharacters",
+			"content": [
+				"ncharacters"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "Number of words in tweet.",
+			"content": [
+				"Number",
+				"of",
+				"words",
+				"in",
+				"tweet."
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "wordscount",
+			"content": [
+				"wordscount"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "Weighted number of words in tweet similar to common words in targeted community corpus.",
+			"content": [
+				"Weighted",
+				"number",
+				"of",
+				"words",
+				"in",
+				"tweet",
+				"similar",
+				"to",
+				"common",
+				"words",
+				"in",
+				"targeted",
+				"community",
+				"corpus."
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "common\\_signal",
+			"content": [
+				"common",
+				"signal"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "common\\_noise",
+			"content": [
+				"common",
+				"noise"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "Ratio of number of words in English by number of words in foreign languages.",
+			"content": [
+				"Ratio",
+				"of",
+				"number",
+				"of",
+				"words",
+				"in",
+				"English",
+				"by",
+				"number",
+				"of",
+				"words",
+				"in",
+				"foreign",
+				"languages."
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "is\\_english",
+			"content": [
+				"is",
+				"english"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "Weighted number of words in tweet similar to common words in noise corpus.",
+			"content": [
+				"Weighted",
+				"number",
+				"of",
+				"words",
+				"in",
+				"tweet",
+				"similar",
+				"to",
+				"common",
+				"words",
+				"in",
+				"noise",
+				"corpus."
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

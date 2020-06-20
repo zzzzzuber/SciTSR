@@ -1,0 +1,1448 @@
+{
+	"cells": [
+		{
+			"id": 53,
+			"tex": "Gradient Boosted Machine",
+			"content": [
+				"Gradient",
+				"Boosted",
+				"Machine"
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 58,
+			"tex": "HMM",
+			"content": [
+				"HMM"
+			],
+			"start_row": 29,
+			"end_row": 29,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 98,
+			"tex": "SdA",
+			"content": [
+				"SdA"
+			],
+			"start_row": 49,
+			"end_row": 49,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 70,
+			"tex": "LSTM",
+			"content": [
+				"LSTM"
+			],
+			"start_row": 35,
+			"end_row": 35,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 99,
+			"tex": "Stacked denoising Autoencoder",
+			"content": [
+				"Stacked",
+				"denoising",
+				"Autoencoder"
+			],
+			"start_row": 49,
+			"end_row": 49,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 63,
+			"tex": "Inertia Navigation System",
+			"content": [
+				"Inertia",
+				"Navigation",
+				"System"
+			],
+			"start_row": 31,
+			"end_row": 31,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 72,
+			"tex": "M2M",
+			"content": [
+				"M2M"
+			],
+			"start_row": 36,
+			"end_row": 36,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 107,
+			"tex": "Tensor Processing Unit",
+			"content": [
+				"Tensor",
+				"Processing",
+				"Unit"
+			],
+			"start_row": 53,
+			"end_row": 53,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 62,
+			"tex": "INS",
+			"content": [
+				"INS"
+			],
+			"start_row": 31,
+			"end_row": 31,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 90,
+			"tex": "ReLU",
+			"content": [
+				"ReLU"
+			],
+			"start_row": 45,
+			"end_row": 45,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 75,
+			"tex": "Mean Absolute Percentage Error",
+			"content": [
+				"Mean",
+				"Absolute",
+				"Percentage",
+				"Error"
+			],
+			"start_row": 37,
+			"end_row": 37,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "5G",
+			"content": [
+				"5G"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 92,
+			"tex": "RL",
+			"content": [
+				"RL"
+			],
+			"start_row": 46,
+			"end_row": 46,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 65,
+			"tex": "Internet of Things",
+			"content": [
+				"Internet",
+				"of",
+				"Things"
+			],
+			"start_row": 32,
+			"end_row": 32,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 64,
+			"tex": "IoT",
+			"content": [
+				"IoT"
+			],
+			"start_row": 32,
+			"end_row": 32,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 59,
+			"tex": "Hidden Markov Model",
+			"content": [
+				"Hidden",
+				"Markov",
+				"Model"
+			],
+			"start_row": 29,
+			"end_row": 29,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 51,
+			"tex": "Generative Adversarial Network",
+			"content": [
+				"Generative",
+				"Adversarial",
+				"Network"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 87,
+			"tex": "Message Queue Telemetry Transport",
+			"content": [
+				"Message",
+				"Queue",
+				"Telemetry",
+				"Transport"
+			],
+			"start_row": 43,
+			"end_row": 43,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 49,
+			"tex": "Feedforward Neural Network",
+			"content": [
+				"Feedforward",
+				"Neural",
+				"Network"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 69,
+			"tex": "Intelligent Transportation System",
+			"content": [
+				"Intelligent",
+				"Transportation",
+				"System"
+			],
+			"start_row": 34,
+			"end_row": 34,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 104,
+			"tex": "SVR",
+			"content": [
+				"SVR"
+			],
+			"start_row": 52,
+			"end_row": 52,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 81,
+			"tex": "Multi-layer Perceptron",
+			"content": [
+				"Multi-layer",
+				"Perceptron"
+			],
+			"start_row": 40,
+			"end_row": 40,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 80,
+			"tex": "MLP",
+			"content": [
+				"MLP"
+			],
+			"start_row": 40,
+			"end_row": 40,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 68,
+			"tex": "ITS",
+			"content": [
+				"ITS"
+			],
+			"start_row": 34,
+			"end_row": 34,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 78,
+			"tex": "ML",
+			"content": [
+				"ML"
+			],
+			"start_row": 39,
+			"end_row": 39,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 91,
+			"tex": "Rectified Linear Units",
+			"content": [
+				"Recti\ufb01ed",
+				"Linear",
+				"Units"
+			],
+			"start_row": 45,
+			"end_row": 45,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 94,
+			"tex": "RNN",
+			"content": [
+				"RNN"
+			],
+			"start_row": 47,
+			"end_row": 47,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 56,
+			"tex": "GPU",
+			"content": [
+				"GPU"
+			],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 54,
+			"tex": "GLM",
+			"content": [
+				"GLM"
+			],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 102,
+			"tex": "SVM",
+			"content": [
+				"SVM"
+			],
+			"start_row": 51,
+			"end_row": 51,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 89,
+			"tex": "Restricted Boltzmann Machine",
+			"content": [
+				"Restricted",
+				"Boltzmann",
+				"Machine"
+			],
+			"start_row": 44,
+			"end_row": 44,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 50,
+			"tex": "GAN",
+			"content": [
+				"GAN"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 66,
+			"tex": "IPA",
+			"content": [
+				"IPA"
+			],
+			"start_row": 33,
+			"end_row": 33,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 88,
+			"tex": "RBN",
+			"content": [
+				"RBN"
+			],
+			"start_row": 44,
+			"end_row": 44,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 100,
+			"tex": "SGD",
+			"content": [
+				"SGD"
+			],
+			"start_row": 50,
+			"end_row": 50,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 105,
+			"tex": "Support Vector Regression",
+			"content": [
+				"Support",
+				"Vector",
+				"Regression"
+			],
+			"start_row": 52,
+			"end_row": 52,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 86,
+			"tex": "MQTT",
+			"content": [
+				"MQTT"
+			],
+			"start_row": 43,
+			"end_row": 43,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 82,
+			"tex": "MNIST",
+			"content": [
+				"MNIST"
+			],
+			"start_row": 41,
+			"end_row": 41,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 74,
+			"tex": "MAPE",
+			"content": [
+				"MAPE"
+			],
+			"start_row": 37,
+			"end_row": 37,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 111,
+			"tex": "Variational Auto-encoder",
+			"content": [
+				"Variational",
+				"Auto-encoder"
+			],
+			"start_row": 55,
+			"end_row": 55,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 83,
+			"tex": "Modified National Institute of Standards and Technology",
+			"content": [
+				"Modi\ufb01ed",
+				"National",
+				"Institute",
+				"of",
+				"Standards",
+				"and",
+				"Technology"
+			],
+			"start_row": 41,
+			"end_row": 41,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 57,
+			"tex": "Graphics Processing Unit",
+			"content": [
+				"Graphics",
+				"Processing",
+				"Unit"
+			],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 95,
+			"tex": "Recurrent Neural Network",
+			"content": [
+				"Recurrent",
+				"Neural",
+				"Network"
+			],
+			"start_row": 47,
+			"end_row": 47,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 96,
+			"tex": "SaaS",
+			"content": [
+				"SaaS"
+			],
+			"start_row": 48,
+			"end_row": 48,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 85,
+			"tex": "Massive Open Online Courses",
+			"content": [
+				"Massive",
+				"Open",
+				"Online",
+				"Courses"
+			],
+			"start_row": 42,
+			"end_row": 42,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 106,
+			"tex": "TPU",
+			"content": [
+				"TPU"
+			],
+			"start_row": 53,
+			"end_row": 53,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 79,
+			"tex": "Machine Learning",
+			"content": [
+				"Machine",
+				"Learning"
+			],
+			"start_row": 39,
+			"end_row": 39,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 112,
+			"tex": "VGG",
+			"content": [
+				"VGG"
+			],
+			"start_row": 56,
+			"end_row": 56,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 61,
+			"tex": "Heating, Ventilation and Air Conditioning",
+			"content": [
+				"Heating,",
+				"Ventilation",
+				"and",
+				"Air",
+				"Conditioning"
+			],
+			"start_row": 30,
+			"end_row": 30,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 67,
+			"tex": "Intelligent Personal Assistant",
+			"content": [
+				"Intelligent",
+				"Personal",
+				"Assistant"
+			],
+			"start_row": 33,
+			"end_row": 33,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 109,
+			"tex": "Unmanned Aerial Vehicle",
+			"content": [
+				"Unmanned",
+				"Aerial",
+				"Vehicle"
+			],
+			"start_row": 54,
+			"end_row": 54,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 55,
+			"tex": "Generalized Linear Model",
+			"content": [
+				"Generalized",
+				"Linear",
+				"Model"
+			],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 77,
+			"tex": "multicast DNS",
+			"content": [
+				"multicast",
+				"DNS"
+			],
+			"start_row": 38,
+			"end_row": 38,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 101,
+			"tex": "Stochastic Gradient Descent",
+			"content": [
+				"Stochastic",
+				"Gradient",
+				"Descent"
+			],
+			"start_row": 50,
+			"end_row": 50,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 84,
+			"tex": "MOOC",
+			"content": [
+				"MOOC"
+			],
+			"start_row": 42,
+			"end_row": 42,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 93,
+			"tex": "Reinforcement Learning",
+			"content": [
+				"Reinforcement",
+				"Learning"
+			],
+			"start_row": 46,
+			"end_row": 46,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 103,
+			"tex": "Support Vector Machine",
+			"content": [
+				"Support",
+				"Vector",
+				"Machine"
+			],
+			"start_row": 51,
+			"end_row": 51,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 73,
+			"tex": "Machine-to-Machine",
+			"content": [
+				"Machine-to-Machine"
+			],
+			"start_row": 36,
+			"end_row": 36,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 76,
+			"tex": "mDNS",
+			"content": [
+				"mDNS"
+			],
+			"start_row": 38,
+			"end_row": 38,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 60,
+			"tex": "HVAC",
+			"content": [
+				"HVAC"
+			],
+			"start_row": 30,
+			"end_row": 30,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 52,
+			"tex": "GBM",
+			"content": [
+				"GBM"
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 110,
+			"tex": "VAE",
+			"content": [
+				"VAE"
+			],
+			"start_row": 55,
+			"end_row": 55,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 97,
+			"tex": "Software as a Service",
+			"content": [
+				"Software",
+				"as",
+				"a",
+				"Service"
+			],
+			"start_row": 48,
+			"end_row": 48,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 108,
+			"tex": "UAV",
+			"content": [
+				"UAV"
+			],
+			"start_row": 54,
+			"end_row": 54,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 48,
+			"tex": "FNN",
+			"content": [
+				"FNN"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 71,
+			"tex": "Long Short-term Memory",
+			"content": [
+				"Long",
+				"Short-term",
+				"Memory"
+			],
+			"start_row": 35,
+			"end_row": 35,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 31,
+			"tex": "Denoising Auto-encoder",
+			"content": [
+				"Denoising",
+				"Auto-encoder"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 32,
+			"tex": "DBN",
+			"content": [
+				"DBN"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 35,
+			"tex": "Deep Learning",
+			"content": [
+				"Deep",
+				"Learning"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 41,
+			"tex": "Deep Reinforcement Learning",
+			"content": [
+				"Deep",
+				"Reinforcement",
+				"Learning"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 29,
+			"tex": "Conditional Restricted Boltzmann Machine",
+			"content": [
+				"Conditional",
+				"Restricted",
+				"Boltzmann",
+				"Machine"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 34,
+			"tex": "DL",
+			"content": [
+				"DL"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 115,
+			"tex": "Visual Light Communication",
+			"content": [
+				"Visual",
+				"Light",
+				"Communication"
+			],
+			"start_row": 57,
+			"end_row": 57,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 47,
+			"tex": "False Data Injection",
+			"content": [
+				"False",
+				"Data",
+				"Injection"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "Artificial Intelligence",
+			"content": [
+				"Arti\ufb01cial",
+				"Intelligence"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 43,
+			"tex": "Extreme Learning Machine",
+			"content": [
+				"Extreme",
+				"Learning",
+				"Machine"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "Canadian Institute for Advanced Research",
+			"content": [
+				"Canadian",
+				"Institute",
+				"for",
+				"Advanced",
+				"Research"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "CIFAR",
+			"content": [
+				"CIFAR"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "Backpropagation Through Time",
+			"content": [
+				"Backpropagation",
+				"Through",
+				"Time"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "Artificial Neural Network",
+			"content": [
+				"Arti\ufb01cial",
+				"Neural",
+				"Network"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 119,
+			"tex": "Extensible Messaging and Presence Protocol",
+			"content": [
+				"Extensible",
+				"Messaging",
+				"and",
+				"Presence",
+				"Protocol"
+			],
+			"start_row": 59,
+			"end_row": 59,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 116,
+			"tex": "WSN",
+			"content": [
+				"WSN"
+			],
+			"start_row": 58,
+			"end_row": 58,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 36,
+			"tex": "DNN",
+			"content": [
+				"DNN"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "CAE",
+			"content": [
+				"CAE"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 117,
+			"tex": "Wireless Sensor Network",
+			"content": [
+				"Wireless",
+				"Sensor",
+				"Network"
+			],
+			"start_row": 58,
+			"end_row": 58,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "Breast Arterial Calcification",
+			"content": [
+				"Breast",
+				"Arterial",
+				"Calci\ufb01cation"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 44,
+			"tex": "FDC",
+			"content": [
+				"FDC"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "Auto-encoder",
+			"content": [
+				"Auto-encoder"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "AE",
+			"content": [
+				"AE"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "CoAP",
+			"content": [
+				"CoAP"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 46,
+			"tex": "FDI",
+			"content": [
+				"FDI"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "BLE",
+			"content": [
+				"BLE"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 40,
+			"tex": "DRL",
+			"content": [
+				"DRL"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "CPS",
+			"content": [
+				"CPS"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 39,
+			"tex": "DNS Service Discovery",
+			"content": [
+				"DNS",
+				"Service",
+				"Discovery"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "Advanced Message Queuing Protocol",
+			"content": [
+				"Advanced",
+				"Message",
+				"Queuing",
+				"Protocol"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "Contractive Auto-encoder",
+			"content": [
+				"Contractive",
+				"Auto-encoder"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "CDR",
+			"content": [
+				"CDR"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 45,
+			"tex": "Fault Detection and Classification",
+			"content": [
+				"Fault",
+				"Detection",
+				"and",
+				"Classi\ufb01cation"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 33,
+			"tex": "Deep Belief Network",
+			"content": [
+				"Deep",
+				"Belief",
+				"Network"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 113,
+			"tex": "Visual Geometry Group",
+			"content": [
+				"Visual",
+				"Geometry",
+				"Group"
+			],
+			"start_row": 56,
+			"end_row": 56,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "AMQP",
+			"content": [
+				"AMQP"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "BPTT",
+			"content": [
+				"BPTT"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 42,
+			"tex": "ELM",
+			"content": [
+				"ELM"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "BAC",
+			"content": [
+				"BAC"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "ANN",
+			"content": [
+				"ANN"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "Bluetooth Low Energy",
+			"content": [
+				"Bluetooth",
+				"Low",
+				"Energy"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 27,
+			"tex": "Cyber-physical System",
+			"content": [
+				"Cyber-physical",
+				"System"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 30,
+			"tex": "DAE",
+			"content": [
+				"DAE"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "AI",
+			"content": [
+				"AI"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 25,
+			"tex": "Constrained Application Protocol",
+			"content": [
+				"Constrained",
+				"Application",
+				"Protocol"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 37,
+			"tex": "Deep Neural Network",
+			"content": [
+				"Deep",
+				"Neural",
+				"Network"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "Convolutional Neural Network",
+			"content": [
+				"Convolutional",
+				"Neural",
+				"Network"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 28,
+			"tex": "CRBM",
+			"content": [
+				"CRBM"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "CNN",
+			"content": [
+				"CNN"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 118,
+			"tex": "XMPP",
+			"content": [
+				"XMPP"
+			],
+			"start_row": 59,
+			"end_row": 59,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "5th Generation (Cellular networks)",
+			"content": [
+				"5th",
+				"Generation",
+				"(Cellular",
+				"networks)"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 114,
+			"tex": "VLC",
+			"content": [
+				"VLC"
+			],
+			"start_row": 57,
+			"end_row": 57,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 38,
+			"tex": "DNS-SD",
+			"content": [
+				"DNS-SD"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "Caller Detail Record",
+			"content": [
+				"Caller",
+				"Detail",
+				"Record"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

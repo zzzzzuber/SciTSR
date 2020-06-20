@@ -1,0 +1,165 @@
+{
+	"cells": [
+		{
+			"id": 8,
+			"tex": "LSTM: letter trigram input in forward direction",
+			"content": [
+				"LSTM:",
+				"letter",
+				"trigram",
+				"input",
+				"in",
+				"forward",
+				"direction"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "Language model",
+			"content": [
+				"Language",
+				"model"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "LSTM: letter trigram input in backward direction",
+			"content": [
+				"LSTM:",
+				"letter",
+				"trigram",
+				"input",
+				"in",
+				"backward",
+				"direction"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "RNN: 2 layers + word input (baseline)",
+			"content": [
+				"RNN:",
+				"2",
+				"layers",
+				"+",
+				"word",
+				"input",
+				"(baseline)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "LSTM: word input in forward direction",
+			"content": [
+				"LSTM:",
+				"word",
+				"input",
+				"in",
+				"forward",
+				"direction"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "59.8",
+			"content": [
+				"59.8"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "52.1",
+			"content": [
+				"52.1"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "LSTM: word input in backward direction",
+			"content": [
+				"LSTM:",
+				"word",
+				"input",
+				"in",
+				"backward",
+				"direction"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "53.4",
+			"content": [
+				"53.4"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "52.0",
+			"content": [
+				"52.0"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "54.4",
+			"content": [
+				"54.4"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "PPL",
+			"content": [
+				"PPL"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

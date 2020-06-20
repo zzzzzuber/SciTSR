@@ -1,0 +1,423 @@
+{
+	"cells": [
+		{
+			"id": 3,
+			"tex": "Transform Layer",
+			"content": [
+				"Transform",
+				"Layer"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "$(\\frac{h}{4}, \\frac{w}{4}, 256) \\to (\\frac{h}{4}, \\frac{w}{4}, 1)$",
+			"content": [
+				"(",
+				"h",
+				"4",
+				",",
+				"w",
+				"4",
+				",",
+				"256)",
+				"\u2192",
+				"(",
+				"h",
+				"4",
+				",",
+				"w",
+				"4",
+				",",
+				"1)"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "CONV-(N256, K3, S1, P1), IN, ReLU",
+			"content": [
+				"CONV-(N256,",
+				"K3,",
+				"S1,",
+				"P1),",
+				"IN,",
+				"ReLU"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 5,
+			"tex": "CONV-(N256, K3, S1, P1), IN, ReLU",
+			"content": [
+				"CONV-(N256,",
+				"K3,",
+				"S1,",
+				"P1),",
+				"IN,",
+				"ReLU"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 13,
+			"tex": "$(\\frac{h}{4}, \\frac{w}{4}, 256) \\to (\\frac{h}{4}, \\frac{w}{4}, 256)$",
+			"content": [
+				"(",
+				"h",
+				"4",
+				",",
+				"w",
+				"4",
+				",",
+				"256)",
+				"\u2192",
+				"(",
+				"h",
+				"4",
+				",",
+				"w",
+				"4",
+				",",
+				"256)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "$(\\frac{h}{4}, \\frac{w}{4}, 256+c_i) \\to (\\frac{h}{4}, \\frac{w}{4}, 256)$",
+			"content": [
+				"(",
+				"h",
+				"4",
+				",",
+				"w",
+				"4",
+				",",
+				"256",
+				"+",
+				"ci)",
+				"\u2192",
+				"(",
+				"h",
+				"4",
+				",",
+				"w",
+				"4",
+				",",
+				"256)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "CONV-(N256, K3, S1, P1), IN, ReLU",
+			"content": [
+				"CONV-(N256,",
+				"K3,",
+				"S1,",
+				"P1),",
+				"IN,",
+				"ReLU"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 17,
+			"tex": "$(\\frac{h}{4}, \\frac{w}{4}, 256) \\to (\\frac{h}{4}, \\frac{w}{4}, 256)$",
+			"content": [
+				"(",
+				"h",
+				"4",
+				",",
+				"w",
+				"4",
+				",",
+				"256)",
+				"\u2192",
+				"(",
+				"h",
+				"4",
+				",",
+				"w",
+				"4",
+				",",
+				"256)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "Part",
+			"content": [
+				"Part"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "CONV-(N256, K3, S1, P1), IN, ReLU",
+			"content": [
+				"CONV-(N256,",
+				"K3,",
+				"S1,",
+				"P1),",
+				"IN,",
+				"ReLU"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 11,
+			"tex": "$(\\frac{h}{4}, \\frac{w}{4}, 256) \\to (\\frac{h}{4}, \\frac{w}{4}, 256)$",
+			"content": [
+				"(",
+				"h",
+				"4",
+				",",
+				"w",
+				"4",
+				",",
+				"256)",
+				"\u2192",
+				"(",
+				"h",
+				"4",
+				",",
+				"w",
+				"4",
+				",",
+				"256)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "CONV-(N1, K7, S1, P3), TanH",
+			"content": [
+				"CONV-(N1,",
+				"K7,",
+				"S1,",
+				"P3),",
+				"TanH"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 14,
+			"tex": "CONV-(N256, K3, S1, P1), IN, ReLU",
+			"content": [
+				"CONV-(N256,",
+				"K3,",
+				"S1,",
+				"P1),",
+				"IN,",
+				"ReLU"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 8,
+			"tex": "CONV-(N256, K3, S1, P1), IN, ReLU",
+			"content": [
+				"CONV-(N256,",
+				"K3,",
+				"S1,",
+				"P1),",
+				"IN,",
+				"ReLU"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 15,
+			"tex": "$(\\frac{h}{4}, \\frac{w}{4}, 256) \\to (\\frac{h}{4}, \\frac{w}{4}, 256)$",
+			"content": [
+				"(",
+				"h",
+				"4",
+				",",
+				"w",
+				"4",
+				",",
+				"256)",
+				"\u2192",
+				"(",
+				"h",
+				"4",
+				",",
+				"w",
+				"4",
+				",",
+				"256)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "Mask Prediction Layer",
+			"content": [
+				"Mask",
+				"Prediction",
+				"Layer"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "$(\\frac{h}{4}, \\frac{w}{4}, 256) \\to (\\frac{h}{4}, \\frac{w}{4}, 256)$",
+			"content": [
+				"(",
+				"h",
+				"4",
+				",",
+				"w",
+				"4",
+				",",
+				"256)",
+				"\u2192",
+				"(",
+				"h",
+				"4",
+				",",
+				"w",
+				"4",
+				",",
+				"256)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "Layer Information",
+			"content": [
+				"Layer",
+				"Information"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 18,
+			"tex": "CONV-(N256, K3, S1, P1), IN, ReLU",
+			"content": [
+				"CONV-(N256,",
+				"K3,",
+				"S1,",
+				"P1),",
+				"IN,",
+				"ReLU"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 6,
+			"tex": "Residual Blocks",
+			"content": [
+				"Residual",
+				"Blocks"
+			],
+			"start_row": 2,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "Input $\\to$ Output Shape",
+			"content": [
+				"Input",
+				"\u2192",
+				"Output",
+				"Shape"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "$(\\frac{h}{4}, \\frac{w}{4}, 256) \\to (\\frac{h}{4}, \\frac{w}{4}, 256)$",
+			"content": [
+				"(",
+				"h",
+				"4",
+				",",
+				"w",
+				"4",
+				",",
+				"256)",
+				"\u2192",
+				"(",
+				"h",
+				"4",
+				",",
+				"w",
+				"4",
+				",",
+				"256)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

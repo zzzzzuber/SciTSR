@@ -1,0 +1,701 @@
+{
+	"cells": [
+		{
+			"id": 12,
+			"tex": "$\\Gamma$",
+			"content": [
+				"\u0393"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 33,
+			"tex": "Cost incurred by user $i$",
+			"content": [
+				"Cost",
+				"incurred",
+				"by",
+				"user",
+				"i"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "User $i$ and User $j$ in set $U$",
+			"content": [
+				"User",
+				"i",
+				"and",
+				"User",
+				"j",
+				"in",
+				"set",
+				"U"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 32,
+			"tex": "$c_i$",
+			"content": [
+				"ci"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "Value of all tasks performed by user $i$",
+			"content": [
+				"Value",
+				"of",
+				"all",
+				"tasks",
+				"performed",
+				"by",
+				"user",
+				"i"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "Set of all users",
+			"content": [
+				"Set",
+				"of",
+				"all",
+				"users"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 35,
+			"tex": "Set of tasks performed by user $i$",
+			"content": [
+				"Set",
+				"of",
+				"tasks",
+				"performed",
+				"by",
+				"user",
+				"i"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "$n$",
+			"content": [
+				"n"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 49,
+			"tex": "Minimum replacement user's bid",
+			"content": [
+				"Minimum",
+				"replacement",
+				"user\u2019s",
+				"bid"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "$i,j$",
+			"content": [
+				"i,",
+				"j"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 42,
+			"tex": "$u_i$",
+			"content": [
+				"ui"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "Description",
+			"content": [
+				"Description"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 40,
+			"tex": "$\\omega_i$",
+			"content": [
+				"\u03c9i"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "Set of winning users",
+			"content": [
+				"Set",
+				"of",
+				"winning",
+				"users"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 29,
+			"tex": "Bid of user $i$",
+			"content": [
+				"Bid",
+				"of",
+				"user",
+				"i"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "$T$",
+			"content": [
+				"T"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 43,
+			"tex": "Platform utility of user $i$",
+			"content": [
+				"Platform",
+				"utility",
+				"of",
+				"user",
+				"i"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 44,
+			"tex": "$u(S)$",
+			"content": [
+				"u(S)"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "Marginal value of user $i$, given set $S$",
+			"content": [
+				"Marginal",
+				"value",
+				"of",
+				"user",
+				"i,",
+				"given",
+				"set",
+				"S"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 30,
+			"tex": "$p_i$",
+			"content": [
+				"pi"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "Notation",
+			"content": [
+				"Notation"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 45,
+			"tex": "Platform utility of users in $S$",
+			"content": [
+				"Platform",
+				"utility",
+				"of",
+				"users",
+				"in",
+				"S"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "Set of screened users",
+			"content": [
+				"Set",
+				"of",
+				"screened",
+				"users"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 38,
+			"tex": "$\\tau_i(S)$",
+			"content": [
+				"\u03c4i(S)"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "Total number of sensing tasks",
+			"content": [
+				"Total",
+				"number",
+				"of",
+				"sensing",
+				"tasks"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 25,
+			"tex": "Value of tasks performed by users in $S$",
+			"content": [
+				"Value",
+				"of",
+				"tasks",
+				"performed",
+				"by",
+				"users",
+				"in",
+				"S"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "Task $k$ in set $\\Gamma$",
+			"content": [
+				"Task",
+				"k",
+				"in",
+				"set",
+				"\u0393"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 46,
+			"tex": "$u_i(S)$",
+			"content": [
+				"ui(S)"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "Value of task $k$",
+			"content": [
+				"Value",
+				"of",
+				"task",
+				"k"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 47,
+			"tex": "Marginal utility of user $i$, given set $S$",
+			"content": [
+				"Marginal",
+				"utility",
+				"of",
+				"user",
+				"i,",
+				"given",
+				"set",
+				"S"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "$v_i$",
+			"content": [
+				"vi"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 28,
+			"tex": "$b_i$",
+			"content": [
+				"bi"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "$m$",
+			"content": [
+				"m"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 37,
+			"tex": "Set of tasks performed by users in $S$",
+			"content": [
+				"Set",
+				"of",
+				"tasks",
+				"performed",
+				"by",
+				"users",
+				"in",
+				"S"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 48,
+			"tex": "$\\gamma_i$",
+			"content": [
+				"\u03b3i"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 39,
+			"tex": "Marginal tasks done by user $i$, given set $S$",
+			"content": [
+				"Marginal",
+				"tasks",
+				"done",
+				"by",
+				"user",
+				"i,",
+				"given",
+				"set",
+				"S"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 36,
+			"tex": "$\\tau(S)$",
+			"content": [
+				"\u03c4",
+				"(S)"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 50,
+			"tex": "$\\sigma_i(S)$",
+			"content": [
+				"\u03c3i(S)"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "$\\chi_k$",
+			"content": [
+				"\u03c7k"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 51,
+			"tex": "Difference of marginal value and bid",
+			"content": [
+				"Di\ufb00erence",
+				"of",
+				"marginal",
+				"value",
+				"and",
+				"bid"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "$S$",
+			"content": [
+				"S"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 34,
+			"tex": "$\\tau_i$",
+			"content": [
+				"\u03c4i"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "$v(S)$",
+			"content": [
+				"v(S)"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "The platform's set of tasks",
+			"content": [
+				"The",
+				"platform\u2019s",
+				"set",
+				"of",
+				"tasks"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 41,
+			"tex": "Personal or intrinsic utility of user $i$",
+			"content": [
+				"Personal",
+				"or",
+				"intrinsic",
+				"utility",
+				"of",
+				"user",
+				"i"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "The value of tasks in $\\tau$",
+			"content": [
+				"The",
+				"value",
+				"of",
+				"tasks",
+				"in",
+				"\u03c4"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "$U$",
+			"content": [
+				"U"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "$\\chi(\\tau)$",
+			"content": [
+				"\u03c7(\u03c4",
+				")"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "$v_i(S)$",
+			"content": [
+				"vi(S)"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "$t_k$",
+			"content": [
+				"tk"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "Total number of users",
+			"content": [
+				"Total",
+				"number",
+				"of",
+				"users"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 31,
+			"tex": "Payment made to user $i$",
+			"content": [
+				"Payment",
+				"made",
+				"to",
+				"user",
+				"i"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

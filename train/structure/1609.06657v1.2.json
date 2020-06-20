@@ -1,0 +1,643 @@
+{
+	"cells": [
+		{
+			"id": 48,
+			"tex": "\\textit{Where do dogs run?}",
+			"content": [
+				"Where",
+				"do",
+				"dogs",
+				"run?"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 36,
+			"tex": "\\textit{Who is running?}",
+			"content": [
+				"Who",
+				"is",
+				"running?"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 35,
+			"tex": "\\textit{A boy is running.}",
+			"content": [
+				"A",
+				"boy",
+				"is",
+				"running."
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 6,
+			"tex": "\\textit{A man.}",
+			"content": [
+				"A",
+				"man."
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 11,
+			"tex": "$\\rightarrow$\\textit{conjug}(``\\textit{do}/\\textit{be}'',\\textit{tense}(VB))+NP1+\\textit{conjug}(VB,present)(+NP2)?",
+			"content": [
+				"\u2192conjug(\u201cdo/be\u201d,tense(VB))+NP1+conjug(VB,present)(+NP2)?"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 47,
+			"tex": "\\textit{Dogs run in a park.}",
+			"content": [
+				"Dogs",
+				"run",
+				"in",
+				"a",
+				"park."
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 13,
+			"tex": "\\textit{Did a dog jump?}",
+			"content": [
+				"Did",
+				"a",
+				"dog",
+				"jump?"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 30,
+			"tex": "\\textit{num}+NP+VB$\\rightarrow$\\textit{replace}(\\textit{num},how many)",
+			"content": [
+				"num+NP+VB\u2192replace(num,how",
+				"many)"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "\\textit{People are playing baseball.}",
+			"content": [
+				"People",
+				"are",
+				"playing",
+				"baseball."
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 43,
+			"tex": "NP1+VB(+NP2)+IN+NP3",
+			"content": [
+				"NP1+VB(+NP2)+IN+NP3"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 33,
+			"tex": "others",
+			"content": [
+				"others"
+			],
+			"start_row": 10,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 44,
+			"tex": "--",
+			"content": [
+				"\u2013"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 38,
+			"tex": "\\textit{A boy is running.}",
+			"content": [
+				"A",
+				"boy",
+				"is",
+				"running."
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 37,
+			"tex": "$\\rightarrow$WP+MD/\\textit{conjug}(``\\textit{do}/\\textit{be}'',\\textit{tense}(VB))+NP+``\\textit{do}/\\textit{doing}'')?",
+			"content": [
+				"\u2192WP+MD/conjug(\u201cdo/be\u201d,tense(VB))+NP+\u201cdo/doing\u201d)?"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "\\textit{Does it look like a man?}",
+			"content": [
+				"Does",
+				"it",
+				"look",
+				"like",
+				"a",
+				"man?"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 12,
+			"tex": "\\textit{A dog jumped.}",
+			"content": [
+				"A",
+				"dog",
+				"jumped."
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 15,
+			"tex": "\\textit{A boy would hit the ball.}",
+			"content": [
+				"A",
+				"boy",
+				"would",
+				"hit",
+				"the",
+				"ball."
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 27,
+			"tex": "EX+is/are+\\textit{num}+NP$\\rightarrow$How many+NP+is/are+EX?",
+			"content": [
+				"EX+is/are+num+NP\u2192How",
+				"many+NP+is/are+EX?"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "NP$\\rightarrow$``\\textit{Does it look like}''+NP",
+			"content": [
+				"NP\u2192\u201cDoes",
+				"it",
+				"look",
+				"like\u201d+NP"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "\\bf Caption",
+			"content": [
+				"Caption"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 42,
+			"tex": "\\textit{What fruit is shown?}",
+			"content": [
+				"What",
+				"fruit",
+				"is",
+				"shown?"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 10,
+			"tex": "--",
+			"content": [
+				"\u2013"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 3,
+			"tex": "\\bf Question",
+			"content": [
+				"Question"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 31,
+			"tex": "\\textit{Six cars are parked.}",
+			"content": [
+				"Six",
+				"cars",
+				"are",
+				"parked."
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 46,
+			"tex": "$\\rightarrow$WRB+\\textit{conjug}(``\\textit{do}/\\textit{be}'',\\textit{tense}(VB))+NP1+\\textit{conjug}(VB,\\textit{tense}(VB))?",
+			"content": [
+				"\u2192WRB+conjug",
+				"(\u201cdo/be\u201d,tense(VB))+NP1+conjug",
+				"(VB,tense(VB))?"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 45,
+			"tex": "--",
+			"content": [
+				"\u2013"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 0,
+			"tex": "\\bf Type",
+			"content": [
+				"Type"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "\\textit{There are cats.}",
+			"content": [
+				"There",
+				"are",
+				"cats."
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 14,
+			"tex": "NP1+MD+VB(+NP2)$\\rightarrow$MD+NP1+VB(+NP2)?",
+			"content": [
+				"NP1+MD+VB(+NP2)\u2192MD+NP1+VB(+NP2)?"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 39,
+			"tex": "\\textit{What is a boy doing?}",
+			"content": [
+				"What",
+				"is",
+				"a",
+				"boy",
+				"doing?"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 25,
+			"tex": "\\textit{Are people making coffee?}",
+			"content": [
+				"Are",
+				"people",
+				"making",
+				"co\ufb00ee?"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 28,
+			"tex": "\\textit{There are two cats.}",
+			"content": [
+				"There",
+				"are",
+				"two",
+				"cats."
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 1,
+			"tex": "\\bf Rule (C$\\rightarrow$Q)",
+			"content": [
+				"Rule",
+				"(C\u2192Q)"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "EX+``\\textit{is/are}''+NP$\\rightarrow$``\\textit{is/are}''+EX+NP?",
+			"content": [
+				"EX+\u201cis/are\u201d+NP\u2192\u201cis/are\u201d+EX+NP?"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "same as above except \\textit{replace}(NP1,random NP) \\textbf{or},",
+			"content": [
+				"same",
+				"as",
+				"above",
+				"except",
+				"replace(NP1,random",
+				"NP)",
+				"or,"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "NP1 + VB (+NP2)",
+			"content": [
+				"NP1",
+				"+",
+				"VB",
+				"(+NP2)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "yes/no",
+			"content": [
+				"yes/no"
+			],
+			"start_row": 1,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "\\textit{People are playing baseball.}",
+			"content": [
+				"People",
+				"are",
+				"playing",
+				"baseball."
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 29,
+			"tex": "\\textit{How many cats are there?}",
+			"content": [
+				"How",
+				"many",
+				"cats",
+				"are",
+				"there?"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 23,
+			"tex": "\\textit{replace(VB,random VB)}",
+			"content": [
+				"replace(VB,random",
+				"VB)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "--",
+			"content": [
+				"\u2013"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 32,
+			"tex": "\\textit{How many cars are parked?}",
+			"content": [
+				"How",
+				"many",
+				"cars",
+				"are",
+				"parked?"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 26,
+			"tex": "number",
+			"content": [
+				"number"
+			],
+			"start_row": 8,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "\\textit{Would a boy hit the ball?}",
+			"content": [
+				"Would",
+				"a",
+				"boy",
+				"hit",
+				"the",
+				"ball?"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 34,
+			"tex": "NP1(+MD)+VB$\\,\\to\\,$WP(+MD)+VB? \\textbf{or},",
+			"content": [
+				"NP1(+MD)+VB\u2192",
+				"WP(+MD)+VB?",
+				"or,"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 40,
+			"tex": "\\textit{obj}/\\textit{property}+VB(+NP)$\\,\\to\\,$WP/WDT+\\textit{category}+VP(+NP)",
+			"content": [
+				"obj",
+				"/property",
+				"+VB(+NP)\u2192",
+				"WP/WDT+category",
+				"+VP(+NP)"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "\\textit{Are cats playing baseball?}",
+			"content": [
+				"Are",
+				"cats",
+				"playing",
+				"baseball?"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 19,
+			"tex": "\\textit{Are there cats?}",
+			"content": [
+				"Are",
+				"there",
+				"cats?"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 41,
+			"tex": "\\textit{An apple is shown.}",
+			"content": [
+				"An",
+				"apple",
+				"is",
+				"shown."
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 2,
+			"end_col": 2
+		}
+	]
+}

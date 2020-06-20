@@ -1,0 +1,443 @@
+{
+	"cells": [
+		{
+			"id": 0,
+			"tex": "Feature Type",
+			"content": [
+				"Feature",
+				"Type"
+			],
+			"start_row": 0,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 28,
+			"tex": "l, t",
+			"content": [
+				"l,",
+				"t"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 27,
+			"tex": "f, l, t",
+			"content": [
+				"f,",
+				"l,",
+				"t"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 26,
+			"tex": "f, l, t",
+			"content": [
+				"f,",
+				"l,",
+				"t"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 25,
+			"tex": "Target Indicator",
+			"content": [
+				"Target",
+				"Indicator"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "l+t/l+t (2)",
+			"content": [
+				"l+t/l+t",
+				"(2)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 20,
+			"tex": "l (2), t (2)",
+			"content": [
+				"l",
+				"(2),",
+				"t",
+				"(2)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 23,
+			"tex": "l+t/l+t (2)",
+			"content": [
+				"l+t/l+t",
+				"(2)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 19,
+			"tex": "f (2), l (2), t (2), l+t (2)",
+			"content": [
+				"f",
+				"(2),",
+				"l",
+				"(2),",
+				"t",
+				"(2),",
+				"l+t",
+				"(2)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 22,
+			"tex": "---",
+			"content": [
+				"\u2014"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "f (2), l (2), t (2), l+t (2)",
+			"content": [
+				"f",
+				"(2),",
+				"l",
+				"(2),",
+				"t",
+				"(2),",
+				"l+t",
+				"(2)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "Bilingual Context",
+			"content": [
+				"Bilingual",
+				"Context"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "Target Context",
+			"content": [
+				"Target",
+				"Context"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "l (-3,3), t (-5,5)",
+			"content": [
+				"l",
+				"(-3,3),",
+				"t",
+				"(-5,5)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 15,
+			"tex": "f (-3,3), l (-3,3), t (-5,5)",
+			"content": [
+				"f",
+				"(-3,3),",
+				"l",
+				"(-3,3),",
+				"t",
+				"(-5,5)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 14,
+			"tex": "f (-3,3), l (-3,3), t (-5,5)",
+			"content": [
+				"f",
+				"(-3,3),",
+				"l",
+				"(-3,3),",
+				"t",
+				"(-5,5)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "Source Context",
+			"content": [
+				"Source",
+				"Context"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "l, l+a, l+p, t, a+p",
+			"content": [
+				"l,",
+				"l+a,",
+				"l+p,",
+				"t,",
+				"a+p"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 11,
+			"tex": "f, f+a, f+p, l, l+t, t, a+p",
+			"content": [
+				"f,",
+				"f+a,",
+				"f+p,",
+				"l,",
+				"l+t,",
+				"t,",
+				"a+p"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 10,
+			"tex": "f, f+a, f+p, l, l+t, t, a+p",
+			"content": [
+				"f,",
+				"f+a,",
+				"f+p,",
+				"l,",
+				"l+t,",
+				"t,",
+				"a+p"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "Source Internal",
+			"content": [
+				"Source",
+				"Internal"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "l, t",
+			"content": [
+				"l,",
+				"t"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 7,
+			"tex": "f, l, l+t, t",
+			"content": [
+				"f,",
+				"l,",
+				"l+t,",
+				"t"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 6,
+			"tex": "f, l, l+t, t",
+			"content": [
+				"f,",
+				"l,",
+				"l+t,",
+				"t"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "Source Indicator",
+			"content": [
+				"Source",
+				"Indicator"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "Polish, Romanian",
+			"content": [
+				"Polish,",
+				"Romanian"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 3,
+			"tex": "German",
+			"content": [
+				"German"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 2,
+			"tex": "Czech",
+			"content": [
+				"Czech"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 32,
+			"tex": "l, t",
+			"content": [
+				"l,",
+				"t"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 31,
+			"tex": "f, l, l+t, t",
+			"content": [
+				"f,",
+				"l,",
+				"l+t,",
+				"t"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 30,
+			"tex": "f, l, l+t, t",
+			"content": [
+				"f,",
+				"l,",
+				"l+t,",
+				"t"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "Configurations",
+			"content": [
+				"Con\ufb01gurations"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 3
+		},
+		{
+			"id": 29,
+			"tex": "Target Internal",
+			"content": [
+				"Target",
+				"Internal"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

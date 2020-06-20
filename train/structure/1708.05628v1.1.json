@@ -1,0 +1,302 @@
+{
+	"cells": [
+		{
+			"id": 8,
+			"tex": "Regression",
+			"content": [
+				"Regression"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 10,
+			"tex": "Discretized angles (21 bins)",
+			"content": [
+				"Discretized",
+				"angles",
+				"(21",
+				"bins)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "Cross-entropy",
+			"content": [
+				"Cross-entropy"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "Discretized angles (360 bins)",
+			"content": [
+				"Discretized",
+				"angles",
+				"(360",
+				"bins)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 16,
+			"tex": "Geodesic loss",
+			"content": [
+				"Geodesic",
+				"loss"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 13,
+			"tex": "Loss function",
+			"content": [
+				"Loss",
+				"function"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "Problem formulation",
+			"content": [
+				"Problem",
+				"formulation"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "V\\",
+			"content": [
+				"V"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "2D jittering",
+			"content": [
+				"2D",
+				"jittering"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "Network architecture",
+			"content": [
+				"Network",
+				"architecture"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "Weighted cross-entropy",
+			"content": [
+				"Weighted",
+				"cross-entropy"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 6,
+			"tex": "Classification",
+			"content": [
+				"Classi\ufb01cation"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 24,
+			"tex": "VGG-M (FC6)",
+			"content": [
+				"VGG-M",
+				"(FC6)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 23,
+			"tex": "AlexNet (FC7)",
+			"content": [
+				"AlexNet",
+				"(FC7)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 19,
+			"tex": "Rendered images",
+			"content": [
+				"Rendered",
+				"images"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 20,
+			"tex": "3D pose jittering + rendered images",
+			"content": [
+				"3D",
+				"pose",
+				"jittering",
+				"+",
+				"rendered",
+				"images"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 9,
+			"tex": "Representation",
+			"content": [
+				"Representation"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "Data augmentation",
+			"content": [
+				"Data",
+				"augmentation"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "Axis-angle / Quaternion",
+			"content": [
+				"Axis-angle",
+				"/",
+				"Quaternion"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 7,
+			"tex": "Fine-grained classification",
+			"content": [
+				"Fine-grained",
+				"classi\ufb01cation"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 22,
+			"tex": "VGG-Net (FC7)",
+			"content": [
+				"VGG-Net",
+				"(FC7)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "",
+			"content": [],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "Ours",
+			"content": [
+				"Ours"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 3,
+			"tex": "Render-for-CNN",
+			"content": [
+				"Render-for-CNN"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 2,
+			"tex": "K",
+			"content": [
+				"K"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		}
+	]
+}

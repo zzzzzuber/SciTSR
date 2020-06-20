@@ -1,0 +1,203 @@
+{
+	"cells": [
+		{
+			"id": 13,
+			"tex": "$m_3 \\leftarrow m_3*m_2$",
+			"content": [
+				"m3",
+				"\u2190",
+				"m3",
+				"\u2217",
+				"m2"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "$M=[g,h,g^{-1}h^{-1}gh]$",
+			"content": [
+				"M",
+				"=",
+				"[g,",
+				"h,",
+				"g\u22121h\u22121gh]"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 5,
+			"tex": "$M=[g,h,hg]$",
+			"content": [
+				"M",
+				"=",
+				"[g,",
+				"h,",
+				"hg]"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 11,
+			"tex": "$M=[g,h,g^{-1}h^{-1}g]$",
+			"content": [
+				"M",
+				"=",
+				"[g,",
+				"h,",
+				"g\u22121h\u22121g]"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 7,
+			"tex": "$m_3 \\leftarrow m_3^{-1}$",
+			"content": [
+				"m3",
+				"\u2190",
+				"m\u22121",
+				"3"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "$M$ after applying $I_r$",
+			"content": [
+				"M",
+				"after",
+				"applying",
+				"Ir"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 8,
+			"tex": "$M=[g,h,g^{-1}h^{-1}]$",
+			"content": [
+				"M",
+				"=",
+				"[g,",
+				"h,",
+				"g\u22121h\u22121]"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 4,
+			"tex": "$m_3 \\leftarrow m_2*m_1$",
+			"content": [
+				"m3",
+				"\u2190",
+				"m2",
+				"\u2217",
+				"m1"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "$m_3 \\leftarrow m_3*m_1$",
+			"content": [
+				"m3",
+				"\u2190",
+				"m3",
+				"\u2217",
+				"m1"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "3",
+			"content": [
+				"3"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "1",
+			"content": [
+				"1"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "4",
+			"content": [
+				"4"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "$I_r$",
+			"content": [
+				"Ir"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "$r$",
+			"content": [
+				"r"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "2",
+			"content": [
+				"2"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

@@ -1,0 +1,454 @@
+{
+	"cells": [
+		{
+			"id": 28,
+			"tex": "$R(\\pi, S)$",
+			"content": [
+				"R(\u03c0,",
+				"S)"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 31,
+			"tex": "maximum regret of solution $\\pi$",
+			"content": [
+				"maximum",
+				"regret",
+				"of",
+				"solution",
+				"\u03c0"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "$d_i$",
+			"content": [
+				"di"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "$\\pi$",
+			"content": [
+				"\u03c0"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "$[d_i^-, d_i^+]$",
+			"content": [
+				"[d\u2212",
+				"i",
+				",",
+				"d+",
+				"i",
+				"]"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "set of all permutations of $J$",
+			"content": [
+				"set",
+				"of",
+				"all",
+				"permutations",
+				"of",
+				"J"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "description",
+			"content": [
+				"description"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 30,
+			"tex": "$Z(\\pi)$",
+			"content": [
+				"Z(\u03c0)"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "$F(\\pi)$",
+			"content": [
+				"F",
+				"(\u03c0)"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "sum of all weights, i.e., $\\sum_{i \\in J} w_i$",
+			"content": [
+				"sum",
+				"of",
+				"all",
+				"weights,",
+				"i.e.,(cid:80)",
+				"i\u2208J",
+				"wi"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "processing time of $i$th job",
+			"content": [
+				"processing",
+				"time",
+				"of",
+				"ith",
+				"job"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "$\\mathcal{P}$",
+			"content": [
+				"P"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "uncertainty interval of due-date of $i$th job",
+			"content": [
+				"uncertainty",
+				"interval",
+				"of",
+				"due-date",
+				"of",
+				"ith",
+				"job"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "$w_i$",
+			"content": [
+				"wi"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "$J$",
+			"content": [
+				"J"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "total weight of late jobs (scheduling objective)",
+			"content": [
+				"total",
+				"weight",
+				"of",
+				"late",
+				"jobs",
+				"(scheduling",
+				"objective)"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "the time when job $i$ starts in schedule $\\pi$",
+			"content": [
+				"the",
+				"time",
+				"when",
+				"job",
+				"i",
+				"starts",
+				"in",
+				"schedule",
+				"\u03c0"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 25,
+			"tex": "completion time of job $i$ in schedule $\\pi$",
+			"content": [
+				"completion",
+				"time",
+				"of",
+				"job",
+				"i",
+				"in",
+				"schedule",
+				"\u03c0"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "$\\pi^{-1}(i)$",
+			"content": [
+				"\u03c0\u22121(i)"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "a schedule (a permutation of $J$)",
+			"content": [
+				"a",
+				"schedule",
+				"(a",
+				"permutation",
+				"of",
+				"J)"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "$\\mathcal{U}$",
+			"content": [
+				"U"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "set of jobs",
+			"content": [
+				"set",
+				"of",
+				"jobs"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "$W$",
+			"content": [
+				"W"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "symbol",
+			"content": [
+				"symbol"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "weight of $i$th job",
+			"content": [
+				"weight",
+				"of",
+				"ith",
+				"job"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "$p_i$",
+			"content": [
+				"pi"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "(exact) due-date of $i$th job",
+			"content": [
+				"(exact)",
+				"due-date",
+				"of",
+				"ith",
+				"job"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "$d_i^S$",
+			"content": [
+				"dS",
+				"i"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "set of all scenarios, i.e., $\\mathcal{U} = \\times_{i=1}^n [d_i^-, d_i^+]$",
+			"content": [
+				"set",
+				"of",
+				"all",
+				"scenarios,",
+				"i.e.,",
+				"U",
+				"=",
+				"\u00d7n",
+				"i=1[d\u2212",
+				"i",
+				",",
+				"d+",
+				"i",
+				"]"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 29,
+			"tex": "regret of solution $\\pi$ in scenario $S \\in \\mathcal{U}$",
+			"content": [
+				"regret",
+				"of",
+				"solution",
+				"\u03c0",
+				"in",
+				"scenario",
+				"S",
+				"\u2208",
+				"U"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "due-date of $i$th job in scenario $S \\in \\mathcal{U}$",
+			"content": [
+				"due-date",
+				"of",
+				"ith",
+				"job",
+				"in",
+				"scenario",
+				"S",
+				"\u2208",
+				"U"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 24,
+			"tex": "$C(\\pi,i)$",
+			"content": [
+				"C(\u03c0,",
+				"i)"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

@@ -1,0 +1,902 @@
+{
+	"cells": [
+		{
+			"id": 8,
+			"tex": "LOF",
+			"content": [
+				"LOF"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 38,
+			"tex": "$k_{min} = k_{max} = 5$",
+			"content": [
+				"kmin",
+				"=",
+				"kmax",
+				"=",
+				"5"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 9,
+			"tex": "$k=5 $",
+			"content": [
+				"k",
+				"=",
+				"5"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 50,
+			"tex": "$k=5$",
+			"content": [
+				"k",
+				"=",
+				"5"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 10,
+			"tex": "$k=5$",
+			"content": [
+				"k",
+				"=",
+				"5"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 60,
+			"tex": "INFLO",
+			"content": [
+				"INFLO"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "$\\lambda =0.2$",
+			"content": [
+				"\u03bb",
+				"=",
+				"0.2"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 42,
+			"tex": "$Banwidth = 5, scale =0.2$",
+			"content": [
+				"Banwidth",
+				"=",
+				"5,",
+				"scale",
+				"=",
+				"0.2"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 11,
+			"tex": "$k=10 $",
+			"content": [
+				"k",
+				"=",
+				"10"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 12,
+			"tex": "kNN",
+			"content": [
+				"kNN"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "$k=5 $",
+			"content": [
+				"k",
+				"=",
+				"5"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 48,
+			"tex": "COF",
+			"content": [
+				"COF"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 63,
+			"tex": "$k=10, m=0.5$",
+			"content": [
+				"k",
+				"=",
+				"10,",
+				"m",
+				"=",
+				"0.5"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 14,
+			"tex": "$k=5 $",
+			"content": [
+				"k",
+				"=",
+				"5"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 57,
+			"tex": "Gaussian Kernel",
+			"content": [
+				"Gaussian",
+				"Kernel"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 39,
+			"tex": "$k_{min} = k_{max} = 10$",
+			"content": [
+				"kmin",
+				"=",
+				"kmax",
+				"=",
+				"10"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 45,
+			"tex": "Gaussian Kernel",
+			"content": [
+				"Gaussian",
+				"Kernel"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 33,
+			"tex": "$k=5$",
+			"content": [
+				"k",
+				"=",
+				"5"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 46,
+			"tex": "Gaussian Kernel",
+			"content": [
+				"Gaussian",
+				"Kernel"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 49,
+			"tex": "$k=5$",
+			"content": [
+				"k",
+				"=",
+				"5"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 62,
+			"tex": "$k=5, m=0.5$",
+			"content": [
+				"k",
+				"=",
+				"5,",
+				"m",
+				"=",
+				"0.5"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 51,
+			"tex": "$k=10$",
+			"content": [
+				"k",
+				"=",
+				"10"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 0,
+			"tex": "Method",
+			"content": [
+				"Method"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 36,
+			"tex": "KDEOS",
+			"content": [
+				"KDEOS"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "Shuttle",
+			"content": [
+				"Shuttle"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 34,
+			"tex": "$k=5$",
+			"content": [
+				"k",
+				"=",
+				"5"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 56,
+			"tex": "~",
+			"content": [],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "Image Object",
+			"content": [
+				"Image",
+				"Object"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 19,
+			"tex": "$k=10 $",
+			"content": [
+				"k",
+				"=",
+				"10"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 3,
+			"tex": "KDD-CUP 99",
+			"content": [
+				"KDD-CUP",
+				"99"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 65,
+			"tex": "$k=5$, $|S1| = 320$, $|S2| = 2$",
+			"content": [
+				"k",
+				"=",
+				"5,",
+				"|S1|",
+				"=",
+				"320,",
+				"|S2|",
+				"=",
+				"2"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "LoOP",
+			"content": [
+				"LoOP"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 53,
+			"tex": "$h=1, c=0.1$",
+			"content": [
+				"h",
+				"=",
+				"1,",
+				"c",
+				"=",
+				"0.1"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 55,
+			"tex": "$h=1, c=0.1$",
+			"content": [
+				"h",
+				"=",
+				"1,",
+				"c",
+				"=",
+				"0.1"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 66,
+			"tex": "$k=5$, $|S1| = 320$, $|S2| = 2$",
+			"content": [
+				"k",
+				"=",
+				"5,",
+				"|S1|",
+				"=",
+				"320,",
+				"|S2|",
+				"=",
+				"2"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 21,
+			"tex": "$k_{reach} = k_{comp} = 5$",
+			"content": [
+				"kreach",
+				"=",
+				"kcomp",
+				"=",
+				"5"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "$k_{reach} = k_{comp} = 5$",
+			"content": [
+				"kreach",
+				"=",
+				"kcomp",
+				"=",
+				"5"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 52,
+			"tex": "LDF",
+			"content": [
+				"LDF"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "$k_{reach} = k_{comp} = 10$",
+			"content": [
+				"kreach",
+				"=",
+				"kcomp",
+				"=",
+				"10"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 58,
+			"tex": "Gaussian Kernel",
+			"content": [
+				"Gaussian",
+				"Kernel"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 24,
+			"tex": "~",
+			"content": [],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 41,
+			"tex": "$Banwidth = 5, scale =0.2$",
+			"content": [
+				"Banwidth",
+				"=",
+				"5,",
+				"scale",
+				"=",
+				"0.2"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 25,
+			"tex": "$\\lambda =0.2$",
+			"content": [
+				"\u03bb",
+				"=",
+				"0.2"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 64,
+			"tex": "FastVOA",
+			"content": [
+				"FastVOA"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "ACE",
+			"content": [
+				"ACE"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 37,
+			"tex": "$k_{min} = k_{max} = 5$",
+			"content": [
+				"kmin",
+				"=",
+				"kmax",
+				"=",
+				"5"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "$K=15, L=50$",
+			"content": [
+				"K",
+				"=",
+				"15,",
+				"L",
+				"=",
+				"50"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 54,
+			"tex": "$h=1, c=0.1$",
+			"content": [
+				"h",
+				"=",
+				"1,",
+				"c",
+				"=",
+				"0.1"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 59,
+			"tex": "Gaussian Kernel",
+			"content": [
+				"Gaussian",
+				"Kernel"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 6,
+			"tex": "$K=15, L=50$",
+			"content": [
+				"K",
+				"=",
+				"15,",
+				"L",
+				"=",
+				"50"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 7,
+			"tex": "$K=15, L=50$",
+			"content": [
+				"K",
+				"=",
+				"15,",
+				"L",
+				"=",
+				"50"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 67,
+			"tex": "$k=10$, $|S1| = 320$, $|S2| = 2$",
+			"content": [
+				"k",
+				"=",
+				"10,",
+				"|S1|",
+				"=",
+				"320,",
+				"|S2|",
+				"=",
+				"2"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 47,
+			"tex": "Gaussian Kernel",
+			"content": [
+				"Gaussian",
+				"Kernel"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 40,
+			"tex": "~",
+			"content": [],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "$\\lambda =0.2$",
+			"content": [
+				"\u03bb",
+				"=",
+				"0.2"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 29,
+			"tex": "$k=5$",
+			"content": [
+				"k",
+				"=",
+				"5"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 44,
+			"tex": "~",
+			"content": [],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 61,
+			"tex": "$k=5, m=0.5$",
+			"content": [
+				"k",
+				"=",
+				"5,",
+				"m",
+				"=",
+				"0.5"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 30,
+			"tex": "$k=5$",
+			"content": [
+				"k",
+				"=",
+				"5"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 28,
+			"tex": "LDOF",
+			"content": [
+				"LDOF"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 31,
+			"tex": "$k=10$",
+			"content": [
+				"k",
+				"=",
+				"10"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 43,
+			"tex": "$Banwidth = 5, scale =0.2$",
+			"content": [
+				"Banwidth",
+				"=",
+				"5,",
+				"scale",
+				"=",
+				"0.2"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 32,
+			"tex": "ODIN",
+			"content": [
+				"ODIN"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "$k=10 $",
+			"content": [
+				"k",
+				"=",
+				"10"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 16,
+			"tex": "kNNW",
+			"content": [
+				"kNNW"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "$k=5 $",
+			"content": [
+				"k",
+				"=",
+				"5"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 35,
+			"tex": "$k=10$",
+			"content": [
+				"k",
+				"=",
+				"10"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 18,
+			"tex": "$k=5 $",
+			"content": [
+				"k",
+				"=",
+				"5"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		}
+	]
+}

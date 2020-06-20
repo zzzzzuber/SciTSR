@@ -1,0 +1,300 @@
+{
+	"cells": [
+		{
+			"id": 6,
+			"tex": "Num channels ($c$)",
+			"content": [
+				"Num",
+				"channels",
+				"(c)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "Batch size ($b$)",
+			"content": [
+				"Batch",
+				"size",
+				"(b)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "Phase shuffle (WaveGAN)",
+			"content": [
+				"Phase",
+				"shu\ufb04e",
+				"(WaveGAN)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "$32$-bit floating point",
+			"content": [
+				"32-bit",
+				"\ufb02oating",
+				"point"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "WGAN-GP $\\lambda$",
+			"content": [
+				"WGAN-GP",
+				"\u03bb"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "Loss",
+			"content": [
+				"Loss"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "$D$ updates per $G$ update",
+			"content": [
+				"D",
+				"updates",
+				"per",
+				"G",
+				"update"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "10",
+			"content": [
+				"10"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "5",
+			"content": [
+				"5"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "Adam ($\\alpha=1\\mathrm{e}{-4}$, $\\beta_1=0.5$, $\\beta_2=0.9$)",
+			"content": [
+				"Adam",
+				"(\u03b1",
+				"=",
+				"1e\u22124,",
+				"\u03b21",
+				"=",
+				"0.5,",
+				"\u03b22",
+				"=",
+				"0.9)"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "64",
+			"content": [
+				"64"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "0",
+			"content": [
+				"0"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "1",
+			"content": [
+				"1"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "Model size ($d$)",
+			"content": [
+				"Model",
+				"size",
+				"(d)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "Model data type",
+			"content": [
+				"Model",
+				"data",
+				"type"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "Phase shuffle (SpecGAN)",
+			"content": [
+				"Phase",
+				"shu\ufb04e",
+				"(SpecGAN)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "2",
+			"content": [
+				"2"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "Value",
+			"content": [
+				"Value"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "64",
+			"content": [
+				"64"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "Optimizer",
+			"content": [
+				"Optimizer"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "Input data type",
+			"content": [
+				"Input",
+				"data",
+				"type"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "$16$-bit PCM (requantized)",
+			"content": [
+				"16-bit",
+				"PCM",
+				"(requantized)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "Name",
+			"content": [
+				"Name"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "WGAN-GP~",
+			"content": [
+				"WGAN-GP"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

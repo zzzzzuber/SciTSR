@@ -1,0 +1,269 @@
+{
+	"cells": [
+		{
+			"id": 8,
+			"tex": "$\\mathtt{\\forall a \\forall b \\forall c \\forall d\\enspace son(a,b) \\wedge daughter(b,c) \\wedge son(d,c) \\Rightarrow uncle(d,a)}$",
+			"content": [
+				"\u2200a\u2200b\u2200c\u2200d",
+				"son(a,",
+				"b)",
+				"\u2227",
+				"daughter(b,",
+				"c)",
+				"\u2227",
+				"son(d,",
+				"c)",
+				"\u21d2",
+				"uncle(d,",
+				"a)"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "$\\mathtt{\\forall a \\forall b \\forall c \\forall d\\enspace daughter(a,b) \\wedge son(b,c) \\wedge daughter(d,c) \\Rightarrow niece(a,d)}$",
+			"content": [
+				"\u2200a\u2200b\u2200c\u2200d",
+				"daughter(a,",
+				"b)",
+				"\u2227",
+				"son(b,",
+				"c)",
+				"\u2227",
+				"daughter(d,",
+				"c)",
+				"\u21d2",
+				"niece(a,",
+				"d)"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "$\\mathtt{\\forall a \\forall b \\forall c\\enspace mother(a,b) \\wedge mother(b,c) \\Rightarrow grandmother(a,c)}$",
+			"content": [
+				"\u2200a\u2200b\u2200c",
+				"mother(a,",
+				"b)",
+				"\u2227",
+				"mother(b,",
+				"c)",
+				"\u21d2",
+				"grandmother(a,",
+				"c)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "$\\mathtt{\\forall a \\forall b \\forall c\\enspace son(a,b) \\wedge son(b,c) \\Rightarrow grandson(a,c)}$",
+			"content": [
+				"\u2200a\u2200b\u2200c",
+				"son(a,",
+				"b)",
+				"\u2227",
+				"son(b,",
+				"c)",
+				"\u21d2",
+				"grandson(a,",
+				"c)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "$\\mathtt{\\forall a \\forall b \\forall c\\enspace father(a,b) \\wedge father(b,c) \\Rightarrow grandfather(a,c)}$",
+			"content": [
+				"\u2200a\u2200b\u2200c",
+				"father(a,",
+				"b)",
+				"\u2227",
+				"father(b,",
+				"c)",
+				"\u21d2",
+				"grandfather(a,",
+				"c)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "$\\mathtt{\\forall a \\forall b \\forall c\\enspace father(a,c) \\wedge mother(b,c) \\Rightarrow wife(b,a)}$",
+			"content": [
+				"\u2200a\u2200b\u2200c",
+				"father(a,",
+				"c)",
+				"\u2227",
+				"mother(b,",
+				"c)",
+				"\u21d2",
+				"wife(b,",
+				"a)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "$\\mathtt{\\forall a \\forall b \\forall c \\forall d \\forall e\\enspace son(a,b) \\wedge daughter(b,c) \\wedge son(d,c) \\wedge daughter(e,d) \\Rightarrow cousin(a,e)}$",
+			"content": [
+				"\u2200a\u2200b\u2200c\u2200d\u2200e",
+				"son(a,",
+				"b)",
+				"\u2227",
+				"daughter(b,",
+				"c)",
+				"\u2227",
+				"son(d,",
+				"c)",
+				"\u2227",
+				"daughter(e,",
+				"d)",
+				"\u21d2",
+				"cousin(a,",
+				"e)"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "$\\mathtt{\\forall a \\forall b \\forall c \\forall d\\enspace daughter(a,b) \\wedge son(b,c) \\wedge daughter(d,c) \\Rightarrow aunt(d,a)}$",
+			"content": [
+				"\u2200a\u2200b\u2200c\u2200d",
+				"daughter(a,",
+				"b)",
+				"\u2227",
+				"son(b,",
+				"c)",
+				"\u2227",
+				"daughter(d,",
+				"c)",
+				"\u21d2",
+				"aunt(d,",
+				"a)"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "$\\mathtt{\\forall a \\forall b \\forall c \\forall d\\enspace son(a,b) \\wedge daughter(b,c) \\wedge son(d,c) \\Rightarrow nephew(a,d)}$",
+			"content": [
+				"\u2200a\u2200b\u2200c\u2200d",
+				"son(a,",
+				"b)",
+				"\u2227",
+				"daughter(b,",
+				"c)",
+				"\u2227",
+				"son(d,",
+				"c)",
+				"\u21d2",
+				"nephew(a,",
+				"d)"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "$\\mathtt{\\forall a \\forall b \\forall c\\enspace daughter(a,b) \\wedge daughter(b,c) \\Rightarrow granddaughter(a,c)}$",
+			"content": [
+				"\u2200a\u2200b\u2200c",
+				"daughter(a,",
+				"b)",
+				"\u2227",
+				"daughter(b,",
+				"c)",
+				"\u21d2",
+				"granddaughter(a,",
+				"c)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "$\\mathtt{\\forall a \\forall b \\forall c\\enspace daughter(a,c) \\wedge son(b,c) \\Rightarrow sister(a,b)}$",
+			"content": [
+				"\u2200a\u2200b\u2200c",
+				"daughter(a,",
+				"c)",
+				"\u2227",
+				"son(b,",
+				"c)",
+				"\u21d2",
+				"sister(a,",
+				"b)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "$\\mathtt{\\forall a \\forall b \\forall c\\enspace father(a,c) \\wedge mother(b,c) \\Rightarrow husband(a,b)}$",
+			"content": [
+				"\u2200a\u2200b\u2200c",
+				"father(a,",
+				"c)",
+				"\u2227",
+				"mother(b,",
+				"c)",
+				"\u21d2",
+				"husband(a,",
+				"b)"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "$\\mathtt{\\forall a \\forall b \\forall c\\enspace daughter(a,c) \\wedge son(b,c) \\Rightarrow brother(b,a)}$",
+			"content": [
+				"\u2200a\u2200b\u2200c",
+				"daughter(a,",
+				"c)",
+				"\u2227",
+				"son(b,",
+				"c)",
+				"\u21d2",
+				"brother(b,",
+				"a)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

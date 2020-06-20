@@ -1,0 +1,263 @@
+{
+	"cells": [
+		{
+			"id": 7,
+			"tex": "$R_{xy}$",
+			"content": [
+				"Rxy"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "$R_x$, $R_z$, X, Z, S, T",
+			"content": [
+				"Rx,",
+				"Rz,",
+				"X,",
+				"Z,",
+				"S,",
+				"T"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "Two qubits operation",
+			"content": [
+				"Two",
+				"qubits",
+				"operation"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 15,
+			"tex": "SC",
+			"content": [
+				"SC"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "QD",
+			"content": [
+				"QD"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "NA",
+			"content": [
+				"NA"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "LP",
+			"content": [
+				"LP"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "CZ",
+			"content": [
+				"CZ"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 18,
+			"tex": "IT",
+			"content": [
+				"IT"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "$R_x$, $R_y$, $R_z$, X, Y, Z, S, T, H",
+			"content": [
+				"Rx,",
+				"Ry,",
+				"Rz,",
+				"X,",
+				"Y,",
+				"Z,",
+				"S,",
+				"T,",
+				"H"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "iSWAP, CP",
+			"content": [
+				"iSWAP,",
+				"CP"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 1,
+			"tex": "One qubit operation",
+			"content": [
+				"One",
+				"qubit",
+				"operation"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "$R_{xy}$, $R_z$",
+			"content": [
+				"Rxy,",
+				"Rz"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "$R_x$, $R_y$, $R_z$",
+			"content": [
+				"Rx,",
+				"Ry,",
+				"Rz"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "Technology",
+			"content": [
+				"Technology"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "CNOT",
+			"content": [
+				"CNOT"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 11,
+			"tex": "CNOT, CZ, SWAP, ZENO",
+			"content": [
+				"CNOT,",
+				"CZ,",
+				"SWAP,",
+				"ZENO"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 12,
+			"tex": "NP",
+			"content": [
+				"NP"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "G",
+			"content": [
+				"G"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 13,
+			"tex": "Asqu, $R_x$, $R_y$, $R_z$, H",
+			"content": [
+				"Asqu,",
+				"Rx,",
+				"Ry,",
+				"Rz,",
+				"H"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "CZ",
+			"content": [
+				"CZ"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		}
+	]
+}

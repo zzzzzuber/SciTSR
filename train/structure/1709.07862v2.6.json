@@ -1,0 +1,628 @@
+{
+	"cells": [
+		{
+			"id": 2,
+			"tex": "\\textbf{Sequence-to-Sequence model}",
+			"content": [
+				"Sequence-to-Sequence",
+				"model"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 35,
+			"tex": "Twelve.",
+			"content": [
+				"Twelve."
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 7,
+			"tex": "Twenty-five.",
+			"content": [
+				"Twenty-\ufb01ve."
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 47,
+			"tex": "You're not!",
+			"content": [
+				"You\u2019re",
+				"not!"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 14,
+			"tex": "Palm Smith.",
+			"content": [
+				"Palm",
+				"Smith."
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 49,
+			"tex": "\\textbf{\\textit{I'm walking a long the river.}}",
+			"content": [
+				"I\u2019m",
+				"walking",
+				"a",
+				"long",
+				"the",
+				"river."
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "Punctuation Marks",
+			"content": [
+				"Punctuation",
+				"Marks"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 28,
+			"tex": "",
+			"content": [],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 41,
+			"tex": "\\textbf{\\textit{How a bell going home?}}",
+			"content": [
+				"How",
+				"a",
+				"bell",
+				"going",
+				"home?"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 46,
+			"tex": "You're a fool!",
+			"content": [
+				"You\u2019re",
+				"a",
+				"fool!"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 9,
+			"tex": "\\textbf{\\textit{How old are you}}",
+			"content": [
+				"How",
+				"old",
+				"are",
+				"you"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 37,
+			"tex": "\\textbf{\\textit{How about going home?}}",
+			"content": [
+				"How",
+				"about",
+				"going",
+				"home?"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 48,
+			"tex": "",
+			"content": [],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 39,
+			"tex": "Okay.",
+			"content": [
+				"Okay."
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 45,
+			"tex": "\\textbf{\\textit{I'm walking along the river.}}",
+			"content": [
+				"I\u2019m",
+				"walking",
+				"along",
+				"the",
+				"river."
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "\\textbf{\\textit{What is your name}}",
+			"content": [
+				"What",
+				"is",
+				"your",
+				"name"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 26,
+			"tex": "What sub?",
+			"content": [
+				"What",
+				"sub?"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 11,
+			"tex": "Thirty-five.",
+			"content": [
+				"Thirty-\ufb01ve."
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 51,
+			"tex": "What's the matter?",
+			"content": [
+				"What\u2019s",
+				"the",
+				"matter?"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 30,
+			"tex": "Two.",
+			"content": [
+				"Two."
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 0,
+			"tex": "\\textbf{Affecting factors}",
+			"content": [
+				"A\ufb00ecting",
+				"factors"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 34,
+			"tex": "Why?",
+			"content": [
+				"Why?"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 8,
+			"tex": "",
+			"content": [],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 50,
+			"tex": "I'm sorry, I'm sorry.",
+			"content": [
+				"I\u2019m",
+				"sorry,",
+				"I\u2019m",
+				"sorry."
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 12,
+			"tex": "",
+			"content": [],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "\\textbf{\\textit{Do you like me?}}",
+			"content": [
+				"Do",
+				"you",
+				"like",
+				"me?"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 24,
+			"tex": "",
+			"content": [],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "Yes.",
+			"content": [
+				"Yes."
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 43,
+			"tex": "Okay.",
+			"content": [
+				"Okay."
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 1,
+			"tex": "\\textbf{Input}",
+			"content": [
+				"Input"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "Sure.",
+			"content": [
+				"Sure."
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 6,
+			"tex": "Thirty-five.",
+			"content": [
+				"Thirty-\ufb01ve."
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 44,
+			"tex": "",
+			"content": [],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 36,
+			"tex": "Homonyms",
+			"content": [
+				"Homonyms"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 25,
+			"tex": "\\textbf{\\textit{The u. like me}}",
+			"content": [
+				"The",
+				"u.",
+				"like",
+				"me"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "Jacob.",
+			"content": [
+				"Jacob."
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 31,
+			"tex": "I don't know.",
+			"content": [
+				"I",
+				"don\u2019t",
+				"know."
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 23,
+			"tex": "Yes.",
+			"content": [
+				"Yes."
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 5,
+			"tex": "\\textbf{\\textit{How old are you?}}",
+			"content": [
+				"How",
+				"old",
+				"are",
+				"you?"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 42,
+			"tex": "I like the noise.",
+			"content": [
+				"I",
+				"like",
+				"the",
+				"noise."
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 10,
+			"tex": "Very strange.",
+			"content": [
+				"Very",
+				"strange."
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 15,
+			"tex": "Samantha.",
+			"content": [
+				"Samantha."
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 29,
+			"tex": "\\textbf{\\textit{How many days are you gonna stay?}}",
+			"content": [
+				"How",
+				"many",
+				"days",
+				"are",
+				"you",
+				"gonna",
+				"stay?"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "\\textbf{\\textit{What's your name?}}",
+			"content": [
+				"What\u2019s",
+				"your",
+				"name?"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 32,
+			"tex": "",
+			"content": [],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 40,
+			"tex": "",
+			"content": [],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 38,
+			"tex": "Okay.",
+			"content": [
+				"Okay."
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 16,
+			"tex": "",
+			"content": [],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 33,
+			"tex": "\\textbf{\\textit{How many days are you then as they}}",
+			"content": [
+				"How",
+				"many",
+				"days",
+				"are",
+				"you",
+				"then",
+				"as",
+				"they"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "\\textbf{Our model}",
+			"content": [
+				"Our",
+				"model"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 18,
+			"tex": "You're a good idea.",
+			"content": [
+				"You\u2019re",
+				"a",
+				"good",
+				"idea."
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 20,
+			"tex": "ASR error",
+			"content": [
+				"ASR",
+				"error"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

@@ -1,0 +1,370 @@
+{
+	"cells": [
+		{
+			"id": 5,
+			"tex": "$[$PROBLEM$]$ \\textit{Overlap} $[$PROBLEM",
+			"content": [
+				"[PROBLEM]",
+				"Overlap",
+				"[PROBLEM"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 6,
+			"tex": "PROBLEM, PROBLEM",
+			"content": [
+				"PROBLEM,",
+				"PROBLEM"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "PROBLEM after TREATMENT",
+			"content": [
+				"PROBLEM",
+				"after",
+				"TREATMENT"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "",
+			"content": [],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "$[$TEST$]$ \\textit{Before} $[$PROBLEM$]$",
+			"content": [
+				"[TEST]",
+				"Before",
+				"[PROBLEM]"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 22,
+			"tex": "$\\rightarrow$",
+			"content": [
+				"\u2192"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "\\textbf{TLINK abstraction patterns}",
+			"content": [
+				"TLINK",
+				"abstraction",
+				"patterns"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "TREATMENT post TEST",
+			"content": [
+				"TREATMENT",
+				"post",
+				"TEST"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "$[$PROBLEM$]$ \\textit{Overlap} $[$PROBLEM$]$",
+			"content": [
+				"[PROBLEM]",
+				"Overlap",
+				"[PROBLEM]"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 17,
+			"tex": "$[$TREATMENT$]$ \\textit{Before} $[$PROBLEM$]$",
+			"content": [
+				"[TREATMENT]",
+				"Before",
+				"[PROBLEM]"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 16,
+			"tex": "$\\rightarrow$",
+			"content": [
+				"\u2192"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "TREATMENT for PROBLEM",
+			"content": [
+				"TREATMENT",
+				"for",
+				"PROBLEM"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "$[$PROBLEM$]$ \\textit{After} $[$TREATMENT$]$",
+			"content": [
+				"[PROBLEM]",
+				"After",
+				"[TREATMENT]"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 25,
+			"tex": "$\\rightarrow$",
+			"content": [
+				"\u2192"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "$\\rightarrow$",
+			"content": [
+				"\u2192"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 29,
+			"tex": "$[$TREATMENT$]$ \\textit{After} $[$TEST$]$",
+			"content": [
+				"[TREATMENT]",
+				"After",
+				"[TEST]"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 28,
+			"tex": "$\\rightarrow$",
+			"content": [
+				"\u2192"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "$[$TREATMENT$]$ \\textit{Overlap} $[$DAT$]$E",
+			"content": [
+				"[TREATMENT]",
+				"Overlap",
+				"[DAT]E"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 13,
+			"tex": "$\\rightarrow$",
+			"content": [
+				"\u2192"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "$[$TREATMENT$]$ \\textit{Before} $[$PROBLEM$]$",
+			"content": [
+				"[TREATMENT]",
+				"Before",
+				"[PROBLEM]"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 9,
+			"tex": "TREATMENT on DATE",
+			"content": [
+				"TREATMENT",
+				"on",
+				"DATE"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "TREATMENT in DATE",
+			"content": [
+				"TREATMENT",
+				"in",
+				"DATE"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "$[$TREATMENT$]$ \\textit{Overlap} $[$DATE$]$",
+			"content": [
+				"[TREATMENT]",
+				"Overlap",
+				"[DATE]"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 10,
+			"tex": "$\\rightarrow$",
+			"content": [
+				"\u2192"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "$\\rightarrow$",
+			"content": [
+				"\u2192"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "PROBLEM and PROBLEM",
+			"content": [
+				"PROBLEM",
+				"and",
+				"PROBLEM"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "TEST showed PROBLEM",
+			"content": [
+				"TEST",
+				"showed",
+				"PROBLEM"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "\\textbf{Typical TLINK}",
+			"content": [
+				"Typical",
+				"TLINK"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 18,
+			"tex": "TREATMENT of PROBLEM",
+			"content": [
+				"TREATMENT",
+				"of",
+				"PROBLEM"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "$\\rightarrow$",
+			"content": [
+				"\u2192"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

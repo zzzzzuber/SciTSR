@@ -1,0 +1,936 @@
+{
+	"cells": [
+		{
+			"id": 10,
+			"tex": "``Who is the $r_2$ of $e_s$'s $r_1$?\"",
+			"content": [
+				"\u201cWho",
+				"is",
+				"the",
+				"r2",
+				"of",
+				"es\u2019s",
+				"r1?\u201d"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "",
+			"content": [],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 48,
+			"tex": "``How $e_s$ died?\"",
+			"content": [
+				"\u201cHow",
+				"es",
+				"died?\u201d"
+			],
+			"start_row": 34,
+			"end_row": 34,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 36,
+			"tex": "$r_2$=Location",
+			"content": [
+				"r2=Location"
+			],
+			"start_row": 25,
+			"end_row": 27,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "$r_2$=$r_1$=Children",
+			"content": [
+				"r2=r1=Children"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 46,
+			"tex": "$r_2$=Cause\\_of\\_Death",
+			"content": [
+				"r2=Cause",
+				"of",
+				"Death"
+			],
+			"start_row": 33,
+			"end_row": 39,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "``Where does $e_s$'s $r_1$ come from?\"",
+			"content": [
+				"\u201cWhere",
+				"does",
+				"es\u2019s",
+				"r1",
+				"come",
+				"from?\u201d"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 26,
+			"tex": "``Which nationality is $e_s$'s $r_1$?\"",
+			"content": [
+				"\u201cWhich",
+				"nationality",
+				"is",
+				"es\u2019s",
+				"r1?\u201d"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 32,
+			"tex": "``What $r_2$ is $e_s$'s $r_1$ practice?\"",
+			"content": [
+				"\u201cWhat",
+				"r2",
+				"is",
+				"es\u2019s",
+				"r1",
+				"practice?\u201d"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 45,
+			"tex": "``What does $e_s$'s $r_1$ do for a living?\"",
+			"content": [
+				"\u201cWhat",
+				"does",
+				"es\u2019s",
+				"r1",
+				"do",
+				"for",
+				"a",
+				"living?\u201d"
+			],
+			"start_row": 32,
+			"end_row": 32,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 49,
+			"tex": "``What's the reason of $e_s$'s $r_1$'s death?\"",
+			"content": [
+				"\u201cWhat\u2019s",
+				"the",
+				"reason",
+				"of",
+				"es\u2019s",
+				"r1\u2019s",
+				"death?\u201d"
+			],
+			"start_row": 35,
+			"end_row": 35,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 54,
+			"tex": "$r_2$=Place\\_of\\_Death",
+			"content": [
+				"r2=Place",
+				"of",
+				"Death"
+			],
+			"start_row": 40,
+			"end_row": 42,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "``Where does $e_s$'s $r_1$ work?\"",
+			"content": [
+				"\u201cWhere",
+				"does",
+				"es\u2019s",
+				"r1",
+				"work?\u201d"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 53,
+			"tex": "``What did $e_s$'s $r_1$ die from?\"",
+			"content": [
+				"\u201cWhat",
+				"did",
+				"es\u2019s",
+				"r1",
+				"die",
+				"from?\u201d"
+			],
+			"start_row": 39,
+			"end_row": 39,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "\\bf Path Pattern",
+			"content": [
+				"Path",
+				"Pattern"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 31,
+			"tex": "``What $r_2$ does $e_s$'s $r_1$ have?\"",
+			"content": [
+				"\u201cWhat",
+				"r2",
+				"does",
+				"es\u2019s",
+				"r1",
+				"have?\u201d"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 60,
+			"tex": "``What city did $e_s$'s $r_1$ born?\"",
+			"content": [
+				"\u201cWhat",
+				"city",
+				"did",
+				"es\u2019s",
+				"r1",
+				"born?\u201d"
+			],
+			"start_row": 44,
+			"end_row": 44,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 24,
+			"tex": "``Which $r_2$ does $e_s$'s $r_1$ work for?\"",
+			"content": [
+				"\u201cWhich",
+				"r2",
+				"does",
+				"es\u2019s",
+				"r1",
+				"work",
+				"for?\u201d"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 59,
+			"tex": "``Where did $e_s$'s $r_1$ born?\"",
+			"content": [
+				"\u201cWhere",
+				"did",
+				"es\u2019s",
+				"r1",
+				"born?\u201d"
+			],
+			"start_row": 43,
+			"end_row": 43,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 40,
+			"tex": "$r_2$=Profession",
+			"content": [
+				"r2=Profession"
+			],
+			"start_row": 28,
+			"end_row": 32,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 47,
+			"tex": "``Why $e_s$'s $r_1$ died?\"",
+			"content": [
+				"\u201cWhy",
+				"es\u2019s",
+				"r1",
+				"died?\u201d"
+			],
+			"start_row": 33,
+			"end_row": 33,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "``What is $e_s$'s $r_1$'s $r_2$ like?\"",
+			"content": [
+				"\u201cWhat",
+				"is",
+				"es\u2019s",
+				"r1\u2019s",
+				"r2",
+				"like?\u201d"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 35,
+			"tex": "``Is $e_s$'s $r_1$ a man or a woman?\"",
+			"content": [
+				"\u201cIs",
+				"es\u2019s",
+				"r1",
+				"a",
+				"man",
+				"or",
+				"a",
+				"woman?\u201d"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 56,
+			"tex": "``Where did the $r_1$ of $e_s$ die?\"",
+			"content": [
+				"\u201cWhere",
+				"did",
+				"the",
+				"r1",
+				"of",
+				"es",
+				"die?\u201d"
+			],
+			"start_row": 41,
+			"end_row": 41,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "``What $r_2$ is $e_s$'s $r_1$\"",
+			"content": [
+				"\u201cWhat",
+				"r2",
+				"is",
+				"es\u2019s",
+				"r1\u201d"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "``What is the $r_2$ of $r_1$ of $e_s$?\"",
+			"content": [
+				"\u201cWhat",
+				"is",
+				"the",
+				"r2",
+				"of",
+				"r1",
+				"of",
+				"es?\u201d"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "``The $r_2$ of $e_s$'s $r_1$?\"",
+			"content": [
+				"\u201cThe",
+				"r2",
+				"of",
+				"es\u2019s",
+				"r1?\u201d"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 28,
+			"tex": "$r_2$=Religion",
+			"content": [
+				"r2=Religion"
+			],
+			"start_row": 19,
+			"end_row": 22,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "``What is the name of the $r_2$ of $e_s$'s $r_1$?\"",
+			"content": [
+				"\u201cWhat",
+				"is",
+				"the",
+				"name",
+				"of",
+				"the",
+				"r2",
+				"of",
+				"es\u2019s",
+				"r1?\u201d"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 30,
+			"tex": "``What $r_2$ is $e_s$'s $r_1$?\"",
+			"content": [
+				"\u201cWhat",
+				"r2",
+				"is",
+				"es\u2019s",
+				"r1?\u201d"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 52,
+			"tex": "``What made the $e_s$'s $r_1$ dead?\"",
+			"content": [
+				"\u201cWhat",
+				"made",
+				"the",
+				"es\u2019s",
+				"r1",
+				"dead?\u201d"
+			],
+			"start_row": 38,
+			"end_row": 38,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 41,
+			"tex": "``What does $e_s$'s $r_1$ do?\"",
+			"content": [
+				"\u201cWhat",
+				"does",
+				"es\u2019s",
+				"r1",
+				"do?\u201d"
+			],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 61,
+			"tex": "``What is the hometown of $e_s$'s $r_1$?\"",
+			"content": [
+				"\u201cWhat",
+				"is",
+				"the",
+				"hometown",
+				"of",
+				"es\u2019s",
+				"r1?\u201d"
+			],
+			"start_row": 45,
+			"end_row": 45,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 39,
+			"tex": "``Please tell me $e_s$'s $r_1$ present address.\"",
+			"content": [
+				"\u201cPlease",
+				"tell",
+				"me",
+				"es\u2019s",
+				"r1",
+				"present",
+				"address.\u201d"
+			],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "``Where does $e_s$'s $r_1$ work for?\"",
+			"content": [
+				"\u201cWhere",
+				"does",
+				"es\u2019s",
+				"r1",
+				"work",
+				"for?\u201d"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "Ask about a person",
+			"content": [
+				"Ask",
+				"about",
+				"a",
+				"person"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 55,
+			"tex": "``Where did $e_s$'s $r_1$ die?\"",
+			"content": [
+				"\u201cWhere",
+				"did",
+				"es\u2019s",
+				"r1",
+				"die?\u201d"
+			],
+			"start_row": 40,
+			"end_row": 40,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "\\bf Question-templates",
+			"content": [
+				"Question-templates"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 33,
+			"tex": "$r_2$=Gender",
+			"content": [
+				"r2=Gender"
+			],
+			"start_row": 23,
+			"end_row": 24,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "``What is the $r_2$ of $e_s$'s $r_1$?\"",
+			"content": [
+				"\u201cWhat",
+				"is",
+				"the",
+				"r2",
+				"of",
+				"es\u2019s",
+				"r1?\u201d"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "Universal",
+			"content": [
+				"Universal"
+			],
+			"start_row": 1,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 29,
+			"tex": "``What $r_2$ does $e_s$'s $r_1$ follow?\"",
+			"content": [
+				"\u201cWhat",
+				"r2",
+				"does",
+				"es\u2019s",
+				"r1",
+				"follow?\u201d"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 37,
+			"tex": "``Where is $e_s$'s $r_1$ living?\"",
+			"content": [
+				"\u201cWhere",
+				"is",
+				"es\u2019s",
+				"r1",
+				"living?\u201d"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "``The $r_2$ of $r_1$ of $e_s$?\"",
+			"content": [
+				"\u201cThe",
+				"r2",
+				"of",
+				"r1",
+				"of",
+				"es?\u201d"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 25,
+			"tex": "$r_2$=Nationality",
+			"content": [
+				"r2=Nationality"
+			],
+			"start_row": 17,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 50,
+			"tex": "``What caused the death of $e_s$'s $r_1$?\"",
+			"content": [
+				"\u201cWhat",
+				"caused",
+				"the",
+				"death",
+				"of",
+				"es\u2019s",
+				"r1?\u201d"
+			],
+			"start_row": 36,
+			"end_row": 36,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "``What is the $e_s$'s $r_1$'s $r_2$?\"",
+			"content": [
+				"\u201cWhat",
+				"is",
+				"the",
+				"es\u2019s",
+				"r1\u2019s",
+				"r2?\u201d"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 44,
+			"tex": "``What line of business is $e_s$'s $r_1$ in?\"",
+			"content": [
+				"\u201cWhat",
+				"line",
+				"of",
+				"business",
+				"is",
+				"es\u2019s",
+				"r1",
+				"in?\u201d"
+			],
+			"start_row": 31,
+			"end_row": 31,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 42,
+			"tex": "``What is $e_s$'s $r_1$ working on?\"",
+			"content": [
+				"\u201cWhat",
+				"is",
+				"es\u2019s",
+				"r1",
+				"working",
+				"on?\u201d"
+			],
+			"start_row": 29,
+			"end_row": 29,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "$r_2$=Ethnicity",
+			"content": [
+				"r2=Ethnicity"
+			],
+			"start_row": 11,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "``What is the name of the grand-$r_1$ of $e_s$?\"",
+			"content": [
+				"\u201cWhat",
+				"is",
+				"the",
+				"name",
+				"of",
+				"the",
+				"grand-r1",
+				"of",
+				"es?\u201d"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 62,
+			"tex": "``What is $e_s$'s $r_1$'s birthplace?\"",
+			"content": [
+				"\u201cWhat",
+				"is",
+				"es\u2019s",
+				"r1\u2019s",
+				"birthplace?\u201d"
+			],
+			"start_row": 46,
+			"end_row": 46,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 43,
+			"tex": "\"What is $e_s$'s $r_1$?\"",
+			"content": [
+				"\u201dWhat",
+				"is",
+				"es\u2019s",
+				"r1?\u201d"
+			],
+			"start_row": 30,
+			"end_row": 30,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "``What is $e_s$'s $r_1$'s $r_2$ about?\"",
+			"content": [
+				"\u201cWhat",
+				"is",
+				"es\u2019s",
+				"r1\u2019s",
+				"r2",
+				"about?\u201d"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 51,
+			"tex": "\"What killed the $e_s$'s $r_1$?\"",
+			"content": [
+				"\u201dWhat",
+				"killed",
+				"the",
+				"es\u2019s",
+				"r1?\u201d"
+			],
+			"start_row": 37,
+			"end_row": 37,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "``Who is the grand-$r_1$ of $e_s$?\"",
+			"content": [
+				"\u201cWho",
+				"is",
+				"the",
+				"grand-r1",
+				"of",
+				"es?\u201d"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 58,
+			"tex": "$r_2$=Place\\_of\\_Birth",
+			"content": [
+				"r2=Place",
+				"of",
+				"Birth"
+			],
+			"start_row": 43,
+			"end_row": 46,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 38,
+			"tex": "``Where is $e_s$'s $r_1$ staying?\"",
+			"content": [
+				"\u201cWhere",
+				"is",
+				"es\u2019s",
+				"r1",
+				"staying?\u201d"
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 34,
+			"tex": "``What $r_2$ is $e_s$'s $r_1$?\"",
+			"content": [
+				"\u201cWhat",
+				"r2",
+				"is",
+				"es\u2019s",
+				"r1?\u201d"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "$r_2$=Institution",
+			"content": [
+				"r2=Institution"
+			],
+			"start_row": 14,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "``The $e_s$'s $r_1$'s $r_2$?\"",
+			"content": [
+				"\u201cThe",
+				"es\u2019s",
+				"r1\u2019s",
+				"r2?\u201d"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "$r_2$=$r_1$=Parents/",
+			"content": [
+				"r2=r1=Parents/"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 57,
+			"tex": "``What city did $e_s$'s $r_1$ die?\"",
+			"content": [
+				"\u201cWhat",
+				"city",
+				"did",
+				"es\u2019s",
+				"r1",
+				"die?\u201d"
+			],
+			"start_row": 42,
+			"end_row": 42,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

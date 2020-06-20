@@ -1,0 +1,365 @@
+{
+	"cells": [
+		{
+			"id": 30,
+			"tex": "A B O",
+			"content": [
+				"A",
+				"B",
+				"O"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 28,
+			"tex": "A or O",
+			"content": [
+				"A",
+				"or",
+				"O"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 2
+		},
+		{
+			"id": 9,
+			"tex": "BO",
+			"content": [
+				"BO"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 1,
+			"tex": "A",
+			"content": [
+				"A"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 2
+		},
+		{
+			"id": 14,
+			"tex": "B",
+			"content": [
+				"B"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 4
+		},
+		{
+			"id": 26,
+			"tex": "A B",
+			"content": [
+				"A",
+				"B"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 4,
+			"tex": "O",
+			"content": [
+				"O"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 31,
+			"tex": "O",
+			"content": [
+				"O"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 11,
+			"tex": "OO",
+			"content": [
+				"OO"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 18,
+			"tex": "A",
+			"content": [
+				"A"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 2
+		},
+		{
+			"id": 10,
+			"tex": "AB",
+			"content": [
+				"AB"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 22,
+			"tex": "\\textbf{Antibodies}",
+			"content": [
+				"Antibodies"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "B",
+			"content": [
+				"B"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 2
+		},
+		{
+			"id": 19,
+			"tex": "B",
+			"content": [
+				"B"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 4
+		},
+		{
+			"id": 2,
+			"tex": "B",
+			"content": [
+				"B"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 4
+		},
+		{
+			"id": 15,
+			"tex": "AB",
+			"content": [
+				"AB"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 0,
+			"tex": "\\textbf{3 Alleles}",
+			"content": [
+				"3",
+				"Alleles"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "BB",
+			"content": [
+				"BB"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 27,
+			"tex": "\\textbf{Blood Donor}",
+			"content": [
+				"Blood",
+				"Donor"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "\\textbf{4 Phenotypes}",
+			"content": [
+				"4",
+				"Phenotypes"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "AB",
+			"content": [
+				"AB"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 13,
+			"tex": "A",
+			"content": [
+				"A"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 2
+		},
+		{
+			"id": 17,
+			"tex": "\\textbf{Antigens}",
+			"content": [
+				"Antigens"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "na",
+			"content": [
+				"na"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 29,
+			"tex": "B or O",
+			"content": [
+				"B",
+				"or",
+				"O"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 4
+		},
+		{
+			"id": 24,
+			"tex": "A",
+			"content": [
+				"A"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 4
+		},
+		{
+			"id": 16,
+			"tex": "O",
+			"content": [
+				"O"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 3,
+			"tex": "",
+			"content": [],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 7,
+			"tex": "AO",
+			"content": [
+				"AO"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 5,
+			"tex": "\\textbf{6 Genotypes}",
+			"content": [
+				"6",
+				"Genotypes"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 25,
+			"tex": "na",
+			"content": [
+				"na"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 6,
+			"tex": "AA",
+			"content": [
+				"AA"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

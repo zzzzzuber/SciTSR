@@ -1,0 +1,320 @@
+{
+	"cells": [
+		{
+			"id": 2,
+			"tex": "SQL statement",
+			"content": [
+				"SQL",
+				"statement"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 4,
+			"tex": "\\texttt{!}",
+			"content": [
+				"!"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "Connective",
+			"content": [
+				"Connective"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "$\\neg \\alpha$",
+			"content": [
+				"\u00ac\u03b1"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "\\texttt{<->}",
+			"content": [
+				"<->"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "\\texttt{1-ABS($\\alpha$-$\\beta$)}",
+			"content": [
+				"1-ABS(\u03b1-\u03b2)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 25,
+			"tex": "\\texttt{-}",
+			"content": [
+				"-"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "\\texttt{+}",
+			"content": [
+				"+"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "Text strings",
+			"content": [
+				"Text",
+				"strings"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "\\texttt{least(1,$\\alpha$+$\\beta$)}",
+			"content": [
+				"least(1,\u03b1+\u03b2)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 15,
+			"tex": "$\\alpha\\leftrightarrow \\beta$",
+			"content": [
+				"\u03b1",
+				"\u2194",
+				"\u03b2"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "$\\alpha\\odot \\beta$",
+			"content": [
+				"\u03b1",
+				"(cid:12)",
+				"\u03b2"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "\\texttt{ox}",
+			"content": [
+				"ox"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "$\\alpha\\to \\beta$",
+			"content": [
+				"\u03b1",
+				"\u2192",
+				"\u03b2"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "\\texttt{greatest(0,$\\alpha$+$\\beta$-1)}",
+			"content": [
+				"greatest(0,\u03b1+\u03b2-1)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 11,
+			"tex": "\\texttt{greatest($\\alpha$,$\\beta$)}",
+			"content": [
+				"greatest(\u03b1,\u03b2)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 9,
+			"tex": "$\\alpha\\vee \\beta$",
+			"content": [
+				"\u03b1",
+				"\u2228",
+				"\u03b2"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "\\texttt{greatest(0,$\\alpha$-$\\beta$)}",
+			"content": [
+				"greatest(0,\u03b1-\u03b2)"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 5,
+			"tex": "\\texttt{1 - ($\\alpha$)}",
+			"content": [
+				"1",
+				"-",
+				"(\u03b1)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 18,
+			"tex": "$\\alpha\\oplus \\beta$",
+			"content": [
+				"\u03b1",
+				"\u2295",
+				"\u03b2"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "\\texttt{least($\\alpha$,$\\beta$)}",
+			"content": [
+				"least(\u03b1,\u03b2)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 7,
+			"tex": "\\texttt{->}",
+			"content": [
+				"->"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "\\texttt{or}",
+			"content": [
+				"or"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "\\texttt{least(1,1-($\\alpha$- $\\beta$))}",
+			"content": [
+				"least(1,1-(\u03b1-",
+				"\u03b2))"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 12,
+			"tex": "$\\alpha\\wedge \\beta$",
+			"content": [
+				"\u03b1",
+				"\u2227",
+				"\u03b2"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "$\\alpha\\ominus \\beta$",
+			"content": [
+				"\u03b1",
+				"(cid:9)",
+				"\u03b2"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "\\texttt{and}",
+			"content": [
+				"and"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

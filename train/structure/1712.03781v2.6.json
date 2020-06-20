@@ -1,0 +1,555 @@
+{
+	"cells": [
+		{
+			"id": 28,
+			"tex": "Vehicle (10)",
+			"content": [
+				"Vehicle",
+				"(10)"
+			],
+			"start_row": 14,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "Fish (10)",
+			"content": [
+				"Fish",
+				"(10)"
+			],
+			"start_row": 9,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "Siberian husky, Australian terrier, English springer, Walker hound, Weimaraner,",
+			"content": [
+				"Siberian",
+				"husky,",
+				"Australian",
+				"terrier,",
+				"English",
+				"springer,",
+				"Walker",
+				"hound,",
+				"Weimaraner,"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 10,
+			"tex": "Flower (3)",
+			"content": [
+				"Flower",
+				"(3)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 24,
+			"tex": "Macaw, Hummingbird, Black swan",
+			"content": [
+				"Macaw,",
+				"Hummingbird,",
+				"Black",
+				"swan"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 17,
+			"tex": "Cat (5)",
+			"content": [
+				"Cat",
+				"(5)"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 36,
+			"tex": "Boathouse, Church, Mosque",
+			"content": [
+				"Boathouse,",
+				"Church,",
+				"Mosque"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 3,
+			"tex": "Natural object",
+			"content": [
+				"Natural",
+				"object"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "Acorn squash, Butternut squash, Cucumber, Artichoke",
+			"content": [
+				"Acorn",
+				"squash,",
+				"Butternut",
+				"squash,",
+				"Cucumber,",
+				"Artichoke"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 29,
+			"tex": "Airship, Speedboat, Yawl, Trimaran, Submarine, Mountain bike, Freight car,",
+			"content": [
+				"Airship,",
+				"Speedboat,",
+				"Yawl,",
+				"Trimaran,",
+				"Submarine,",
+				"Mountain",
+				"bike,",
+				"Freight",
+				"car,"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 13,
+			"tex": "Dog (14)",
+			"content": [
+				"Dog",
+				"(14)"
+			],
+			"start_row": 5,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "Bernese mountain dog, Maltese dog, Doberman, Boston bull, Greater Swiss mountain dog",
+			"content": [
+				"Bernese",
+				"mountain",
+				"dog,",
+				"Maltese",
+				"dog,",
+				"Doberman,",
+				"Boston",
+				"bull,",
+				"Greater",
+				"Swiss",
+				"mountain",
+				"dog"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 0,
+			"tex": "Superclass",
+			"content": [
+				"Superclass"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 34,
+			"tex": "Construction (10)",
+			"content": [
+				"Construction",
+				"(10)"
+			],
+			"start_row": 18,
+			"end_row": 19,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "Egyptian cat, Persian cat, Tiger cat, Siamese cat, Madagascar cat",
+			"content": [
+				"Egyptian",
+				"cat,",
+				"Persian",
+				"cat,",
+				"Tiger",
+				"cat,",
+				"Siamese",
+				"cat,",
+				"Madagascar",
+				"cat"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 32,
+			"tex": "Park bench, Barber chair, Throne, Folding chair, Rocking chair, Studio couch, Toilet seat,",
+			"content": [
+				"Park",
+				"bench,",
+				"Barber",
+				"chair,",
+				"Throne,",
+				"Folding",
+				"chair,",
+				"Rocking",
+				"chair,",
+				"Studio",
+				"couch,",
+				"Toilet",
+				"seat,"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 33,
+			"tex": "Desk, Pool table, Dining table",
+			"content": [
+				"Desk,",
+				"Pool",
+				"table,",
+				"Dining",
+				"table"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 30,
+			"tex": "Passenger car, Minivan, Sports car",
+			"content": [
+				"Passenger",
+				"car,",
+				"Minivan,",
+				"Sports",
+				"car"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 35,
+			"tex": "Suspension bridge, Viaduct, Barn, Greenhouse, Palace, Monastery, Library,",
+			"content": [
+				"Suspension",
+				"bridge,",
+				"Viaduct,",
+				"Barn,",
+				"Greenhouse,",
+				"Palace,",
+				"Monastery,",
+				"Library,"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 8,
+			"tex": "Head cabbage, Broccoli, Cauliflower, Zucchini, Spaghetti squash,",
+			"content": [
+				"Head",
+				"cabbage,",
+				"Broccoli,",
+				"Cauli\ufb02ower,",
+				"Zucchini,",
+				"Spaghetti",
+				"squash,"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 11,
+			"tex": "Daisy, Yellow lady's slipper, Cardoon",
+			"content": [
+				"Daisy,",
+				"Yellow",
+				"lady\u2019s",
+				"slipper,",
+				"Cardoon"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 15,
+			"tex": "Soft coated wheaten terrier, Old English sheepdog, French bulldog, Basenji,",
+			"content": [
+				"Soft",
+				"coated",
+				"wheaten",
+				"terrier,",
+				"Old",
+				"English",
+				"sheepdog,",
+				"French",
+				"bulldog,",
+				"Basenji,"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 25,
+			"tex": "Artifact",
+			"content": [
+				"Artifact"
+			],
+			"start_row": 13,
+			"end_row": 19,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "Intermediate class",
+			"content": [
+				"Intermediate",
+				"class"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "Fruit (9)",
+			"content": [
+				"Fruit",
+				"(9)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 31,
+			"tex": "Furniture (10)",
+			"content": [
+				"Furniture",
+				"(10)"
+			],
+			"start_row": 16,
+			"end_row": 17,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 27,
+			"tex": "Grand piano, Drum, Maraca, Cello, Violin, Harp, Acoustic guitar, Trombone, Harmonica, Sax",
+			"content": [
+				"Grand",
+				"piano,",
+				"Drum,",
+				"Maraca,",
+				"Cello,",
+				"Violin,",
+				"Harp,",
+				"Acoustic",
+				"guitar,",
+				"Trombone,",
+				"Harmonica,",
+				"Sax"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 22,
+			"tex": "Bird (10)",
+			"content": [
+				"Bird",
+				"(10)"
+			],
+			"start_row": 11,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "Plant",
+			"content": [
+				"Plant"
+			],
+			"start_row": 2,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "Subclass",
+			"content": [
+				"Subclass"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 20,
+			"tex": "Great white shark, Tiger shark, Hammerhead, Electric ray, Stingray,",
+			"content": [
+				"Great",
+				"white",
+				"shark,",
+				"Tiger",
+				"shark,",
+				"Hammerhead,",
+				"Electric",
+				"ray,",
+				"Stingray,"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 26,
+			"tex": "Instrument (10)",
+			"content": [
+				"Instrument",
+				"(10)"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "Barracouta, Coho, Tench, Goldfish, Eel",
+			"content": [
+				"Barracouta,",
+				"Coho,",
+				"Tench,",
+				"Gold\ufb01sh,",
+				"Eel"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 12,
+			"tex": "Animal",
+			"content": [
+				"Animal"
+			],
+			"start_row": 5,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "Goldfinch, Robin, Bulbul, Jay, Bald eagle, Vulture, Peacock,",
+			"content": [
+				"Gold\ufb01nch,",
+				"Robin,",
+				"Bulbul,",
+				"Jay,",
+				"Bald",
+				"eagle,",
+				"Vulture,",
+				"Peacock,"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 7,
+			"tex": "Vegetable (9)",
+			"content": [
+				"Vegetable",
+				"(9)"
+			],
+			"start_row": 2,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "Strawberry, Orange, Lemon, Fig, Pineapple, Banana, Jackfruit, Custard apple, Pomegranate",
+			"content": [
+				"Strawberry,",
+				"Orange,",
+				"Lemon,",
+				"Fig,",
+				"Pineapple,",
+				"Banana,",
+				"Jackfruit,",
+				"Custard",
+				"apple,",
+				"Pomegranate"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		}
+	]
+}

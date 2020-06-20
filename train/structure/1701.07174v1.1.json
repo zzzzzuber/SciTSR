@@ -1,0 +1,255 @@
+{
+	"cells": [
+		{
+			"id": 6,
+			"tex": "2 Conv+Pool, 1 FC",
+			"content": [
+				"2",
+				"Conv+Pool,",
+				"1",
+				"FC"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "\\textbf{3 Conv+Pool, 1 FC}",
+			"content": [
+				"3",
+				"Conv+Pool,",
+				"1",
+				"FC"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "0.004689",
+			"content": [
+				"0.004689"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 16,
+			"tex": "314K",
+			"content": [
+				"314K"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "340K",
+			"content": [
+				"340K"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "0.004980",
+			"content": [
+				"0.004980"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 17,
+			"tex": "0.004852",
+			"content": [
+				"0.004852"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 7,
+			"tex": "313K",
+			"content": [
+				"313K"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "\\textbf{0.004587}",
+			"content": [
+				"0.004587"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 15,
+			"tex": "2 Conv+Pool, 2 FC",
+			"content": [
+				"2",
+				"Conv+Pool,",
+				"2",
+				"FC"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "4 Conv+Pool, 1 FC",
+			"content": [
+				"4",
+				"Conv+Pool,",
+				"1",
+				"FC"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "260K",
+			"content": [
+				"260K"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "\\#Params",
+			"content": [
+				"#Params"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "1 Conv+Pool, 1 FC",
+			"content": [
+				"1",
+				"Conv+Pool,",
+				"1",
+				"FC"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "0.004747",
+			"content": [
+				"0.004747"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 19,
+			"tex": "280K",
+			"content": [
+				"280K"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "Fitting Error (MSE)",
+			"content": [
+				"Fitting",
+				"Error",
+				"(MSE)"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 10,
+			"tex": "\\textbf{277K}",
+			"content": [
+				"277K"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "Architecture",
+			"content": [
+				"Architecture"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "0.005188",
+			"content": [
+				"0.005188"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 18,
+			"tex": "3 Conv+Pool, 2 FC",
+			"content": [
+				"3",
+				"Conv+Pool,",
+				"2",
+				"FC"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

@@ -1,0 +1,260 @@
+{
+	"cells": [
+		{
+			"id": 1,
+			"tex": "\\bfseries Value range",
+			"content": [
+				"Value",
+				"range"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "(0.2, 0.3, 0.4, 0.5)",
+			"content": [
+				"(0.2,",
+				"0.3,",
+				"0.4,",
+				"0.5)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "Number of Convolutional Layers",
+			"content": [
+				"Number",
+				"of",
+				"Convolutional",
+				"Layers"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "Batch Normalization Layers",
+			"content": [
+				"Batch",
+				"Normalization",
+				"Layers"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "1 -- 5",
+			"content": [
+				"1",
+				"\u2013",
+				"5"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "0.008130275",
+			"content": [
+				"0.008130275"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 19,
+			"tex": "$10^{-5}$ -- $10^{-1}$",
+			"content": [
+				"10\u22125",
+				"\u2013",
+				"10\u22121"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "Kernel Size",
+			"content": [
+				"Kernel",
+				"Size"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "Number of Maps",
+			"content": [
+				"Number",
+				"of",
+				"Maps"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "Learning Rate",
+			"content": [
+				"Learning",
+				"Rate"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "Dropout Rate",
+			"content": [
+				"Dropout",
+				"Rate"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "1 -- 5",
+			"content": [
+				"1",
+				"\u2013",
+				"5"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "\\bfseries Hyper-parameter",
+			"content": [
+				"Hyper-parameter"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "16",
+			"content": [
+				"16"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 7,
+			"tex": "(16, 32, 48)",
+			"content": [
+				"(16,",
+				"32,",
+				"48)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "(0, 1)",
+			"content": [
+				"(0,",
+				"1)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "\\bfseries Random Search Choice",
+			"content": [
+				"Random",
+				"Search",
+				"Choice"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 5,
+			"tex": "3",
+			"content": [
+				"3"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 14,
+			"tex": "0",
+			"content": [
+				"0"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 17,
+			"tex": "0.3",
+			"content": [
+				"0.3"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 11,
+			"tex": "2",
+			"content": [
+				"2"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		}
+	]
+}

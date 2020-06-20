@@ -1,0 +1,315 @@
+{
+	"cells": [
+		{
+			"id": 0,
+			"tex": "Method",
+			"content": [
+				"Method"
+			],
+			"start_row": 0,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "",
+			"content": [],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 4
+		},
+		{
+			"id": 18,
+			"tex": "$\\tau = 0.045,\\alpha = 0.045$",
+			"content": [
+				"\u03c4",
+				"=",
+				"0.045,",
+				"\u03b1",
+				"=",
+				"0.045"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 21,
+			"tex": "$\\rho = 0.08$",
+			"content": [
+				"\u03c1",
+				"=",
+				"0.08"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "SCLD",
+			"content": [
+				"SCLD"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "Scenario 1",
+			"content": [
+				"Scenario",
+				"1"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "$K=3, d=5$",
+			"content": [
+				"K",
+				"=",
+				"3,",
+				"d",
+				"=",
+				"5"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 2
+		},
+		{
+			"id": 4,
+			"tex": "Scenario 2",
+			"content": [
+				"Scenario",
+				"2"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 1,
+			"tex": "Face clustering",
+			"content": [
+				"Face",
+				"clustering"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 2
+		},
+		{
+			"id": 23,
+			"tex": "$\\rho = 55$ ",
+			"content": [
+				"\u03c1",
+				"=",
+				"55"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 4
+		},
+		{
+			"id": 17,
+			"tex": "$\\tau = 0.4,\\alpha = 0.045$",
+			"content": [
+				"\u03c4",
+				"=",
+				"0.4,",
+				"\u03b1",
+				"=",
+				"0.045"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "${\\lambda _z} = {{800} \\mathord{\\left/\n{\\vphantom {{800} {{\\mu _z}}}} \\right.\n\\kern-\\nulldelimiterspace} {{\\mu _z}}}$",
+			"content": [
+				"\u03bbz",
+				"=",
+				"800/\u00b5z"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 4
+		},
+		{
+			"id": 19,
+			"tex": "$\\tau = 420,\\alpha = 3000\\,or\\,\\alpha = 5000$ ",
+			"content": [
+				"\u03c4",
+				"=",
+				"420,",
+				"\u03b1",
+				"=",
+				"3000",
+				"or",
+				"\u03b1",
+				"=",
+				"5000"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 4
+		},
+		{
+			"id": 6,
+			"tex": "LRR",
+			"content": [
+				"LRR"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "$ \\lambda = 0.18 $",
+			"content": [
+				"\u03bb",
+				"=",
+				"0.18"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 2
+		},
+		{
+			"id": 13,
+			"tex": "${\\lambda _e} = {{8} \\mathord{\\left/\n{\\vphantom {{800} {{\\mu _e}}}} \\right.\n\\kern-\\nulldelimiterspace} {{\\mu _e}}}$",
+			"content": [
+				"\u03bbe",
+				"=",
+				"8/\u00b5e"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "Motion segmentation",
+			"content": [
+				"Motion",
+				"segmentation"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 4
+		},
+		{
+			"id": 14,
+			"tex": "${\\lambda _e} = {{20} \\mathord{\\left/\n{\\vphantom {{800} {{\\mu _e}}}} \\right.\n\\kern-\\nulldelimiterspace} {{\\mu _e}}}$",
+			"content": [
+				"\u03bbe",
+				"=",
+				"20/\u00b5e"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 11,
+			"tex": " $K=8, d=5$",
+			"content": [
+				"K",
+				"=",
+				"8,",
+				"d",
+				"=",
+				"5"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 4
+		},
+		{
+			"id": 16,
+			"tex": "LRSC",
+			"content": [
+				"LRSC"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "$ \\lambda = 4 $",
+			"content": [
+				"\u03bb",
+				"=",
+				"4"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 4
+		},
+		{
+			"id": 22,
+			"tex": "$\\rho = 0.03$",
+			"content": [
+				"\u03c1",
+				"=",
+				"0.03"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 9,
+			"tex": "LSA",
+			"content": [
+				"LSA"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "SSC",
+			"content": [
+				"SSC"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

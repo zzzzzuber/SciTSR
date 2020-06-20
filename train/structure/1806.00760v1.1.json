@@ -1,0 +1,550 @@
+{
+	"cells": [
+		{
+			"id": 1,
+			"tex": "Descriotion",
+			"content": [
+				"Descriotion"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "\\emph{A}",
+			"content": [
+				"A"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "time decaying factor",
+			"content": [
+				"time",
+				"decaying",
+				"factor"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "\\emph{$t_{pri},t_{cur}$}",
+			"content": [
+				"tpri,",
+				"tcur"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 39,
+			"tex": "the estimate waiting time for worker $w$",
+			"content": [
+				"the",
+				"estimate",
+				"waiting",
+				"time",
+				"for",
+				"worker",
+				"w"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "prior and current timestamp",
+			"content": [
+				"prior",
+				"and",
+				"current",
+				"timestamp"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "Symbol",
+			"content": [
+				"Symbol"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "frequency of a key ${k}$",
+			"content": [
+				"frequency",
+				"of",
+				"a",
+				"key",
+				"k"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 33,
+			"tex": "the number of sequential tuples in an epoch",
+			"content": [
+				"the",
+				"number",
+				"of",
+				"sequential",
+				"tuples",
+				"in",
+				"an",
+				"epoch"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "\\emph{$f_{top}$}",
+			"content": [
+				"ftop"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 29,
+			"tex": "the maximum capacity of the set $K$",
+			"content": [
+				"the",
+				"maximum",
+				"capacity",
+				"of",
+				"the",
+				"set",
+				"K"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 37,
+			"tex": "the processing capacity for worker $w$",
+			"content": [
+				"the",
+				"processing",
+				"capacity",
+				"for",
+				"worker",
+				"w"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 35,
+			"tex": "the number of assigned tuples to worker $w$",
+			"content": [
+				"the",
+				"number",
+				"of",
+				"assigned",
+				"tuples",
+				"to",
+				"worker",
+				"w"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "minimal number of workers for hot key",
+			"content": [
+				"minimal",
+				"number",
+				"of",
+				"workers",
+				"for",
+				"hot",
+				"key"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 34,
+			"tex": "\\emph{$N_{w}$}",
+			"content": [
+				"Nw"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "counter of a key ${k}$",
+			"content": [
+				"counter",
+				"of",
+				"a",
+				"key",
+				"k"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 38,
+			"tex": "\\emph{$T_{w}$}",
+			"content": [
+				"Tw"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "worker identifier",
+			"content": [
+				"worker",
+				"identi\ufb01er"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 26,
+			"tex": "\\emph{K}",
+			"content": [
+				"K"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "threshold for the hot key identification",
+			"content": [
+				"threshold",
+				"for",
+				"the",
+				"hot",
+				"key",
+				"identi\ufb01cation"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 28,
+			"tex": "\\emph{$K_{max}$}",
+			"content": [
+				"Kmax"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "\\emph{D}",
+			"content": [
+				"D"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 40,
+			"tex": "\\emph{$W_{num}$}",
+			"content": [
+				"Wnum"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "\\emph{$c_{k}$}",
+			"content": [
+				"ck"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "unprocessed tuples for worker $w$",
+			"content": [
+				"unprocessed",
+				"tuples",
+				"for",
+				"worker",
+				"w"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 36,
+			"tex": "\\emph{$P_{w}$}",
+			"content": [
+				"Pw"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "\\emph{$d_{min}$}",
+			"content": [
+				"dmin"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 31,
+			"tex": "set of assignable workers for each key",
+			"content": [
+				"set",
+				"of",
+				"assignable",
+				"workers",
+				"for",
+				"each",
+				"key"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "\\emph{$\\alpha$}",
+			"content": [
+				"\u03b1"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "the highest frequency",
+			"content": [
+				"the",
+				"highest",
+				"frequency"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "set of candidate workers",
+			"content": [
+				"set",
+				"of",
+				"candidate",
+				"workers"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 41,
+			"tex": "the number of workers",
+			"content": [
+				"the",
+				"number",
+				"of",
+				"workers"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 32,
+			"tex": "\\emph{$N_{epoch}$}",
+			"content": [
+				"Nepoch"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "\\emph{w}",
+			"content": [
+				"w"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "key identifier",
+			"content": [
+				"key",
+				"identi\ufb01er"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "\\emph{$f_{k}$}",
+			"content": [
+				"fk"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 25,
+			"tex": "set of input stream data",
+			"content": [
+				"set",
+				"of",
+				"input",
+				"stream",
+				"data"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "\\emph{k,v}",
+			"content": [
+				"k,v"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "\\emph{$\\theta$}",
+			"content": [
+				"\u03b8"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "set of top frequent keys",
+			"content": [
+				"set",
+				"of",
+				"top",
+				"frequent",
+				"keys"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "\\emph{$C_{w}$}",
+			"content": [
+				"Cw"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 30,
+			"tex": "\\emph{M}",
+			"content": [
+				"M"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

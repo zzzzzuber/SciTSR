@@ -1,0 +1,301 @@
+{
+	"cells": [
+		{
+			"id": 19,
+			"tex": "the $q$-th singular value of $\\mathbf{A}^{t}(C_{k})$",
+			"content": [
+				"the",
+				"q-th",
+				"singular",
+				"value",
+				"of",
+				"At(Ck)"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "$\\mathbf{y}^{t}$",
+			"content": [
+				"yt"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "the cross covariance matrix of cluster $C_{k}$",
+			"content": [
+				"the",
+				"cross",
+				"covariance",
+				"matrix",
+				"of",
+				"cluster",
+				"Ck"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "$\\sigma_{kq}$",
+			"content": [
+				"\u03c3kq"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "the centroid position of cluster $C_{k}$ in live frame $t$",
+			"content": [
+				"the",
+				"centroid",
+				"position",
+				"of",
+				"cluster",
+				"Ck",
+				"in",
+				"live",
+				"frame",
+				"t"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "$(R^{t}_{k}, \\mathbf{t}^{t}_{k})$",
+			"content": [
+				"(Rt",
+				"k,",
+				"tt",
+				"k)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "$C_{k}$",
+			"content": [
+				"Ck"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "$n_{k}$",
+			"content": [
+				"nk"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "the position in canonical frame for a node of cluster $C_{k}$",
+			"content": [
+				"the",
+				"position",
+				"in",
+				"canonical",
+				"frame",
+				"for",
+				"a",
+				"node",
+				"of",
+				"cluster",
+				"Ck"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "the $k$-th cluster",
+			"content": [
+				"the",
+				"k-th",
+				"cluster"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "the centroid position of cluster $C_{k}$ in canonical frame",
+			"content": [
+				"the",
+				"centroid",
+				"position",
+				"of",
+				"cluster",
+				"Ck",
+				"in",
+				"canonical",
+				"frame"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "rotation and translation of cluster $C_{k}$",
+			"content": [
+				"rotation",
+				"and",
+				"translation",
+				"of",
+				"cluster",
+				"Ck"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "$\\mathbf{A}^{t}(C_{k})$",
+			"content": [
+				"At(Ck)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "the number of nodes belonging to cluster $C_{k}$ in canonical frame",
+			"content": [
+				"the",
+				"number",
+				"of",
+				"nodes",
+				"belonging",
+				"to",
+				"cluster",
+				"Ck",
+				"in",
+				"canonical",
+				"frame"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "$\\mathbf{c}^{t}_{k}$",
+			"content": [
+				"ct",
+				"k"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "$(R^{*}, \\mathbf{t}^{*})$",
+			"content": [
+				"(R\u2217,",
+				"t\u2217)"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "optimal rotation and translation of cluster $C_{k}$",
+			"content": [
+				"optimal",
+				"rotation",
+				"and",
+				"translation",
+				"of",
+				"cluster",
+				"Ck"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "the position in live frame $t$ for a node in cluster $C_{k}$",
+			"content": [
+				"the",
+				"position",
+				"in",
+				"live",
+				"frame",
+				"t",
+				"for",
+				"a",
+				"node",
+				"in",
+				"cluster",
+				"Ck"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "$\\mathbf{c}_{k}$",
+			"content": [
+				"ck"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "$\\mathbf{x}$",
+			"content": [
+				"x"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

@@ -1,0 +1,818 @@
+{
+	"cells": [
+		{
+			"id": 6,
+			"tex": "(1) Brown clusters",
+			"content": [
+				"(1)",
+				"Brown",
+				"clusters"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "252.61",
+			"content": [
+				"252.61"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 44,
+			"tex": "252.69",
+			"content": [
+				"252.69"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 15,
+			"tex": "(2) Oc BrC 6k CS classes",
+			"content": [
+				"(2)",
+				"Oc",
+				"BrC",
+				"6k",
+				"CS",
+				"classes"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "247.47",
+			"content": [
+				"247.47"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "(2) Oc BrC 2k EN + 2k MAN classes",
+			"content": [
+				"(2)",
+				"Oc",
+				"BrC",
+				"2k",
+				"EN",
+				"+",
+				"2k",
+				"MAN",
+				"classes"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "(3) K-means clusters 1k EN + 1k MAN classes",
+			"content": [
+				"(3)",
+				"K-means",
+				"clusters",
+				"1k",
+				"EN",
+				"+",
+				"1k",
+				"MAN",
+				"classes"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 41,
+			"tex": "252.94",
+			"content": [
+				"252.94"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 42,
+			"tex": "(4) Spectral clusters 3k EN + 3k MAN classes",
+			"content": [
+				"(4)",
+				"Spectral",
+				"clusters",
+				"3k",
+				"EN",
+				"+",
+				"3k",
+				"MAN",
+				"classes"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 53,
+			"tex": "254.65",
+			"content": [
+				"254.65"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 24,
+			"tex": "(2) Oc BrC 3k EN + 3k MAN classes",
+			"content": [
+				"(2)",
+				"Oc",
+				"BrC",
+				"3k",
+				"EN",
+				"+",
+				"3k",
+				"MAN",
+				"classes"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 48,
+			"tex": "(5) Spectral clusters 2k CS classes",
+			"content": [
+				"(5)",
+				"Spectral",
+				"clusters",
+				"2k",
+				"CS",
+				"classes"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 33,
+			"tex": "(3) K-means clusters 3k EN + 3k MAN classes",
+			"content": [
+				"(3)",
+				"K-means",
+				"clusters",
+				"3k",
+				"EN",
+				"+",
+				"3k",
+				"MAN",
+				"classes"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "247.89",
+			"content": [
+				"247.89"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "254.23",
+			"content": [
+				"254.23"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 62,
+			"tex": "252.60",
+			"content": [
+				"252.60"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 11,
+			"tex": "253.01",
+			"content": [
+				"253.01"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 60,
+			"tex": "(6) ML spectral clusters 800 classes",
+			"content": [
+				"(6)",
+				"ML",
+				"spectral",
+				"clusters",
+				"800",
+				"classes"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 50,
+			"tex": "254.65",
+			"content": [
+				"254.65"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 30,
+			"tex": "(3) K-means clusters 2k EN + 2k MAN classes",
+			"content": [
+				"(3)",
+				"K-means",
+				"clusters",
+				"2k",
+				"EN",
+				"+",
+				"2k",
+				"MAN",
+				"classes"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 40,
+			"tex": "248.31",
+			"content": [
+				"248.31"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "Unclustered",
+			"content": [
+				"Unclustered"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "248.40",
+			"content": [
+				"248.40"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "252.84",
+			"content": [
+				"252.84"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 2,
+			"tex": "PPL eval",
+			"content": [
+				"PPL",
+				"eval"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 20,
+			"tex": "253.78",
+			"content": [
+				"253.78"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 31,
+			"tex": "248.26",
+			"content": [
+				"248.26"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "260.29",
+			"content": [
+				"260.29"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 56,
+			"tex": "254.61",
+			"content": [
+				"254.61"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 55,
+			"tex": "249.04",
+			"content": [
+				"249.04"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "\\textbf{247.18}",
+			"content": [
+				"247.18"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "248.07",
+			"content": [
+				"248.07"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 49,
+			"tex": "250.53",
+			"content": [
+				"250.53"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 47,
+			"tex": "255.87",
+			"content": [
+				"255.87"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 36,
+			"tex": "(4) Spectral clusters 1k EN + 1k MAN classes",
+			"content": [
+				"(4)",
+				"Spectral",
+				"clusters",
+				"1k",
+				"EN",
+				"+",
+				"1k",
+				"MAN",
+				"classes"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "252.53",
+			"content": [
+				"252.53"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 58,
+			"tex": "248.12",
+			"content": [
+				"248.12"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 32,
+			"tex": "253.18",
+			"content": [
+				"253.18"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 1,
+			"tex": "PPL dev",
+			"content": [
+				"PPL",
+				"dev"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 35,
+			"tex": "252.81",
+			"content": [
+				"252.81"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 29,
+			"tex": "254.13",
+			"content": [
+				"254.13"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 37,
+			"tex": "248.93",
+			"content": [
+				"248.93"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 54,
+			"tex": "(6) ML spectral clusters 250 classes",
+			"content": [
+				"(6)",
+				"ML",
+				"spectral",
+				"clusters",
+				"250",
+				"classes"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "Approach",
+			"content": [
+				"Approach"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 61,
+			"tex": "247.24",
+			"content": [
+				"247.24"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 52,
+			"tex": "249.97",
+			"content": [
+				"249.97"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "(2) Oc BrC 1k EN + 1k MAN classes",
+			"content": [
+				"(2)",
+				"Oc",
+				"BrC",
+				"1k",
+				"EN",
+				"+",
+				"1k",
+				"MAN",
+				"classes"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "(2) Oc BrC 4k CS classes",
+			"content": [
+				"(2)",
+				"Oc",
+				"BrC",
+				"4k",
+				"CS",
+				"classes"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 25,
+			"tex": "247.56",
+			"content": [
+				"247.56"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 39,
+			"tex": "(4) Spectral clusters 2k EN + 2k MAN classes",
+			"content": [
+				"(4)",
+				"Spectral",
+				"clusters",
+				"2k",
+				"EN",
+				"+",
+				"2k",
+				"MAN",
+				"classes"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 38,
+			"tex": "254.07",
+			"content": [
+				"254.07"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 43,
+			"tex": "248.02",
+			"content": [
+				"248.02"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 46,
+			"tex": "251.61",
+			"content": [
+				"251.61"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 57,
+			"tex": "(6) ML spectral clusters 500 classes",
+			"content": [
+				"(6)",
+				"ML",
+				"spectral",
+				"clusters",
+				"500",
+				"classes"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "247.52",
+			"content": [
+				"247.52"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "\\textbf{252.37}",
+			"content": [
+				"252.37"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 14,
+			"tex": "252.44",
+			"content": [
+				"252.44"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 28,
+			"tex": "249.13",
+			"content": [
+				"249.13"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 59,
+			"tex": "253.35",
+			"content": [
+				"253.35"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 51,
+			"tex": "(5) Spectral clusters 3k CS classes",
+			"content": [
+				"(5)",
+				"Spectral",
+				"clusters",
+				"3k",
+				"CS",
+				"classes"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 34,
+			"tex": "247.97",
+			"content": [
+				"247.97"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 45,
+			"tex": "(5) Spectral clusters 1k CS classes",
+			"content": [
+				"(5)",
+				"Spectral",
+				"clusters",
+				"1k",
+				"CS",
+				"classes"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "(2) Oc BrC 2k CS classes",
+			"content": [
+				"(2)",
+				"Oc",
+				"BrC",
+				"2k",
+				"CS",
+				"classes"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

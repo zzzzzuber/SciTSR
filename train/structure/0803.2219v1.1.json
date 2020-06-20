@@ -1,0 +1,215 @@
+{
+	"cells": [
+		{
+			"id": 5,
+			"tex": "Time at which the trace was initialized.",
+			"content": [
+				"Time",
+				"at",
+				"which",
+				"the",
+				"trace",
+				"was",
+				"initialized."
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "Initial intensity of the trace.",
+			"content": [
+				"Initial",
+				"intensity",
+				"of",
+				"the",
+				"trace."
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "\\texttt{INTENSITY}",
+			"content": [
+				"INTENSITY"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "\\texttt{START\\_TIME}",
+			"content": [
+				"START",
+				"TIME"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "\\textbf{Attributes}",
+			"content": [
+				"Attributes"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "A positive real number smaller than $300$.",
+			"content": [
+				"A",
+				"positive",
+				"real",
+				"number",
+				"smaller",
+				"than",
+				"300."
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "Used for the tracking multiple targets.",
+			"content": [
+				"Used",
+				"for",
+				"the",
+				"tracking",
+				"multiple",
+				"targets."
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "\\textbf{Possible values}",
+			"content": [
+				"Possible",
+				"values"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "\\texttt{INITIAL} or \\texttt{SPREAD}.",
+			"content": [
+				"INITIAL",
+				"or",
+				"SPREAD."
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "$300$",
+			"content": [
+				"300"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "\\texttt{TARGET\\_ID}",
+			"content": [
+				"TARGET",
+				"ID"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "\\texttt{START\\_INTENSITY}",
+			"content": [
+				"START",
+				"INTENSITY"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "A list of $1$ to $3$ parent traces.",
+			"content": [
+				"A",
+				"list",
+				"of",
+				"1",
+				"to",
+				"3",
+				"parent",
+				"traces."
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "\\texttt{PATH}",
+			"content": [
+				"PATH"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "\\texttt{TYPE}",
+			"content": [
+				"TYPE"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "\\texttt{MAX\\_INTENSITY}",
+			"content": [
+				"MAX",
+				"INTENSITY"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

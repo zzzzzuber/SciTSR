@@ -1,0 +1,223 @@
+{
+	"cells": [
+		{
+			"id": 13,
+			"tex": "$\\{x\\}, \\{y\\}, \\{g_1\\}, \\{g_2\\}, \\{g_3\\},\n\\{h_1\\}, \\{h_2\\}$",
+			"content": [
+				"{x},{y},{g1},{g2},{g3},{h1},{h2}"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "$\\{x,y\\}, \\{g_1\\} \\{g_2\\}, \\{g_3\\}, \\{h_1\\}, \\{h_2\\}$",
+			"content": [
+				"{x,",
+				"y},{g1}{g2},{g3},{h1},{h2}"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "Inconsistent",
+			"content": [
+				"Inconsistent"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 0,
+			"tex": "I1",
+			"content": [
+				"I1"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "D2",
+			"content": [
+				"D2"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "$\\{x, g_3\\}, \\{y\\}, \\{g_1\\}, \\{g_2\\},\n\\{h_1\\}, \\{h_2\\}$",
+			"content": [
+				"{x,",
+				"g3},{y},{g1},{g2},{h1},{h2}"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "I2",
+			"content": [
+				"I2"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "$\\{x\\}, \\{y\\}, \\{g_1,g_2\\}, \\{g_3\\}, \\{h_1\\}, \\{h_2\\}$",
+			"content": [
+				"{x},{y},{g1,",
+				"g2},{g3},{h1},{h2}"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "$\\{x,y\\}, \\{g_1,g_2\\}, \\{g_3\\},\n\\{h_1,h_2\\}$",
+			"content": [
+				"{x,",
+				"y},{g1,",
+				"g2},{g3},{h1,",
+				"h2}"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "Diverse w.r.t.~$y$, $h$",
+			"content": [
+				"Diverse",
+				"w.r.t.",
+				"y,",
+				"h"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 12,
+			"tex": "D1",
+			"content": [
+				"D1"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "C2",
+			"content": [
+				"C2"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "Diverse w.r.t.~$g$, $h$",
+			"content": [
+				"Diverse",
+				"w.r.t.",
+				"g,",
+				"h"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 14,
+			"tex": "Diverse w.r.t.~$x$, $y$, $g$, $h$",
+			"content": [
+				"Diverse",
+				"w.r.t.",
+				"x,",
+				"y,",
+				"g,",
+				"h"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 7,
+			"tex": "$\\{x\\}, \\{y\\}, \\{g_1,g_2\\}, \\{g_3\\},\n\\{h_1,h_2\\}$",
+			"content": [
+				"{x},{y},{g1,",
+				"g2},{g3},{h1,",
+				"h2}"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "C1",
+			"content": [
+				"C1"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "Inconsistent",
+			"content": [
+				"Inconsistent"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 8,
+			"tex": "Diverse w.r.t.~$x$,$y$,$h$",
+			"content": [
+				"Diverse",
+				"w.r.t.",
+				"x,y,h"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		}
+	]
+}

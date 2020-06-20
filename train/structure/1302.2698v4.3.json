@@ -1,0 +1,693 @@
+{
+	"cells": [
+		{
+			"id": 18,
+			"tex": "$37\\times 3, 3\\times 4, 3\\times 5$",
+			"content": [
+				"37",
+				"\u00d7",
+				"3,",
+				"3",
+				"\u00d7",
+				"4,",
+				"3",
+				"\u00d7",
+				"5"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 39,
+			"tex": "$37\\times 3, 2\\times 4, 3\\times 5, 1\\times 6$",
+			"content": [
+				"37",
+				"\u00d7",
+				"3,",
+				"2",
+				"\u00d7",
+				"4,",
+				"3",
+				"\u00d7",
+				"5,",
+				"1",
+				"\u00d7",
+				"6"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 41,
+			"tex": "$37\\times 3, 3\\times 4, 1\\times 5, 2\\times 6$",
+			"content": [
+				"37",
+				"\u00d7",
+				"3,",
+				"3",
+				"\u00d7",
+				"4,",
+				"1",
+				"\u00d7",
+				"5,",
+				"2",
+				"\u00d7",
+				"6"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 40,
+			"tex": "1",
+			"content": [
+				"1"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 19,
+			"tex": "1",
+			"content": [
+				"1"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 46,
+			"tex": "497",
+			"content": [
+				"497"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 15,
+			"tex": "20",
+			"content": [
+				"20"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 9,
+			"tex": "1",
+			"content": [
+				"1"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 29,
+			"tex": "$34\\times 3, 8\\times 4, 1\\times 6$",
+			"content": [
+				"34",
+				"\u00d7",
+				"3,",
+				"8",
+				"\u00d7",
+				"4,",
+				"1",
+				"\u00d7",
+				"6"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 34,
+			"tex": "6",
+			"content": [
+				"6"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 42,
+			"tex": "1",
+			"content": [
+				"1"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 38,
+			"tex": "4",
+			"content": [
+				"4"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 23,
+			"tex": "$32\\times 3, 11\\times 4$",
+			"content": [
+				"32",
+				"\u00d7",
+				"3,",
+				"11",
+				"\u00d7",
+				"4"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 33,
+			"tex": "$35\\times 3, 6\\times 4, 1\\times 5, 1\\times 6$",
+			"content": [
+				"35",
+				"\u00d7",
+				"3,",
+				"6",
+				"\u00d7",
+				"4,",
+				"1",
+				"\u00d7",
+				"5,",
+				"1",
+				"\u00d7",
+				"6"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 3,
+			"tex": "Count",
+			"content": [
+				"Count"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 28,
+			"tex": "175",
+			"content": [
+				"175"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 43,
+			"tex": "All",
+			"content": [
+				"All"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "Face Sequence",
+			"content": [
+				"Face",
+				"Sequence"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "1",
+			"content": [
+				"1"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 37,
+			"tex": "$36\\times 3, 4\\times 4, 2\\times 5, 1\\times 6$",
+			"content": [
+				"36",
+				"\u00d7",
+				"3,",
+				"4",
+				"\u00d7",
+				"4,",
+				"2",
+				"\u00d7",
+				"5,",
+				"1",
+				"\u00d7",
+				"6"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 32,
+			"tex": "56",
+			"content": [
+				"56"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 22,
+			"tex": "$5\\times 4, 24\\times 5$",
+			"content": [
+				"5",
+				"\u00d7",
+				"4,",
+				"24",
+				"\u00d7",
+				"5"
+			],
+			"start_row": 8,
+			"end_row": 17,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "4-Face Count",
+			"content": [
+				"4-Face",
+				"Count"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 31,
+			"tex": "$35\\times 3, 5\\times 4, 3\\times 5$",
+			"content": [
+				"35",
+				"\u00d7",
+				"3,",
+				"5",
+				"\u00d7",
+				"4,",
+				"3",
+				"\u00d7",
+				"5"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 2,
+			"tex": "Degree Sequence",
+			"content": [
+				"Degree",
+				"Sequence"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 30,
+			"tex": "2",
+			"content": [
+				"2"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 11,
+			"tex": "$5\\times 4, 22\\times 5, 1\\times 8$",
+			"content": [
+				"5",
+				"\u00d7",
+				"4,",
+				"22",
+				"\u00d7",
+				"5,",
+				"1",
+				"\u00d7",
+				"8"
+			],
+			"start_row": 3,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 24,
+			"tex": "52",
+			"content": [
+				"52"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 36,
+			"tex": "1",
+			"content": [
+				"1"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 35,
+			"tex": "$36\\times 3, 3\\times 4, 4\\times 5$",
+			"content": [
+				"36",
+				"\u00d7",
+				"3,",
+				"3",
+				"\u00d7",
+				"4,",
+				"4",
+				"\u00d7",
+				"5"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 25,
+			"tex": "$33\\times 3, 9\\times 4, 1\\times 5$",
+			"content": [
+				"33",
+				"\u00d7",
+				"3,",
+				"9",
+				"\u00d7",
+				"4,",
+				"1",
+				"\u00d7",
+				"5"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 14,
+			"tex": "$35\\times 3, 7\\times 4, 1\\times 5$",
+			"content": [
+				"35",
+				"\u00d7",
+				"3,",
+				"7",
+				"\u00d7",
+				"4,",
+				"1",
+				"\u00d7",
+				"5"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 10,
+			"tex": "5",
+			"content": [
+				"5"
+			],
+			"start_row": 3,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "8",
+			"content": [
+				"8"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 4,
+			"tex": "4",
+			"content": [
+				"4"
+			],
+			"start_row": 1,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "$34\\times 3, 7\\times 4, 2\\times 5$",
+			"content": [
+				"34",
+				"\u00d7",
+				"3,",
+				"7",
+				"\u00d7",
+				"4,",
+				"2",
+				"\u00d7",
+				"5"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 5,
+			"tex": "$4\\times 4, 23\\times 5, 1\\times 7$",
+			"content": [
+				"4",
+				"\u00d7",
+				"4,",
+				"23",
+				"\u00d7",
+				"5,",
+				"1",
+				"\u00d7",
+				"7"
+			],
+			"start_row": 1,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "1",
+			"content": [
+				"1"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 8,
+			"tex": "$37\\times 3, 4\\times 4, 1\\times 5, 1\\times 6$",
+			"content": [
+				"37",
+				"\u00d7",
+				"3,",
+				"4",
+				"\u00d7",
+				"4,",
+				"1",
+				"\u00d7",
+				"5,",
+				"1",
+				"\u00d7",
+				"6"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 45,
+			"tex": "All",
+			"content": [
+				"All"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 17,
+			"tex": "19",
+			"content": [
+				"19"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 26,
+			"tex": "148",
+			"content": [
+				"148"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 12,
+			"tex": "$34\\times 3, 9\\times 4$",
+			"content": [
+				"34",
+				"\u00d7",
+				"3,",
+				"9",
+				"\u00d7",
+				"4"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 44,
+			"tex": "All",
+			"content": [
+				"All"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "$36\\times 3, 6\\times 4, 1\\times 6$",
+			"content": [
+				"36",
+				"\u00d7",
+				"3,",
+				"6",
+				"\u00d7",
+				"4,",
+				"1",
+				"\u00d7",
+				"6"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 16,
+			"tex": "$36\\times 3, 5\\times 4, 2\\times 5$",
+			"content": [
+				"36",
+				"\u00d7",
+				"3,",
+				"5",
+				"\u00d7",
+				"4,",
+				"2",
+				"\u00d7",
+				"5"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 20,
+			"tex": "$37\\times 3, 4\\times 4, 1\\times 5, 1\\times 6$",
+			"content": [
+				"37",
+				"\u00d7",
+				"3,",
+				"4",
+				"\u00d7",
+				"4,",
+				"1",
+				"\u00d7",
+				"5,",
+				"1",
+				"\u00d7",
+				"6"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		}
+	]
+}

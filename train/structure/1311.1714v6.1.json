@@ -1,0 +1,619 @@
+{
+	"cells": [
+		{
+			"id": 30,
+			"tex": "Distributed Memory Parallel, Social",
+			"content": [
+				"Distributed",
+				"Memory",
+				"Parallel,",
+				"Social"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 34,
+			"tex": "Evaluate and Convert Partitions",
+			"content": [
+				"Evaluate",
+				"and",
+				"Convert",
+				"Partitions"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "kaffpa with preconfiguration set to strongsocial",
+			"content": [
+				"ka\ufb00pa",
+				"with",
+				"precon\ufb01guration",
+				"set",
+				"to",
+				"strongsocial"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "Checking Graph for Correctness",
+			"content": [
+				"Checking",
+				"Graph",
+				"for",
+				"Correctness"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 37,
+			"tex": "partition\\_to\\_vertex\\_separator, node\\_separator",
+			"content": [
+				"partition",
+				"to",
+				"vertex",
+				"separator,",
+				"node",
+				"separator"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "kaffpa with preconfiguration set to fast",
+			"content": [
+				"ka\ufb00pa",
+				"with",
+				"precon\ufb01guration",
+				"set",
+				"to",
+				"fast"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "Fast Sequential Partitioning, Social",
+			"content": [
+				"Fast",
+				"Sequential",
+				"Partitioning,",
+				"Social"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "kaffpa with preconfiguration set to eco",
+			"content": [
+				"ka\ufb00pa",
+				"with",
+				"precon\ufb01guration",
+				"set",
+				"to",
+				"eco"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "Very Good Sequential Partitioning, Mesh",
+			"content": [
+				"Very",
+				"Good",
+				"Sequential",
+				"Partitioning,",
+				"Mesh"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "graph\\_checker",
+			"content": [
+				"graph",
+				"checker"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "Programs",
+			"content": [
+				"Programs"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "\\emph{Default Partitioning Problem}",
+			"content": [
+				"Default",
+				"Partitioning",
+				"Problem"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "kaffpa with preconfiguration set to fastsocial",
+			"content": [
+				"ka\ufb00pa",
+				"with",
+				"precon\ufb01guration",
+				"set",
+				"to",
+				"fastsocial"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "evaluator",
+			"content": [
+				"evaluator"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 39,
+			"tex": "node\\_separator",
+			"content": [
+				"node",
+				"separator"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "Good Sequential Partitioning, Social",
+			"content": [
+				"Good",
+				"Sequential",
+				"Partitioning,",
+				"Social"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 38,
+			"tex": "Two Node Separators",
+			"content": [
+				"Two",
+				"Node",
+				"Separators"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 28,
+			"tex": "Distributed Memory Parallel, Mesh",
+			"content": [
+				"Distributed",
+				"Memory",
+				"Parallel,",
+				"Mesh"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 31,
+			"tex": "parhip, preconfigs ecosocial, fastsocial, ultrafastsocial",
+			"content": [
+				"parhip,",
+				"precon\ufb01gs",
+				"ecosocial,",
+				"fastsocial,",
+				"ultrafastsocial"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 42,
+			"tex": "",
+			"content": [],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 41,
+			"tex": "use kaffpa to create $k$-way partition,",
+			"content": [
+				"use",
+				"ka\ufb00pa",
+				"to",
+				"create",
+				"k-way",
+				"partition,"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 27,
+			"tex": "parhip, graph2binary, graph2binary\\_external, toolbox",
+			"content": [
+				"parhip,",
+				"graph2binary,",
+				"graph2binary",
+				"external,",
+				"toolbox"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "kaffpa, kaffpaE",
+			"content": [
+				"ka\ufb00pa,",
+				"ka\ufb00paE"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 29,
+			"tex": "parhip, preconfigs ecomesh, fastmesh, ultrafastmesh",
+			"content": [
+				"parhip,",
+				"precon\ufb01gs",
+				"ecomesh,",
+				"fastmesh,",
+				"ultrafastmesh"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "Mapping to Processor Networks",
+			"content": [
+				"Mapping",
+				"to",
+				"Processor",
+				"Networks"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "Evaluate Partitioning Metrics",
+			"content": [
+				"Evaluate",
+				"Partitioning",
+				"Metrics"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "Highest Quality, Social",
+			"content": [
+				"Highest",
+				"Quality,",
+				"Social"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 35,
+			"tex": "toolbox",
+			"content": [
+				"toolbox"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "kaffpaE, use mpirun, large time limit",
+			"content": [
+				"ka\ufb00paE,",
+				"use",
+				"mpirun,",
+				"large",
+				"time",
+				"limit"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 36,
+			"tex": "\\emph{Node Separators}",
+			"content": [
+				"Node",
+				"Separators"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "\\emph{Parallel Partitioning}",
+			"content": [
+				"Parallel",
+				"Partitioning"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 43,
+			"tex": "and then partition\\_to\\_vertex\\_separator to create separator",
+			"content": [
+				"and",
+				"then",
+				"partition",
+				"to",
+				"vertex",
+				"separator",
+				"to",
+				"create",
+				"separator"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 40,
+			"tex": "$k$-way Separators",
+			"content": [
+				"k-way",
+				"Separators"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "Use case",
+			"content": [
+				"Use",
+				"case"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "use the enable\\_mapping option",
+			"content": [
+				"use",
+				"the",
+				"enable",
+				"mapping",
+				"option"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "Highest Quality, Mesh",
+			"content": [
+				"Highest",
+				"Quality,",
+				"Mesh"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "Good Sequential Partitioning, Mesh",
+			"content": [
+				"Good",
+				"Sequential",
+				"Partitioning,",
+				"Mesh"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 25,
+			"tex": "kaffpaE, use mpirun, large time limit, preconfig strongsocial",
+			"content": [
+				"ka\ufb00paE,",
+				"use",
+				"mpirun,",
+				"large",
+				"time",
+				"limit,",
+				"precon\ufb01g",
+				"strongsocial"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 32,
+			"tex": "Convert Metis to Binary",
+			"content": [
+				"Convert",
+				"Metis",
+				"to",
+				"Binary"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 33,
+			"tex": "graph2binary, graph2binary\\_external",
+			"content": [
+				"graph2binary,",
+				"graph2binary",
+				"external"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "kaffpa with preconfiguration set to strong",
+			"content": [
+				"ka\ufb00pa",
+				"with",
+				"precon\ufb01guration",
+				"set",
+				"to",
+				"strong"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "kaffpa with preconfiguration set to ecosocial",
+			"content": [
+				"ka\ufb00pa",
+				"with",
+				"precon\ufb01guration",
+				"set",
+				"to",
+				"ecosocial"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "Very Good Sequential Partitioning, Social",
+			"content": [
+				"Very",
+				"Good",
+				"Sequential",
+				"Partitioning,",
+				"Social"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "Fast Sequential Partitioning, Mesh",
+			"content": [
+				"Fast",
+				"Sequential",
+				"Partitioning,",
+				"Mesh"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

@@ -1,0 +1,150 @@
+{
+	"cells": [
+		{
+			"id": 6,
+			"tex": "Embedded fadvise",
+			"content": [
+				"Embedded",
+				"fadvise"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "Experiment",
+			"content": [
+				"Experiment"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "7855.7\\,$\\mu$s",
+			"content": [
+				"7855.7",
+				"\u00b5s"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 2,
+			"tex": "1000\\,KiB stride",
+			"content": [
+				"1000",
+				"KiB",
+				"stride"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 10,
+			"tex": "52.1\\,$\\mu$s",
+			"content": [
+				"52.1",
+				"\u00b5s"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "97.1\\,$\\mu$s",
+			"content": [
+				"97.1",
+				"\u00b5s"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "Regular execution",
+			"content": [
+				"Regular",
+				"execution"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "SIOX fadvise read-ahead",
+			"content": [
+				"SIOX",
+				"fadvise",
+				"read-ahead"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "95.4\\,$\\mu$s",
+			"content": [
+				"95.4",
+				"\u00b5s"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 8,
+			"tex": "45.1\\,$\\mu$s",
+			"content": [
+				"45.1",
+				"\u00b5s"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 7,
+			"tex": "38.7\\,$\\mu$s",
+			"content": [
+				"38.7",
+				"\u00b5s"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "20\\,KiB stride",
+			"content": [
+				"20",
+				"KiB",
+				"stride"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

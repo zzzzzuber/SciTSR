@@ -1,0 +1,267 @@
+{
+	"cells": [
+		{
+			"id": 2,
+			"tex": "checker.pl",
+			"content": [
+				"checker.pl"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "invoked by bin/checker to ping server",
+			"content": [
+				"invoked",
+				"by",
+				"bin/checker",
+				"to",
+				"ping",
+				"server"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "config.pl",
+			"content": [
+				"con\ufb01g.pl"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "query.pl",
+			"content": [
+				"query.pl"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "invoked by bin/report to generate usage reports",
+			"content": [
+				"invoked",
+				"by",
+				"bin/report",
+				"to",
+				"generate",
+				"usage",
+				"reports"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "invoked by bin/monitor to view logs/database",
+			"content": [
+				"invoked",
+				"by",
+				"bin/monitor",
+				"to",
+				"view",
+				"logs/database"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "invoked by bin/weeklyreport, calls report.pl",
+			"content": [
+				"invoked",
+				"by",
+				"bin/weeklyreport,",
+				"calls",
+				"report.pl"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "Purpose",
+			"content": [
+				"Purpose"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "monitor.tk",
+			"content": [
+				"monitor.tk"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "invoked by bin/report, calls report.pl",
+			"content": [
+				"invoked",
+				"by",
+				"bin/report,",
+				"calls",
+				"report.pl"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "Script",
+			"content": [
+				"Script"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "called by config/Makefile to configure Server",
+			"content": [
+				"called",
+				"by",
+				"con\ufb01g/Make\ufb01le",
+				"to",
+				"con\ufb01gure",
+				"Server"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "queries master database",
+			"content": [
+				"queries",
+				"master",
+				"database"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "cleaner.pl",
+			"content": [
+				"cleaner.pl"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "restart.pl",
+			"content": [
+				"restart.pl"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "report.pl",
+			"content": [
+				"report.pl"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "invoked by bin/restart to kill and restart server",
+			"content": [
+				"invoked",
+				"by",
+				"bin/restart",
+				"to",
+				"kill",
+				"and",
+				"restart",
+				"server"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "dailyreport.p",
+			"content": [
+				"dailyreport.p"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "invoked by bin/cleaner to remove/archive jobs",
+			"content": [
+				"invoked",
+				"by",
+				"bin/cleaner",
+				"to",
+				"remove/archive",
+				"jobs"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "weeklyreport.pl",
+			"content": [
+				"weeklyreport.pl"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

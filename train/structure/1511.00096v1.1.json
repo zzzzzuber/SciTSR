@@ -1,0 +1,3317 @@
+{
+	"cells": [
+		{
+			"id": 150,
+			"tex": "Temporal edge of spatial contrast",
+			"content": [
+				"Temporal",
+				"edge",
+				"of",
+				"spatial",
+				"contrast"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 222,
+			"tex": "Spatiotemporal energy",
+			"content": [
+				"Spatiotemporal",
+				"energy"
+			],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 294,
+			"tex": "Temporal contrast",
+			"content": [
+				"Temporal",
+				"contrast"
+			],
+			"start_row": 36,
+			"end_row": 36,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 7,
+			"tex": "Tanner",
+			"content": [
+				"Tanner"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 151,
+			"tex": "Etienne-Cummings",
+			"content": [
+				"Etienne-Cummings"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 223,
+			"tex": "Massie",
+			"content": [
+				"Massie"
+			],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "1986",
+			"content": [
+				"1986"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 152,
+			"tex": "1999",
+			"content": [
+				"1999"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 224,
+			"tex": "2003",
+			"content": [
+				"2003"
+			],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "2$\\mu$",
+			"content": [
+				"2\u00b5"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 153,
+			"tex": "2$\\mu$",
+			"content": [
+				"2\u00b5"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 225,
+			"tex": "0.5$\\mu$",
+			"content": [
+				"0.5\u00b5"
+			],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 4,
+			"tex": "Motion",
+			"content": [
+				"Motion"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 10,
+			"tex": "1D",
+			"content": [
+				"1D"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 154,
+			"tex": "2x1D",
+			"content": [
+				"2x1D"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 226,
+			"tex": "12x1D",
+			"content": [
+				"12x1D"
+			],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 11,
+			"tex": "(1x16)",
+			"content": [
+				"(1x16)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 155,
+			"tex": "(2x18)",
+			"content": [
+				"(2x18)"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 227,
+			"tex": "(12x90)",
+			"content": [
+				"(12x90)"
+			],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 12,
+			"tex": "Global",
+			"content": [
+				"Global"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 156,
+			"tex": "Global",
+			"content": [
+				"Global"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 228,
+			"tex": "Yaw/Pitch/Roll",
+			"content": [
+				"Yaw/Pitch/Roll"
+			],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 13,
+			"tex": "Block-Matching",
+			"content": [
+				"Block-Matching"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 157,
+			"tex": "Adelson-Bergen",
+			"content": [
+				"Adelson-Bergen"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 229,
+			"tex": "Token (FS)",
+			"content": [
+				"Token",
+				"(FS)"
+			],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 14,
+			"tex": "Intensity variation",
+			"content": [
+				"Intensity",
+				"variation"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 158,
+			"tex": "Spatiotemporal energy of edge map",
+			"content": [
+				"Spatiotemporal",
+				"energy",
+				"of",
+				"edge",
+				"map"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 230,
+			"tex": "Temporal edge of spatial contrast",
+			"content": [
+				"Temporal",
+				"edge",
+				"of",
+				"spatial",
+				"contrast"
+			],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 15,
+			"tex": "Tanner",
+			"content": [
+				"Tanner"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 159,
+			"tex": "Barrows",
+			"content": [
+				"Barrows"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 231,
+			"tex": "Stocker",
+			"content": [
+				"Stocker"
+			],
+			"start_row": 29,
+			"end_row": 29,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "1986",
+			"content": [
+				"1986"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 160,
+			"tex": "2000",
+			"content": [
+				"2000"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 232,
+			"tex": "2004",
+			"content": [
+				"2004"
+			],
+			"start_row": 29,
+			"end_row": 29,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "1.5$\\mu$",
+			"content": [
+				"1.5\u00b5"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 161,
+			"tex": "1.2$\\mu$",
+			"content": [
+				"1.2\u00b5"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 233,
+			"tex": "0.8$\\mu$",
+			"content": [
+				"0.8\u00b5"
+			],
+			"start_row": 29,
+			"end_row": 29,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 18,
+			"tex": "2D",
+			"content": [
+				"2D"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 162,
+			"tex": "2x1D",
+			"content": [
+				"2x1D"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 234,
+			"tex": "2D",
+			"content": [
+				"2D"
+			],
+			"start_row": 29,
+			"end_row": 29,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 19,
+			"tex": "(8x8)",
+			"content": [
+				"(8x8)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 163,
+			"tex": "(2x4)",
+			"content": [
+				"(2x4)"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 235,
+			"tex": "(30x30)",
+			"content": [
+				"(30x30)"
+			],
+			"start_row": 29,
+			"end_row": 29,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 20,
+			"tex": "Global",
+			"content": [
+				"Global"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 164,
+			"tex": "Global",
+			"content": [
+				"Global"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 236,
+			"tex": "Local",
+			"content": [
+				"Local"
+			],
+			"start_row": 29,
+			"end_row": 29,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 21,
+			"tex": "Gradient",
+			"content": [
+				"Gradient"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 165,
+			"tex": "Token (FS)",
+			"content": [
+				"Token",
+				"(FS)"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 237,
+			"tex": "Gradient",
+			"content": [
+				"Gradient"
+			],
+			"start_row": 29,
+			"end_row": 29,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 22,
+			"tex": "-",
+			"content": [
+				"-"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 166,
+			"tex": "Spatial features",
+			"content": [
+				"Spatial",
+				"features"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 238,
+			"tex": "-",
+			"content": [
+				"-"
+			],
+			"start_row": 29,
+			"end_row": 29,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 23,
+			"tex": "Franceschini",
+			"content": [
+				"Franceschini"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 167,
+			"tex": "Liu",
+			"content": [
+				"Liu"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 239,
+			"tex": "Ozalevi",
+			"content": [
+				"Ozalevi"
+			],
+			"start_row": 30,
+			"end_row": 30,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "1989",
+			"content": [
+				"1989"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 168,
+			"tex": "2000",
+			"content": [
+				"2000"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 240,
+			"tex": "2005",
+			"content": [
+				"2005"
+			],
+			"start_row": 30,
+			"end_row": 30,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 25,
+			"tex": "-",
+			"content": [
+				"-"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 169,
+			"tex": "1.2$\\mu$",
+			"content": [
+				"1.2\u00b5"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 241,
+			"tex": "1.6$\\mu$",
+			"content": [
+				"1.6\u00b5"
+			],
+			"start_row": 30,
+			"end_row": 30,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 26,
+			"tex": "1D",
+			"content": [
+				"1D"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 170,
+			"tex": "1D",
+			"content": [
+				"1D"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 242,
+			"tex": "2D",
+			"content": [
+				"2D"
+			],
+			"start_row": 30,
+			"end_row": 30,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 27,
+			"tex": "(1x100)",
+			"content": [
+				"(1x100)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 171,
+			"tex": "(1x37)",
+			"content": [
+				"(1x37)"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 243,
+			"tex": "(6x7)",
+			"content": [
+				"(6x7)"
+			],
+			"start_row": 30,
+			"end_row": 30,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 28,
+			"tex": "Local",
+			"content": [
+				"Local"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 172,
+			"tex": "Global",
+			"content": [
+				"Global"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 244,
+			"tex": "Global",
+			"content": [
+				"Global"
+			],
+			"start_row": 30,
+			"end_row": 30,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 29,
+			"tex": "Token",
+			"content": [
+				"Token"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 173,
+			"tex": "Reichardt",
+			"content": [
+				"Reichardt"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 245,
+			"tex": "Reichardt",
+			"content": [
+				"Reichardt"
+			],
+			"start_row": 30,
+			"end_row": 30,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 30,
+			"tex": "Temporal edge",
+			"content": [
+				"Temporal",
+				"edge"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 174,
+			"tex": "Temporal contrast",
+			"content": [
+				"Temporal",
+				"contrast"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 246,
+			"tex": "Temporal contrast",
+			"content": [
+				"Temporal",
+				"contrast"
+			],
+			"start_row": 30,
+			"end_row": 30,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 31,
+			"tex": "Andreou",
+			"content": [
+				"Andreou"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 175,
+			"tex": "Pant",
+			"content": [
+				"Pant"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 247,
+			"tex": "Harrison",
+			"content": [
+				"Harrison"
+			],
+			"start_row": 31,
+			"end_row": 31,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 32,
+			"tex": "1991",
+			"content": [
+				"1991"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 176,
+			"tex": "2000",
+			"content": [
+				"2000"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 248,
+			"tex": "2005",
+			"content": [
+				"2005"
+			],
+			"start_row": 31,
+			"end_row": 31,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 33,
+			"tex": "2$\\mu$",
+			"content": [
+				"2\u00b5"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 177,
+			"tex": "1.6$\\mu$",
+			"content": [
+				"1.6\u00b5"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 249,
+			"tex": "0.5$\\mu$",
+			"content": [
+				"0.5\u00b5"
+			],
+			"start_row": 31,
+			"end_row": 31,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 34,
+			"tex": "1D",
+			"content": [
+				"1D"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 178,
+			"tex": "2D",
+			"content": [
+				"2D"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 250,
+			"tex": "2D",
+			"content": [
+				"2D"
+			],
+			"start_row": 31,
+			"end_row": 31,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 35,
+			"tex": "(1x25)",
+			"content": [
+				"(1x25)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 179,
+			"tex": "(13x6)",
+			"content": [
+				"(13x6)"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 251,
+			"tex": "(16x16)",
+			"content": [
+				"(16x16)"
+			],
+			"start_row": 31,
+			"end_row": 31,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 36,
+			"tex": "Global",
+			"content": [
+				"Global"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 180,
+			"tex": "Local",
+			"content": [
+				"Local"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 252,
+			"tex": "Global",
+			"content": [
+				"Global"
+			],
+			"start_row": 31,
+			"end_row": 31,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 37,
+			"tex": "Reichardt",
+			"content": [
+				"Reichardt"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 181,
+			"tex": "Reichardt",
+			"content": [
+				"Reichardt"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 253,
+			"tex": "Reichardt",
+			"content": [
+				"Reichardt"
+			],
+			"start_row": 31,
+			"end_row": 31,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 38,
+			"tex": "ON-center OFF-surround",
+			"content": [
+				"ON-center",
+				"OFF-surround"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 182,
+			"tex": "Temporal contrast",
+			"content": [
+				"Temporal",
+				"contrast"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 254,
+			"tex": "Temporal contrast",
+			"content": [
+				"Temporal",
+				"contrast"
+			],
+			"start_row": 31,
+			"end_row": 31,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 39,
+			"tex": "Etienne-Cummings",
+			"content": [
+				"Etienne-Cummings"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 183,
+			"tex": "Higgins",
+			"content": [
+				"Higgins"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 255,
+			"tex": "Shoemaker",
+			"content": [
+				"Shoemaker"
+			],
+			"start_row": 32,
+			"end_row": 32,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 40,
+			"tex": "1992",
+			"content": [
+				"1992"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "Process",
+			"content": [
+				"Process"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 184,
+			"tex": "2000",
+			"content": [
+				"2000"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 256,
+			"tex": "2005",
+			"content": [
+				"2005"
+			],
+			"start_row": 32,
+			"end_row": 32,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 41,
+			"tex": "2$\\mu$",
+			"content": [
+				"2\u00b5"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 185,
+			"tex": "1.2$\\mu$",
+			"content": [
+				"1.2\u00b5"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 257,
+			"tex": "0.35$\\mu$",
+			"content": [
+				"0.35\u00b5"
+			],
+			"start_row": 32,
+			"end_row": 32,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 42,
+			"tex": "2D",
+			"content": [
+				"2D"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 186,
+			"tex": "2D",
+			"content": [
+				"2D"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 258,
+			"tex": "1D",
+			"content": [
+				"1D"
+			],
+			"start_row": 32,
+			"end_row": 32,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 43,
+			"tex": "(5x5)",
+			"content": [
+				"(5x5)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 187,
+			"tex": "(13x15)",
+			"content": [
+				"(13x15)"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 259,
+			"tex": "(1x7)",
+			"content": [
+				"(1x7)"
+			],
+			"start_row": 32,
+			"end_row": 32,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 44,
+			"tex": "Global",
+			"content": [
+				"Global"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 188,
+			"tex": "Local",
+			"content": [
+				"Local"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 260,
+			"tex": "Global",
+			"content": [
+				"Global"
+			],
+			"start_row": 32,
+			"end_row": 32,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 45,
+			"tex": "Token (TI)",
+			"content": [
+				"Token",
+				"(TI)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 189,
+			"tex": "Token (FS)",
+			"content": [
+				"Token",
+				"(FS)"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 261,
+			"tex": "Reichardt",
+			"content": [
+				"Reichardt"
+			],
+			"start_row": 32,
+			"end_row": 32,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 46,
+			"tex": "Temporal edge of center surround",
+			"content": [
+				"Temporal",
+				"edge",
+				"of",
+				"center",
+				"surround"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 190,
+			"tex": "Temporal edge",
+			"content": [
+				"Temporal",
+				"edge"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 262,
+			"tex": "Temporal contrast",
+			"content": [
+				"Temporal",
+				"contrast"
+			],
+			"start_row": 32,
+			"end_row": 32,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 47,
+			"tex": "Horiuchi",
+			"content": [
+				"Horiuchi"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 191,
+			"tex": "Harrison",
+			"content": [
+				"Harrison"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 263,
+			"tex": "Mehta",
+			"content": [
+				"Mehta"
+			],
+			"start_row": 33,
+			"end_row": 33,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 48,
+			"tex": "1992",
+			"content": [
+				"1992"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 192,
+			"tex": "2000",
+			"content": [
+				"2000"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 264,
+			"tex": "2006",
+			"content": [
+				"2006"
+			],
+			"start_row": 33,
+			"end_row": 33,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 49,
+			"tex": "2$\\mu$",
+			"content": [
+				"2\u00b5"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 193,
+			"tex": "1.2$\\mu$",
+			"content": [
+				"1.2\u00b5"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 265,
+			"tex": "0.5$\\mu$",
+			"content": [
+				"0.5\u00b5"
+			],
+			"start_row": 33,
+			"end_row": 33,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 50,
+			"tex": "1D",
+			"content": [
+				"1D"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 194,
+			"tex": "1D",
+			"content": [
+				"1D"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 266,
+			"tex": "2D",
+			"content": [
+				"2D"
+			],
+			"start_row": 33,
+			"end_row": 33,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 51,
+			"tex": "(1x17)",
+			"content": [
+				"(1x17)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 195,
+			"tex": "(1x22)",
+			"content": [
+				"(1x22)"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 267,
+			"tex": "(95x52)",
+			"content": [
+				"(95x52)"
+			],
+			"start_row": 33,
+			"end_row": 33,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 52,
+			"tex": "Local",
+			"content": [
+				"Local"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 196,
+			"tex": "Global",
+			"content": [
+				"Global"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 268,
+			"tex": "Local",
+			"content": [
+				"Local"
+			],
+			"start_row": 33,
+			"end_row": 33,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 53,
+			"tex": "Token (TS)",
+			"content": [
+				"Token",
+				"(TS)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 197,
+			"tex": "Reichardt",
+			"content": [
+				"Reichardt"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 269,
+			"tex": "Gradient",
+			"content": [
+				"Gradient"
+			],
+			"start_row": 33,
+			"end_row": 33,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 54,
+			"tex": "Temporal edge",
+			"content": [
+				"Temporal",
+				"edge"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 198,
+			"tex": "Temporal contrast",
+			"content": [
+				"Temporal",
+				"contrast"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 270,
+			"tex": "-",
+			"content": [
+				"-"
+			],
+			"start_row": 33,
+			"end_row": 33,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 55,
+			"tex": "Delbruck",
+			"content": [
+				"Delbruck"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 199,
+			"tex": "Higgins",
+			"content": [
+				"Higgins"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 271,
+			"tex": "Moeckel",
+			"content": [
+				"Moeckel"
+			],
+			"start_row": 34,
+			"end_row": 34,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "Method",
+			"content": [
+				"Method"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 56,
+			"tex": "1993",
+			"content": [
+				"1993"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 200,
+			"tex": "2002",
+			"content": [
+				"2002"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 272,
+			"tex": "2007",
+			"content": [
+				"2007"
+			],
+			"start_row": 34,
+			"end_row": 34,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 57,
+			"tex": "2$\\mu$",
+			"content": [
+				"2\u00b5"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 201,
+			"tex": "1.2$\\mu$",
+			"content": [
+				"1.2\u00b5"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 273,
+			"tex": "1.5$\\mu$",
+			"content": [
+				"1.5\u00b5"
+			],
+			"start_row": 34,
+			"end_row": 34,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 3,
+			"tex": "Array",
+			"content": [
+				"Array"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 4
+		},
+		{
+			"id": 58,
+			"tex": "2D",
+			"content": [
+				"2D"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 202,
+			"tex": "2D",
+			"content": [
+				"2D"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 274,
+			"tex": "1D",
+			"content": [
+				"1D"
+			],
+			"start_row": 34,
+			"end_row": 34,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 59,
+			"tex": "(25x25)",
+			"content": [
+				"(25x25)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 203,
+			"tex": "(27x29)",
+			"content": [
+				"(27x29)"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 275,
+			"tex": "(1x24)",
+			"content": [
+				"(1x24)"
+			],
+			"start_row": 34,
+			"end_row": 34,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 1,
+			"tex": "Year",
+			"content": [
+				"Year"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 60,
+			"tex": "Local",
+			"content": [
+				"Local"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 204,
+			"tex": "Local",
+			"content": [
+				"Local"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 276,
+			"tex": "Local",
+			"content": [
+				"Local"
+			],
+			"start_row": 34,
+			"end_row": 34,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 61,
+			"tex": "Reichardt",
+			"content": [
+				"Reichardt"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 205,
+			"tex": "Token (ITI)",
+			"content": [
+				"Token",
+				"(ITI)"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 277,
+			"tex": "Token (FS)",
+			"content": [
+				"Token",
+				"(FS)"
+			],
+			"start_row": 34,
+			"end_row": 34,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 0,
+			"tex": "Author",
+			"content": [
+				"Author"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 62,
+			"tex": "Temporal contrast",
+			"content": [
+				"Temporal",
+				"contrast"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 206,
+			"tex": "Temporal edge",
+			"content": [
+				"Temporal",
+				"edge"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 278,
+			"tex": "Temporal contrast",
+			"content": [
+				"Temporal",
+				"contrast"
+			],
+			"start_row": 34,
+			"end_row": 34,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 63,
+			"tex": "Sarpeshkar",
+			"content": [
+				"Sarpeshkar"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 207,
+			"tex": "Yamada",
+			"content": [
+				"Yamada"
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 279,
+			"tex": "Bartolozzi",
+			"content": [
+				"Bartolozzi"
+			],
+			"start_row": 35,
+			"end_row": 35,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "Feature",
+			"content": [
+				"Feature"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 64,
+			"tex": "1993",
+			"content": [
+				"1993"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 208,
+			"tex": "2003",
+			"content": [
+				"2003"
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 280,
+			"tex": "2011",
+			"content": [
+				"2011"
+			],
+			"start_row": 35,
+			"end_row": 35,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 65,
+			"tex": "2$\\mu$",
+			"content": [
+				"2\u00b5"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 209,
+			"tex": "1.5$\\mu$",
+			"content": [
+				"1.5\u00b5"
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 281,
+			"tex": "0.6$\\mu$",
+			"content": [
+				"0.6\u00b5"
+			],
+			"start_row": 35,
+			"end_row": 35,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 66,
+			"tex": "NA",
+			"content": [
+				"NA"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 210,
+			"tex": "2D",
+			"content": [
+				"2D"
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 282,
+			"tex": "1D",
+			"content": [
+				"1D"
+			],
+			"start_row": 35,
+			"end_row": 35,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 67,
+			"tex": "NA",
+			"content": [
+				"NA"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 211,
+			"tex": "(2x10)",
+			"content": [
+				"(2x10)"
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 283,
+			"tex": "(1x64)",
+			"content": [
+				"(1x64)"
+			],
+			"start_row": 35,
+			"end_row": 35,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 68,
+			"tex": "NA",
+			"content": [
+				"NA"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 212,
+			"tex": "Local",
+			"content": [
+				"Local"
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 284,
+			"tex": "Local",
+			"content": [
+				"Local"
+			],
+			"start_row": 35,
+			"end_row": 35,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 69,
+			"tex": "Token",
+			"content": [
+				"Token"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 213,
+			"tex": "Token (FS)",
+			"content": [
+				"Token",
+				"(FS)"
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 285,
+			"tex": "Token (FS)",
+			"content": [
+				"Token",
+				"(FS)"
+			],
+			"start_row": 35,
+			"end_row": 35,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 70,
+			"tex": "Temporal edge of spatial contrast",
+			"content": [
+				"Temporal",
+				"edge",
+				"of",
+				"spatial",
+				"contrast"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 214,
+			"tex": "Spatial edge",
+			"content": [
+				"Spatial",
+				"edge"
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 286,
+			"tex": "Temporal edge",
+			"content": [
+				"Temporal",
+				"edge"
+			],
+			"start_row": 35,
+			"end_row": 35,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 71,
+			"tex": "Gottardi",
+			"content": [
+				"Gottardi"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 215,
+			"tex": "Ozalevi",
+			"content": [
+				"Ozalevi"
+			],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 287,
+			"tex": "Roubieu",
+			"content": [
+				"Roubieu"
+			],
+			"start_row": 36,
+			"end_row": 36,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 72,
+			"tex": "1995",
+			"content": [
+				"1995"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 216,
+			"tex": "2003",
+			"content": [
+				"2003"
+			],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 288,
+			"tex": "2013",
+			"content": [
+				"2013"
+			],
+			"start_row": 36,
+			"end_row": 36,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 73,
+			"tex": "2$\\mu$",
+			"content": [
+				"2\u00b5"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 217,
+			"tex": "1.5$\\mu$",
+			"content": [
+				"1.5\u00b5"
+			],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 289,
+			"tex": "-",
+			"content": [
+				"-"
+			],
+			"start_row": 36,
+			"end_row": 36,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 74,
+			"tex": "1D",
+			"content": [
+				"1D"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 218,
+			"tex": "2D",
+			"content": [
+				"2D"
+			],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 290,
+			"tex": "1D",
+			"content": [
+				"1D"
+			],
+			"start_row": 36,
+			"end_row": 36,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 75,
+			"tex": "(1x115)",
+			"content": [
+				"(1x115)"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 219,
+			"tex": "(6x6)",
+			"content": [
+				"(6x6)"
+			],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 291,
+			"tex": "(1x5)",
+			"content": [
+				"(1x5)"
+			],
+			"start_row": 36,
+			"end_row": 36,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 76,
+			"tex": "Global",
+			"content": [
+				"Global"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 220,
+			"tex": "Global",
+			"content": [
+				"Global"
+			],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 292,
+			"tex": "Global",
+			"content": [
+				"Global"
+			],
+			"start_row": 36,
+			"end_row": 36,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 77,
+			"tex": "Block-Matching",
+			"content": [
+				"Block-Matching"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 221,
+			"tex": "Adelson-Bergen",
+			"content": [
+				"Adelson-Bergen"
+			],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 293,
+			"tex": "Token (ISI)",
+			"content": [
+				"Token",
+				"(ISI)"
+			],
+			"start_row": 36,
+			"end_row": 36,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 78,
+			"tex": "Intensity values",
+			"content": [
+				"Intensity",
+				"values"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 79,
+			"tex": "Kramer",
+			"content": [
+				"Kramer"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 80,
+			"tex": "1995",
+			"content": [
+				"1995"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 81,
+			"tex": "2$\\mu$",
+			"content": [
+				"2\u00b5"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 82,
+			"tex": "1D",
+			"content": [
+				"1D"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 83,
+			"tex": "(1x8)",
+			"content": [
+				"(1x8)"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 84,
+			"tex": "Local",
+			"content": [
+				"Local"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 85,
+			"tex": "Token (FS)",
+			"content": [
+				"Token",
+				"(FS)"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 86,
+			"tex": "Temporal edge",
+			"content": [
+				"Temporal",
+				"edge"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 87,
+			"tex": "Yakovleff",
+			"content": [
+				"Yakovle\ufb00"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 88,
+			"tex": "1996",
+			"content": [
+				"1996"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 89,
+			"tex": "2$\\mu$",
+			"content": [
+				"2\u00b5"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 90,
+			"tex": "1D",
+			"content": [
+				"1D"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 91,
+			"tex": "(1x61)",
+			"content": [
+				"(1x61)"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 92,
+			"tex": "Local",
+			"content": [
+				"Local"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 93,
+			"tex": "Block-Matching",
+			"content": [
+				"Block-Matching"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 94,
+			"tex": "Sign of spatiotemporal gradients",
+			"content": [
+				"Sign",
+				"of",
+				"spatiotemporal",
+				"gradients"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 95,
+			"tex": "Arreguit",
+			"content": [
+				"Arreguit"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 96,
+			"tex": "1996",
+			"content": [
+				"1996"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 97,
+			"tex": "2$\\mu$",
+			"content": [
+				"2\u00b5"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 98,
+			"tex": "2D",
+			"content": [
+				"2D"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 99,
+			"tex": "(\\~9x9)",
+			"content": [
+				"(\u02dc9x9)"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 100,
+			"tex": "Local",
+			"content": [
+				"Local"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 101,
+			"tex": "Block-Matching",
+			"content": [
+				"Block-Matching"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 102,
+			"tex": "Spatial edge",
+			"content": [
+				"Spatial",
+				"edge"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 103,
+			"tex": "Etienne-Cummings",
+			"content": [
+				"Etienne-Cummings"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 104,
+			"tex": "1997",
+			"content": [
+				"1997"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 105,
+			"tex": "2$\\mu$",
+			"content": [
+				"2\u00b5"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 106,
+			"tex": "2D",
+			"content": [
+				"2D"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 107,
+			"tex": "(9x9)",
+			"content": [
+				"(9x9)"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 108,
+			"tex": "Global",
+			"content": [
+				"Global"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 109,
+			"tex": "Token",
+			"content": [
+				"Token"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 110,
+			"tex": "Temporal edge of center surround",
+			"content": [
+				"Temporal",
+				"edge",
+				"of",
+				"center",
+				"surround"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 111,
+			"tex": "Moini",
+			"content": [
+				"Moini"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 112,
+			"tex": "1997",
+			"content": [
+				"1997"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 113,
+			"tex": "1.2$\\mu$",
+			"content": [
+				"1.2\u00b5"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 114,
+			"tex": "2x1D",
+			"content": [
+				"2x1D"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 115,
+			"tex": "(2x64)",
+			"content": [
+				"(2x64)"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 116,
+			"tex": "Local",
+			"content": [
+				"Local"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 117,
+			"tex": "Block-Matching",
+			"content": [
+				"Block-Matching"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 118,
+			"tex": "Spatiotemporal templates",
+			"content": [
+				"Spatiotemporal",
+				"templates"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 119,
+			"tex": "Harrison",
+			"content": [
+				"Harrison"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 120,
+			"tex": "1998",
+			"content": [
+				"1998"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 121,
+			"tex": "2$\\mu$",
+			"content": [
+				"2\u00b5"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 122,
+			"tex": "2D",
+			"content": [
+				"2D"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 123,
+			"tex": "(1x2)",
+			"content": [
+				"(1x2)"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 124,
+			"tex": "Local",
+			"content": [
+				"Local"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 125,
+			"tex": "Reichardt",
+			"content": [
+				"Reichardt"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 126,
+			"tex": "Temporal contrast",
+			"content": [
+				"Temporal",
+				"contrast"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 127,
+			"tex": "Higgins",
+			"content": [
+				"Higgins"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 128,
+			"tex": "1999",
+			"content": [
+				"1999"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 129,
+			"tex": "1.2$\\mu$",
+			"content": [
+				"1.2\u00b5"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 130,
+			"tex": "2D",
+			"content": [
+				"2D"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 131,
+			"tex": "(14x13)",
+			"content": [
+				"(14x13)"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 132,
+			"tex": "Local",
+			"content": [
+				"Local"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 133,
+			"tex": "Token (ITI, FS)",
+			"content": [
+				"Token",
+				"(ITI,",
+				"FS)"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 134,
+			"tex": "Temporal edge",
+			"content": [
+				"Temporal",
+				"edge"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 135,
+			"tex": "Indiveri",
+			"content": [
+				"Indiveri"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 136,
+			"tex": "1999",
+			"content": [
+				"1999"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 137,
+			"tex": "1.2$\\mu$",
+			"content": [
+				"1.2\u00b5"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 138,
+			"tex": "2D",
+			"content": [
+				"2D"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 139,
+			"tex": "(8x8)",
+			"content": [
+				"(8x8)"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 140,
+			"tex": "Global",
+			"content": [
+				"Global"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 141,
+			"tex": "Token (FS)",
+			"content": [
+				"Token",
+				"(FS)"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 142,
+			"tex": "Temporal edge",
+			"content": [
+				"Temporal",
+				"edge"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 143,
+			"tex": "Jiang",
+			"content": [
+				"Jiang"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 144,
+			"tex": "1999",
+			"content": [
+				"1999"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 145,
+			"tex": "0.6$\\mu$",
+			"content": [
+				"0.6\u00b5"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 146,
+			"tex": "2D",
+			"content": [
+				"2D"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 147,
+			"tex": "(32x32)",
+			"content": [
+				"(32x32)"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 148,
+			"tex": "Global",
+			"content": [
+				"Global"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 149,
+			"tex": "Token (ISI)",
+			"content": [
+				"Token",
+				"(ISI)"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 6,
+			"end_col": 6
+		}
+	]
+}

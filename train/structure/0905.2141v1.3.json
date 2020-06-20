@@ -1,0 +1,165 @@
+{
+	"cells": [
+		{
+			"id": 7,
+			"tex": "for some $C_1,C_2>0$, eventually $C_1g(t)\\leq f(t)\\leq C_2g(t)$",
+			"content": [
+				"for",
+				"some",
+				"C1,",
+				"C2",
+				">",
+				"0,",
+				"eventually",
+				"C1g(t)",
+				"\u2264",
+				"f",
+				"(t)",
+				"\u2264",
+				"C2g(t)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "notation",
+			"content": [
+				"notation"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "$f(t)=O(g(t))$",
+			"content": [
+				"f",
+				"(t)",
+				"=",
+				"O(g(t))"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "for {\\em any } $C>0$, eventually $f(t)\\leq Cg(t)$",
+			"content": [
+				"for",
+				"any",
+				"C",
+				">",
+				"0,",
+				"eventually",
+				"f",
+				"(t)",
+				"\u2264",
+				"Cg(t)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "definition",
+			"content": [
+				"de\ufb01nition"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "$f(t)=o(g(t))$",
+			"content": [
+				"f",
+				"(t)",
+				"=",
+				"o(g(t))"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "$f(t)=\\omega(g(t))$",
+			"content": [
+				"f",
+				"(t)",
+				"=",
+				"\u03c9(g(t))"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "for some $C>0$, eventually $f(t)\\leq Cg(t)$",
+			"content": [
+				"for",
+				"some",
+				"C",
+				">",
+				"0,",
+				"eventually",
+				"f",
+				"(t)",
+				"\u2264",
+				"Cg(t)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "$f(t)=\\Theta(g(t))$",
+			"content": [
+				"f",
+				"(t)",
+				"=",
+				"\u0398(g(t))"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "for {\\em any } $C>0$, eventually $f(t)\\geq Cg(t)$",
+			"content": [
+				"for",
+				"any",
+				"C",
+				">",
+				"0,",
+				"eventually",
+				"f",
+				"(t)",
+				"\u2265",
+				"Cg(t)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

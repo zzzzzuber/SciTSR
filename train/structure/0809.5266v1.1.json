@@ -1,0 +1,366 @@
+{
+	"cells": [
+		{
+			"id": 4,
+			"tex": "Agent",
+			"content": [
+				"Agent"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "Agent that actively carries out the process",
+			"content": [
+				"Agent",
+				"that",
+				"actively",
+				"carries",
+				"out",
+				"the",
+				"process"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 20,
+			"tex": "A distinguished part of the process",
+			"content": [
+				"A",
+				"distinguished",
+				"part",
+				"of",
+				"the",
+				"process"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 26,
+			"tex": "Processes of type specified by this property are prevented by this process",
+			"content": [
+				"Processes",
+				"of",
+				"type",
+				"speci\ufb01ed",
+				"by",
+				"this",
+				"property",
+				"are",
+				"prevented",
+				"by",
+				"this",
+				"process"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 12,
+			"tex": "target",
+			"content": [
+				"target"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "causes",
+			"content": [
+				"causes"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "Property",
+			"content": [
+				"Property"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "evidence",
+			"content": [
+				"evidence"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 25,
+			"tex": "Process",
+			"content": [
+				"Process"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "resource",
+			"content": [
+				"resource"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "Object",
+			"content": [
+				"Object"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 24,
+			"tex": "prevents",
+			"content": [
+				"prevents"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "Resource is modified and used by the process",
+			"content": [
+				"Resource",
+				"is",
+				"modi\ufb01ed",
+				"and",
+				"used",
+				"by",
+				"the",
+				"process"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 2,
+			"tex": "Semantics",
+			"content": [
+				"Semantics"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 17,
+			"tex": "Predicate is true after the action is performed.",
+			"content": [
+				"Predicate",
+				"is",
+				"true",
+				"after",
+				"the",
+				"action",
+				"is",
+				"performed."
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 19,
+			"tex": "Action",
+			"content": [
+				"Action"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "Process",
+			"content": [
+				"Process"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "Predicate",
+			"content": [
+				"Predicate"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "Instrument is used by the process and is not modified",
+			"content": [
+				"Instrument",
+				"is",
+				"used",
+				"by",
+				"the",
+				"process",
+				"and",
+				"is",
+				"not",
+				"modi\ufb01ed"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 1,
+			"tex": "Range",
+			"content": [
+				"Range"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "This process causes or triggers another process of type specified by this property",
+			"content": [
+				"This",
+				"process",
+				"causes",
+				"or",
+				"triggers",
+				"another",
+				"process",
+				"of",
+				"type",
+				"speci\ufb01ed",
+				"by",
+				"this",
+				"property"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 18,
+			"tex": "subAction",
+			"content": [
+				"subAction"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "instrument",
+			"content": [
+				"instrument"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "Object",
+			"content": [
+				"Object"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "Entity",
+			"content": [
+				"Entity"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "agent",
+			"content": [
+				"agent"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "The entity acted upon or modified by the process",
+			"content": [
+				"The",
+				"entity",
+				"acted",
+				"upon",
+				"or",
+				"modi\ufb01ed",
+				"by",
+				"the",
+				"process"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		}
+	]
+}

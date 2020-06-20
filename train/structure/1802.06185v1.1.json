@@ -1,0 +1,148 @@
+{
+	"cells": [
+		{
+			"id": 11,
+			"tex": "$0.09,0.99,0.001$",
+			"content": [
+				"0.09,",
+				"0.99,",
+				"0.001"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "Embedding Size",
+			"content": [
+				"Embedding",
+				"Size"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "$0.095$",
+			"content": [
+				"0.095"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "128",
+			"content": [
+				"128"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "Dropout Rate",
+			"content": [
+				"Dropout",
+				"Rate"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "$8000$",
+			"content": [
+				"8000"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "$128$",
+			"content": [
+				"128"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "Adam Optimizer ($\\beta_1$,$\\beta_2$,$\\alpha$)",
+			"content": [
+				"Adam",
+				"Optimizer",
+				"(\u03b21,\u03b22,\u03b1)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "Hidden Layer Size",
+			"content": [
+				"Hidden",
+				"Layer",
+				"Size"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "Vocabulary Size",
+			"content": [
+				"Vocabulary",
+				"Size"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "$1 \\times 10^ {-03}$",
+			"content": [
+				"1",
+				"\u00d7",
+				"10\u221203"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "Learning Rate",
+			"content": [
+				"Learning",
+				"Rate"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

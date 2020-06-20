@@ -1,0 +1,628 @@
+{
+	"cells": [
+		{
+			"id": 9,
+			"tex": "\\textit{heavy}",
+			"content": [
+				"heavy"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "\\textit{The man couldn't lift his son because he was so heavy}",
+			"content": [
+				"The",
+				"man",
+				"couldn\u2019t",
+				"lift",
+				"his",
+				"son",
+				"because",
+				"he",
+				"was",
+				"so",
+				"heavy"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "\\textit{not be lifted}",
+			"content": [
+				"not",
+				"be",
+				"lifted"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 6,
+			"tex": "\\textit{not lift}",
+			"content": [
+				"not",
+				"lift"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 5,
+			"tex": "\\textit{weak}",
+			"content": [
+				"weak"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "\\textit{The man couldn't lift his son because he was so weak}",
+			"content": [
+				"The",
+				"man",
+				"couldn\u2019t",
+				"lift",
+				"his",
+				"son",
+				"because",
+				"he",
+				"was",
+				"so",
+				"weak"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 40,
+			"tex": "\\textit{Jackson was greatly influenced by Arnold, though he lived two centuries later}",
+			"content": [
+				"Jackson",
+				"was",
+				"greatly",
+				"in\ufb02uenced",
+				"by",
+				"Arnold,",
+				"though",
+				"he",
+				"lived",
+				"two",
+				"centuries",
+				"later"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "\\textit{tuck into bed}",
+			"content": [
+				"tuck",
+				"into",
+				"bed"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "Verb/Adjective 3",
+			"content": [
+				"Verb/Adjective",
+				"3"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 20,
+			"tex": "\\textit{Mary tucked her daughter Anne into bed, so that she could sleep}",
+			"content": [
+				"Mary",
+				"tucked",
+				"her",
+				"daughter",
+				"Anne",
+				"into",
+				"bed,",
+				"so",
+				"that",
+				"she",
+				"could",
+				"sleep"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 42,
+			"tex": "\\textit{influence}",
+			"content": [
+				"in\ufb02uence"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 19,
+			"tex": "\\textit{be eaten}",
+			"content": [
+				"be",
+				"eaten"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 2,
+			"tex": "Verb/Adjective 2",
+			"content": [
+				"Verb/Adjective",
+				"2"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 18,
+			"tex": "\\textit{eat}",
+			"content": [
+				"eat"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 1,
+			"tex": "Verb/Adjective 1",
+			"content": [
+				"Verb/Adjective",
+				"1"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "\\textit{hungry}",
+			"content": [
+				"hungry"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 41,
+			"tex": "\\textit{live later}",
+			"content": [
+				"live",
+				"later"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "Schema texts",
+			"content": [
+				"Schema",
+				"texts"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "\\textit{The fish ate the worm. it was hungry}",
+			"content": [
+				"The",
+				"\ufb01sh",
+				"ate",
+				"the",
+				"worm.",
+				"it",
+				"was",
+				"hungry"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "\\textit{be eaten}",
+			"content": [
+				"be",
+				"eaten"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 14,
+			"tex": "\\textit{eat}",
+			"content": [
+				"eat"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 13,
+			"tex": "\\textit{tasty}",
+			"content": [
+				"tasty"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "\\textit{The fish ate the worm. it was tasty}",
+			"content": [
+				"The",
+				"\ufb01sh",
+				"ate",
+				"the",
+				"worm.",
+				"it",
+				"was",
+				"tasty"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "\\textit{not be lifted}",
+			"content": [
+				"not",
+				"be",
+				"lifted"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 10,
+			"tex": "\\textit{not lift}",
+			"content": [
+				"not",
+				"lift"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 33,
+			"tex": "\\textit{reach bottom}",
+			"content": [
+				"reach",
+				"bottom"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 32,
+			"tex": "\\textit{Tom threw his schoolbag down to ray after he reached the bottom of the stairs}",
+			"content": [
+				"Tom",
+				"threw",
+				"his",
+				"schoolbag",
+				"down",
+				"to",
+				"ray",
+				"after",
+				"he",
+				"reached",
+				"the",
+				"bottom",
+				"of",
+				"the",
+				"stairs"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 31,
+			"tex": "\\textit{be thrown down}",
+			"content": [
+				"be",
+				"thrown",
+				"down"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 30,
+			"tex": "\\textit{throw down}",
+			"content": [
+				"throw",
+				"down"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 29,
+			"tex": "\\textit{reach top}",
+			"content": [
+				"reach",
+				"top"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 28,
+			"tex": "\\textit{Tom threw his schoolbag down to ray after he reached the top of the stairs}",
+			"content": [
+				"Tom",
+				"threw",
+				"his",
+				"schoolbag",
+				"down",
+				"to",
+				"ray",
+				"after",
+				"he",
+				"reached",
+				"the",
+				"top",
+				"of",
+				"the",
+				"stairs"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "\\textit{work}",
+			"content": [
+				"work"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 43,
+			"tex": "\\textit{be influenced}",
+			"content": [
+				"be",
+				"in\ufb02uenced"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 26,
+			"tex": "\\textit{be tucked into bed}",
+			"content": [
+				"be",
+				"tucked",
+				"into",
+				"bed"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 39,
+			"tex": "\\textit{be influenced}",
+			"content": [
+				"be",
+				"in\ufb02uenced"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 25,
+			"tex": "\\textit{tuck into bed}",
+			"content": [
+				"tuck",
+				"into",
+				"bed"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 24,
+			"tex": "\\textit{Mary tucked her daughter Anne into bed, so that she could work}",
+			"content": [
+				"Mary",
+				"tucked",
+				"her",
+				"daughter",
+				"Anne",
+				"into",
+				"bed,",
+				"so",
+				"that",
+				"she",
+				"could",
+				"work"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "\\textit{sleep}",
+			"content": [
+				"sleep"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 22,
+			"tex": "\\textit{be tucked into bed}",
+			"content": [
+				"be",
+				"tucked",
+				"into",
+				"bed"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 38,
+			"tex": "\\textit{influence}",
+			"content": [
+				"in\ufb02uence"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 37,
+			"tex": "\\textit{live earlier}",
+			"content": [
+				"live",
+				"earlier"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 36,
+			"tex": "\\textit{Jackson was greatly influenced by Arnold, though he lived two centuries earlier}",
+			"content": [
+				"Jackson",
+				"was",
+				"greatly",
+				"in\ufb02uenced",
+				"by",
+				"Arnold,",
+				"though",
+				"he",
+				"lived",
+				"two",
+				"centuries",
+				"earlier"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 35,
+			"tex": "\\textit{be thrown down}",
+			"content": [
+				"be",
+				"thrown",
+				"down"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 34,
+			"tex": "\\textit{throw down}",
+			"content": [
+				"throw",
+				"down"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		}
+	]
+}

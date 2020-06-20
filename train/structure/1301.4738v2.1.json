@@ -1,0 +1,559 @@
+{
+	"cells": [
+		{
+			"id": 15,
+			"tex": "local optimal MWISL for $L_{ij}$",
+			"content": [
+				"local",
+				"optimal",
+				"MWISL",
+				"for",
+				"Lij"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 0,
+			"tex": "$J$",
+			"content": [
+				"J"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "$K$",
+			"content": [
+				"K"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 41,
+			"tex": "the minimum of $I_{max}^l$",
+			"content": [
+				"the",
+				"minimum",
+				"of",
+				"I",
+				"l",
+				"max"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 7,
+			"tex": "side length of super-subSquare",
+			"content": [
+				"side",
+				"length",
+				"of",
+				"super-subSquare"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "$\\mathcal{X}_{ij}(t)$",
+			"content": [
+				"Xij(t)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 1,
+			"tex": "side length of sub-square",
+			"content": [
+				"side",
+				"length",
+				"of",
+				"sub-square"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "$L_{ij}$",
+			"content": [
+				"Lij"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 31,
+			"tex": "affectness $l$ get from link set $S$",
+			"content": [
+				"a\ufb00ectness",
+				"l",
+				"get",
+				"from",
+				"link",
+				"set",
+				"S"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "$Z_i$",
+			"content": [
+				"Zi"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "link set of sub-square$(i,j)$",
+			"content": [
+				"link",
+				"set",
+				"of",
+				"sub-square(i,",
+				"j)"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 5,
+			"tex": "link set of super-subSquare$(i,j)$",
+			"content": [
+				"link",
+				"set",
+				"of",
+				"super-subSquare(i,",
+				"j)"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 40,
+			"tex": "$I_{max}$",
+			"content": [
+				"Imax"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 20,
+			"tex": "$S_{ij}^{\\ast}(t)$",
+			"content": [
+				"S\u2217",
+				"ij(t)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 39,
+			"tex": "the maximum interference $l$ can bear",
+			"content": [
+				"the",
+				"maximum",
+				"interference",
+				"l",
+				"can",
+				"bear"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 21,
+			"tex": "intersection of $L_{ij}$ and $S^{\\ast}(t)$",
+			"content": [
+				"intersection",
+				"of",
+				"Lij",
+				"and",
+				"S\u2217(t)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 38,
+			"tex": "$I_{max}^l$",
+			"content": [
+				"I",
+				"l",
+				"max"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 22,
+			"tex": "$S(t)$",
+			"content": [
+				"S(t)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 35,
+			"tex": "weight of link set S",
+			"content": [
+				"weight",
+				"of",
+				"link",
+				"set",
+				"S"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 23,
+			"tex": "global scheduling at time slot t",
+			"content": [
+				"global",
+				"scheduling",
+				"at",
+				"time",
+				"slot",
+				"t"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 24,
+			"tex": "$d$",
+			"content": [
+				"d"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 28,
+			"tex": "$r_S(l)$",
+			"content": [
+				"rS(l)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 25,
+			"tex": "side length of cell",
+			"content": [
+				"side",
+				"length",
+				"of",
+				"cell"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 32,
+			"tex": "$Q(t)$",
+			"content": [
+				"Q(t)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 26,
+			"tex": "$\\|uv\\|$",
+			"content": [
+				"(cid:107)uv(cid:107)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 13,
+			"tex": "local link set",
+			"content": [
+				"local",
+				"link",
+				"set"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "$OPT_{ij}^*(t)$",
+			"content": [
+				"OP",
+				"T",
+				"\u2217",
+				"ij(t)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 16,
+			"tex": "$S^{\\ast}(t)$",
+			"content": [
+				"S\u2217(t)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 33,
+			"tex": "queue length vector",
+			"content": [
+				"queue",
+				"length",
+				"vector"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 9,
+			"tex": "new scheduling for $L_{ij}$ at $t$",
+			"content": [
+				"new",
+				"scheduling",
+				"for",
+				"Lij",
+				"at",
+				"t"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 34,
+			"tex": "$W(S)$",
+			"content": [
+				"W",
+				"(S)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 10,
+			"tex": "$S_{ij}(t)$",
+			"content": [
+				"Sij(t)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 27,
+			"tex": "link length",
+			"content": [
+				"link",
+				"length"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 11,
+			"tex": "scheduling for $Y_{ij}$ at $t$",
+			"content": [
+				"scheduling",
+				"for",
+				"Yij",
+				"at",
+				"t"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 29,
+			"tex": "relative interference $l$ get from link set $S$",
+			"content": [
+				"relative",
+				"interference",
+				"l",
+				"get",
+				"from",
+				"link",
+				"set",
+				"S"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 37,
+			"tex": "interference link $l$ suffered from link set $S$",
+			"content": [
+				"interference",
+				"link",
+				"l",
+				"su\ufb00ered",
+				"from",
+				"link",
+				"set",
+				"S"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 30,
+			"tex": "$a_S(l)$",
+			"content": [
+				"aS(l)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 36,
+			"tex": "$I_S^l$",
+			"content": [
+				"I",
+				"l",
+				"S"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "global optimal MWISL at $t$",
+			"content": [
+				"global",
+				"optimal",
+				"MWISL",
+				"at",
+				"t"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 19,
+			"tex": "longest link length",
+			"content": [
+				"longest",
+				"link",
+				"length"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "$R$",
+			"content": [
+				"R"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "$Y_{ij}$",
+			"content": [
+				"Yij"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 4,
+			"end_col": 4
+		}
+	]
+}

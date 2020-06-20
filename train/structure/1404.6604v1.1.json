@@ -1,0 +1,190 @@
+{
+	"cells": [
+		{
+			"id": 6,
+			"tex": "{\\verb+ property equal_transitive : all x y z : Self, equal(x,y) -> equal(y,z) -> equal(x,z);}+}",
+			"content": [
+				"property",
+				"equal_transitive",
+				":",
+				"all",
+				"x",
+				"y",
+				"z",
+				":",
+				"Self,",
+				"equal(x,y)",
+				"->",
+				"equal(y,z)",
+				"->",
+				"equal(x,z);}"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "{\\verb+ let different (x, y) = not (equal(x,y));+}",
+			"content": [
+				"let",
+				"different",
+				"(x,",
+				"y)",
+				"=",
+				"not",
+				"(equal(x,y));"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "{\\verb+ signature equal : Self -> Self -> bool;+}",
+			"content": [
+				"signature",
+				"equal",
+				":",
+				"Self",
+				"->",
+				"Self",
+				"->",
+				"bool;"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "{\\verb+ property equal_reflexive : all x : Self, equal(x,x);+}",
+			"content": [
+				"property",
+				"equal_reflexive",
+				":",
+				"all",
+				"x",
+				":",
+				"Self,",
+				"equal(x,x);"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "{\\verb+ property equal_symmetric : all x y : Self, equal(x,y) -> equal(y,x);+}",
+			"content": [
+				"property",
+				"equal_symmetric",
+				":",
+				"all",
+				"x",
+				"y",
+				":",
+				"Self,",
+				"equal(x,y)",
+				"->",
+				"equal(y,x);"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "{\\verb+end;;+}",
+			"content": [
+				"end;;"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "{\\verb+ proof = by definition of different;+}",
+			"content": [
+				"proof",
+				"=",
+				"by",
+				"definition",
+				"of",
+				"different;"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "{\\verb+species Setoid =+}",
+			"content": [
+				"species",
+				"Setoid",
+				"="
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "{\\verb+ inherit Basic_object;+}",
+			"content": [
+				"inherit",
+				"Basic_object;"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "{\\verb+ theorem same_is_not_different : all x y : Self, different(x,y) <-> not (equal(x,y))+}",
+			"content": [
+				"theorem",
+				"same_is_not_different",
+				":",
+				"all",
+				"x",
+				"y",
+				":",
+				"Self,",
+				"different(x,y)",
+				"<->",
+				"not",
+				"(equal(x,y))"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "{\\verb+ signature element : Self;+}",
+			"content": [
+				"signature",
+				"element",
+				":",
+				"Self;"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

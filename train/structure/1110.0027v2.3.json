@@ -1,0 +1,346 @@
+{
+	"cells": [
+		{
+			"id": 18,
+			"tex": "\\hspace{12mm} $b_{new}[i]$=$b_{tmp}[i+1]-b_{tmp}[i]$",
+			"content": [
+				"bnew[i]=btmp[i",
+				"+",
+				"1]",
+				"\u2212",
+				"btmp[i]"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "10",
+			"content": [
+				"10"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "4",
+			"content": [
+				"4"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "\\hspace{12mm} $b_{tmp}[i]$=rand$_{\\textrm{uniform}}$(0,1)",
+			"content": [
+				"btmp[i]=randuniform(0,1)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "12",
+			"content": [
+				"12"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "3",
+			"content": [
+				"3"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 24,
+			"tex": "\\hspace{4mm} End",
+			"content": [
+				"End"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "\\hspace{4mm} Return $B_{new}$",
+			"content": [
+				"Return",
+				"Bnew"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "\\hspace{4mm} $B_{new}$= $B$",
+			"content": [
+				"Bnew=",
+				"B"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "\\hspace{8mm} $S$ := number of states",
+			"content": [
+				"S",
+				":=",
+				"number",
+				"of",
+				"states"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "14",
+			"content": [
+				"14"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 25,
+			"tex": "13",
+			"content": [
+				"13"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "\\hspace{8mm} For $i=1:S-1$",
+			"content": [
+				"For",
+				"i",
+				"=",
+				"1",
+				":",
+				"S",
+				"\u2212",
+				"1"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "11",
+			"content": [
+				"11"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "$B_{new}$=EXPAND$_{\\textrm{RA}}$($B$, $\\Gamma$)",
+			"content": [
+				"Bnew=EXPANDRA(B,",
+				"\u0393)"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "6",
+			"content": [
+				"6"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "\\hspace{8mm} End",
+			"content": [
+				"End"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "\\hspace{8mm} Sort $b_{tmp}$ in ascending order",
+			"content": [
+				"Sort",
+				"btmp",
+				"in",
+				"ascending",
+				"order"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "\\hspace{8mm} $B_{new} = B_{new} \\cup {b_{new}}$",
+			"content": [
+				"Bnew",
+				"=",
+				"Bnew",
+				"\u222a",
+				"bnew"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "\\hspace{8mm} End",
+			"content": [
+				"End"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "2",
+			"content": [
+				"2"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "\\hspace{8mm} For $i=0:S$",
+			"content": [
+				"For",
+				"i",
+				"=",
+				"0",
+				":",
+				"S"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "\\hspace{4mm} Foreach $b \\in B$",
+			"content": [
+				"Foreach",
+				"b",
+				"\u2208",
+				"B"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "1",
+			"content": [
+				"1"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "9",
+			"content": [
+				"9"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "5",
+			"content": [
+				"5"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "7",
+			"content": [
+				"7"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "8",
+			"content": [
+				"8"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

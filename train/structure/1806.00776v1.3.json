@@ -1,0 +1,177 @@
+{
+	"cells": [
+		{
+			"id": 6,
+			"tex": "$t_{dr}$, $t_{dw}$",
+			"content": [
+				"tdr,",
+				"tdw"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "$C_{r}$, $C_{w}$",
+			"content": [
+				"Cr,",
+				"Cw"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "\\textbf{Notations}",
+			"content": [
+				"Notations"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "DRAM read and write latencies",
+			"content": [
+				"DRAM",
+				"read",
+				"and",
+				"write",
+				"latencies"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "cycles spent in writing a dirty DRAM page to NVM",
+			"content": [
+				"cycles",
+				"spent",
+				"in",
+				"writing",
+				"a",
+				"dirty",
+				"DRAM",
+				"page",
+				"to",
+				"NVM"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "NVM read and write latencies",
+			"content": [
+				"NVM",
+				"read",
+				"and",
+				"write",
+				"latencies"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "$T_{mig}$",
+			"content": [
+				"Tmig"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "$T_{writeback}$",
+			"content": [
+				"Twriteback"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "$t_{nr}$, $t_{nw}$",
+			"content": [
+				"tnr,",
+				"tnw"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "\\textbf{ Descriptions}",
+			"content": [
+				"Descriptions"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "cycles spent in migrating a page from NVM to DRAM",
+			"content": [
+				"cycles",
+				"spent",
+				"in",
+				"migrating",
+				"a",
+				"page",
+				"from",
+				"NVM",
+				"to",
+				"DRAM"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "total number of reads and writes on a page in a time interval",
+			"content": [
+				"total",
+				"number",
+				"of",
+				"reads",
+				"and",
+				"writes",
+				"on",
+				"a",
+				"page",
+				"in",
+				"a",
+				"time",
+				"interval"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

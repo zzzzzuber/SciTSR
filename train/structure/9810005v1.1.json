@@ -1,0 +1,347 @@
+{
+	"cells": [
+		{
+			"id": 1,
+			"tex": "The set of agents.",
+			"content": [
+				"The",
+				"set",
+				"of",
+				"agents."
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "$A$",
+			"content": [
+				"A"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "$n_{min}$",
+			"content": [
+				"nmin"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "Symbol for a coalition.",
+			"content": [
+				"Symbol",
+				"for",
+				"a",
+				"coalition."
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 25,
+			"tex": "Worst case bound on value, see Eq.~\\ref{eq:k_def}.",
+			"content": [
+				"Worst",
+				"case",
+				"bound",
+				"on",
+				"value,",
+				"see",
+				"Eq.",
+				"??."
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "The set of all possible coalition structures.",
+			"content": [
+				"The",
+				"set",
+				"of",
+				"all",
+				"possible",
+				"coalition",
+				"structures."
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "$CS$",
+			"content": [
+				"CS"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "$n$",
+			"content": [
+				"n"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "$|M|$, total number of coalition structures.",
+			"content": [
+				"|M|,",
+				"total",
+				"number",
+				"of",
+				"coalition",
+				"structures."
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "Welfare maximizing coalition structure.",
+			"content": [
+				"Welfare",
+				"maximizing",
+				"coalition",
+				"structure."
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "$CS^*$",
+			"content": [
+				"CS\u2217"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "Symbol for a coalition structure.",
+			"content": [
+				"Symbol",
+				"for",
+				"a",
+				"coalition",
+				"structure."
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "Welfare maximizing CS among ones seen.",
+			"content": [
+				"Welfare",
+				"maximizing",
+				"CS",
+				"among",
+				"ones",
+				"seen."
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "The number of agents, i.e. $|A|$.",
+			"content": [
+				"The",
+				"number",
+				"of",
+				"agents,",
+				"i.e.",
+				"|A|."
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "$V(CS)$",
+			"content": [
+				"V",
+				"(CS)"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "$M$",
+			"content": [
+				"M"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "$S$",
+			"content": [
+				"S"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "$m$",
+			"content": [
+				"m"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "$k$",
+			"content": [
+				"k"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "$|N|$.",
+			"content": [
+				"|N|."
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "Value of coalition structure $CS$.",
+			"content": [
+				"Value",
+				"of",
+				"coalition",
+				"structure",
+				"CS."
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "Coalition structures searched so far.",
+			"content": [
+				"Coalition",
+				"structures",
+				"searched",
+				"so",
+				"far."
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "$N$",
+			"content": [
+				"N"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "$a$",
+			"content": [
+				"a"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "Minimum $n$ that guarantees a bound $k$.",
+			"content": [
+				"Minimum",
+				"n",
+				"that",
+				"guarantees",
+				"a",
+				"bound",
+				"k."
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "$CS^*_N$",
+			"content": [
+				"CS\u2217",
+				"N"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

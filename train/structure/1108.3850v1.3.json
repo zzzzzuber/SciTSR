@@ -1,0 +1,588 @@
+{
+	"cells": [
+		{
+			"id": 22,
+			"tex": "Jack has a shaved mustache",
+			"content": [
+				"Jack",
+				"has",
+				"a",
+				"shaved",
+				"mustache"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "$:- tuple(I,dr\\_miros), tuple(J,earrings), I!=J.$",
+			"content": [
+				":",
+				"\u2212tuple(I,",
+				"dr",
+				"miros),",
+				"tuple(J,",
+				"earrings),",
+				"I!",
+				"=",
+				"J."
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "$:- tuple(I, jack), tuple(J, mustache), I!=J.$",
+			"content": [
+				":",
+				"\u2212tuple(I,",
+				"jack),",
+				"tuple(J,",
+				"mustache),",
+				"I!",
+				"=",
+				"J."
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "$:- tuple(I, pete), tuple(J, government), I!=J.$",
+			"content": [
+				":",
+				"\u2212tuple(I,",
+				"pete),",
+				"tuple(J,",
+				"government),",
+				"I!",
+				"=",
+				"J."
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "$:- tuple(I,flo\\_wingbrook), tuple(I,red).$",
+			"content": [
+				":",
+				"\u2212tuple(I,",
+				"f",
+				"lo",
+				"wingbrook),",
+				"tuple(I,",
+				"red)."
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "$:- tuple(I,hy\\_syles), tuple(J,brown), I!=J.$",
+			"content": [
+				":",
+				"\u2212tuple(I,",
+				"hy",
+				"syles),",
+				"tuple(J,",
+				"brown),",
+				"I!",
+				"=",
+				"J."
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "Dr. Miros altered the earrings.",
+			"content": [
+				"Dr.",
+				"Miros",
+				"altered",
+				"the",
+				"earrings."
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "The first open house was not listed for 100000.",
+			"content": [
+				"The",
+				"\ufb01rst",
+				"open",
+				"house",
+				"was",
+				"not",
+				"listed",
+				"for",
+				"100000."
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "$:- tuple(I, X),first(X), tuple(I, 100000).$",
+			"content": [
+				":",
+				"\u2212tuple(I,",
+				"X),",
+				"f",
+				"irst(X),",
+				"tuple(I,",
+				"100000)."
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 28,
+			"tex": "The candidate surnamed Waring is more popular than the PanGlobal",
+			"content": [
+				"The",
+				"candidate",
+				"surnamed",
+				"Waring",
+				"is",
+				"more",
+				"popular",
+				"than",
+				"the",
+				"PanGlobal"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "Hy Syles has a brown fleece.",
+			"content": [
+				"Hy",
+				"Syles",
+				"has",
+				"a",
+				"brown",
+				"\ufb02eece."
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 29,
+			"tex": "$:- tuple(I, waring), tuple(J, panglobal), tuple(I, X), tuple(J, Y),$",
+			"content": [
+				":",
+				"\u2212tuple(I,",
+				"waring),",
+				"tuple(J,",
+				"panglobal),",
+				"tuple(I,",
+				"X),",
+				"tuple(J,",
+				"Y",
+				"),"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 30,
+			"tex": "",
+			"content": [],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "A garnet was set in Dr. Lukta's piece.",
+			"content": [
+				"A",
+				"garnet",
+				"was",
+				"set",
+				"in",
+				"Dr.",
+				"Lukta\u2019s",
+				"piece."
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 31,
+			"tex": "$etype(A, time), element(A, X), element(A, Y), X < Y.$",
+			"content": [
+				"etype(A,",
+				"time),",
+				"element(A,",
+				"X),",
+				"element(A,",
+				"Y",
+				"),",
+				"X",
+				"<",
+				"Y."
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 32,
+			"tex": "Rosalyn is not the least popular.",
+			"content": [
+				"Rosalyn",
+				"is",
+				"not",
+				"the",
+				"least",
+				"popular."
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 33,
+			"tex": "$:- tuple(I, rosalyn), tuple(I, X), lowest(X).$",
+			"content": [
+				":",
+				"\u2212tuple(I,",
+				"rosalyn),",
+				"tuple(I,",
+				"X),",
+				"lowest(X)."
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 25,
+			"tex": "$:- tuple(I, jack), tuple(I, 1).$",
+			"content": [
+				":",
+				"\u2212tuple(I,",
+				"jack),",
+				"tuple(I,",
+				"1)."
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "",
+			"content": [],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "$etype(A,rank), element(A,X), element(A,Y), X > Y, I!=J.$",
+			"content": [
+				"etype(A,",
+				"rank),",
+				"element(A,",
+				"X),",
+				"element(A,",
+				"Y",
+				"),",
+				"X",
+				">",
+				"Y,",
+				"I!",
+				"=",
+				"J."
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 24,
+			"tex": "Jack did not get a haircut at 1",
+			"content": [
+				"Jack",
+				"did",
+				"not",
+				"get",
+				"a",
+				"haircut",
+				"at",
+				"1"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "$:- tuple(I, hanson), tuple(J,3989), tuple(I,X), tuple(J,Y),$",
+			"content": [
+				":",
+				"\u2212tuple(I,",
+				"hanson),",
+				"tuple(J,",
+				"3989),",
+				"tuple(I,",
+				"X),",
+				"tuple(J,",
+				"Y",
+				"),"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "Miss Hanson is withdrawing more than the customer whose number is 3989.",
+			"content": [
+				"Miss",
+				"Hanson",
+				"is",
+				"withdrawing",
+				"more",
+				"than",
+				"the",
+				"customer",
+				"whose",
+				"number",
+				"is",
+				"3989."
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "Michelle is not the one liked by 22",
+			"content": [
+				"Michelle",
+				"is",
+				"not",
+				"the",
+				"one",
+				"liked",
+				"by",
+				"22"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "$:- tuple(I, michelle), tuple(I, 22).$",
+			"content": [
+				":",
+				"\u2212tuple(I,",
+				"michelle),",
+				"tuple(I,",
+				"22)."
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "$:- tuple(I,donna\\_dale), tuple(I,green).$",
+			"content": [
+				":",
+				"\u2212tuple(I,",
+				"donna",
+				"dale),",
+				"tuple(I,",
+				"green)."
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "Donna dale does not have green fleece.",
+			"content": [
+				"Donna",
+				"dale",
+				"does",
+				"not",
+				"have",
+				"green",
+				"\ufb02eece."
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "$:- tuple(I, albert), tuple(J, X), highest(X), I!=J.$",
+			"content": [
+				":",
+				"\u2212tuple(I,",
+				"albert),",
+				"tuple(J,",
+				"X),",
+				"highest(X),",
+				"I!",
+				"=",
+				"J."
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "Pete talked about government.",
+			"content": [
+				"Pete",
+				"talked",
+				"about",
+				"government."
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "$:- tuple(I,garnet), tuple(J,dr\\_lukta))), I!=J.$",
+			"content": [
+				":",
+				"\u2212tuple(I,",
+				"garnet),",
+				"tuple(J,",
+				"dr",
+				"lukta))),",
+				"I!",
+				"=",
+				"J."
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "$:- tuple(I,eggs), tuple(J,barbie\\_wyre), I!=J.$",
+			"content": [
+				":",
+				"\u2212tuple(I,",
+				"eggs),",
+				"tuple(J,",
+				"barbie",
+				"wyre),",
+				"I!",
+				"=",
+				"J."
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "Flo Wingbrook's fleece is not red.",
+			"content": [
+				"Flo",
+				"Wingbrook\u2019s",
+				"\ufb02eece",
+				"is",
+				"not",
+				"red."
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "Barbie Wyre is dining on hard-boiled eggs.",
+			"content": [
+				"Barbie",
+				"Wyre",
+				"is",
+				"dining",
+				"on",
+				"hard-boiled",
+				"eggs."
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "Albert is the most popular.",
+			"content": [
+				"Albert",
+				"is",
+				"the",
+				"most",
+				"popular."
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

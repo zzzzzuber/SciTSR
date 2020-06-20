@@ -1,0 +1,410 @@
+{
+	"cells": [
+		{
+			"id": 21,
+			"tex": "the modulairy change caused by joining communities $c_i$ and $c_j$",
+			"content": [
+				"the",
+				"modulairy",
+				"change",
+				"caused",
+				"by",
+				"joining",
+				"communities",
+				"ci",
+				"and",
+				"cj"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "the sum of the degrees of nodes in community $c$",
+			"content": [
+				"the",
+				"sum",
+				"of",
+				"the",
+				"degrees",
+				"of",
+				"nodes",
+				"in",
+				"community",
+				"c"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "the weight of edge $e$",
+			"content": [
+				"the",
+				"weight",
+				"of",
+				"edge",
+				"e"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "$W^{out}_c$",
+			"content": [
+				"W",
+				"out",
+				"c"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "$W^{in}_c$",
+			"content": [
+				"W",
+				"in",
+				"c"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "a partition of the graph, formed by a set of disjoint communities",
+			"content": [
+				"a",
+				"partition",
+				"of",
+				"the",
+				"graph,",
+				"formed",
+				"by",
+				"a",
+				"set",
+				"of",
+				"disjoint",
+				"communities"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 24,
+			"tex": "$x_{e}$",
+			"content": [
+				"xe"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "the loss function",
+			"content": [
+				"the",
+				"loss",
+				"function"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 25,
+			"tex": "the topological feature vector of edge $e$",
+			"content": [
+				"the",
+				"topological",
+				"feature",
+				"vector",
+				"of",
+				"edge",
+				"e"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "the sum of all edge weights",
+			"content": [
+				"the",
+				"sum",
+				"of",
+				"all",
+				"edge",
+				"weights"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "the set of nodes",
+			"content": [
+				"the",
+				"set",
+				"of",
+				"nodes"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "Meaning",
+			"content": [
+				"Meaning"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "$W_c$",
+			"content": [
+				"Wc"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "$W$",
+			"content": [
+				"W"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "$h()$",
+			"content": [
+				"h()"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "$W_{c_i, c_j}$",
+			"content": [
+				"Wci,cj"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "$w_e$",
+			"content": [
+				"we"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "$C$",
+			"content": [
+				"C"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "$\\Delta Q_{c_i,c_j}$",
+			"content": [
+				"\u2206Qci,cj"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "the sum of weights of edges inside community $c$",
+			"content": [
+				"the",
+				"sum",
+				"of",
+				"weights",
+				"of",
+				"edges",
+				"inside",
+				"community",
+				"c"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "the sum of weights of edges with one endpoint in community $c$",
+			"content": [
+				"the",
+				"sum",
+				"of",
+				"weights",
+				"of",
+				"edges",
+				"with",
+				"one",
+				"endpoint",
+				"in",
+				"community",
+				"c"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "$V$",
+			"content": [
+				"V"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "the set of edges",
+			"content": [
+				"the",
+				"set",
+				"of",
+				"edges"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "$d_c$",
+			"content": [
+				"dc"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "$E$",
+			"content": [
+				"E"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "the weight of community c, equal to $2W^{in}_c+W^{out}_c$",
+			"content": [
+				"the",
+				"weight",
+				"of",
+				"community",
+				"c,",
+				"equal",
+				"to",
+				"2W",
+				"in",
+				"c",
+				"+",
+				"W",
+				"out",
+				"c"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "the sum of weights of edges connecting communities $c_i$ and $c_j$",
+			"content": [
+				"the",
+				"sum",
+				"of",
+				"weights",
+				"of",
+				"edges",
+				"connecting",
+				"communities",
+				"ci",
+				"and",
+				"cj"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "Symbol",
+			"content": [
+				"Symbol"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

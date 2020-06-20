@@ -1,0 +1,788 @@
+{
+	"cells": [
+		{
+			"id": 31,
+			"tex": "``* $X$ and $Y$ *''",
+			"content": [
+				"\u201c*",
+				"X",
+				"and",
+				"Y",
+				"*\u201d"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 49,
+			"tex": "``understand $X$ * $Y$ *''",
+			"content": [
+				"\u201cunderstand",
+				"X",
+				"*",
+				"Y",
+				"*\u201d"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 42,
+			"tex": "29,017",
+			"content": [
+				"29,017"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "Feature number",
+			"content": [
+				"Feature",
+				"number"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 48,
+			"tex": "34,893",
+			"content": [
+				"34,893"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 54,
+			"tex": "39,410",
+			"content": [
+				"39,410"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 30,
+			"tex": "13",
+			"content": [
+				"13"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 41,
+			"tex": "0.045",
+			"content": [
+				"0.045"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 53,
+			"tex": "0.045",
+			"content": [
+				"0.045"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 1,
+			"tex": "Feature (pattern)",
+			"content": [
+				"Feature",
+				"(pattern)"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 52,
+			"tex": "``* $X$ be not * $Y$ but''",
+			"content": [
+				"\u201c*",
+				"X",
+				"be",
+				"not",
+				"*",
+				"Y",
+				"but\u201d"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 43,
+			"tex": "``very $X$ and $Y$ *''",
+			"content": [
+				"\u201cvery",
+				"X",
+				"and",
+				"Y",
+				"*\u201d"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 29,
+			"tex": "0.116",
+			"content": [
+				"0.116"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 34,
+			"tex": "``define $X$ * $Y$ *''",
+			"content": [
+				"\u201cde\ufb01ne",
+				"X",
+				"*",
+				"Y",
+				"*\u201d"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 51,
+			"tex": "35,027",
+			"content": [
+				"35,027"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 50,
+			"tex": "0.071",
+			"content": [
+				"0.071"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 37,
+			"tex": "``what $Y$ and $X$ *''",
+			"content": [
+				"\u201cwhat",
+				"Y",
+				"and",
+				"X",
+				"*\u201d"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 57,
+			"tex": "41,303",
+			"content": [
+				"41,303"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "Value (normalized log)",
+			"content": [
+				"Value",
+				"(normalized",
+				"log)"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 56,
+			"tex": "0.045",
+			"content": [
+				"0.045"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 7,
+			"tex": "``* $Y$ * * $X$ *''",
+			"content": [
+				"\u201c*",
+				"Y",
+				"*",
+				"*",
+				"X",
+				"*\u201d"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "8",
+			"content": [
+				"8"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 55,
+			"tex": "``* $Y$ and $X$ cause''",
+			"content": [
+				"\u201c*",
+				"Y",
+				"and",
+				"X",
+				"cause\u201d"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "``* $Y$ $X$ *''",
+			"content": [
+				"\u201c*",
+				"Y",
+				"X",
+				"*\u201d"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "``* $X$ $Y$ *''",
+			"content": [
+				"\u201c*",
+				"X",
+				"Y",
+				"*\u201d"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 40,
+			"tex": "``for $Y$ and * $X$ and''",
+			"content": [
+				"\u201cfor",
+				"Y",
+				"and",
+				"*",
+				"X",
+				"and\u201d"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 24,
+			"tex": "10",
+			"content": [
+				"10"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 25,
+			"tex": "``* $Y$ * the $X$ *''",
+			"content": [
+				"\u201c*",
+				"Y",
+				"*",
+				"the",
+				"X",
+				"*\u201d"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 47,
+			"tex": "0.045",
+			"content": [
+				"0.045"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 36,
+			"tex": "28,524",
+			"content": [
+				"28,524"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 46,
+			"tex": "``s $Y$ and $X$ and''",
+			"content": [
+				"\u201cs",
+				"Y",
+				"and",
+				"X",
+				"and\u201d"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 38,
+			"tex": "0.045",
+			"content": [
+				"0.045"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 45,
+			"tex": "32,028",
+			"content": [
+				"32,028"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 33,
+			"tex": "27,591",
+			"content": [
+				"27,591"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "``* $X$ * $Y$ *''",
+			"content": [
+				"\u201c*",
+				"X",
+				"*",
+				"Y",
+				"*\u201d"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "0.167",
+			"content": [
+				"0.167"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 62,
+			"tex": "0.105",
+			"content": [
+				"0.105"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 35,
+			"tex": "0.045",
+			"content": [
+				"0.045"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 9,
+			"tex": "3",
+			"content": [
+				"3"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 61,
+			"tex": "``be $X$ not $Y$ *''",
+			"content": [
+				"\u201cbe",
+				"X",
+				"not",
+				"Y",
+				"*\u201d"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "7",
+			"content": [
+				"7"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "0.233",
+			"content": [
+				"0.233"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 60,
+			"tex": "43,511",
+			"content": [
+				"43,511"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "2",
+			"content": [
+				"2"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 44,
+			"tex": "0.045",
+			"content": [
+				"0.045"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 13,
+			"tex": "``* $Y$ * $X$ *''",
+			"content": [
+				"\u201c*",
+				"Y",
+				"*",
+				"X",
+				"*\u201d"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 59,
+			"tex": "0.105",
+			"content": [
+				"0.105"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 27,
+			"tex": "12",
+			"content": [
+				"12"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 58,
+			"tex": "``* $X$ but $Y$ and''",
+			"content": [
+				"\u201c*",
+				"X",
+				"but",
+				"Y",
+				"and\u201d"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "``* $X$ * * $Y$ *''",
+			"content": [
+				"\u201c*",
+				"X",
+				"*",
+				"*",
+				"Y",
+				"*\u201d"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 39,
+			"tex": "28,804",
+			"content": [
+				"28,804"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "0.198",
+			"content": [
+				"0.198"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 5,
+			"tex": "0.090",
+			"content": [
+				"0.090"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 16,
+			"tex": "``* $X$ * * * $Y$ *''",
+			"content": [
+				"\u201c*",
+				"X",
+				"*",
+				"*",
+				"*",
+				"Y",
+				"*\u201d"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 32,
+			"tex": "0.135",
+			"content": [
+				"0.135"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 14,
+			"tex": "0.221",
+			"content": [
+				"0.221"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 26,
+			"tex": "0.071",
+			"content": [
+				"0.071"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 12,
+			"tex": "4",
+			"content": [
+				"4"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 28,
+			"tex": "``* $Y$ and * $X$ *''",
+			"content": [
+				"\u201c*",
+				"Y",
+				"and",
+				"*",
+				"X",
+				"*\u201d"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "1",
+			"content": [
+				"1"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "0.045",
+			"content": [
+				"0.045"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 8,
+			"tex": "0.150",
+			"content": [
+				"0.150"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 15,
+			"tex": "5",
+			"content": [
+				"5"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

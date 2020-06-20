@@ -1,0 +1,688 @@
+{
+	"cells": [
+		{
+			"id": 1,
+			"tex": "\\textbf{Feature}",
+			"content": [
+				"Feature"
+			],
+			"start_row": 0,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 26,
+			"tex": "\\textbf{0.19704}",
+			"content": [
+				"0.19704"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 2,
+			"tex": "\\textbf{Information Gain}",
+			"content": [
+				"Information",
+				"Gain"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 3
+		},
+		{
+			"id": 51,
+			"tex": "0.00821",
+			"content": [
+				"0.00821"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 18,
+			"tex": "\\# of tweets",
+			"content": [
+				"#",
+				"of",
+				"tweets"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "\\textbf{Identifiable}",
+			"content": [
+				"Identi\ufb01able"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 5,
+			"tex": "Numeric",
+			"content": [
+				"Numeric"
+			],
+			"start_row": 2,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "0.02168",
+			"content": [
+				"0.02168"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 42,
+			"tex": "Boolean",
+			"content": [
+				"Boolean"
+			],
+			"start_row": 14,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "\\textbf{Type}",
+			"content": [
+				"Type"
+			],
+			"start_row": 0,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "0.04283",
+			"content": [
+				"0.04283"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 48,
+			"tex": "0.00105",
+			"content": [
+				"0.00105"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 24,
+			"tex": "number of parts/words in the name string",
+			"content": [
+				"number",
+				"of",
+				"parts/words",
+				"in",
+				"the",
+				"name",
+				"string"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 40,
+			"tex": "0.033384",
+			"content": [
+				"0.033384"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 49,
+			"tex": "includes a url in the profile",
+			"content": [
+				"includes",
+				"a",
+				"url",
+				"in",
+				"the",
+				"pro\ufb01le"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 41,
+			"tex": "0.07316",
+			"content": [
+				"0.07316"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 38,
+			"tex": "0.06794",
+			"content": [
+				"0.06794"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 43,
+			"tex": "enabled \\textit{protected} privacy feature",
+			"content": [
+				"enabled",
+				"protected",
+				"privacy",
+				"feature"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "0.005205",
+			"content": [
+				"0.005205"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 32,
+			"tex": "\\textbf{0.2413}",
+			"content": [
+				"0.2413"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 45,
+			"tex": "0.00129",
+			"content": [
+				"0.00129"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 13,
+			"tex": "0.000822",
+			"content": [
+				"0.000822"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 52,
+			"tex": "name follows structural constraints",
+			"content": [
+				"name",
+				"follows",
+				"structural",
+				"constraints"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "\\# of followers",
+			"content": [
+				"#",
+				"of",
+				"followers"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "\\# of favorite tweets",
+			"content": [
+				"#",
+				"of",
+				"favorite",
+				"tweets"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 54,
+			"tex": "0.185",
+			"content": [
+				"0.185"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 44,
+			"tex": "0.00023",
+			"content": [
+				"0.00023"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 36,
+			"tex": "word frequency rank of occurring first name in the Scrabble list",
+			"content": [
+				"word",
+				"frequency",
+				"rank",
+				"of",
+				"occurring",
+				"\ufb01rst",
+				"name",
+				"in",
+				"the",
+				"Scrabble",
+				"list"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "0.009373",
+			"content": [
+				"0.009373"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 30,
+			"tex": "popularity rank of occurring last name in the name list",
+			"content": [
+				"popularity",
+				"rank",
+				"of",
+				"occurring",
+				"last",
+				"name",
+				"in",
+				"the",
+				"name",
+				"list"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 50,
+			"tex": "\\textbf{0.091024}",
+			"content": [
+				"0.091024"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 7,
+			"tex": "0.015026",
+			"content": [
+				"0.015026"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 27,
+			"tex": "popularity rank of occurring first name in the name list",
+			"content": [
+				"popularity",
+				"rank",
+				"of",
+				"occurring",
+				"\ufb01rst",
+				"name",
+				"in",
+				"the",
+				"name",
+				"list"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 34,
+			"tex": "0.023888",
+			"content": [
+				"0.023888"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 11,
+			"tex": "0.04705",
+			"content": [
+				"0.04705"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 47,
+			"tex": "0.002429",
+			"content": [
+				"0.002429"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 28,
+			"tex": "\\textbf{0.156569}",
+			"content": [
+				"0.156569"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 20,
+			"tex": "0.02584",
+			"content": [
+				"0.02584"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 53,
+			"tex": "0.044985",
+			"content": [
+				"0.044985"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 12,
+			"tex": "followers-to-friends ratio",
+			"content": [
+				"followers-to-friends",
+				"ratio"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 39,
+			"tex": "word frequency rank of occurring last name in Scrabble list",
+			"content": [
+				"word",
+				"frequency",
+				"rank",
+				"of",
+				"occurring",
+				"last",
+				"name",
+				"in",
+				"Scrabble",
+				"list"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 29,
+			"tex": "\\textbf{0.23648}",
+			"content": [
+				"0.23648"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 31,
+			"tex": "\\textbf{0.062874}",
+			"content": [
+				"0.062874"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 23,
+			"tex": "0.0166",
+			"content": [
+				"0.0166"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 46,
+			"tex": "enabled geo-tagging for tweets",
+			"content": [
+				"enabled",
+				"geo-tagging",
+				"for",
+				"tweets"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "\\# of friends",
+			"content": [
+				"#",
+				"of",
+				"friends"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "0.016624",
+			"content": [
+				"0.016624"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 15,
+			"tex": "\\# of user list memberships",
+			"content": [
+				"#",
+				"of",
+				"user",
+				"list",
+				"memberships"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 37,
+			"tex": "0.040174",
+			"content": [
+				"0.040174"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 33,
+			"tex": "\\# of Scrabble words present in the name",
+			"content": [
+				"#",
+				"of",
+				"Scrabble",
+				"words",
+				"present",
+				"in",
+				"the",
+				"name"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "0.00468",
+			"content": [
+				"0.00468"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 3,
+			"tex": "\\textbf{Anonymous}",
+			"content": [
+				"Anonymous"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 16,
+			"tex": "0.002298",
+			"content": [
+				"0.002298"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 25,
+			"tex": "0.033509",
+			"content": [
+				"0.033509"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 35,
+			"tex": "0.06242",
+			"content": [
+				"0.06242"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 3,
+			"end_col": 3
+		}
+	]
+}

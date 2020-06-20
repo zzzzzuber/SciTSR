@@ -1,0 +1,269 @@
+{
+	"cells": [
+		{
+			"id": 4,
+			"tex": "$M$",
+			"content": [
+				"M"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "current availabe resource $C=\\{c_{1},c_{2},...,c_{M} \\}$",
+			"content": [
+				"current",
+				"availabe",
+				"resource",
+				"C",
+				"=",
+				"{c1,",
+				"c2,",
+				"...,",
+				"cM}"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "priority level",
+			"content": [
+				"priority",
+				"level"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "$\\beta$",
+			"content": [
+				"\u03b2"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "total resources $W=\\{w_{1},w_{2},...,w_{M} \\}$",
+			"content": [
+				"total",
+				"resources",
+				"W",
+				"=",
+				"{w1,",
+				"w2,",
+				"...,",
+				"wM}"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "$N$",
+			"content": [
+				"N"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "$K$",
+			"content": [
+				"K"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "requested resource $R=\\{r_{i\\_1},r_{i\\_2},...,r_{i\\_M} \\}$",
+			"content": [
+				"requested",
+				"resource",
+				"R",
+				"=",
+				"{ri",
+				"1,",
+				"ri",
+				"2,",
+				"...,",
+				"ri",
+				"M}"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "amount of accepted requested at timeslot",
+			"content": [
+				"amount",
+				"of",
+				"accepted",
+				"requested",
+				"at",
+				"timeslot"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "constant basic price value",
+			"content": [
+				"constant",
+				"basic",
+				"price",
+				"value"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "\\textbf{Definition}",
+			"content": [
+				"De\ufb01nition"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "\\textbf{Symbol}",
+			"content": [
+				"Symbol"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "$C$",
+			"content": [
+				"C"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "$R$",
+			"content": [
+				"R"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "$L$",
+			"content": [
+				"L"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "influence factor of priority",
+			"content": [
+				"in\ufb02uence",
+				"factor",
+				"of",
+				"priority"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "$\\alpha$",
+			"content": [
+				"\u03b1"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "number of resource types",
+			"content": [
+				"number",
+				"of",
+				"resource",
+				"types"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "$W$",
+			"content": [
+				"W"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "amount of requests at timeslot $t$",
+			"content": [
+				"amount",
+				"of",
+				"requests",
+				"at",
+				"timeslot",
+				"t"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

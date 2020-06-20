@@ -1,0 +1,656 @@
+{
+	"cells": [
+		{
+			"id": 11,
+			"tex": "Is the sender a verified account?",
+			"content": [
+				"Is",
+				"the",
+				"sender",
+				"a",
+				"veri\ufb01ed",
+				"account?"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 43,
+			"tex": "Delta of FT32 from the previous 7 days.",
+			"content": [
+				"Delta",
+				"of",
+				"FT32",
+				"from",
+				"the",
+				"previous",
+				"7",
+				"days."
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 34,
+			"tex": "FT30",
+			"content": [
+				"FT30"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 31,
+			"tex": "Number of curated lists the recipient subscribes to.",
+			"content": [
+				"Number",
+				"of",
+				"curated",
+				"lists",
+				"the",
+				"recipient",
+				"subscribes",
+				"to."
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "FT20",
+			"content": [
+				"FT20"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 28,
+			"tex": "FT27",
+			"content": [
+				"FT27"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 38,
+			"tex": "FT32",
+			"content": [
+				"FT32"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "Number of users the recipient follows.",
+			"content": [
+				"Number",
+				"of",
+				"users",
+				"the",
+				"recipient",
+				"follows."
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "FT19",
+			"content": [
+				"FT19"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "Number of users that follow the sender.",
+			"content": [
+				"Number",
+				"of",
+				"users",
+				"that",
+				"follow",
+				"the",
+				"sender."
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 24,
+			"tex": "FT25",
+			"content": [
+				"FT25"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "The Klout score (influence) of the sender.",
+			"content": [
+				"The",
+				"Klout",
+				"score",
+				"(in\ufb02uence)",
+				"of",
+				"the",
+				"sender."
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "FT16",
+			"content": [
+				"FT16"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "Number of tweets the sender has posted (authored or retweeted).",
+			"content": [
+				"Number",
+				"of",
+				"tweets",
+				"the",
+				"sender",
+				"has",
+				"posted",
+				"(authored",
+				"or",
+				"retweeted)."
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "Delta of FT21 from the previous 7 days.",
+			"content": [
+				"Delta",
+				"of",
+				"FT21",
+				"from",
+				"the",
+				"previous",
+				"7",
+				"days."
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 40,
+			"tex": "FT33",
+			"content": [
+				"FT33"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 30,
+			"tex": "FT28",
+			"content": [
+				"FT28"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "Delta of FT21 from the previous 24 hours.",
+			"content": [
+				"Delta",
+				"of",
+				"FT21",
+				"from",
+				"the",
+				"previous",
+				"24",
+				"hours."
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "FT23",
+			"content": [
+				"FT23"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 45,
+			"tex": "Delta of FT32 from the previous 30 days.",
+			"content": [
+				"Delta",
+				"of",
+				"FT32",
+				"from",
+				"the",
+				"previous",
+				"30",
+				"days."
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "FT17",
+			"content": [
+				"FT17"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "FT22",
+			"content": [
+				"FT22"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "FT14",
+			"content": [
+				"FT14"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 35,
+			"tex": "Days the recipient's account has been active for.",
+			"content": [
+				"Days",
+				"the",
+				"recipient\u2019s",
+				"account",
+				"has",
+				"been",
+				"active",
+				"for."
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 42,
+			"tex": "FT34",
+			"content": [
+				"FT34"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "Days the sender's account has been active for.",
+			"content": [
+				"Days",
+				"the",
+				"sender\u2019s",
+				"account",
+				"has",
+				"been",
+				"active",
+				"for."
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "Feature Description",
+			"content": [
+				"Feature",
+				"Description"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 33,
+			"tex": "Is the recipient a verified account?",
+			"content": [
+				"Is",
+				"the",
+				"recipient",
+				"a",
+				"veri\ufb01ed",
+				"account?"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "FT15",
+			"content": [
+				"FT15"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 37,
+			"tex": "Does the recipient have a URL in their description?",
+			"content": [
+				"Does",
+				"the",
+				"recipient",
+				"have",
+				"a",
+				"URL",
+				"in",
+				"their",
+				"description?"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "FT18",
+			"content": [
+				"FT18"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "Feature ID",
+			"content": [
+				"Feature",
+				"ID"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 41,
+			"tex": "Delta of FT32 from the previous 24 hours.",
+			"content": [
+				"Delta",
+				"of",
+				"FT32",
+				"from",
+				"the",
+				"previous",
+				"24",
+				"hours."
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "Number of curated lists the sender subscribes to.",
+			"content": [
+				"Number",
+				"of",
+				"curated",
+				"lists",
+				"the",
+				"sender",
+				"subscribes",
+				"to."
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 29,
+			"tex": "Number of tweets the recipient has posted.",
+			"content": [
+				"Number",
+				"of",
+				"tweets",
+				"the",
+				"recipient",
+				"has",
+				"posted."
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 32,
+			"tex": "FT29",
+			"content": [
+				"FT29"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 25,
+			"tex": "Number of users that follow the recipient.",
+			"content": [
+				"Number",
+				"of",
+				"users",
+				"that",
+				"follow",
+				"the",
+				"recipient."
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "Does the sender have a URL in their description?",
+			"content": [
+				"Does",
+				"the",
+				"sender",
+				"have",
+				"a",
+				"URL",
+				"in",
+				"their",
+				"description?"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 36,
+			"tex": "FT31",
+			"content": [
+				"FT31"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 44,
+			"tex": "FT35",
+			"content": [
+				"FT35"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "Number of users the sender follows.",
+			"content": [
+				"Number",
+				"of",
+				"users",
+				"the",
+				"sender",
+				"follows."
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "FT24",
+			"content": [
+				"FT24"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "Delta of FT21 from the previous 30 days.",
+			"content": [
+				"Delta",
+				"of",
+				"FT21",
+				"from",
+				"the",
+				"previous",
+				"30",
+				"days."
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 39,
+			"tex": "The Klout score of the recipient.",
+			"content": [
+				"The",
+				"Klout",
+				"score",
+				"of",
+				"the",
+				"recipient."
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 26,
+			"tex": "FT26",
+			"content": [
+				"FT26"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "FT21",
+			"content": [
+				"FT21"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

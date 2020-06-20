@@ -1,0 +1,221 @@
+{
+	"cells": [
+		{
+			"id": 4,
+			"tex": "$(1, 1, z+c_0) \\to (\\frac{h}{32}, \\frac{w}{32}, 2048)$",
+			"content": [
+				"(1,",
+				"1,",
+				"z",
+				"+",
+				"c0)",
+				"\u2192",
+				"(",
+				"h",
+				"32",
+				",",
+				"w",
+				"32",
+				",",
+				"2048)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "Up-sampling",
+			"content": [
+				"Up-sampling"
+			],
+			"start_row": 1,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "$(\\frac{h}{8}, \\frac{w}{8}, 512) \\to (\\frac{h}{4}, \\frac{w}{4}, 256)$",
+			"content": [
+				"(",
+				"h",
+				"8",
+				",",
+				"w",
+				"8",
+				",",
+				"512)",
+				"\u2192",
+				"(",
+				"h",
+				"4",
+				",",
+				"w",
+				"4",
+				",",
+				"256)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "DECONV-(N2048, K4, S1, P0), IN, ReLU",
+			"content": [
+				"DECONV-(N2048,",
+				"K4,",
+				"S1,",
+				"P0),",
+				"IN,",
+				"ReLU"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 9,
+			"tex": "DECONV-(N512, K4, S2, P1), IN, ReLU",
+			"content": [
+				"DECONV-(N512,",
+				"K4,",
+				"S2,",
+				"P1),",
+				"IN,",
+				"ReLU"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 11,
+			"tex": "DECONV-(N256, K4, S2, P1), IN, ReLU",
+			"content": [
+				"DECONV-(N256,",
+				"K4,",
+				"S2,",
+				"P1),",
+				"IN,",
+				"ReLU"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 8,
+			"tex": "$(\\frac{h}{16}, \\frac{w}{16}, 1024) \\to (\\frac{h}{8}, \\frac{w}{8}, 512)$",
+			"content": [
+				"(",
+				"h",
+				"16",
+				",",
+				"w",
+				"16",
+				",",
+				"1024)",
+				"\u2192",
+				"(",
+				"h",
+				"8",
+				",",
+				"w",
+				"8",
+				",",
+				"512)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "DECONV-(N1024, K4, S2, P1), IN, ReLU",
+			"content": [
+				"DECONV-(N1024,",
+				"K4,",
+				"S2,",
+				"P1),",
+				"IN,",
+				"ReLU"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 6,
+			"tex": "$(\\frac{h}{32}, \\frac{w}{32}, 2048) \\to (\\frac{h}{16}, \\frac{w}{16}, 1024)$",
+			"content": [
+				"(",
+				"h",
+				"32",
+				",",
+				"w",
+				"32",
+				",",
+				"2048)",
+				"\u2192",
+				"(",
+				"h",
+				"16",
+				",",
+				"w",
+				"16",
+				",",
+				"1024)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "Input $\\to$ Output Shape",
+			"content": [
+				"Input",
+				"\u2192",
+				"Output",
+				"Shape"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "Part",
+			"content": [
+				"Part"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "Layer Information",
+			"content": [
+				"Layer",
+				"Information"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		}
+	]
+}

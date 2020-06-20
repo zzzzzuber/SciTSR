@@ -1,0 +1,648 @@
+{
+	"cells": [
+		{
+			"id": 37,
+			"tex": "",
+			"content": [],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "Assumption",
+			"content": [
+				"Assumption"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 6,
+			"tex": "Samples",
+			"content": [
+				"Samples"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 41,
+			"tex": "void",
+			"content": [
+				"void"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 9,
+			"tex": "",
+			"content": [],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 32,
+			"tex": "$O(K^{\\frac{5}{3}} \\log^{2} N)$",
+			"content": [
+				"O(K",
+				"5",
+				"3",
+				"log2",
+				"N",
+				")"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 43,
+			"tex": "void",
+			"content": [
+				"void"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 47,
+			"tex": "$K=O(N)$",
+			"content": [
+				"K",
+				"=",
+				"O(N",
+				")"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 39,
+			"tex": "$O(K \\log K)$",
+			"content": [
+				"O(K",
+				"log",
+				"K)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 35,
+			"tex": "void",
+			"content": [
+				"void"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 29,
+			"tex": "$K=\\Theta(\\sqrt{N})$",
+			"content": [
+				"\u221a",
+				"K",
+				"=",
+				"\u0398(",
+				"N",
+				")"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 1,
+			"tex": "Exactly $K$-sparse signal",
+			"content": [
+				"Exactly",
+				"K-sparse",
+				"signal"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 3
+		},
+		{
+			"id": 31,
+			"tex": "$O(K)$",
+			"content": [
+				"O(K)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "$O(K \\log^{5} N)$",
+			"content": [
+				"O(K",
+				"log5",
+				"N",
+				")"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 19,
+			"tex": "$K=O(N)$",
+			"content": [
+				"K",
+				"=",
+				"O(N",
+				")"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 34,
+			"tex": "void",
+			"content": [
+				"void"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 20,
+			"tex": "$O(K \\log(\\frac{N}{K})/\\log\\log N )$",
+			"content": [
+				"O(K",
+				"log(",
+				"N",
+				"K",
+				")/",
+				"log",
+				"log",
+				"N",
+				")"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 2,
+			"tex": "Generally $K$-sparse signal",
+			"content": [
+				"Generally",
+				"K-sparse",
+				"signal"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 4,
+			"end_col": 6
+		},
+		{
+			"id": 48,
+			"tex": "$O(K)$",
+			"content": [
+				"O(K)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 7,
+			"tex": "Complexity",
+			"content": [
+				"Complexity"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 38,
+			"tex": "$O(K)$",
+			"content": [
+				"O(K)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "$O(K )$",
+			"content": [
+				"O(K)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "$O(K \\log^{4} N)$",
+			"content": [
+				"O(K",
+				"log4",
+				"N",
+				")"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 25,
+			"tex": "$O(K \\log K+K(\\log\\log N)^{O(1)})$",
+			"content": [
+				"O(K",
+				"log",
+				"K",
+				"+",
+				"K(log",
+				"log",
+				"N",
+				")O(1))"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 28,
+			"tex": "$O(K \\log^{2} N)$",
+			"content": [
+				"O(K",
+				"log2",
+				"N",
+				")"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 26,
+			"tex": "$K=O(N)$",
+			"content": [
+				"K",
+				"=",
+				"O(N",
+				")"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 42,
+			"tex": "void",
+			"content": [
+				"void"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 30,
+			"tex": "",
+			"content": [],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 45,
+			"tex": "$O(K)$",
+			"content": [
+				"O(K)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "Assumption",
+			"content": [
+				"Assumption"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 21,
+			"tex": "$O (K \\log N \\log \\frac{N}{K})$",
+			"content": [
+				"O(K",
+				"log",
+				"N",
+				"log",
+				"N",
+				"K",
+				")"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 50,
+			"tex": "$K=\\Theta(N)$",
+			"content": [
+				"K",
+				"=",
+				"\u0398(N",
+				")"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 44,
+			"tex": "This paper",
+			"content": [
+				"This",
+				"paper"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "$O(K \\log^{5} N)$",
+			"content": [
+				"O(K",
+				"log5",
+				"N",
+				")"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 12,
+			"tex": "$K=O(N)$",
+			"content": [
+				"K",
+				"=",
+				"O(N",
+				")"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 18,
+			"tex": "$O(K \\log N)$",
+			"content": [
+				"O(K",
+				"log",
+				"N",
+				")"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 46,
+			"tex": "$O(K \\log K)$",
+			"content": [
+				"O(K",
+				"log",
+				"K)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 10,
+			"tex": "$O(K \\log^{4} N)$",
+			"content": [
+				"O(K",
+				"log4",
+				"N",
+				")"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "Complexity",
+			"content": [
+				"Complexity"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 49,
+			"tex": "$O(K \\log K)$",
+			"content": [
+				"O(K",
+				"log",
+				"K)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 23,
+			"tex": "",
+			"content": [],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "",
+			"content": [],
+			"start_row": 0,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 40,
+			"tex": "$K=O(N^{\\alpha})$, $\\alpha<1$",
+			"content": [
+				"K",
+				"=",
+				"O(N",
+				"\u03b1),",
+				"\u03b1",
+				"<",
+				"1"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 22,
+			"tex": "$K=O(N)$",
+			"content": [
+				"K",
+				"=",
+				"O(N",
+				")"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 36,
+			"tex": "void",
+			"content": [
+				"void"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 27,
+			"tex": "$O(K \\log N)$",
+			"content": [
+				"O(K",
+				"log",
+				"N",
+				")"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 33,
+			"tex": "$K=O(\\sqrt{N})$",
+			"content": [
+				"\u221a",
+				"K",
+				"=",
+				"O(",
+				"N",
+				")"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 24,
+			"tex": "$O(K)$",
+			"content": [
+				"O(K)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "$K=O(N)$",
+			"content": [
+				"K",
+				"=",
+				"O(N",
+				")"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 3,
+			"tex": "Samples",
+			"content": [
+				"Samples"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "",
+			"content": [],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

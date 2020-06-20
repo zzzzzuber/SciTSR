@@ -1,0 +1,258 @@
+{
+	"cells": [
+		{
+			"id": 2,
+			"tex": "$N_i$",
+			"content": [
+				"Ni"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "$e_{i,i'}$",
+			"content": [
+				"ei,i(cid:48)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "number of symbols per strip",
+			"content": [
+				"number",
+				"of",
+				"symbols",
+				"per",
+				"strip"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "number of nodes",
+			"content": [
+				"number",
+				"of",
+				"nodes"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "$M$",
+			"content": [
+				"M"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "the $j$-th stored symbol in a stripe of node $N_i$ ($0\\le i\\le\nn-1$, $0\\le j\\le r$)",
+			"content": [
+				"the",
+				"j-th",
+				"stored",
+				"symbol",
+				"in",
+				"a",
+				"stripe",
+				"of",
+				"node",
+				"Ni",
+				"(0",
+				"\u2264",
+				"i",
+				"\u2264",
+				"n",
+				"\u2212",
+				"1,",
+				"0",
+				"\u2264",
+				"j",
+				"\u2264",
+				"r)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "$k$",
+			"content": [
+				"k"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "$t$",
+			"content": [
+				"t"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "number of data nodes",
+			"content": [
+				"number",
+				"of",
+				"data",
+				"nodes"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "the $i$-th node ($0\\le i\\le n-1$)",
+			"content": [
+				"the",
+				"i-th",
+				"node",
+				"(0",
+				"\u2264",
+				"i",
+				"\u2264",
+				"n",
+				"\u2212",
+				"1)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "$r$",
+			"content": [
+				"r"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "$n$",
+			"content": [
+				"n"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "encoded symbol from surviving node $N_i$ used to recover\nlost data of failed node $N_{i'}$ ($0\\le i, i'\\le n-1$)",
+			"content": [
+				"encoded",
+				"symbol",
+				"from",
+				"surviving",
+				"node",
+				"Ni",
+				"used",
+				"to",
+				"recover",
+				"lost",
+				"data",
+				"of",
+				"failed",
+				"node",
+				"Ni(cid:48)",
+				"(0",
+				"\u2264",
+				"i,",
+				"i(cid:48)",
+				"\u2264",
+				"n",
+				"\u2212",
+				"1)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "number of concurrent failures ($1\\le t\\le n-k$)",
+			"content": [
+				"number",
+				"of",
+				"concurrent",
+				"failures",
+				"(1",
+				"\u2264",
+				"t",
+				"\u2264",
+				"n",
+				"\u2212",
+				"k)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "$s_{i,j}$",
+			"content": [
+				"si,j"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "size of original data stored in a stripe",
+			"content": [
+				"size",
+				"of",
+				"original",
+				"data",
+				"stored",
+				"in",
+				"a",
+				"stripe"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

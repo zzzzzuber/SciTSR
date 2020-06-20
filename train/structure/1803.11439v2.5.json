@@ -1,0 +1,124 @@
+{
+	"cells": [
+		{
+			"id": 8,
+			"tex": "LSTM + ARNet",
+			"content": [
+				"LSTM",
+				"+",
+				"ARNet"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "0.914",
+			"content": [
+				"0.914"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "0.925",
+			"content": [
+				"0.925"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "Unregularized LSTM",
+			"content": [
+				"Unregularized",
+				"LSTM"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "Test Accuracy",
+			"content": [
+				"Test",
+				"Accuracy"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "LSTM + recurrent dropout",
+			"content": [
+				"LSTM",
+				"+",
+				"recurrent",
+				"dropout"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "0.931",
+			"content": [
+				"0.931"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "\\textbf{0.933}",
+			"content": [
+				"0.933"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "LSTM + zoneout",
+			"content": [
+				"LSTM",
+				"+",
+				"zoneout"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "Model Name",
+			"content": [
+				"Model",
+				"Name"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

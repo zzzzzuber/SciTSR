@@ -1,0 +1,296 @@
+{
+	"cells": [
+		{
+			"id": 6,
+			"tex": "RNN-NV",
+			"content": [
+				"RNN-NV"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "RNN-AUG-",
+			"content": [
+				"RNN-AUG-"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": ".664",
+			"content": [
+				".664"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "RNN-SUS-30s",
+			"content": [
+				"RNN-SUS-30s"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "description",
+			"content": [
+				"description"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 7,
+			"tex": ".619",
+			"content": [
+				".619"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": ".663",
+			"content": [
+				".663"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "baseline with less data augmentation",
+			"content": [
+				"baseline",
+				"with",
+				"less",
+				"data",
+				"augmentation"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 23,
+			"tex": "baseline + pedal + 30-second clips",
+			"content": [
+				"baseline",
+				"+",
+				"pedal",
+				"+",
+				"30-second",
+				"clips"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 14,
+			"tex": "baseline with more data augmentation",
+			"content": [
+				"baseline",
+				"with",
+				"more",
+				"data",
+				"augmentation"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 12,
+			"tex": "RNN-AUG+",
+			"content": [
+				"RNN-AUG+"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "model",
+			"content": [
+				"model"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": ".784",
+			"content": [
+				".784"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "baseline trained on 30-second clips",
+			"content": [
+				"baseline",
+				"trained",
+				"on",
+				"30-second",
+				"clips"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 13,
+			"tex": ".755",
+			"content": [
+				".755"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "log-loss",
+			"content": [
+				"log-loss"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "baseline with pedaled notes extended",
+			"content": [
+				"baseline",
+				"with",
+				"pedaled",
+				"notes",
+				"extended"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 8,
+			"tex": "baseline without velocity",
+			"content": [
+				"baseline",
+				"without",
+				"velocity"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 3,
+			"tex": "RNN",
+			"content": [
+				"RNN"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": ".750",
+			"content": [
+				".750"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": ".765",
+			"content": [
+				".765"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "RNN-30s",
+			"content": [
+				"RNN-30s"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "RNN-SUS",
+			"content": [
+				"RNN-SUS"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "baseline RNN trained on 15-second clips",
+			"content": [
+				"baseline",
+				"RNN",
+				"trained",
+				"on",
+				"15-second",
+				"clips"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		}
+	]
+}

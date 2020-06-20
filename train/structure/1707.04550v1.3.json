@@ -1,0 +1,903 @@
+{
+	"cells": [
+		{
+			"id": 72,
+			"tex": "55.9 / 72.1",
+			"content": [
+				"55.9",
+				"/",
+				"72.1"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 18,
+			"tex": "Textual",
+			"content": [
+				"Textual"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 53,
+			"tex": "Multimodal {\\small (concat.\\ attn.)}",
+			"content": [
+				"Multimodal",
+				"(concat.",
+				"attn.)"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "C",
+			"content": [
+				"C"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 54,
+			"tex": "U",
+			"content": [
+				"U"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "34.6 / 51.7",
+			"content": [
+				"34.6",
+				"/",
+				"51.7"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 55,
+			"tex": "{\\bf 36.0} / {\\bf 52.1}",
+			"content": [
+				"36.0",
+				"/",
+				"52.1"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 21,
+			"tex": "28.5 / 49.2",
+			"content": [
+				"28.5",
+				"/",
+				"49.2"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 56,
+			"tex": "26.3 / 43.9",
+			"content": [
+				"26.3",
+				"/",
+				"43.9"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 35,
+			"tex": "{\\bf 31.1} / {\\bf 51.0}",
+			"content": [
+				"31.1",
+				"/",
+				"51.0"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 30,
+			"tex": "---",
+			"content": [
+				"\u2014"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 3,
+			"tex": "Task 1: en $\\rightarrow$ fr",
+			"content": [
+				"Task",
+				"1:",
+				"en",
+				"\u2192",
+				"fr"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 5,
+			"end_col": 6
+		},
+		{
+			"id": 7,
+			"tex": "Flickr",
+			"content": [
+				"Flickr"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 31,
+			"tex": "---",
+			"content": [
+				"\u2014"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 8,
+			"tex": "MSCOCO",
+			"content": [
+				"MSCOCO"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 59,
+			"tex": "---",
+			"content": [
+				"\u2014"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 9,
+			"tex": "Flickr",
+			"content": [
+				"Flickr"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 40,
+			"tex": "C",
+			"content": [
+				"C"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "MSCOCO",
+			"content": [
+				"MSCOCO"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 41,
+			"tex": "32.3 / 50.0",
+			"content": [
+				"32.3",
+				"/",
+				"50.0"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 11,
+			"tex": "Baseline",
+			"content": [
+				"Baseline"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 42,
+			"tex": "23.6 / 41.8",
+			"content": [
+				"23.6",
+				"/",
+				"41.8"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 12,
+			"tex": "C",
+			"content": [
+				"C"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 37,
+			"tex": "---",
+			"content": [
+				"\u2014"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 13,
+			"tex": "---",
+			"content": [
+				"\u2014"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 38,
+			"tex": "---",
+			"content": [
+				"\u2014"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 16,
+			"tex": "44.3 / 63.1",
+			"content": [
+				"44.3",
+				"/",
+				"63.1"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 39,
+			"tex": "Multimodal {\\small (concat.\\ attn)}",
+			"content": [
+				"Multimodal",
+				"(concat.",
+				"attn)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "35.1 / 55.8",
+			"content": [
+				"35.1",
+				"/",
+				"55.8"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 60,
+			"tex": "Multimodal {\\small (hier.\\ attn.)}",
+			"content": [
+				"Multimodal",
+				"(hier.",
+				"attn.)"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "23.2 / 43.8",
+			"content": [
+				"23.2",
+				"/",
+				"43.8"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 61,
+			"tex": "U",
+			"content": [
+				"U"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "{\\bf 50.3} / 67.0",
+			"content": [
+				"50.3",
+				"/",
+				"67.0"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 62,
+			"tex": "34.4 / 51.7",
+			"content": [
+				"34.4",
+				"/",
+				"51.7"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 24,
+			"tex": "{\\bf 43.0} / {\\bf 62.5}",
+			"content": [
+				"43.0",
+				"/",
+				"62.5"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 43,
+			"tex": "20.0 / 37.1",
+			"content": [
+				"20.0",
+				"/",
+				"37.1"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 32,
+			"tex": "Textual \\small (+ additional)",
+			"content": [
+				"Textual",
+				"(+",
+				"additional)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 29,
+			"tex": "24.1 / 40.7",
+			"content": [
+				"24.1",
+				"/",
+				"40.7"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 33,
+			"tex": "U",
+			"content": [
+				"U"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 34,
+			"tex": "{\\bf 36.8} / {\\bf 53.1}",
+			"content": [
+				"36.8",
+				"/",
+				"53.1"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 14,
+			"tex": "19.3 / 41.9",
+			"content": [
+				"19.3",
+				"/",
+				"41.9"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 28,
+			"tex": "28.5 / 45.7",
+			"content": [
+				"28.5",
+				"/",
+				"45.7"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 15,
+			"tex": "18.7 / 37.6",
+			"content": [
+				"18.7",
+				"/",
+				"37.6"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 27,
+			"tex": "36.6 / 53.0",
+			"content": [
+				"36.6",
+				"/",
+				"53.0"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 6,
+			"tex": "2016",
+			"content": [
+				"2016"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 26,
+			"tex": "U",
+			"content": [
+				"U"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "",
+			"content": [],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 36,
+			"tex": "{\\bf 26.6} / {\\bf 46.0}",
+			"content": [
+				"26.6",
+				"/",
+				"46.0"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 25,
+			"tex": "Textual \\small (+ Task2)",
+			"content": [
+				"Textual",
+				"(+",
+				"Task2)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 48,
+			"tex": "31.9 / 49.4",
+			"content": [
+				"31.9",
+				"/",
+				"49.4"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 57,
+			"tex": "23.3 / 39.8",
+			"content": [
+				"23.3",
+				"/",
+				"39.8"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 47,
+			"tex": "C",
+			"content": [
+				"C"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "",
+			"content": [],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 58,
+			"tex": "---",
+			"content": [
+				"\u2014"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 69,
+			"tex": "---",
+			"content": [
+				"\u2014"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 49,
+			"tex": "25.8 / 47.1",
+			"content": [
+				"25.8",
+				"/",
+				"47.1"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 46,
+			"tex": "Multimodal {\\small (hier.\\ attn.)}",
+			"content": [
+				"Multimodal",
+				"(hier.",
+				"attn.)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 50,
+			"tex": "22.4 / 42.7",
+			"content": [
+				"22.4",
+				"/",
+				"42.7"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 1,
+			"tex": "",
+			"content": [],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 44,
+			"tex": "40.3 / 56.3",
+			"content": [
+				"40.3",
+				"/",
+				"56.3"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 52,
+			"tex": "42.9 / {\\bf 62.5}",
+			"content": [
+				"42.9",
+				"/",
+				"62.5"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 51,
+			"tex": "49.9 / {\\bf 67.2}",
+			"content": [
+				"49.9",
+				"/",
+				"67.2"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 63,
+			"tex": "{\\bf 29.5} / {\\bf 50.2}",
+			"content": [
+				"29.5",
+				"/",
+				"50.2"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 66,
+			"tex": "---",
+			"content": [
+				"\u2014"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 64,
+			"tex": "{\\bf 25.7} / {\\bf 45.6}",
+			"content": [
+				"25.7",
+				"/",
+				"45.6"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 67,
+			"tex": "Task~1 winner (LIUM-CVC)",
+			"content": [
+				"Task",
+				"1",
+				"winner",
+				"(LIUM-CVC)"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 45,
+			"tex": "32.8 / 52.1",
+			"content": [
+				"32.8",
+				"/",
+				"52.1"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 68,
+			"tex": "C",
+			"content": [
+				"C"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 73,
+			"tex": "45.9 / 65.9",
+			"content": [
+				"45.9",
+				"/",
+				"65.9"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 0,
+			"tex": "",
+			"content": [],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "Task 1: en $\\rightarrow$ de",
+			"content": [
+				"Task",
+				"1:",
+				"en",
+				"\u2192",
+				"de"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 4
+		},
+		{
+			"id": 70,
+			"tex": "33.4 / 54.0",
+			"content": [
+				"33.4",
+				"/",
+				"54.0"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 65,
+			"tex": "---",
+			"content": [
+				"\u2014"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 71,
+			"tex": "28.7 / 48.9",
+			"content": [
+				"28.7",
+				"/",
+				"48.9"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 4,
+			"end_col": 4
+		}
+	]
+}

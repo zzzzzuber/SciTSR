@@ -1,0 +1,477 @@
+{
+	"cells": [
+		{
+			"id": 35,
+			"tex": "Induced subgraph of $G$ on $S$",
+			"content": [
+				"Induced",
+				"subgraph",
+				"of",
+				"G",
+				"on",
+				"S"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 26,
+			"tex": "$N^k(S)$",
+			"content": [
+				"N",
+				"k(S)"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 28,
+			"tex": "$N^k(v)$",
+			"content": [
+				"N",
+				"k(v)"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "",
+			"content": [],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "$rc(G)$",
+			"content": [
+				"rc(G)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "Eccentricity of $v$",
+			"content": [
+				"Eccentricity",
+				"of",
+				"v"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "Edge set of $G$.",
+			"content": [
+				"Edge",
+				"set",
+				"of",
+				"G."
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "Diameter of $G$",
+			"content": [
+				"Diameter",
+				"of",
+				"G"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "$V(G)$",
+			"content": [
+				"V",
+				"(G)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 29,
+			"tex": "$N^k(\\{v\\})$",
+			"content": [
+				"N",
+				"k({v})"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "Radius of $G$",
+			"content": [
+				"Radius",
+				"of",
+				"G"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "",
+			"content": [],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "$rad(G)$",
+			"content": [
+				"rad(G)"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "Number of vertices in $G$ or order of $G$.",
+			"content": [
+				"Number",
+				"of",
+				"vertices",
+				"in",
+				"G",
+				"or",
+				"order",
+				"of",
+				"G."
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "Number of pendant vertices in $G$",
+			"content": [
+				"Number",
+				"of",
+				"pendant",
+				"vertices",
+				"in",
+				"G"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "Distance between vertices $u$ and $v$",
+			"content": [
+				"Distance",
+				"between",
+				"vertices",
+				"u",
+				"and",
+				"v"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "$ecc(v)$",
+			"content": [
+				"ecc(v)"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 30,
+			"tex": "$N(S)$",
+			"content": [
+				"N",
+				"(S)"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 32,
+			"tex": "$N(v)$",
+			"content": [
+				"N",
+				"(v)"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "$pen(G)$",
+			"content": [
+				"pen(G)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "$\\delta(G)$",
+			"content": [
+				"\u03b4(G)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "$\\gamma_c^k(G)$",
+			"content": [
+				"\u03b3k",
+				"c",
+				"(G)"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "Connected $k$-step domination number of $G$",
+			"content": [
+				"Connected",
+				"k-step",
+				"domination",
+				"number",
+				"of",
+				"G"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 24,
+			"tex": "$\\gamma_c(G)$",
+			"content": [
+				"\u03b3c(G)"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 33,
+			"tex": "$N^1(\\{v\\})$, Neighbourhood of $v$",
+			"content": [
+				"N",
+				"1({v}),",
+				"Neighbourhood",
+				"of",
+				"v"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "Rainbow connection number of $G$",
+			"content": [
+				"Rainbow",
+				"connection",
+				"number",
+				"of",
+				"G"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "$diam(G)$",
+			"content": [
+				"diam(G)"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "Vertex set of $G$.",
+			"content": [
+				"Vertex",
+				"set",
+				"of",
+				"G."
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 31,
+			"tex": "$N^1(S)$, Neighbourhood of $S$",
+			"content": [
+				"N",
+				"1(S),",
+				"Neighbourhood",
+				"of",
+				"S"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 27,
+			"tex": "Set of all vertices at distance exactly $k$ from set $S$",
+			"content": [
+				"Set",
+				"of",
+				"all",
+				"vertices",
+				"at",
+				"distance",
+				"exactly",
+				"k",
+				"from",
+				"set",
+				"S"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 25,
+			"tex": "$\\gamma^1_c(G)$, Connected domination number of $G$",
+			"content": [
+				"\u03b31",
+				"c",
+				"(G),",
+				"Connected",
+				"domination",
+				"number",
+				"of",
+				"G"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 34,
+			"tex": "$G[S]$",
+			"content": [
+				"G[S]"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "$|G|$",
+			"content": [
+				"|G|"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "$d(u,v)$",
+			"content": [
+				"d(u,",
+				"v)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "$E(G)$",
+			"content": [
+				"E(G)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "Minimum degree of $G$",
+			"content": [
+				"Minimum",
+				"degree",
+				"of",
+				"G"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

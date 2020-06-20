@@ -1,0 +1,335 @@
+{
+	"cells": [
+		{
+			"id": 11,
+			"tex": "The selectivity of the reducer in terms of number of K-V pairs",
+			"content": [
+				"The",
+				"selectivity",
+				"of",
+				"the",
+				"reducer",
+				"in",
+				"terms",
+				"of",
+				"number",
+				"of",
+				"K-V",
+				"pairs"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "The selectivity of the mapper in terms of number of K-V pairs",
+			"content": [
+				"The",
+				"selectivity",
+				"of",
+				"the",
+				"mapper",
+				"in",
+				"terms",
+				"of",
+				"number",
+				"of",
+				"K-V",
+				"pairs"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "Variable",
+			"content": [
+				"Variable"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "The selectivity of the reducer in terms of size",
+			"content": [
+				"The",
+				"selectivity",
+				"of",
+				"the",
+				"reducer",
+				"in",
+				"terms",
+				"of",
+				"size"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "sInputPairWidth",
+			"content": [
+				"sInputPairWidth"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "sMapPairsSel",
+			"content": [
+				"sMapPairsSel"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "sCombineSizeSel",
+			"content": [
+				"sCombineSizeSel"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "sOutCompressRatio",
+			"content": [
+				"sOutCompressRatio"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "The selectivity of the mapper in terms of size",
+			"content": [
+				"The",
+				"selectivity",
+				"of",
+				"the",
+				"mapper",
+				"in",
+				"terms",
+				"of",
+				"size"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "The average width of the input K-V pairs",
+			"content": [
+				"The",
+				"average",
+				"width",
+				"of",
+				"the",
+				"input",
+				"K-V",
+				"pairs"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "sCombinePairsSel",
+			"content": [
+				"sCombinePairsSel"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "The ratio of compression for the final output of the job",
+			"content": [
+				"The",
+				"ratio",
+				"of",
+				"compression",
+				"for",
+				"the",
+				"\ufb01nal",
+				"output",
+				"of",
+				"the",
+				"job"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "sMapSizeSel",
+			"content": [
+				"sMapSizeSel"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "sIntermCompressRatio",
+			"content": [
+				"sIntermCompressRatio"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "The selectivity of the combine function in number of K-V pairs",
+			"content": [
+				"The",
+				"selectivity",
+				"of",
+				"the",
+				"combine",
+				"function",
+				"in",
+				"number",
+				"of",
+				"K-V",
+				"pairs"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "The ratio of compression for the intermediate map output",
+			"content": [
+				"The",
+				"ratio",
+				"of",
+				"compression",
+				"for",
+				"the",
+				"intermediate",
+				"map",
+				"output"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "The selectivity of the combine function in terms of size",
+			"content": [
+				"The",
+				"selectivity",
+				"of",
+				"the",
+				"combine",
+				"function",
+				"in",
+				"terms",
+				"of",
+				"size"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "sReducePairsSel",
+			"content": [
+				"sReducePairsSel"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "Description",
+			"content": [
+				"Description"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "The ratio of compression for the input data",
+			"content": [
+				"The",
+				"ratio",
+				"of",
+				"compression",
+				"for",
+				"the",
+				"input",
+				"data"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "sInputCompressRatio",
+			"content": [
+				"sInputCompressRatio"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "sReduceSizeSel",
+			"content": [
+				"sReduceSizeSel"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

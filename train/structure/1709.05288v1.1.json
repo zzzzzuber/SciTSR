@@ -1,0 +1,516 @@
+{
+	"cells": [
+		{
+			"id": 8,
+			"tex": "D2D distance threshold",
+			"content": [
+				"D2D",
+				"distance",
+				"threshold"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 12,
+			"tex": "$C_f$",
+			"content": [
+				"Cf"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "$B_d$",
+			"content": [
+				"Bd"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "$1000$",
+			"content": [
+				"1000"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 29,
+			"tex": "Intensity of content require users",
+			"content": [
+				"Intensity",
+				"of",
+				"content",
+				"require",
+				"users"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 39,
+			"tex": "$\\alpha$",
+			"content": [
+				"\u03b1"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 41,
+			"tex": "Path loss exponent",
+			"content": [
+				"Path",
+				"loss",
+				"exponent"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 5,
+			"tex": "Number of video contents",
+			"content": [
+				"Number",
+				"of",
+				"video",
+				"contents"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 24,
+			"tex": "$P_f$",
+			"content": [
+				"Pf"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 30,
+			"tex": "$\\lambda_{tu}$",
+			"content": [
+				"\u03bbtu"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "$N$",
+			"content": [
+				"N"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "$80$",
+			"content": [
+				"80"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "100MHz",
+			"content": [
+				"100MHz"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 34,
+			"tex": "$3\\times 10^{-5}$",
+			"content": [
+				"3",
+				"\u00d7",
+				"10\u22125"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 38,
+			"tex": "Intensity of gateways",
+			"content": [
+				"Intensity",
+				"of",
+				"gateways"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 6,
+			"tex": "$L_d$",
+			"content": [
+				"Ld"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 35,
+			"tex": "Intensity of F-APs",
+			"content": [
+				"Intensity",
+				"of",
+				"F-APs"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 13,
+			"tex": "$100 \\sim 500$",
+			"content": [
+				"100",
+				"\u223c",
+				"500"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "Bandwidth of F-APs",
+			"content": [
+				"Bandwidth",
+				"of",
+				"F-APs"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 17,
+			"tex": "Bandwidth of D2D users",
+			"content": [
+				"Bandwidth",
+				"of",
+				"D2D",
+				"users"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 32,
+			"tex": "Intensity of D2D transmit users",
+			"content": [
+				"Intensity",
+				"of",
+				"D2D",
+				"transmit",
+				"users"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 37,
+			"tex": "$2\\times 10^{-6}$",
+			"content": [
+				"2",
+				"\u00d7",
+				"10\u22126"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "$C_d$",
+			"content": [
+				"Cd"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "300MHz",
+			"content": [
+				"300MHz"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 36,
+			"tex": "$\\lambda_g$",
+			"content": [
+				"\u03bbg"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 25,
+			"tex": "23dBm",
+			"content": [
+				"23dBm"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "\\bfseries Parameters",
+			"content": [
+				"Parameters"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "\\bfseries Description",
+			"content": [
+				"Description"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 27,
+			"tex": "$\\lambda_{ru}$",
+			"content": [
+				"\u03bbru"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "Cache size of D2D transmit users",
+			"content": [
+				"Cache",
+				"size",
+				"of",
+				"D2D",
+				"transmit",
+				"users"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 14,
+			"tex": "Cache size of F-APs",
+			"content": [
+				"Cache",
+				"size",
+				"of",
+				"F-APs"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 31,
+			"tex": "$5 \\times 10^{-5}$",
+			"content": [
+				"5",
+				"\u00d7",
+				"10\u22125"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "\\bfseries Value",
+			"content": [
+				"Value"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 26,
+			"tex": "Transmit power of F-AP",
+			"content": [
+				"Transmit",
+				"power",
+				"of",
+				"F-AP"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 22,
+			"tex": "13dBm",
+			"content": [
+				"13dBm"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 33,
+			"tex": "$\\lambda_f$",
+			"content": [
+				"\u03bbf"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "Transmit power of D2D transmit user",
+			"content": [
+				"Transmit",
+				"power",
+				"of",
+				"D2D",
+				"transmit",
+				"user"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 40,
+			"tex": "4",
+			"content": [
+				"4"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 28,
+			"tex": "$6 \\times 10^{-5}$",
+			"content": [
+				"6",
+				"\u00d7",
+				"10\u22125"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "30m",
+			"content": [
+				"30m"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "$B_f$",
+			"content": [
+				"Bf"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "$P_d$",
+			"content": [
+				"Pd"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

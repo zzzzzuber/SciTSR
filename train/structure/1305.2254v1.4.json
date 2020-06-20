@@ -1,0 +1,329 @@
+{
+	"cells": [
+		{
+			"id": 25,
+			"tex": "\\# venueWord(W).",
+			"content": [
+				"#",
+				"venueWord(W)."
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 24,
+			"tex": "keyvenueword(W) :- true",
+			"content": [
+				"keyvenueword(W)",
+				":-",
+				"true"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "\\# venue.",
+			"content": [
+				"#",
+				"venue."
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "\\# venueword.",
+			"content": [
+				"#",
+				"venueword."
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "\\# tcbib.",
+			"content": [
+				"#",
+				"tcbib."
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "samevenue(A1,A2) :- haswordvenue(A1,W),haswordvenueinverse(W,A2),keyvenueword(W)",
+			"content": [
+				"samevenue(A1,A2)",
+				":-",
+				"haswordvenue(A1,W),haswordvenueinverse(W,A2),keyvenueword(W)"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "\\# author.",
+			"content": [
+				"#",
+				"author."
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "\\# tcvenue.",
+			"content": [
+				"#",
+				"tcvenue."
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "samebib(BC1,BC2) :- author(BC1,A1),sameauthor(A1,A2),authorinverse(A2,BC2)",
+			"content": [
+				"samebib(BC1,BC2)",
+				":-",
+				"author(BC1,A1),sameauthor(A1,A2),authorinverse(A2,BC2)"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "\\# titleword.",
+			"content": [
+				"#",
+				"titleword."
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "\\# authorword.",
+			"content": [
+				"#",
+				"authorword."
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "keytitleword(W) :- true",
+			"content": [
+				"keytitleword(W)",
+				":-",
+				"true"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "sametitle(A1,A2) :- haswordtitle(A1,W),haswordtitleinverse(W,A2),keytitleword(W)",
+			"content": [
+				"sametitle(A1,A2)",
+				":-",
+				"haswordtitle(A1,W),haswordtitleinverse(W,A2),keytitleword(W)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "\\# tctitle.",
+			"content": [
+				"#",
+				"tctitle."
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "keyauthorword(W) :- true",
+			"content": [
+				"keyauthorword(W)",
+				":-",
+				"true"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "\\# titleWord(W).",
+			"content": [
+				"#",
+				"titleWord(W)."
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "sameauthor(A1,A2) :- sameauthor(A1,A3),sameauthor(A3,A2)",
+			"content": [
+				"sameauthor(A1,A2)",
+				":-",
+				"sameauthor(A1,A3),sameauthor(A3,A2)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "\\# authorWord(W).",
+			"content": [
+				"#",
+				"authorWord(W)."
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "samebib(BC1,BC2) :- title(BC1,A1),sametitle(A1,A2),titleinverse(A2,BC2)",
+			"content": [
+				"samebib(BC1,BC2)",
+				":-",
+				"title(BC1,A1),sametitle(A1,A2),titleinverse(A2,BC2)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "samebib(BC1,BC2) :- venue(BC1,A1),samevenue(A1,A2),venueinverse(A2,BC2)",
+			"content": [
+				"samebib(BC1,BC2)",
+				":-",
+				"venue(BC1,A1),samevenue(A1,A2),venueinverse(A2,BC2)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "samebib(BC1,BC2) :- samebib(BC1,BC3),samebib(BC3,BC2)",
+			"content": [
+				"samebib(BC1,BC2)",
+				":-",
+				"samebib(BC1,BC3),samebib(BC3,BC2)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "sametitle(A1,A2) :- sametitle(A1,A3),sametitle(A3,A2)",
+			"content": [
+				"sametitle(A1,A2)",
+				":-",
+				"sametitle(A1,A3),sametitle(A3,A2)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "\\# title.",
+			"content": [
+				"#",
+				"title."
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "samevenue(A1,A2) :- samevenue(A1,A3),samevenue(A3,A2)",
+			"content": [
+				"samevenue(A1,A2)",
+				":-",
+				"samevenue(A1,A3),samevenue(A3,A2)"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "\\# tcauthor.",
+			"content": [
+				"#",
+				"tcauthor."
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "sameauthor(A1,A2) :- haswordauthor(A1,W),haswordauthorinverse(W,A2),keyauthorword(W)",
+			"content": [
+				"sameauthor(A1,A2)",
+				":-",
+				"haswordauthor(A1,W),haswordauthorinverse(W,A2),keyauthorword(W)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

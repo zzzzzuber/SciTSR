@@ -1,0 +1,180 @@
+{
+	"cells": [
+		{
+			"id": 1,
+			"tex": "Value",
+			"content": [
+				"Value"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "$20^\\dagger$",
+			"content": [
+				"20\u2020"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "$10^6$",
+			"content": [
+				"106"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "Parameter",
+			"content": [
+				"Parameter"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "Steps between neighbour list update:",
+			"content": [
+				"Steps",
+				"between",
+				"neighbour",
+				"list",
+				"update:"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "$2.75$",
+			"content": [
+				"2.75"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "Number of atoms: $N$",
+			"content": [
+				"Number",
+				"of",
+				"atoms:",
+				"N"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "2.5",
+			"content": [
+				"2.5"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "Force extended cutoff: $\\overline{r}_c = r_c + \\delta$",
+			"content": [
+				"Force",
+				"extended",
+				"cuto\ufb00:",
+				"rc",
+				"=",
+				"rc",
+				"+",
+				"\u03b4"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "Force cutoff: $r_c$",
+			"content": [
+				"Force",
+				"cuto\ufb00:",
+				"rc"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "0.8442",
+			"content": [
+				"0.8442"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "Number density: $\\rho$",
+			"content": [
+				"Number",
+				"density:",
+				"\u03c1"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "$10^4$",
+			"content": [
+				"104"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "Number of time steps: $n_{\\max}$",
+			"content": [
+				"Number",
+				"of",
+				"time",
+				"steps:",
+				"nmax"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

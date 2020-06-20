@@ -1,0 +1,315 @@
+{
+	"cells": [
+		{
+			"id": 6,
+			"tex": "GPS, camera, rotator and JPEG,",
+			"content": [
+				"GPS,",
+				"camera,",
+				"rotator",
+				"and",
+				"JPEG,"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "Test Cases",
+			"content": [
+				"Test",
+				"Cases"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "2GB",
+			"content": [
+				"2GB"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "42",
+			"content": [
+				"42"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "Case A",
+			"content": [
+				"Case",
+				"A"
+			],
+			"start_row": 1,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "Memory Controller",
+			"content": [
+				"Memory",
+				"Controller"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "DRAM",
+			"content": [
+				"DRAM"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "all cores active",
+			"content": [
+				"all",
+				"cores",
+				"active"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "with DRAM @ 1866MHz;",
+			"content": [
+				"with",
+				"DRAM",
+				"@",
+				"1866MHz;"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 25,
+			"tex": "2-2-8",
+			"content": [
+				"2-2-8"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "CL-tRCD-tRP (cycles)",
+			"content": [
+				"CL-tRCD-tRP",
+				"(cycles)"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "19-14-34",
+			"content": [
+				"19-14-34"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "inactive cores:",
+			"content": [
+				"inactive",
+				"cores:"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "Volume",
+			"content": [
+				"Volume"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "with DRAM @ 1700MHz.",
+			"content": [
+				"with",
+				"DRAM",
+				"@",
+				"1700MHz."
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "Max I/O bus freq.",
+			"content": [
+				"Max",
+				"I/O",
+				"bus",
+				"freq."
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "36-34-34",
+			"content": [
+				"36-34-34"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "tRRD-tFAW (cycles)",
+			"content": [
+				"tRRD-tFAW",
+				"(cycles)"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "Case B",
+			"content": [
+				"Case",
+				"B"
+			],
+			"start_row": 3,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "Total entries",
+			"content": [
+				"Total",
+				"entries"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "tWTR-tRTP-tWR (cycles)",
+			"content": [
+				"tWTR-tRTP-tWR",
+				"(cycles)"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "19-75",
+			"content": [
+				"19-75"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "1866MHz",
+			"content": [
+				"1866MHz"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "5",
+			"content": [
+				"5"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "Transaction queues",
+			"content": [
+				"Transaction",
+				"queues"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "Channels-Ranks-Banks",
+			"content": [
+				"Channels-Ranks-Banks"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

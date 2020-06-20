@@ -1,0 +1,107 @@
+{
+	"cells": [
+		{
+			"id": 2,
+			"tex": "\\textbf{location1} is very safe and \\textbf{location2} is too far",
+			"content": [
+				"location1",
+				"is",
+				"very",
+				"safe",
+				"and",
+				"location2",
+				"is",
+				"too",
+				"far"
+			],
+			"start_row": 1,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "",
+			"content": [],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "(location2,transit-location,Negative)",
+			"content": [
+				"(location2,transit-location,Negative)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "(location1,transit-location,None)",
+			"content": [
+				"(location1,transit-location,None)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "(location2,safety,None)",
+			"content": [
+				"(location2,safety,None)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "\\textbf{Sentence}",
+			"content": [
+				"Sentence"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "(location1,safety,Positive)",
+			"content": [
+				"(location1,safety,Positive)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "\\textbf{Labels}",
+			"content": [
+				"Labels"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "",
+			"content": [],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

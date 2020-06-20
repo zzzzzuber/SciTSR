@@ -1,0 +1,200 @@
+{
+	"cells": [
+		{
+			"id": 8,
+			"tex": "~~~~~~$x_S\\leftarrow{ \\overline{x_S}}$;",
+			"content": [
+				"xS",
+				"\u2190",
+				"xS;"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "~\\textbf{return} $r$;",
+			"content": [
+				"return",
+				"r;"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "~\\textbf{Output}: an array $r$ of $\\mathsf{N}$ 1-bit words",
+			"content": [
+				"Output:",
+				"an",
+				"array",
+				"r",
+				"of",
+				"N",
+				"1-bit",
+				"words"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "~~~~~~$b\\leftarrow{XORshift()}$;",
+			"content": [
+				"b",
+				"\u2190",
+				"XORshif",
+				"t();"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "~\\textbf{for} $i=0,\\dots,m$ \\textbf{do}",
+			"content": [
+				"for",
+				"i",
+				"=",
+				"0,",
+				".",
+				".",
+				".",
+				",",
+				"m",
+				"do"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "~\\textbf{Input}: the internal state $x$",
+			"content": [
+				"Input:",
+				"the",
+				"internal",
+				"state",
+				"x"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "~~~~~~~~~~~($x$ is an array of $\\mathsf{N}$ 1-bit words)",
+			"content": [
+				"(x",
+				"is",
+				"an",
+				"array",
+				"of",
+				"N",
+				"1-bit",
+				"words)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "~$r\\leftarrow{x}$;",
+			"content": [
+				"r",
+				"\u2190",
+				"x;"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "~~~~~~$S\\leftarrow{b~mod~\\mathsf{N}}$;",
+			"content": [
+				"S",
+				"\u2190",
+				"b",
+				"mod",
+				"N;"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "~$a\\leftarrow{ISAAC()}$;",
+			"content": [
+				"a",
+				"\u2190",
+				"ISAAC();"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "~\\textbf{end for}",
+			"content": [
+				"end",
+				"for"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "~\\textbf{An arbitrary round of CI generator}~",
+			"content": [
+				"An",
+				"arbitrary",
+				"round",
+				"of",
+				"CI",
+				"generator"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "~$m\\leftarrow{a~mod~2+c}$",
+			"content": [
+				"m",
+				"\u2190",
+				"a",
+				"mod",
+				"2",
+				"+",
+				"c"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

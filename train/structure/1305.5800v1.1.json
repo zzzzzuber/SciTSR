@@ -1,0 +1,632 @@
+{
+	"cells": [
+		{
+			"id": 13,
+			"tex": "c = 8",
+			"content": [
+				"c",
+				"=",
+				"8"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 44,
+			"tex": "",
+			"content": [],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "MCS-CAS",
+			"content": [
+				"MCS-CAS"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "EXP-CAS",
+			"content": [
+				"EXP-CAS"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 51,
+			"tex": "SLICE = 6",
+			"content": [
+				"SLICE",
+				"=",
+				"6"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 42,
+			"tex": "MAX\\_WAIT = 7.5ms",
+			"content": [
+				"MAX",
+				"WAIT",
+				"=",
+				"7.5ms"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 22,
+			"tex": "CONTENTION\\_THRESHOLD=8",
+			"content": [
+				"CONTENTION",
+				"THRESHOLD=8"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 30,
+			"tex": "MAX\\_WAIT = 7.5ms",
+			"content": [
+				"MAX",
+				"WAIT",
+				"=",
+				"7.5ms"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 4,
+			"tex": "CB-CAS",
+			"content": [
+				"CB-CAS"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 34,
+			"tex": "CONTENTION\\_THRESHOLD=2",
+			"content": [
+				"CONTENTION",
+				"THRESHOLD=2"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 28,
+			"tex": "",
+			"content": [],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 48,
+			"tex": "TS-CAS",
+			"content": [
+				"TS-CAS"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "",
+			"content": [],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 36,
+			"tex": "AB-CAS",
+			"content": [
+				"AB-CAS"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "NUM\\_OPS = 10,000",
+			"content": [
+				"NUM",
+				"OPS",
+				"=",
+				"10,000"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 9,
+			"tex": "EXP\\_THRESHOLD=2",
+			"content": [
+				"EXP",
+				"THRESHOLD=2"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 45,
+			"tex": "CONC = 1",
+			"content": [
+				"CONC",
+				"=",
+				"1"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "m = 27",
+			"content": [
+				"m",
+				"=",
+				"27"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 21,
+			"tex": "CONTENTION\\_THRESHOLD=8",
+			"content": [
+				"CONTENTION",
+				"THRESHOLD=8"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 47,
+			"tex": "CONC = 10",
+			"content": [
+				"CONC",
+				"=",
+				"10"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 49,
+			"tex": "SLICE = 20",
+			"content": [
+				"SLICE",
+				"=",
+				"20"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "m = 24",
+			"content": [
+				"m",
+				"=",
+				"24"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 46,
+			"tex": "CONC = 1",
+			"content": [
+				"CONC",
+				"=",
+				"1"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 43,
+			"tex": "MAX\\_WAIT = 1ms",
+			"content": [
+				"MAX",
+				"WAIT",
+				"=",
+				"1ms"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 5,
+			"tex": "WAITING\\_TIME=0.13ms",
+			"content": [
+				"WAITING",
+				"TIME=0.13ms"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 29,
+			"tex": "MAX\\_WAIT = 0.9ms",
+			"content": [
+				"MAX",
+				"WAIT",
+				"=",
+				"0.9ms"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 35,
+			"tex": "CONTENTION\\_THRESHOLD=14",
+			"content": [
+				"CONTENTION",
+				"THRESHOLD=14"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 11,
+			"tex": "EXP\\_THRESHOLD=1",
+			"content": [
+				"EXP",
+				"THRESHOLD=1"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 19,
+			"tex": "m = 15",
+			"content": [
+				"m",
+				"=",
+				"15"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 14,
+			"tex": "c = 9",
+			"content": [
+				"c",
+				"=",
+				"9"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 16,
+			"tex": "",
+			"content": [],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "i7",
+			"content": [
+				"i7"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 41,
+			"tex": "MAX\\_WAIT = 0.9ms",
+			"content": [
+				"MAX",
+				"WAIT",
+				"=",
+				"0.9ms"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 40,
+			"tex": "",
+			"content": [],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 39,
+			"tex": "NUM\\_OPS = 100",
+			"content": [
+				"NUM",
+				"OPS",
+				"=",
+				"100"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 7,
+			"tex": "WAITING\\_TIME=0.2ms",
+			"content": [
+				"WAITING",
+				"TIME=0.2ms"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 0,
+			"tex": "",
+			"content": [],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 32,
+			"tex": "",
+			"content": [],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "Sparc",
+			"content": [
+				"Sparc"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 37,
+			"tex": "NUM\\_OPS = 10,000",
+			"content": [
+				"NUM",
+				"OPS",
+				"=",
+				"10,000"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "CONTENTION\\_THRESHOLD=14",
+			"content": [
+				"CONTENTION",
+				"THRESHOLD=14"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 8,
+			"tex": "",
+			"content": [],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "Xeon",
+			"content": [
+				"Xeon"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "WAITING\\_TIME=0.8ms",
+			"content": [
+				"WAITING",
+				"TIME=0.8ms"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 15,
+			"tex": "c = 1",
+			"content": [
+				"c",
+				"=",
+				"1"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 10,
+			"tex": "EXP\\_THRESHOLD=2",
+			"content": [
+				"EXP",
+				"THRESHOLD=2"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 33,
+			"tex": "CONTENTION\\_THRESHOLD=2",
+			"content": [
+				"CONTENTION",
+				"THRESHOLD=2"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 38,
+			"tex": "NUM\\_OPS = 100,000",
+			"content": [
+				"NUM",
+				"OPS",
+				"=",
+				"100,000"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 27,
+			"tex": "NUM\\_OPS = 10",
+			"content": [
+				"NUM",
+				"OPS",
+				"=",
+				"10"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 31,
+			"tex": "MAX\\_WAIT = 1ms",
+			"content": [
+				"MAX",
+				"WAIT",
+				"=",
+				"1ms"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 50,
+			"tex": "SLICE = 25",
+			"content": [
+				"SLICE",
+				"=",
+				"25"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 25,
+			"tex": "NUM\\_OPS = 10,000",
+			"content": [
+				"NUM",
+				"OPS",
+				"=",
+				"10,000"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

@@ -1,0 +1,720 @@
+{
+	"cells": [
+		{
+			"id": 4,
+			"tex": "$\\mathtt{ASSIGN\\_CONSTANT}$",
+			"content": [
+				"ASSIGN",
+				"CONSTANT"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 30,
+			"tex": "$\\mathtt{LOCK}$",
+			"content": [
+				"LOCK"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "A call statement where the target of the call is known, \\emph{e.g.} CALL 0x603248;",
+			"content": [
+				"A",
+				"call",
+				"statement",
+				"where",
+				"the",
+				"target",
+				"of",
+				"the",
+				"call",
+				"is",
+				"known,",
+				"e.g.",
+				"CALL",
+				"0x603248;"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 33,
+			"tex": "A stack statement, \\emph{e.g.} $r_0$ = [$sp$ = $sp$ -- 0x1];",
+			"content": [
+				"A",
+				"stack",
+				"statement,",
+				"e.g.",
+				"r0",
+				"=",
+				"[sp",
+				"=",
+				"sp",
+				"\u2013",
+				"0x1];"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "$\\mathtt{HALT}$",
+			"content": [
+				"HALT"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "$\\mathtt{CONTROL\\_CONSTANT}$",
+			"content": [
+				"CONTROL",
+				"CONSTANT"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 29,
+			"tex": "A library call including a constant, \\emph{e.g.} compare($r_0$,0x10);",
+			"content": [
+				"A",
+				"library",
+				"call",
+				"including",
+				"a",
+				"constant,",
+				"e.g.",
+				"compare(r0,0x10);"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "A call statement where the target of the call is unknown, \\emph{e.g.} CALL $r_5$;",
+			"content": [
+				"A",
+				"call",
+				"statement",
+				"where",
+				"the",
+				"target",
+				"of",
+				"the",
+				"call",
+				"is",
+				"unknown,",
+				"e.g.",
+				"CALL",
+				"r5;"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "A jump statement where the target of the jump is unknown, \\emph{e.g.} JMP [$r_0$ + $r_5$ + 0x10];",
+			"content": [
+				"A",
+				"jump",
+				"statement",
+				"where",
+				"the",
+				"target",
+				"of",
+				"the",
+				"jump",
+				"is",
+				"unknown,",
+				"e.g.",
+				"JMP",
+				"[r0",
+				"+",
+				"r5",
+				"+",
+				"0x10];"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "\\textbf{Description}",
+			"content": [
+				"Description"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "$\\mathtt{FLAG\\_STACK}$",
+			"content": [
+				"FLAG",
+				"STACK"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "$\\mathtt{CALL\\_CONSTANT}$",
+			"content": [
+				"CALL",
+				"CONSTANT"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "\\textbf{Pattern}",
+			"content": [
+				"Pattern"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 32,
+			"tex": "$\\mathtt{STACK}$",
+			"content": [
+				"STACK"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 34,
+			"tex": "$\\mathtt{STACK\\_CONSTANT}$",
+			"content": [
+				"STACK",
+				"CONSTANT"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "$\\mathtt{JUMP}$",
+			"content": [
+				"JUMP"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "$\\mathtt{CALL}$",
+			"content": [
+				"CALL"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 38,
+			"tex": "$\\mathtt{TEST\\_CONSTANT}$",
+			"content": [
+				"TEST",
+				"CONSTANT"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "$\\mathtt{JUMP\\_STACK}$",
+			"content": [
+				"JUMP",
+				"STACK"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "$\\mathtt{LIBCALL}$",
+			"content": [
+				"LIBCALL"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "A statement including flag register with stack, \\emph{e.g.} $eflags$ = [$sp$ = $sp$ -- 0x1];",
+			"content": [
+				"A",
+				"statement",
+				"including",
+				"\ufb02ag",
+				"register",
+				"with",
+				"stack,",
+				"e.g.",
+				"ef",
+				"lags",
+				"=",
+				"[sp",
+				"=",
+				"sp",
+				"\u2013",
+				"0x1];"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 37,
+			"tex": "A test statement, \\emph{e.g.} $r_0$ and $r_5$;",
+			"content": [
+				"A",
+				"test",
+				"statement,",
+				"e.g.",
+				"r0",
+				"and",
+				"r5;"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "A halt statement, \\emph{e.g.} HALT;",
+			"content": [
+				"A",
+				"halt",
+				"statement,",
+				"e.g.",
+				"HALT;"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 39,
+			"tex": "A test statement including a constant, \\emph{e.g.} $r_0$ and 0x10;",
+			"content": [
+				"A",
+				"test",
+				"statement",
+				"including",
+				"a",
+				"constant,",
+				"e.g.",
+				"r0",
+				"and",
+				"0x10;"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 27,
+			"tex": "A library call, \\emph{e.g.} compare($r_0$,$r_5$);",
+			"content": [
+				"A",
+				"library",
+				"call,",
+				"e.g.",
+				"compare(r0,r5);"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 36,
+			"tex": "$\\mathtt{TEST}$",
+			"content": [
+				"TEST"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "A statement including a flag, \\emph{e.g.} $cf$ = 1;",
+			"content": [
+				"A",
+				"statement",
+				"including",
+				"a",
+				"\ufb02ag,",
+				"e.g.",
+				"cf",
+				"=",
+				"1;"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 43,
+			"tex": "The default pattern, \\emph{e.g.} all the new statements when created are assigned this default value.",
+			"content": [
+				"The",
+				"default",
+				"pattern,",
+				"e.g.",
+				"all",
+				"the",
+				"new",
+				"statements",
+				"when",
+				"created",
+				"are",
+				"assigned",
+				"this",
+				"default",
+				"value."
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 40,
+			"tex": "$\\mathtt{UNKNOWN}$",
+			"content": [
+				"UNKNOWN"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "A jump statement where the target of the jump is known, \\emph{e.g.} JMP 0x680376",
+			"content": [
+				"A",
+				"jump",
+				"statement",
+				"where",
+				"the",
+				"target",
+				"of",
+				"the",
+				"jump",
+				"is",
+				"known,",
+				"e.g.",
+				"JMP",
+				"0x680376"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 28,
+			"tex": "$\\mathtt{LIBCALL\\_CONSTANT}$",
+			"content": [
+				"LIBCALL",
+				"CONSTANT"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "An assignment statement including a constant, \\emph{e.g.} $r_0$ = $r_0$ + 0x01;",
+			"content": [
+				"An",
+				"assignment",
+				"statement",
+				"including",
+				"a",
+				"constant,",
+				"e.g.",
+				"r0",
+				"=",
+				"r0",
+				"+",
+				"0x01;"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "A control statement where the target of the jump is unknown, \\emph{e.g.} if (zf == 1) JMP [$r_0$ + $r_1$ + 0x10];",
+			"content": [
+				"A",
+				"control",
+				"statement",
+				"where",
+				"the",
+				"target",
+				"of",
+				"the",
+				"jump",
+				"is",
+				"unknown,",
+				"e.g.",
+				"if",
+				"(zf",
+				"==",
+				"1)",
+				"JMP",
+				"[r0",
+				"+",
+				"r1",
+				"+",
+				"0x10];"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "$\\mathtt{CONTROL}$",
+			"content": [
+				"CONTROL"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 25,
+			"tex": "A return jump, \\emph{e.g.} JMP [$sp$ = $sp$ -- 0x8]",
+			"content": [
+				"A",
+				"return",
+				"jump,",
+				"e.g.",
+				"JMP",
+				"[sp",
+				"=",
+				"sp",
+				"\u2013",
+				"0x8]"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 31,
+			"tex": "A lock statement, \\emph{e.g.} lock;",
+			"content": [
+				"A",
+				"lock",
+				"statement,",
+				"e.g.",
+				"lock;"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "$\\mathtt{FLAG}$",
+			"content": [
+				"FLAG"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 42,
+			"tex": "$\\mathtt{NOTDEFINED}$",
+			"content": [
+				"NOTDEFINED"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 41,
+			"tex": "Any unknown assembly instruction that cannot be translated.",
+			"content": [
+				"Any",
+				"unknown",
+				"assembly",
+				"instruction",
+				"that",
+				"cannot",
+				"be",
+				"translated."
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "$\\mathtt{JUMP\\_CONSTANT}$",
+			"content": [
+				"JUMP",
+				"CONSTANT"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "$\\mathtt{ASSIGN}$",
+			"content": [
+				"ASSIGN"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "An assignment statement, \\emph{e.g.} $r_0$ = $r_0$ + $r_1$;",
+			"content": [
+				"An",
+				"assignment",
+				"statement,",
+				"e.g.",
+				"r0",
+				"=",
+				"r0",
+				"+",
+				"r1;"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "A control statement where the target of the jump is known. \\emph{e.g.} if ($zf$ == 1) JMP 0x400567;",
+			"content": [
+				"A",
+				"control",
+				"statement",
+				"where",
+				"the",
+				"target",
+				"of",
+				"the",
+				"jump",
+				"is",
+				"known.",
+				"e.g.",
+				"if",
+				"(zf",
+				"==",
+				"1)",
+				"JMP",
+				"0x400567;"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 35,
+			"tex": "A stack statement including a constant, \\emph{e.g.} [$sp$ = $sp$ + 0x1] = 0x432516;",
+			"content": [
+				"A",
+				"stack",
+				"statement",
+				"including",
+				"a",
+				"constant,",
+				"e.g.",
+				"[sp",
+				"=",
+				"sp",
+				"+",
+				"0x1]",
+				"=",
+				"0x432516;"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

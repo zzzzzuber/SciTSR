@@ -1,0 +1,503 @@
+{
+	"cells": [
+		{
+			"id": 22,
+			"tex": "Email",
+			"content": [
+				"Email"
+			],
+			"start_row": 10,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "Number of records in repository",
+			"content": [
+				"Number",
+				"of",
+				"records",
+				"in",
+				"repository"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 7,
+			"tex": "Number of records added per day",
+			"content": [
+				"Number",
+				"of",
+				"records",
+				"added",
+				"per",
+				"day"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 8,
+			"tex": "$R_u$",
+			"content": [
+				"Ru"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 37,
+			"tex": "",
+			"content": [],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 32,
+			"tex": "Constant derived from Euler Zeta function",
+			"content": [
+				"Constant",
+				"derived",
+				"from",
+				"Euler",
+				"Zeta",
+				"function"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 11,
+			"tex": "$N_{ttl}$",
+			"content": [
+				"Nttl"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "News post time-to-live",
+			"content": [
+				"News",
+				"post",
+				"time-to-live"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 16,
+			"tex": "Records postable per day via news",
+			"content": [
+				"Records",
+				"postable",
+				"per",
+				"day",
+				"via",
+				"news"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 1,
+			"tex": "Repository",
+			"content": [
+				"Repository"
+			],
+			"start_row": 1,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "$S$",
+			"content": [
+				"S"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "$G$",
+			"content": [
+				"G"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 31,
+			"tex": "$c$",
+			"content": [
+				"c"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 25,
+			"tex": "$Q_{email}$",
+			"content": [
+				"Qemail"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 30,
+			"tex": "Rank of receiving domain",
+			"content": [
+				"Rank",
+				"of",
+				"receiving",
+				"domain"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 5,
+			"tex": "Mean size of records",
+			"content": [
+				"Mean",
+				"size",
+				"of",
+				"records"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 33,
+			"tex": "$b$",
+			"content": [
+				"b"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 28,
+			"tex": "Total number of records replicated using email",
+			"content": [
+				"Total",
+				"number",
+				"of",
+				"records",
+				"replicated",
+				"using",
+				"email"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 2,
+			"tex": "$R$",
+			"content": [
+				"R"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "$R_{\\overline{s}}$",
+			"content": [
+				"Rs"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 24,
+			"tex": "Granularity (records per email)",
+			"content": [
+				"Granularity",
+				"(records",
+				"per",
+				"email)"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 21,
+			"tex": "Total number of records replicated using news",
+			"content": [
+				"Total",
+				"number",
+				"of",
+				"records",
+				"replicated",
+				"using",
+				"news"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 27,
+			"tex": "$TR_{email}$",
+			"content": [
+				"T",
+				"Remail"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "$T_{news}$",
+			"content": [
+				"Tnews"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 26,
+			"tex": "Records postable per day via email",
+			"content": [
+				"Records",
+				"postable",
+				"per",
+				"day",
+				"via",
+				"email"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 38,
+			"tex": "",
+			"content": [],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 34,
+			"tex": "Power law exponent",
+			"content": [
+				"Power",
+				"law",
+				"exponent"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 9,
+			"tex": "Number of records updated per day",
+			"content": [
+				"Number",
+				"of",
+				"records",
+				"updated",
+				"per",
+				"day"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 10,
+			"tex": "Usenet",
+			"content": [
+				"Usenet"
+			],
+			"start_row": 5,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "$TR_{news}$",
+			"content": [
+				"T",
+				"Rnews"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "",
+			"content": [],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "$Q_{news}$",
+			"content": [
+				"Qnews"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 29,
+			"tex": "$\\kappa$",
+			"content": [
+				"\u03ba"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 35,
+			"tex": "$h$",
+			"content": [
+				"h"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "``Sleep'' time between baseline harvests",
+			"content": [
+				"\u201cSleep\u201d",
+				"time",
+				"between",
+				"baseline",
+				"harvests"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 0,
+			"tex": " ",
+			"content": [],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 2
+		},
+		{
+			"id": 36,
+			"tex": "History pointer",
+			"content": [
+				"History",
+				"pointer"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 39,
+			"tex": "",
+			"content": [],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 6,
+			"tex": "$R_a$",
+			"content": [
+				"Ra"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "Time in days to complete a baseline using news",
+			"content": [
+				"Time",
+				"in",
+				"days",
+				"to",
+				"complete",
+				"a",
+				"baseline",
+				"using",
+				"news"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		}
+	]
+}

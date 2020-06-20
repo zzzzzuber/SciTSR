@@ -1,0 +1,564 @@
+{
+	"cells": [
+		{
+			"id": 8,
+			"tex": "\\indent\\hspace{.2in}CON\\_INIT\\_ACK as acknowledgement",
+			"content": [
+				"CON",
+				"INIT",
+				"ACK",
+				"as",
+				"acknowledgement"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "\\indent\\hspace{.2in}format REQUEST followed by",
+			"content": [
+				"format",
+				"REQUEST",
+				"followed",
+				"by"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 37,
+			"tex": "\\indent\\hspace{.2in}from RDF model for every record.",
+			"content": [
+				"from",
+				"RDF",
+				"model",
+				"for",
+				"every",
+				"record."
+			],
+			"start_row": 37,
+			"end_row": 37,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "\\indent\\hspace{.2in}with REQUEST RDF\\_A(Request",
+			"content": [
+				"with",
+				"REQUEST",
+				"RDF",
+				"A(Request"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 36,
+			"tex": "\\indent\\hspace{.2in}unknown values interpreted",
+			"content": [
+				"unknown",
+				"values",
+				"interpreted"
+			],
+			"start_row": 36,
+			"end_row": 36,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "4. $Bob$ responds with CON\\_TERM\\_ACK as",
+			"content": [
+				"4.",
+				"Bob",
+				"responds",
+				"with",
+				"CON",
+				"TERM",
+				"ACK",
+				"as"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "5. $Alice$ reads the Meta data from",
+			"content": [
+				"5.",
+				"Alice",
+				"reads",
+				"the",
+				"Meta",
+				"data",
+				"from"
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "\\indent\\hspace{.2in}RDF\\_B(Request packet of the",
+			"content": [
+				"RDF",
+				"B(Request",
+				"packet",
+				"of",
+				"the"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 33,
+			"tex": "\\indent\\hspace{.2in}$Af^{\\rightarrow},Bf^{\\rightarrow}$ first stage",
+			"content": [
+				"Af\u2192,",
+				"Bf\u2192",
+				"\ufb01rst",
+				"stage"
+			],
+			"start_row": 33,
+			"end_row": 33,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 28,
+			"tex": "\\indent\\hspace{.2in}data for unknown attributes.",
+			"content": [
+				"data",
+				"for",
+				"unknown",
+				"attributes."
+			],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "\\indent\\hspace{.2in}CON\\_INIT(Connection Initialization",
+			"content": [
+				"CON",
+				"INIT(Connection",
+				"Initialization"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "\\indent\\hspace{.2in}RDF\\_B of $Bob$ using REQUEST",
+			"content": [
+				"RDF",
+				"B",
+				"of",
+				"Bob",
+				"using",
+				"REQUEST"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "\\indent\\hspace{.2in}termination request using CON\\_TERM.",
+			"content": [
+				"termination",
+				"request",
+				"using",
+				"CON",
+				"TERM."
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "\\indent\\hspace{.2in}RDF\\_B\\_URL and predicts the",
+			"content": [
+				"RDF",
+				"B",
+				"URL",
+				"and",
+				"predicts",
+				"the"
+			],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "\\indent\\hspace{.2in}RDF\\_A\\_URL and piggyback the",
+			"content": [
+				"RDF",
+				"A",
+				"URL",
+				"and",
+				"piggyback",
+				"the"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "{\\bf Output:}",
+			"content": [
+				"Output:"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "\\indent\\hspace{.2in}RDF filename) and $Bob$ responds",
+			"content": [
+				"RDF",
+				"\ufb01lename)",
+				"and",
+				"Bob",
+				"responds"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 32,
+			"tex": "7. $Alice$ and $Bob$ produces",
+			"content": [
+				"7.",
+				"Alice",
+				"and",
+				"Bob",
+				"produces"
+			],
+			"start_row": 32,
+			"end_row": 32,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "{\\bf Input:}",
+			"content": [
+				"Input:"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "\\indent\\hspace{.2in}Segment)and $Bob$ responds with",
+			"content": [
+				"Segment)and",
+				"Bob",
+				"responds",
+				"with"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 25,
+			"tex": "\\indent\\hspace{.2in}acknowledgement for closing connection.",
+			"content": [
+				"acknowledgement",
+				"for",
+				"closing",
+				"connection."
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 30,
+			"tex": "\\indent\\hspace{.2in}RDF\\_A\\_URL and predicts the",
+			"content": [
+				"RDF",
+				"A",
+				"URL",
+				"and",
+				"predicts",
+				"the"
+			],
+			"start_row": 30,
+			"end_row": 30,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "\\indent\\hspace{.2in}for $Alice$ RDF location).",
+			"content": [
+				"for",
+				"Alice",
+				"RDF",
+				"location)."
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 35,
+			"tex": "\\indent\\hspace{.2in}of known attributes with the",
+			"content": [
+				"of",
+				"known",
+				"attributes",
+				"with",
+				"the"
+			],
+			"start_row": 35,
+			"end_row": 35,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "\\indent\\hspace{.2in}\nfor CON\\_INIT.",
+			"content": [
+				"for",
+				"CON",
+				"INIT."
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "{\\bf Process:}",
+			"content": [
+				"Process:"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 34,
+			"tex": "\\indent\\hspace{.2in}vectors by summing up the values",
+			"content": [
+				"vectors",
+				"by",
+				"summing",
+				"up",
+				"the",
+				"values"
+			],
+			"start_row": 34,
+			"end_row": 34,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "RDF\\_A, RDF\\_B",
+			"content": [
+				"RDF",
+				"A,",
+				"RDF",
+				"B"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "3. $Alice$ responds with the location",
+			"content": [
+				"3.",
+				"Alice",
+				"responds",
+				"with",
+				"the",
+				"location"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "\\indent\\hspace{.2in}and $Bob$ also piggy back the response",
+			"content": [
+				"and",
+				"Bob",
+				"also",
+				"piggy",
+				"back",
+				"the",
+				"response"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "\\indent\\hspace{.2in}responds with the location of RDF)",
+			"content": [
+				"responds",
+				"with",
+				"the",
+				"location",
+				"of",
+				"RDF)"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "$Af^{\\rightarrow},Bf^{\\rightarrow}$",
+			"content": [
+				"Af\u2192,",
+				"Bf\u2192"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "1. $Alice$ initiates communication using",
+			"content": [
+				"1.",
+				"Alice",
+				"initiates",
+				"communication",
+				"using"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "\\indent\\hspace{.2in}of RDF\\_A with the packet RESPONSE",
+			"content": [
+				"of",
+				"RDF",
+				"A",
+				"with",
+				"the",
+				"packet",
+				"RESPONSE"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "2. $Alice$ request for location of",
+			"content": [
+				"2.",
+				"Alice",
+				"request",
+				"for",
+				"location",
+				"of"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "\\indent\\hspace{.2in}with RESPONSE RDF\\_B\\_URL($Bob$",
+			"content": [
+				"with",
+				"RESPONSE",
+				"RDF",
+				"B",
+				"URL(Bob"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 31,
+			"tex": "\\indent\\hspace{.2in}data for unknown attributes.",
+			"content": [
+				"data",
+				"for",
+				"unknown",
+				"attributes."
+			],
+			"start_row": 31,
+			"end_row": 31,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 29,
+			"tex": "6. $Bob$ reads the Meta Data from",
+			"content": [
+				"6.",
+				"Bob",
+				"reads",
+				"the",
+				"Meta",
+				"Data",
+				"from"
+			],
+			"start_row": 29,
+			"end_row": 29,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

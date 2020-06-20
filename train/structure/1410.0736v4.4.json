@@ -1,0 +1,138 @@
+{
+	"cells": [
+		{
+			"id": 8,
+			"tex": "Base:ImageNet-VGG-16-layer,dense",
+			"content": [
+				"Base:ImageNet-VGG-16-layer,dense"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "$24.0$,$7.1$",
+			"content": [
+				"24.0,7.1"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "top-1, top-5",
+			"content": [
+				"top-1,",
+				"top-5"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "$\\mathbf{23.69}$,$\\mathbf{6.76}$",
+			"content": [
+				"23.69,6.76"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "VGG-16-layer+VGG-19-layer,dense",
+			"content": [
+				"VGG-16-layer+VGG-19-layer,dense"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "N/A,$7.9$",
+			"content": [
+				"N/A,7.9"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "$24.79$,$7.50$",
+			"content": [
+				"24.79,7.50"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "GoogLeNet,multi-crop~",
+			"content": [
+				"GoogLeNet,multi-crop"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "\\textbf{HD-CNN,dense}",
+			"content": [
+				"HD-CNN,dense"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "Method",
+			"content": [
+				"Method"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "$24.8$,$7.5$",
+			"content": [
+				"24.8,7.5"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "VGG-19-layer, dense~",
+			"content": [
+				"VGG-19-layer,",
+				"dense"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

@@ -1,0 +1,555 @@
+{
+	"cells": [
+		{
+			"id": 20,
+			"tex": "\\indent\\hspace{.1in} record criteria.",
+			"content": [
+				"record",
+				"criteria."
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 25,
+			"tex": "\\indent\\hspace{.1in}$RDF < R_i, Rel_j, Val_j > $ = form RDF",
+			"content": [
+				"RDF",
+				"<",
+				"Ri,",
+				"Relj,",
+				"V",
+				"alj",
+				">",
+				"=",
+				"form",
+				"RDF"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "\\indent\\hspace{.1in}triple with subject as record identifier ,",
+			"content": [
+				"triple",
+				"with",
+				"subject",
+				"as",
+				"record",
+				"identi\ufb01er",
+				","
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "{\\bf do}",
+			"content": [
+				"do"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 35,
+			"tex": "{\\bf done}",
+			"content": [
+				"done"
+			],
+			"start_row": 35,
+			"end_row": 35,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 33,
+			"tex": "5. Repeat the above process $i.e.,$ step 4",
+			"content": [
+				"5.",
+				"Repeat",
+				"the",
+				"above",
+				"process",
+				"i.e.,",
+				"step",
+				"4"
+			],
+			"start_row": 33,
+			"end_row": 33,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "2. RDF\\_B ;$Bob$ department RDF for $Alice$",
+			"content": [
+				"2.",
+				"RDF",
+				"B",
+				";Bob",
+				"department",
+				"RDF",
+				"for",
+				"Alice"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "{\\bf do}",
+			"content": [
+				"do"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 32,
+			"tex": "{\\bf done}",
+			"content": [
+				"done"
+			],
+			"start_row": 32,
+			"end_row": 32,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "\\indent\\hspace{.1in} $j^{th}$ attribute.Val\\_j=max\\_attr\\_{j}+ df ;",
+			"content": [
+				"jth",
+				"attribute.Val",
+				"j=max",
+				"attr",
+				"j+",
+				"df",
+				";"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 28,
+			"tex": "\\indent\\hspace{.1in}defining the context between subject .",
+			"content": [
+				"de\ufb01ning",
+				"the",
+				"context",
+				"between",
+				"subject",
+				"."
+			],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 34,
+			"tex": "\\indent\\hspace{.1in}for $RDF\\_Mod$ set to $RDF\\_B$.",
+			"content": [
+				"for",
+				"RDF",
+				"M",
+				"od",
+				"set",
+				"to",
+				"RDF",
+				"B."
+			],
+			"start_row": 34,
+			"end_row": 34,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 30,
+			"tex": "\\indent\\hspace{.1in}$RDF < R_i,{Rel}_j,{Val}_j> $",
+			"content": [
+				"RDF",
+				"<",
+				"Ri,",
+				"Relj,",
+				"V",
+				"alj",
+				">"
+			],
+			"start_row": 30,
+			"end_row": 30,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "2. attributes=list of attributes of data\\_set",
+			"content": [
+				"2.",
+				"attributes=list",
+				"of",
+				"attributes",
+				"of",
+				"data",
+				"set"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "{\\bf Output:}",
+			"content": [
+				"Output:"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "\\indent\\hspace{.1in} $Ontology\\_mod$ corresponding to the",
+			"content": [
+				"Ontology",
+				"mod",
+				"corresponding",
+				"to",
+				"the"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "2. Xa ; $Alice$ partitioned data",
+			"content": [
+				"2.",
+				"Xa",
+				";",
+				"Alice",
+				"partitioned",
+				"data"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "\\indent\\hspace{.1in} which the original data is generalized",
+			"content": [
+				"which",
+				"the",
+				"original",
+				"data",
+				"is",
+				"generalized"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "1. Ontology\\_mod ; common Ontology",
+			"content": [
+				"1.",
+				"Ontology",
+				"mod",
+				";",
+				"common",
+				"Ontology"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "\\indent\\hspace{.1in} $j^{th}$ attribute depending on the",
+			"content": [
+				"jth",
+				"attribute",
+				"depending",
+				"on",
+				"the"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "\\indent\\hspace{.1in}object as $Val_j$ and $Rel_j$ as predicate",
+			"content": [
+				"object",
+				"as",
+				"V",
+				"alj",
+				"and",
+				"Relj",
+				"as",
+				"predicate"
+			],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "\\indent\\hspace{.1in}generalize the value using disguising factor.",
+			"content": [
+				"generalize",
+				"the",
+				"value",
+				"using",
+				"disguising",
+				"factor."
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "\\indent\\hspace{.1in}model used by all parties",
+			"content": [
+				"model",
+				"used",
+				"by",
+				"all",
+				"parties"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 29,
+			"tex": "\\indent\\hspace{.1in}and Object. $RDF\\_Mod=RDF\\_Mod \\cap $",
+			"content": [
+				"and",
+				"Object.",
+				"RDF",
+				"M",
+				"od",
+				"=",
+				"RDF",
+				"M",
+				"od\u2229"
+			],
+			"start_row": 29,
+			"end_row": 29,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "3. Xb ; $Bob$ partitioned data",
+			"content": [
+				"3.",
+				"Xb",
+				";",
+				"Bob",
+				"partitioned",
+				"data"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "{\\bf Input:}",
+			"content": [
+				"Input:"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "1. RDF\\_A ;$Alice$ Department RDF for $Bob$",
+			"content": [
+				"1.",
+				"RDF",
+				"A",
+				";Alice",
+				"Department",
+				"RDF",
+				"for",
+				"Bob"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "1. data\\_set=Xa;",
+			"content": [
+				"1.",
+				"data",
+				"set=Xa;"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "3. RDF\\_Mod=RDF\\_A",
+			"content": [
+				"3.",
+				"RDF",
+				"Mod=RDF",
+				"A"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "\\indent\\hspace{.1in}$max\\_attr_j$ = get the max value of",
+			"content": [
+				"max",
+				"attrj",
+				"=",
+				"get",
+				"the",
+				"max",
+				"value",
+				"of"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 31,
+			"tex": "{\\bf done}",
+			"content": [
+				"done"
+			],
+			"start_row": 31,
+			"end_row": 31,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "\\indent\\hspace{.1in} and first element is always record identifier.",
+			"content": [
+				"and",
+				"\ufb01rst",
+				"element",
+				"is",
+				"always",
+				"record",
+				"identi\ufb01er."
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "4. df ; Disguising factor is a factor by",
+			"content": [
+				"4.",
+				"df",
+				";",
+				"Disguising",
+				"factor",
+				"is",
+				"a",
+				"factor",
+				"by"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "\\indent\\hspace{.1in} $Rel_j$ = find the relation from",
+			"content": [
+				"Relj",
+				"=",
+				"\ufb01nd",
+				"the",
+				"relation",
+				"from"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "{\\bf Process:}",
+			"content": [
+				"Process:"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "\\indent\\hspace{.1in} R\\_i= data\\_set\\{ 0 \\};",
+			"content": [
+				"R",
+				"i=",
+				"data",
+				"set{",
+				"0",
+				"};"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

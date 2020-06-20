@@ -1,0 +1,448 @@
+{
+	"cells": [
+		{
+			"id": 20,
+			"tex": "$r_i(\\mathbf{a})$",
+			"content": [
+				"ri(a)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "$\\beta^k_w$",
+			"content": [
+				"\u03b2k",
+				"w"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 18,
+			"tex": "$\\mathbf{a}_{-i}$",
+			"content": [
+				"a\u2212i"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 10,
+			"tex": "$p^k_w$",
+			"content": [
+				"pk",
+				"w"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 26,
+			"tex": "$\\mathcal{N}_w(\\mathbf{a})$",
+			"content": [
+				"Nw(a)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 27,
+			"tex": "The set of users\nassociated\nto BS $w$",
+			"content": [
+				"The",
+				"set",
+				"of",
+				"users",
+				"associated",
+				"to",
+				"BS",
+				"w"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 29,
+			"tex": "The utility of user $i$",
+			"content": [
+				"The",
+				"utility",
+				"of",
+				"user",
+				"i"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 30,
+			"tex": "$T_i(\\mathbf{a})$",
+			"content": [
+				"Ti(a)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 16,
+			"tex": "$\\mathbf{a}$",
+			"content": [
+				"a"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "$R(\\mathbf{a})$",
+			"content": [
+				"R(a)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "The channel gain of user $i$ on channel $k$",
+			"content": [
+				"The",
+				"channel",
+				"gain",
+				"of",
+				"user",
+				"i",
+				"on",
+				"channel",
+				"k"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "$\\mathcal{K}_w$",
+			"content": [
+				"Kw"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 7,
+			"tex": "The\nset of channels belongs to BS $w$",
+			"content": [
+				"The",
+				"set",
+				"of",
+				"channels",
+				"belongs",
+				"to",
+				"BS",
+				"w"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 5,
+			"tex": "The set of all channels",
+			"content": [
+				"The",
+				"set",
+				"of",
+				"all",
+				"channels"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "$|h^k_i|^2$",
+			"content": [
+				"|hk",
+				"i",
+				"|2"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 31,
+			"tex": "The tax imposed on user $i$",
+			"content": [
+				"The",
+				"tax",
+				"imposed",
+				"on",
+				"user",
+				"i"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 13,
+			"tex": "The power budget for BS $w$",
+			"content": [
+				"The",
+				"power",
+				"budget",
+				"for",
+				"BS",
+				"w"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "$\\bar{p}_w$",
+			"content": [
+				"\u00afpw"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "$\\mathcal{W}$",
+			"content": [
+				"W"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 3,
+			"tex": "The set of all BSs",
+			"content": [
+				"The",
+				"set",
+				"of",
+				"all",
+				"BSs"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 0,
+			"tex": "$\\mathcal{N}$",
+			"content": [
+				"N"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "The rate assigned to user $i$",
+			"content": [
+				"The",
+				"rate",
+				"assigned",
+				"to",
+				"user",
+				"i"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "The association profile without user $i$",
+			"content": [
+				"The",
+				"association",
+				"pro\ufb01le",
+				"without",
+				"user",
+				"i"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 22,
+			"tex": "$R_w(\\mathbf{a})$",
+			"content": [
+				"Rw(a)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 23,
+			"tex": "The optimal\nthroughput of BS $w$ under $\\mathbf{a}$",
+			"content": [
+				"The",
+				"optimal",
+				"throughput",
+				"of",
+				"BS",
+				"w",
+				"under",
+				"a"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 17,
+			"tex": "The association\nprofile",
+			"content": [
+				"The",
+				"association",
+				"pro\ufb01le"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "The set of all users",
+			"content": [
+				"The",
+				"set",
+				"of",
+				"all",
+				"users"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "The user assignment of BS $w$ on channel $k$",
+			"content": [
+				"The",
+				"user",
+				"assignment",
+				"of",
+				"BS",
+				"w",
+				"on",
+				"channel",
+				"k"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 25,
+			"tex": "The optimal system throughput under\n$\\mathbf{a}$",
+			"content": [
+				"The",
+				"optimal",
+				"system",
+				"throughput",
+				"under",
+				"a"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 28,
+			"tex": "$U_i(\\mathbf{a})$",
+			"content": [
+				"Ui(a)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "$\\mathcal{K}$",
+			"content": [
+				"K"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "The transmit power of BS $w$ on channel $k$",
+			"content": [
+				"The",
+				"transmit",
+				"power",
+				"of",
+				"BS",
+				"w",
+				"on",
+				"channel",
+				"k"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		}
+	]
+}

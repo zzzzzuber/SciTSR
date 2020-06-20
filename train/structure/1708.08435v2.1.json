@@ -1,0 +1,191 @@
+{
+	"cells": [
+		{
+			"id": 11,
+			"tex": "User-7 caches \\textit{web\\_sales} table just \\textit{before} $Q_{43}$ starts.",
+			"content": [
+				"User-7",
+				"caches",
+				"web",
+				"sales",
+				"table",
+				"just",
+				"before",
+				"Q43",
+				"starts."
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "We inject a CPU-intensive custom query in a seperate Spark application instance.",
+			"content": [
+				"We",
+				"inject",
+				"a",
+				"CPU-intensive",
+				"custom",
+				"query",
+				"in",
+				"a",
+				"seperate",
+				"Spark",
+				"application",
+				"instance."
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "Detail",
+			"content": [
+				"Detail"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "CPU-Internal",
+			"content": [
+				"CPU-Internal"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "Memory-Internal",
+			"content": [
+				"Memory-Internal"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "Test-Case",
+			"content": [
+				"Test-Case"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "User-7 submits a CPU-intensive custom SparkSQL query just \\textit{after} $Q_{43}$ starts.",
+			"content": [
+				"User-7",
+				"submits",
+				"a",
+				"CPU-intensive",
+				"custom",
+				"SparkSQL",
+				"query",
+				"just",
+				"after",
+				"Q43",
+				"starts."
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "CPU-External",
+			"content": [
+				"CPU-External"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "A large 60GB file is read in 256MB block size on every host just \\textit{after} $Q_{43}$ starts.",
+			"content": [
+				"A",
+				"large",
+				"60GB",
+				"\ufb01le",
+				"is",
+				"read",
+				"in",
+				"256MB",
+				"block",
+				"size",
+				"on",
+				"every",
+				"host",
+				"just",
+				"after",
+				"Q43",
+				"starts."
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "User-7 submits a IO-intensive custom SparkSQL query at a random time.",
+			"content": [
+				"User-7",
+				"submits",
+				"a",
+				"IO-intensive",
+				"custom",
+				"SparkSQL",
+				"query",
+				"at",
+				"a",
+				"random",
+				"time."
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "IO-Internal",
+			"content": [
+				"IO-Internal"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "IO-External",
+			"content": [
+				"IO-External"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

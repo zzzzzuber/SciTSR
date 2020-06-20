@@ -1,0 +1,212 @@
+{
+	"cells": [
+		{
+			"id": 17,
+			"tex": "($\\bot$,Xf1dc)",
+			"content": [
+				"(\u22a5,Xf1dc)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 7,
+			"tex": "($\\bot$,X276c)",
+			"content": [
+				"(\u22a5,X276c)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "L3: mov r4,a",
+			"content": [
+				"L3:",
+				"mov",
+				"r4,a"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "($\\bot$,X276c)",
+			"content": [
+				"(\u22a5,X276c)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "(X276c,$\\bot$)",
+			"content": [
+				"(X276c,\u22a5)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 15,
+			"tex": "L5: movx @dptr,a",
+			"content": [
+				"L5:",
+				"movx",
+				"@dptr,a"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "{\\bf Source}",
+			"content": [
+				"Source"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "L1: mov dptr,\\#X276c",
+			"content": [
+				"L1:",
+				"mov",
+				"dptr,#X276c"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "($\\bot$,X276c)",
+			"content": [
+				"(\u22a5,X276c)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 11,
+			"tex": "($\\bot$,X276c)",
+			"content": [
+				"(\u22a5,X276c)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 6,
+			"tex": "L2: movc a,@dptr",
+			"content": [
+				"L2:",
+				"movc",
+				"a,@dptr"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "L4: mov dptr,\\#Xf1dc",
+			"content": [
+				"L4:",
+				"mov",
+				"dptr,#Xf1dc"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "(Xf1dc,$\\bot$)",
+			"content": [
+				"(Xf1dc,\u22a5)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 2,
+			"tex": "{\\bf Destination}",
+			"content": [
+				"Destination"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 13,
+			"tex": "NA",
+			"content": [
+				"NA"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "($\\bot$,X276c)",
+			"content": [
+				"(\u22a5,X276c)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "{\\bf Instruction}",
+			"content": [
+				"Instruction"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "NA",
+			"content": [
+				"NA"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

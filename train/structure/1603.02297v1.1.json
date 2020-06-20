@@ -1,0 +1,319 @@
+{
+	"cells": [
+		{
+			"id": 12,
+			"tex": "\\texttt{--lda=<size1>,<size2>,$\\dots$}",
+			"content": [
+				"--lda=<size1>,<size2>,.",
+				".",
+				"."
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "Description",
+			"content": [
+				"Description"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "Argument",
+			"content": [
+				"Argument"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "\\texttt{--dataType=<s,d,c,z,sd,ds,cz,zc>}",
+			"content": [
+				"--dataType=<s,d,c,z,sd,ds,cz,zc>"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "size of each index$^*$",
+			"content": [
+				"size",
+				"of",
+				"each",
+				"index\u2217"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "leading dimension of each index of $A$",
+			"content": [
+				"leading",
+				"dimension",
+				"of",
+				"each",
+				"index",
+				"of",
+				"A"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "\\texttt{--perm=<index1>,<index2>,$\\dots$}",
+			"content": [
+				"--perm=<index1>,<index2>,.",
+				".",
+				"."
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "\\texttt{--beta=<value>}",
+			"content": [
+				"--beta=<value>"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "\\texttt{--blockings=<H$\\times$W>,$\\dots$}",
+			"content": [
+				"--blockings=<H\u00d7W>,.",
+				".",
+				"."
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "\\texttt{--ldb=<size1>,<size2>,$\\dots$}",
+			"content": [
+				"--ldb=<size1>,<size2>,.",
+				".",
+				"."
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "leading dimension of each index of $B$",
+			"content": [
+				"leading",
+				"dimension",
+				"of",
+				"each",
+				"index",
+				"of",
+				"B"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "block sizes to be explored",
+			"content": [
+				"block",
+				"sizes",
+				"to",
+				"be",
+				"explored"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "alpha (default: 1.0)",
+			"content": [
+				"alpha",
+				"(default:",
+				"1.0)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "data type of $A$ and $B$ (default:\n\\texttt{s})",
+			"content": [
+				"data",
+				"type",
+				"of",
+				"A",
+				"and",
+				"B",
+				"(default:",
+				"s)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "\\texttt{--no-streaming-stores}",
+			"content": [
+				"--no-streaming-stores"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "max \\#implementations (default: 200)",
+			"content": [
+				"max",
+				"#implementations",
+				"(default:",
+				"200)"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "\\texttt{--maxImplementations=<value>}",
+			"content": [
+				"--maxImplementations=<value>"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "beta (default: 0.0)",
+			"content": [
+				"beta",
+				"(default:",
+				"0.0)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "\\texttt{--size=<size1>,<size2>,$\\dots$}",
+			"content": [
+				"--size=<size1>,<size2>,.",
+				".",
+				"."
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "permutation$^*$",
+			"content": [
+				"permutation\u2217"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "\\texttt{--prefetchDistances=<value>,$\\dots$}",
+			"content": [
+				"--prefetchDistances=<value>,.",
+				".",
+				"."
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "allowed prefetch distances",
+			"content": [
+				"allowed",
+				"prefetch",
+				"distances"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "\\texttt{--alpha=<value>}",
+			"content": [
+				"--alpha=<value>"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "disable non-temporal stores (default: off)",
+			"content": [
+				"disable",
+				"non-temporal",
+				"stores",
+				"(default:",
+				"o\ufb00)"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

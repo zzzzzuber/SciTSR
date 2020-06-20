@@ -1,0 +1,373 @@
+{
+	"cells": [
+		{
+			"id": 14,
+			"tex": "$0.11$",
+			"content": [
+				"0.11"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "$0.04$",
+			"content": [
+				"0.04"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "$0.04$",
+			"content": [
+				"0.04"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "$0.02$",
+			"content": [
+				"0.02"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "$\\textit{category}(\\textit{pap:A},\\textit{cat:enc\\_compr})$",
+			"content": [
+				"category(pap:A,",
+				"cat:enc",
+				"compr)"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "$\\neg \\textit{refers}(\\textit{pap:A},\\textit{pap:B}) \\vee \\textit{category}(\\textit{pap:A},\\textit{cat:C}) \\vee \\neg \\textit{category}(\\textit{pap:B},\\textit{cat:C})$",
+			"content": [
+				"\u00acrefers(pap:A,",
+				"pap:B)",
+				"\u2228",
+				"category(pap:A,",
+				"cat:C)",
+				"\u2228",
+				"\u00accategory(pap:B,",
+				"cat:C)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "$2$",
+			"content": [
+				"2"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "$\\textit{category}(\\textit{pap:A},\\textit{cat:ds\\_alg})$",
+			"content": [
+				"category(pap:A,",
+				"cat:ds",
+				"alg)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 26,
+			"tex": "$0.06$",
+			"content": [
+				"0.06"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "$0.14$",
+			"content": [
+				"0.14"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "$1$",
+			"content": [
+				"1"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "$\\textit{category}(\\textit{pap:A},\\textit{cat:ir})$",
+			"content": [
+				"category(pap:A,",
+				"cat:ir)"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "$\\textit{category}(\\textit{pap:A},\\textit{cat:hw\\_arch})$",
+			"content": [
+				"category(pap:A,",
+				"cat:hw",
+				"arch)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "$\\textit{category}(\\textit{pap:A},\\textit{cat:db})$",
+			"content": [
+				"category(pap:A,",
+				"cat:db)"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 28,
+			"tex": "$\\infty$",
+			"content": [
+				"\u221e"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 29,
+			"tex": "$\\textit{eq}(\\textit{cat:B},\\textit{cat:C}) \\vee \\neg \\textit{category}(\\textit{pap:A},\\textit{cat:C}) \\vee \\neg \\textit{category}(\\textit{pap:A},\\textit{cat:B})$",
+			"content": [
+				"eq(cat:B,",
+				"cat:C)",
+				"\u2228",
+				"\u00accategory(pap:A,",
+				"cat:C)",
+				"\u2228",
+				"\u00accategory(pap:A,",
+				"cat:B)"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "$\\textit{category}(\\textit{pap:A},\\textit{cat:os})$",
+			"content": [
+				"category(pap:A,",
+				"cat:os)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "$-3$",
+			"content": [
+				"\u22123"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "$\\textit{category}(\\textit{pap:A},\\textit{cat:prog})$",
+			"content": [
+				"category(pap:A,",
+				"cat:prog)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 24,
+			"tex": "$0.06$",
+			"content": [
+				"0.06"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "$\\neg \\textit{wrote}(\\textit{per:A},\\textit{pap:C}) \\vee \\neg \\textit{wrote}(\\textit{per:A},\\textit{pap:B}) \\vee \\textit{category}(\\textit{pap:C},\\textit{cat:D}) \\vee \\neg \\textit{category}(\\textit{pap:B},\\textit{cat:D})$",
+			"content": [
+				"\u00acwrote(per:A,",
+				"pap:C)\u2228\u00acwrote(per:A,",
+				"pap:B)\u2228category(pap:C,",
+				"cat:D)\u2228\u00accategory(pap:B,",
+				"cat:D)"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "$\\textit{category}(\\textit{pap:A},\\textit{cat:net})$",
+			"content": [
+				"category(pap:A,",
+				"cat:net)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "$0.05$",
+			"content": [
+				"0.05"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "$\\textit{category}(\\textit{pap:A},\\textit{cat:ai})$",
+			"content": [
+				"category(pap:A,",
+				"cat:ai)"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 27,
+			"tex": "$\\textit{category}(\\textit{pap:A},\\textit{cat:net})$",
+			"content": [
+				"category(pap:A,",
+				"cat:net)"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "$0.09$",
+			"content": [
+				"0.09"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "$0.39$",
+			"content": [
+				"0.39"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 25,
+			"tex": "$\\textit{category}(\\textit{pap:A},\\textit{cat:hci})$",
+			"content": [
+				"category(pap:A,",
+				"cat:hci)"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "$\\neg \\textit{refers}(\\textit{pap:A},\\textit{pap:B}) \\vee \\textit{category}(\\textit{pap:B},\\textit{cat:C}) \\vee \\neg \\textit{category}(\\textit{pap:A},\\textit{cat:C})$",
+			"content": [
+				"\u00acrefers(pap:A,",
+				"pap:B)",
+				"\u2228",
+				"category(pap:B,",
+				"cat:C)",
+				"\u2228",
+				"\u00accategory(pap:A,",
+				"cat:C)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "$2$",
+			"content": [
+				"2"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

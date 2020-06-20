@@ -1,0 +1,809 @@
+{
+	"cells": [
+		{
+			"id": 27,
+			"tex": "GFK",
+			"content": [
+				"GFK"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 44,
+			"tex": "65.9 $\\pm$ 4.9",
+			"content": [
+				"65.9",
+				"\u00b1",
+				"4.9"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 8,
+			"end_col": 8
+		},
+		{
+			"id": 4,
+			"tex": "A $\\rightarrow$ W",
+			"content": [
+				"A",
+				"\u2192",
+				"W"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 21,
+			"tex": "37.7 $\\pm$ 0.5",
+			"content": [
+				"37.7",
+				"\u00b1",
+				"0.5"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 52,
+			"tex": "48.9 $\\pm$ 3.8",
+			"content": [
+				"48.9",
+				"\u00b1",
+				"3.8"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 41,
+			"tex": "22.9 $\\pm$ 2.6",
+			"content": [
+				"22.9",
+				"\u00b1",
+				"2.6"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 13,
+			"tex": "36.0 $\\pm$ 1.0",
+			"content": [
+				"36.0",
+				"\u00b1",
+				"1.0"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 32,
+			"tex": "32.8 $\\pm$ 0.1",
+			"content": [
+				"32.8",
+				"\u00b1",
+				"0.1"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 1,
+			"tex": "C $\\rightarrow$ A",
+			"content": [
+				"C",
+				"\u2192",
+				"A"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 42,
+			"tex": "41.1 $\\pm$ 2.6",
+			"content": [
+				"41.1",
+				"\u00b1",
+				"2.6"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 9,
+			"tex": "Metric",
+			"content": [
+				"Metric"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 34,
+			"tex": "46.2 $\\pm$ 0.6",
+			"content": [
+				"46.2",
+				"\u00b1",
+				"0.6"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 60,
+			"tex": "\\bf{53.1 $\\pm$ 4.0}",
+			"content": [
+				"53.1",
+				"\u00b1",
+				"4.0"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 23,
+			"tex": "29.2 $\\pm$ 0.7",
+			"content": [
+				"29.2",
+				"\u00b1",
+				"0.7"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 12,
+			"tex": "27.3 $\\pm$ 0.7",
+			"content": [
+				"27.3",
+				"\u00b1",
+				"0.7"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 38,
+			"tex": "55.0 $\\pm$ 2.8",
+			"content": [
+				"55.0",
+				"\u00b1",
+				"2.8"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 25,
+			"tex": "39.2 $\\pm$ 0.7",
+			"content": [
+				"39.2",
+				"\u00b1",
+				"0.7"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 48,
+			"tex": "27.4 $\\pm$ 2.4",
+			"content": [
+				"27.4",
+				"\u00b1",
+				"2.4"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 29,
+			"tex": "55.0 $\\pm$ 0.9",
+			"content": [
+				"55.0",
+				"\u00b1",
+				"0.9"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 7,
+			"tex": "D $\\rightarrow$ A",
+			"content": [
+				"D",
+				"\u2192",
+				"A"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 36,
+			"tex": "FDDL",
+			"content": [
+				"FDDL"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 31,
+			"tex": "56.9 $\\pm$ 1.0",
+			"content": [
+				"56.9",
+				"\u00b1",
+				"1.0"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 22,
+			"tex": "37.9 $\\pm$ 0.7",
+			"content": [
+				"37.9",
+				"\u00b1",
+				"0.7"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 54,
+			"tex": "Ours",
+			"content": [
+				"Ours"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 37,
+			"tex": "39.3 $\\pm$ 2.9",
+			"content": [
+				"39.3",
+				"\u00b1",
+				"2.9"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 45,
+			"tex": "SDDL",
+			"content": [
+				"SDDL"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 53,
+			"tex": "72.6 $\\pm$ 2.1",
+			"content": [
+				"72.6",
+				"\u00b1",
+				"2.1"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 8,
+			"end_col": 8
+		},
+		{
+			"id": 26,
+			"tex": "69.5 $\\pm$ 0.9",
+			"content": [
+				"69.5",
+				"\u00b1",
+				"0.9"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 8,
+			"end_col": 8
+		},
+		{
+			"id": 49,
+			"tex": "72.0 $\\pm$ 4.8",
+			"content": [
+				"72.0",
+				"\u00b1",
+				"4.8"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 50,
+			"tex": "29.7 $\\pm$ 1.9",
+			"content": [
+				"29.7",
+				"\u00b1",
+				"1.9"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 35,
+			"tex": "\\bf{80.2 $\\pm$ 0.4}",
+			"content": [
+				"80.2",
+				"\u00b1",
+				"0.4"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 8,
+			"end_col": 8
+		},
+		{
+			"id": 11,
+			"tex": "35.0 $\\pm$ 1.1",
+			"content": [
+				"35.0",
+				"\u00b1",
+				"1.1"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 62,
+			"tex": "77.5 $\\pm$ 3.5",
+			"content": [
+				"77.5",
+				"\u00b1",
+				"3.5"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 8,
+			"end_col": 8
+		},
+		{
+			"id": 28,
+			"tex": "46.1 $\\pm$ 0.6",
+			"content": [
+				"46.1",
+				"\u00b1",
+				"0.6"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "21.7 $\\pm$ 0.5",
+			"content": [
+				"21.7",
+				"\u00b1",
+				"0.5"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 47,
+			"tex": "76.7 $\\pm$ 3.9",
+			"content": [
+				"76.7",
+				"\u00b1",
+				"3.9"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 5,
+			"tex": "W $\\rightarrow$ C",
+			"content": [
+				"W",
+				"\u2192",
+				"C"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 24,
+			"tex": "38.2 $\\pm$ 0.6",
+			"content": [
+				"38.2",
+				"\u00b1",
+				"0.6"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 16,
+			"tex": "32.0 $\\pm$ 0.8",
+			"content": [
+				"32.0",
+				"\u00b1",
+				"0.8"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 33,
+			"tex": "46.2 $\\pm$ 0.6",
+			"content": [
+				"46.2",
+				"\u00b1",
+				"0.6"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 8,
+			"tex": "D $\\rightarrow$ W",
+			"content": [
+				"D",
+				"\u2192",
+				"W"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 8,
+			"end_col": 8
+		},
+		{
+			"id": 0,
+			"tex": "Methods",
+			"content": [
+				"Methods"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 59,
+			"tex": "\\bf{33.1 $\\pm$ 2.7}",
+			"content": [
+				"33.1",
+				"\u00b1",
+				"2.7"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 15,
+			"tex": "32.3 $\\pm$ 0.8",
+			"content": [
+				"32.3",
+				"\u00b1",
+				"0.8"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 57,
+			"tex": "29.1 $\\pm$ 2.6",
+			"content": [
+				"29.1",
+				"\u00b1",
+				"2.6"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 18,
+			"tex": "SGF",
+			"content": [
+				"SGF"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 58,
+			"tex": "\\bf{74.9 $\\pm$ 5.0}",
+			"content": [
+				"74.9",
+				"\u00b1",
+				"5.0"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 55,
+			"tex": "\\bf{52.8 $\\pm$ 3.6}",
+			"content": [
+				"52.8",
+				"\u00b1",
+				"3.6"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "W $\\rightarrow$ A",
+			"content": [
+				"W",
+				"\u2192",
+				"A"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 51,
+			"tex": "49.4 $\\pm$ 2.1",
+			"content": [
+				"49.4",
+				"\u00b1",
+				"2.1"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 30,
+			"tex": "\\bf{39.6 $\\pm$} 0.4",
+			"content": [
+				"39.6",
+				"\u00b1",
+				"0.4"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 46,
+			"tex": "49.5 $\\pm$ 2.6",
+			"content": [
+				"49.5",
+				"\u00b1",
+				"2.6"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 40,
+			"tex": "50.4 $\\pm$ 3.5",
+			"content": [
+				"50.4",
+				"\u00b1",
+				"3.5"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 61,
+			"tex": "\\bf{52.2 $\\pm$ 4.4}",
+			"content": [
+				"52.2",
+				"\u00b1",
+				"4.4"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 56,
+			"tex": "\\bf{79.7 $\\pm$ 4.9}",
+			"content": [
+				"79.7",
+				"\u00b1",
+				"4.9"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 2,
+			"tex": "C $\\rightarrow$ D",
+			"content": [
+				"C",
+				"\u2192",
+				"D"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 43,
+			"tex": "36.7 $\\pm$ 2.5",
+			"content": [
+				"36.7",
+				"\u00b1",
+				"2.5"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 17,
+			"tex": "55.6 $\\pm$ 0.7",
+			"content": [
+				"55.6",
+				"\u00b1",
+				"0.7"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 8,
+			"end_col": 8
+		},
+		{
+			"id": 10,
+			"tex": "33.7 $\\pm$ 0.8",
+			"content": [
+				"33.7",
+				"\u00b1",
+				"0.8"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 39,
+			"tex": "24.3 $\\pm$ 2.2",
+			"content": [
+				"24.3",
+				"\u00b1",
+				"2.2"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 3,
+			"tex": "A $\\rightarrow$ C",
+			"content": [
+				"A",
+				"\u2192",
+				"C"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 19,
+			"tex": "40.2 $\\pm$ 0.7",
+			"content": [
+				"40.2",
+				"\u00b1",
+				"0.7"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "36.6 $\\pm$ 0.8",
+			"content": [
+				"36.6",
+				"\u00b1",
+				"0.8"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		}
+	]
+}

@@ -1,0 +1,235 @@
+{
+	"cells": [
+		{
+			"id": 12,
+			"tex": "Prover",
+			"content": [
+				"Prover"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "Compute({\\sc MinPoly}+{\\sc\nPreCondCyc})",
+			"content": [
+				"Compute(MinPoly+PreCondCyc)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "{\\sc MinPoly}",
+			"content": [
+				"MinPoly"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "Prover",
+			"content": [
+				"Prover"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "Verify({\\sc SeqCert})+EEA",
+			"content": [
+				"Verify(SeqCert)+EEA"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "Verifier",
+			"content": [
+				"Veri\ufb01er"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "Communication",
+			"content": [
+				"Communication"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "Communicate({\\sc MinPoly}+{\\sc PreCondCyc})",
+			"content": [
+				"Communicate(MinPoly+PreCondCyc)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "Verify({\\sc Det})$+2n$",
+			"content": [
+				"Verify(Det)+2n"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "{\\sc Det}",
+			"content": [
+				"Det"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "Communicate({\\sc SeqCert})$+2n$",
+			"content": [
+				"Communicate(SeqCert)+2n"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "Verifier",
+			"content": [
+				"Veri\ufb01er"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "Verifier",
+			"content": [
+				"Veri\ufb01er"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "Compute({\\sc CharPoly})+Compute({\\sc Det})",
+			"content": [
+				"Compute(CharPoly)+Compute(Det)"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "Verifier({\\sc MinPoly})",
+			"content": [
+				"Veri\ufb01er(MinPoly)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "Communicate({\\sc Det})$+n$",
+			"content": [
+				"Communicate(Det)+n"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "Communication",
+			"content": [
+				"Communication"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "Communication",
+			"content": [
+				"Communication"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "Prover",
+			"content": [
+				"Prover"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "{\\sc CharPoly}",
+			"content": [
+				"CharPoly"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "Compute({\\sc SeqCert})",
+			"content": [
+				"Compute(SeqCert)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

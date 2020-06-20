@@ -1,0 +1,292 @@
+{
+	"cells": [
+		{
+			"id": 11,
+			"tex": "acne, dermatologists, mole, cancer, spots",
+			"content": [
+				"acne,",
+				"dermatologists,",
+				"mole,",
+				"cancer,",
+				"spots"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "Orthopedists",
+			"content": [
+				"Orthopedists"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "psychiatrist, mental, Zedek, depression, sessions",
+			"content": [
+				"psychiatrist,",
+				"mental,",
+				"Zedek,",
+				"depression,",
+				"sessions"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "Radiologists",
+			"content": [
+				"Radiologists"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "vision, LASIK, contacts, lenses, frames",
+			"content": [
+				"vision,",
+				"LASIK,",
+				"contacts,",
+				"lenses,",
+				"frames"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "cardiologist, monitor, bed, heart, ER",
+			"content": [
+				"cardiologist,",
+				"monitor,",
+				"bed,",
+				"heart,",
+				"ER"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "Pediatricians",
+			"content": [
+				"Pediatricians"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "imaging, SimonMed, mammogram, CT, MRI",
+			"content": [
+				"imaging,",
+				"SimonMed,",
+				"mammogram,",
+				"CT,",
+				"MRI"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "knee, orthopedic, shoulder, injury, therapy",
+			"content": [
+				"knee,",
+				"orthopedic,",
+				"shoulder,",
+				"injury,",
+				"therapy"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "Dermatologists",
+			"content": [
+				"Dermatologists"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "Obstetricians",
+			"content": [
+				"Obstetricians"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "pregnancy, delivery, women, birth, ultrasound",
+			"content": [
+				"pregnancy,",
+				"delivery,",
+				"women,",
+				"birth,",
+				"ultrasound"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "{\\bf Health Service}",
+			"content": [
+				"Health",
+				"Service"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "Cosmetic Surgeons",
+			"content": [
+				"Cosmetic",
+				"Surgeons"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "{\\bf Top Words in Positive Class}",
+			"content": [
+				"Top",
+				"Words",
+				"in",
+				"Positive",
+				"Class"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "Psychiatrists",
+			"content": [
+				"Psychiatrists"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "Urologists",
+			"content": [
+				"Urologists"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "Cardiologists",
+			"content": [
+				"Cardiologists"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "Ophthalmologists",
+			"content": [
+				"Ophthalmologists"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "pediatrics, sick, parents, kid, newborn",
+			"content": [
+				"pediatrics,",
+				"sick,",
+				"parents,",
+				"kid,",
+				"newborn"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "Edgepark, pump, supplies, urologist, kidney",
+			"content": [
+				"Edgepark,",
+				"pump,",
+				"supplies,",
+				"urologist,",
+				"kidney"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "augmentation, plastic, breast, facial, implants",
+			"content": [
+				"augmentation,",
+				"plastic,",
+				"breast,",
+				"facial,",
+				"implants"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

@@ -1,0 +1,216 @@
+{
+	"cells": [
+		{
+			"id": 6,
+			"tex": "theorems~\\ref{theo:build_part_tree},\\ref{theo:build_names} (worst-case)",
+			"content": [
+				"theorems",
+				"??,??",
+				"(worst-case)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "prev. (worst-case)",
+			"content": [
+				"prev.",
+				"(worst-case)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "$O((n+|{\\cal F}|\\log\\sigma)\\log n)$",
+			"content": [
+				"O((n",
+				"+",
+				"|F|",
+				"log",
+				"\u03c3)",
+				"log",
+				"n)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "Build time",
+			"content": [
+				"Build",
+				"time"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 7,
+			"tex": "$O((n+|{\\cal L}_C|+|{\\cal F}|\\log\\sigma)\\log n)$",
+			"content": [
+				"O((n",
+				"+",
+				"|LC|",
+				"+",
+				"|F|",
+				"log",
+				"\u03c3)",
+				"log",
+				"n)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "$O((n+|{\\cal L}|)\\log n)$",
+			"content": [
+				"O((n",
+				"+",
+				"|L|)",
+				"log",
+				"n)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "$O(n+|{\\cal L}|)$",
+			"content": [
+				"O(n",
+				"+",
+				"|L|)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 11,
+			"tex": "$O(n+|{\\cal L}|\\log\\sigma))$",
+			"content": [
+				"O(n",
+				"+",
+				"|L|",
+				"log",
+				"\u03c3))"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 13,
+			"tex": "$O((n+|{\\cal F}|)\\log n)$",
+			"content": [
+				"O((n",
+				"+",
+				"|F|)",
+				"log",
+				"n)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "$O(n+|{\\cal L_C}|\\log\\sigma)$",
+			"content": [
+				"O(n",
+				"+",
+				"|LC|",
+				"log",
+				"\u03c3)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 9,
+			"tex": "theorem~\\ref{theo:rand_build} (randomized expected)",
+			"content": [
+				"theorem",
+				"??",
+				"(randomized",
+				"expected)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "theorem~\\ref{theo:MC} (Monte-Carlo)",
+			"content": [
+				"theorem",
+				"??",
+				"(Monte-Carlo)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "$O(n+|{\\cal L}|\\log\\sigma)$",
+			"content": [
+				"O(n",
+				"+",
+				"|L|",
+				"log",
+				"\u03c3)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 1,
+			"tex": "Build space (bits)",
+			"content": [
+				"Build",
+				"space",
+				"(bits)"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "Solution",
+			"content": [
+				"Solution"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

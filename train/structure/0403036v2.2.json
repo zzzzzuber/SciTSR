@@ -1,0 +1,772 @@
+{
+	"cells": [
+		{
+			"id": 2,
+			"tex": "UAU Tyr",
+			"content": [
+				"UAU",
+				"Tyr"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 43,
+			"tex": "AGA Stop",
+			"content": [
+				"AGA",
+				"Stop"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 11,
+			"tex": "UGA Trp",
+			"content": [
+				"UGA",
+				"Trp"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 1,
+			"tex": "{\\bf UCU Ser}",
+			"content": [
+				"UCU",
+				"Ser"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 44,
+			"tex": "AUG Met",
+			"content": [
+				"AUG",
+				"Met"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "UAA Stop",
+			"content": [
+				"UAA",
+				"Stop"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 0,
+			"tex": "{\\bf UUU Phe}",
+			"content": [
+				"UUU",
+				"Phe"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 45,
+			"tex": "{\\bf ACG Thr}",
+			"content": [
+				"ACG",
+				"Thr"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "{\\bf UCA Ser}",
+			"content": [
+				"UCA",
+				"Ser"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 46,
+			"tex": "{\\bf AAG Lys}",
+			"content": [
+				"AAG",
+				"Lys"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 8,
+			"tex": "UUA Leu",
+			"content": [
+				"UUA",
+				"Leu"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 47,
+			"tex": "AGG Stop",
+			"content": [
+				"AGG",
+				"Stop"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 7,
+			"tex": "UGC Cys",
+			"content": [
+				"UGC",
+				"Cys"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 39,
+			"tex": "{\\bf AGC Ser}",
+			"content": [
+				"AGC",
+				"Ser"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 48,
+			"tex": "GUU Val",
+			"content": [
+				"GUU",
+				"Val"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "CUC Leu",
+			"content": [
+				"CUC",
+				"Leu"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 49,
+			"tex": "{\\bf GCU Ala}",
+			"content": [
+				"GCU",
+				"Ala"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "CGU Arg",
+			"content": [
+				"CGU",
+				"Arg"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 50,
+			"tex": "{\\bf GAU Asp}",
+			"content": [
+				"GAU",
+				"Asp"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 18,
+			"tex": "{\\bf CAU His}",
+			"content": [
+				"CAU",
+				"His"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 51,
+			"tex": "{\\bf GGU Gly}",
+			"content": [
+				"GGU",
+				"Gly"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 17,
+			"tex": "{\\bf CCU Pro}",
+			"content": [
+				"CCU",
+				"Pro"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 52,
+			"tex": "GUC Val",
+			"content": [
+				"GUC",
+				"Val"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "CUU Leu",
+			"content": [
+				"CUU",
+				"Leu"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 53,
+			"tex": "{\\bf GCC Ala}",
+			"content": [
+				"GCC",
+				"Ala"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "UGG Trp",
+			"content": [
+				"UGG",
+				"Trp"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 54,
+			"tex": "{\\bf GAC Asp}",
+			"content": [
+				"GAC",
+				"Asp"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 14,
+			"tex": "UAG Stop",
+			"content": [
+				"UAG",
+				"Stop"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 55,
+			"tex": "{\\bf GGC Gly}",
+			"content": [
+				"GGC",
+				"Gly"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 13,
+			"tex": "{\\bf UCG Ser}",
+			"content": [
+				"UCG",
+				"Ser"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 56,
+			"tex": "GUA Val",
+			"content": [
+				"GUA",
+				"Val"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "UUG Leu",
+			"content": [
+				"UUG",
+				"Leu"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 57,
+			"tex": "{\\bf GCA Ala}",
+			"content": [
+				"GCA",
+				"Ala"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 40,
+			"tex": "AUA Met",
+			"content": [
+				"AUA",
+				"Met"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 29,
+			"tex": "{\\bf CCG Pro}",
+			"content": [
+				"CCG",
+				"Pro"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 58,
+			"tex": "GAA Glu",
+			"content": [
+				"GAA",
+				"Glu"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 28,
+			"tex": "CUG Leu",
+			"content": [
+				"CUG",
+				"Leu"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 59,
+			"tex": "{\\bf GGA Gly}",
+			"content": [
+				"GGA",
+				"Gly"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 27,
+			"tex": "CGA Arg",
+			"content": [
+				"CGA",
+				"Arg"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 60,
+			"tex": "GUG Val",
+			"content": [
+				"GUG",
+				"Val"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "CAA Gln",
+			"content": [
+				"CAA",
+				"Gln"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 61,
+			"tex": "{\\bf GCG Ala}",
+			"content": [
+				"GCG",
+				"Ala"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 25,
+			"tex": "{\\bf CCA Pro}",
+			"content": [
+				"CCA",
+				"Pro"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 41,
+			"tex": "{\\bf ACA Thr}",
+			"content": [
+				"ACA",
+				"Thr"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 62,
+			"tex": "GAG Glu",
+			"content": [
+				"GAG",
+				"Glu"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 24,
+			"tex": "CUA Leu",
+			"content": [
+				"CUA",
+				"Leu"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 63,
+			"tex": "{\\bf GGG Gly}",
+			"content": [
+				"GGG",
+				"Gly"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 23,
+			"tex": "CGC Arg",
+			"content": [
+				"CGC",
+				"Arg"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 22,
+			"tex": "{\\bf CAC His}",
+			"content": [
+				"CAC",
+				"His"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 21,
+			"tex": "{\\bf CCC Pro}",
+			"content": [
+				"CCC",
+				"Pro"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 38,
+			"tex": "{\\bf AAC Asn}",
+			"content": [
+				"AAC",
+				"Asn"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 42,
+			"tex": "{\\bf AAA Lys}",
+			"content": [
+				"AAA",
+				"Lys"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 37,
+			"tex": "{\\bf ACC Thr}",
+			"content": [
+				"ACC",
+				"Thr"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 36,
+			"tex": "AUC Ile",
+			"content": [
+				"AUC",
+				"Ile"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 35,
+			"tex": "{\\bf AGU Ser}",
+			"content": [
+				"AGU",
+				"Ser"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 34,
+			"tex": "{\\bf AAU Asn}",
+			"content": [
+				"AAU",
+				"Asn"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 33,
+			"tex": "{\\bf ACU Thr}",
+			"content": [
+				"ACU",
+				"Thr"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 32,
+			"tex": "AUU Ile",
+			"content": [
+				"AUU",
+				"Ile"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 31,
+			"tex": "CGG Arg",
+			"content": [
+				"CGG",
+				"Arg"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 30,
+			"tex": "CAG Gln",
+			"content": [
+				"CAG",
+				"Gln"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 6,
+			"tex": "UAC Tyr",
+			"content": [
+				"UAC",
+				"Tyr"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 5,
+			"tex": "{\\bf UCC Ser}",
+			"content": [
+				"UCC",
+				"Ser"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "{\\bf UUC Phe}",
+			"content": [
+				"UUC",
+				"Phe"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "UGU Cys",
+			"content": [
+				"UGU",
+				"Cys"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 3
+		}
+	]
+}

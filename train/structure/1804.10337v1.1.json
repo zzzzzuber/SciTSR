@@ -1,0 +1,768 @@
+{
+	"cells": [
+		{
+			"id": 5,
+			"tex": "96$\\times$96$\\times$1",
+			"content": [
+				"96\u00d796\u00d71"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 56,
+			"tex": "1$\\times 1 \\times 512$",
+			"content": [
+				"1\u00d71",
+				"\u00d7",
+				"512"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 14,
+			"tex": "48$\\times$48$\\times$64",
+			"content": [
+				"48\u00d748\u00d764"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 20,
+			"tex": "56$\\times$24$\\times$128",
+			"content": [
+				"56\u00d724\u00d7128"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 57,
+			"tex": "FC / s1",
+			"content": [
+				"FC",
+				"/",
+				"s1"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "3$\\times$3$\\times$32 dw",
+			"content": [
+				"3\u00d73\u00d732",
+				"dw"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "Conv / s1",
+			"content": [
+				"Conv",
+				"/",
+				"s1"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 58,
+			"tex": "$l \\times c $",
+			"content": [
+				"l",
+				"\u00d7",
+				"c"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "1$\\times$1$\\times$128$\\times$128",
+			"content": [
+				"1\u00d71\u00d7128\u00d7128"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 59,
+			"tex": "1$\\times 1 \\times l$",
+			"content": [
+				"1\u00d71",
+				"\u00d7",
+				"l"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 23,
+			"tex": "24$\\times$24$\\times$128",
+			"content": [
+				"24\u00d724\u00d7128"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 60,
+			"tex": "Softmax / s1",
+			"content": [
+				"Softmax",
+				"/",
+				"s1"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "Filter Shape",
+			"content": [
+				"Filter",
+				"Shape"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 24,
+			"tex": "Conv dw / s2",
+			"content": [
+				"Conv",
+				"dw",
+				"/",
+				"s2"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "3$\\times$3$\\times$1$\\times$32",
+			"content": [
+				"3\u00d73\u00d71\u00d732"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 61,
+			"tex": "Classifier",
+			"content": [
+				"Classi\ufb01er"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 25,
+			"tex": "3$\\times$3$\\times$128 dw",
+			"content": [
+				"3\u00d73\u00d7128",
+				"dw"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 62,
+			"tex": "1 $\\times $ 1 $\\times c$",
+			"content": [
+				"1",
+				"\u00d7",
+				"1",
+				"\u00d7c"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 26,
+			"tex": "24$\\times$24$\\times$128",
+			"content": [
+				"24\u00d724\u00d7128"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 27,
+			"tex": "Conv / s1",
+			"content": [
+				"Conv",
+				"/",
+				"s1"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "1$\\times$1$\\times$32$\\times$64",
+			"content": [
+				"1\u00d71\u00d732\u00d764"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 28,
+			"tex": "1$\\times$1$\\times$128$\\times$256",
+			"content": [
+				"1\u00d71\u00d7128\u00d7256"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "Conv dw / s2",
+			"content": [
+				"Conv",
+				"dw",
+				"/",
+				"s2"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 29,
+			"tex": "12$\\times$12$\\times$128",
+			"content": [
+				"12\u00d712\u00d7128"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 30,
+			"tex": "Conv dw / s1",
+			"content": [
+				"Conv",
+				"dw",
+				"/",
+				"s1"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "Conv dw / s1",
+			"content": [
+				"Conv",
+				"dw",
+				"/",
+				"s1"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 31,
+			"tex": "3$\\times$3$\\times$256 dw",
+			"content": [
+				"3\u00d73\u00d7256",
+				"dw"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 32,
+			"tex": "12$\\times$12$\\times$256",
+			"content": [
+				"12\u00d712\u00d7256"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 33,
+			"tex": "Conv / s1",
+			"content": [
+				"Conv",
+				"/",
+				"s1"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "Input Size",
+			"content": [
+				"Input",
+				"Size"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 34,
+			"tex": "1$\\times$1$\\times$256$\\times$256",
+			"content": [
+				"1\u00d71\u00d7256\u00d7256"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "1$\\times$1$\\times$64$\\times$128",
+			"content": [
+				"1\u00d71\u00d764\u00d7128"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 35,
+			"tex": "12$\\times$12$\\times$256",
+			"content": [
+				"12\u00d712\u00d7256"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 36,
+			"tex": "Conv dw / s2",
+			"content": [
+				"Conv",
+				"dw",
+				"/",
+				"s2"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "Conv / s1",
+			"content": [
+				"Conv",
+				"/",
+				"s1"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 37,
+			"tex": "3$\\times$3$\\times$256 dw",
+			"content": [
+				"3\u00d73\u00d7256",
+				"dw"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "Conv / s2",
+			"content": [
+				"Conv",
+				"/",
+				"s2"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 38,
+			"tex": "12$\\times$12$\\times$256",
+			"content": [
+				"12\u00d712\u00d7256"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 39,
+			"tex": "Conv / s1",
+			"content": [
+				"Conv",
+				"/",
+				"s1"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 40,
+			"tex": "1$\\times$1$\\times$256$\\times$512",
+			"content": [
+				"1\u00d71\u00d7256\u00d7512"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "24$\\times$24$\\times$64",
+			"content": [
+				"24\u00d724\u00d764"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 41,
+			"tex": "6$\\times$6$\\times$256",
+			"content": [
+				"6\u00d76\u00d7256"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 42,
+			"tex": "5$\\times $Conv dw / s1",
+			"content": [
+				"5\u00d7Conv",
+				"dw",
+				"/",
+				"s1"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 43,
+			"tex": "3$\\times$3$\\times$512 dw",
+			"content": [
+				"3\u00d73\u00d7512",
+				"dw"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "Conv dw / s1",
+			"content": [
+				"Conv",
+				"dw",
+				"/",
+				"s1"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 44,
+			"tex": "6$\\times$6$\\times$512",
+			"content": [
+				"6\u00d76\u00d7512"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 45,
+			"tex": "Conv / s1",
+			"content": [
+				"Conv",
+				"/",
+				"s1"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 46,
+			"tex": "1$\\times$1$\\times$512$\\times$512",
+			"content": [
+				"1\u00d71\u00d7512\u00d7512"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "Type / Stride",
+			"content": [
+				"Type",
+				"/",
+				"Stride"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 47,
+			"tex": "6$\\times$6$\\times$512",
+			"content": [
+				"6\u00d76\u00d7512"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 9,
+			"tex": "Conv / s1",
+			"content": [
+				"Conv",
+				"/",
+				"s1"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 48,
+			"tex": "Conv dw / s2",
+			"content": [
+				"Conv",
+				"dw",
+				"/",
+				"s2"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "3$\\times$3$\\times$128 dw",
+			"content": [
+				"3\u00d73\u00d7128",
+				"dw"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 49,
+			"tex": "3$\\times$3$\\times$512 dw",
+			"content": [
+				"3\u00d73\u00d7512",
+				"dw"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 50,
+			"tex": "6$\\times$6$\\times$512",
+			"content": [
+				"6\u00d76\u00d7512"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 11,
+			"tex": "48$\\times$48$\\times$32",
+			"content": [
+				"48\u00d748\u00d732"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 51,
+			"tex": "Avg Pool / s1",
+			"content": [
+				"Avg",
+				"Pool",
+				"/",
+				"s1"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 52,
+			"tex": "Pool 6$\\times$6",
+			"content": [
+				"Pool",
+				"6\u00d76"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "3$\\times$3$\\times$64 dw",
+			"content": [
+				"3\u00d73\u00d764",
+				"dw"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 55,
+			"tex": "512$\\times l$",
+			"content": [
+				"512\u00d7l"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 53,
+			"tex": "6$\\times$6$\\times$512",
+			"content": [
+				"6\u00d76\u00d7512"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 54,
+			"tex": "FC / s1",
+			"content": [
+				"FC",
+				"/",
+				"s1"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "48$\\times$48$\\times$32",
+			"content": [
+				"48\u00d748\u00d732"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		}
+	]
+}

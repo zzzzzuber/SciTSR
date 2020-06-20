@@ -1,0 +1,549 @@
+{
+	"cells": [
+		{
+			"id": 27,
+			"tex": "with exactly $j$ occurrences in $S$.",
+			"content": [
+				"with",
+				"exactly",
+				"j",
+				"occurrences",
+				"in",
+				"S."
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "$K$",
+			"content": [
+				"K"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "The aggregated query result: e.g., $\\phi_D$ (over $D$)",
+			"content": [
+				"The",
+				"aggregated",
+				"query",
+				"result:",
+				"e.g.,",
+				"\u03c6D",
+				"(over",
+				"D)"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "Source $j$ with $n_j=|s_j|$ data items",
+			"content": [
+				"Source",
+				"j",
+				"with",
+				"nj",
+				"=",
+				"|sj|",
+				"data",
+				"items"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 24,
+			"tex": "$f_j$",
+			"content": [
+				"fj"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "$\\phi$",
+			"content": [
+				"\u03c6"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 25,
+			"tex": "A frequency statistic, i.e., the number of data items",
+			"content": [
+				"A",
+				"frequency",
+				"statistic,",
+				"i.e.,",
+				"the",
+				"number",
+				"of",
+				"data",
+				"items"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "Observed sample of size $n=|S|$, with duplicates",
+			"content": [
+				"Observed",
+				"sample",
+				"of",
+				"size",
+				"n",
+				"=",
+				"|S|,",
+				"with",
+				"duplicates"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "$U$",
+			"content": [
+				"U"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 34,
+			"tex": "$\\gamma$",
+			"content": [
+				"\u03b3"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 30,
+			"tex": "$\\rho$",
+			"content": [
+				"\u03c1"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 37,
+			"tex": "Sample coverage, also $C=1-M_0$",
+			"content": [
+				"Sample",
+				"coverage,",
+				"also",
+				"C",
+				"=",
+				"1",
+				"\u2212",
+				"M0"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "$\\Delta$",
+			"content": [
+				"\u2206"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "$c$",
+			"content": [
+				"c"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "$\\Omega$",
+			"content": [
+				"\u2126"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "$D$",
+			"content": [
+				"D"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "$S$",
+			"content": [
+				"S"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "$r$",
+			"content": [
+				"r"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "{\\em Unknown unknowns} distribution mass in $D$",
+			"content": [
+				"Unknown",
+				"unknowns",
+				"distribution",
+				"mass",
+				"in",
+				"D"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 36,
+			"tex": "$C$",
+			"content": [
+				"C"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "The number of unique data items in $S$; $c=|K|$",
+			"content": [
+				"The",
+				"number",
+				"of",
+				"unique",
+				"data",
+				"items",
+				"in",
+				"S;",
+				"c",
+				"=",
+				"|K|"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 35,
+			"tex": "Coefficient of variance (data skew measure)",
+			"content": [
+				"Coe\ufb03cient",
+				"of",
+				"variance",
+				"(data",
+				"skew",
+				"measure)"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "A valid unique entity or data item",
+			"content": [
+				"A",
+				"valid",
+				"unique",
+				"entity",
+				"or",
+				"data",
+				"item"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 32,
+			"tex": "",
+			"content": [],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "$M_0$",
+			"content": [
+				"M0"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 29,
+			"tex": "The set of frequency statistics, $\\{f_1,f_2,...,f_n\\}$",
+			"content": [
+				"The",
+				"set",
+				"of",
+				"frequency",
+				"statistics,",
+				"{f1,",
+				"f2,",
+				"...,",
+				"fn}"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "$N$",
+			"content": [
+				"N"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 28,
+			"tex": "$F$",
+			"content": [
+				"F"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "The size of the ground truth; $N = |D|$",
+			"content": [
+				"The",
+				"size",
+				"of",
+				"the",
+				"ground",
+				"truth;",
+				"N",
+				"=",
+				"|D|"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 33,
+			"tex": "ions, i.e., {\\em publicity-value correlation}",
+			"content": [
+				"ions,",
+				"i.e.,",
+				"publicity-value",
+				"correlation"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "{\\em Unknown unknowns} that exist in $D$, but not in $S$ or $K$",
+			"content": [
+				"Unknown",
+				"unknowns",
+				"that",
+				"exist",
+				"in",
+				"D,",
+				"but",
+				"not",
+				"in",
+				"S",
+				"or",
+				"K"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "Universe of all valid entities (unknown size)",
+			"content": [
+				"Universe",
+				"of",
+				"all",
+				"valid",
+				"entities",
+				"(unknown",
+				"size)"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "$s_j$",
+			"content": [
+				"sj"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "Integrated database with only unique entities from $S$",
+			"content": [
+				"Integrated",
+				"database",
+				"with",
+				"only",
+				"unique",
+				"entities",
+				"from",
+				"S"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 31,
+			"tex": "The correlation between publicity and value distribut-",
+			"content": [
+				"The",
+				"correlation",
+				"between",
+				"publicity",
+				"and",
+				"value",
+				"distribut-"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "{\\em The impact of unknown unknowns}: $\\Delta = \\phi_{D} - \\phi_{K}$",
+			"content": [
+				"The",
+				"impact",
+				"of",
+				"unknown",
+				"unknowns:",
+				"\u2206",
+				"=",
+				"\u03c6D",
+				"\u2212",
+				"\u03c6K"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "Ground truth or the underlying population",
+			"content": [
+				"Ground",
+				"truth",
+				"or",
+				"the",
+				"underlying",
+				"population"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 26,
+			"tex": "",
+			"content": [],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

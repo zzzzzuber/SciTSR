@@ -1,0 +1,373 @@
+{
+	"cells": [
+		{
+			"id": 0,
+			"tex": "Transitive",
+			"content": [
+				"Transitive"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "Disjointness",
+			"content": [
+				"Disjointness"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "Domain",
+			"content": [
+				"Domain"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "\\hspace*{5mm}$t(C_2,\\textit{owl:onProperty},P) \\wedge t(D_1,\\textit{rdfs:subClassOf},D_2)$",
+			"content": [
+				"t(C2,",
+				"owl:onProperty,",
+				"P",
+				")",
+				"\u2227",
+				"t(D1,",
+				"rdfs:subClassOf,",
+				"D2)"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "subsumption",
+			"content": [
+				"subsumption"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "$t(C_1,\\textit{rdfs:subClassOf},C_2) \\leftarrow t(C_1,\\textit{owl:someValuesFrom},D_1) \\wedge $",
+			"content": [
+				"t(C1,",
+				"rdfs:subClassOf,",
+				"C2)",
+				"\u2190",
+				"t(C1,",
+				"owl:someValuesFrom,",
+				"D1)\u2227"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "",
+			"content": [],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "$t(X,\\textit{rdf:type},C_2)\\leftarrow t(C_1,\\textit{rdfs:subClassOf},C_2)\\wedge t(X,\\textit{rdf:type},C_1)$",
+			"content": [
+				"t(X,",
+				"rdf:type,",
+				"C2)",
+				"\u2190",
+				"t(C1,",
+				"rdfs:subClassOf,",
+				"C2)",
+				"\u2227",
+				"t(X,",
+				"rdf:type,",
+				"C1)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "$t(X,\\textit{rdf:type},C)\\leftarrow t(P,\\textit{rdfs:domain},C)\\wedge t(X,P,O)$",
+			"content": [
+				"t(X,",
+				"rdf:type,",
+				"C)",
+				"\u2190",
+				"t(P,",
+				"rdfs:domain,",
+				"C)",
+				"\u2227",
+				"t(X,",
+				"P,",
+				"O)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "formulae",
+			"content": [
+				"formulae"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "Subsumption",
+			"content": [
+				"Subsumption"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "Intersection",
+			"content": [
+				"Intersection"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "Inheritance",
+			"content": [
+				"Inheritance"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "\\hspace*{5mm}$t(C_1,\\textit{owl:onProperty},P) \\wedge t(C_2,\\textit{owl:someValuesFrom},D_2)\\wedge $",
+			"content": [
+				"t(C1,",
+				"owl:onProperty,",
+				"P",
+				")",
+				"\u2227",
+				"t(C2,",
+				"owl:someValuesFrom,",
+				"D2)\u2227"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "of existential",
+			"content": [
+				"of",
+				"existential"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "$t(X,P,Z)\\leftarrow t(P,\\textit{rdf:type},\\textit{owl:TransitiveProperty})\\wedge t(X,P,Y) \\wedge t(Y,P,Z)$",
+			"content": [
+				"t(X,",
+				"P,",
+				"Z)",
+				"\u2190",
+				"t(P,",
+				"rdf:type,",
+				"owl:TransitiveProperty)",
+				"\u2227",
+				"t(X,",
+				"P,",
+				"Y",
+				")",
+				"\u2227",
+				"t(Y,",
+				"P,",
+				"Z)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "Range",
+			"content": [
+				"Range"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "$t(Y,\\textit{rdf:type},C)\\leftarrow t(P,\\textit{rdfs:range},C)\\wedge t(S,P,Y)$",
+			"content": [
+				"t(Y,",
+				"rdf:type,",
+				"C)",
+				"\u2190",
+				"t(P,",
+				"rdfs:range,",
+				"C)",
+				"\u2227",
+				"t(S,",
+				"P,",
+				"Y",
+				")"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "Transitivity",
+			"content": [
+				"Transitivity"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "$t(C, \\textit{rdfs:subClassOf}, D) \\leftarrow t(C, \\textit{owl:intersectionOf}, I) \\wedge D \\in I$",
+			"content": [
+				"t(C,",
+				"rdfs:subClassOf,",
+				"D)",
+				"\u2190",
+				"t(C,",
+				"owl:intersectionOf,",
+				"I)",
+				"\u2227",
+				"D",
+				"\u2208",
+				"I"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "$\\bot \\leftarrow t(C_1,\\textit{owl:disjointWith},C_2) \\wedge t(X,\\textit{rdf:type},C_1) \\wedge t(X,\\textit{rdf:type},C_2)$",
+			"content": [
+				"\u22a5",
+				"\u2190",
+				"t(C1,",
+				"owl:disjointWith,",
+				"C2)",
+				"\u2227",
+				"t(X,",
+				"rdf:type,",
+				"C1)",
+				"\u2227",
+				"t(X,",
+				"rdf:type,",
+				"C2)"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "$t(C_1,\\textit{rdfs:subClassOf},C_3)\\leftarrow t(C_1,\\textit{rdfs:subClassOf},C_2)\\wedge $",
+			"content": [
+				"t(C1,",
+				"rdfs:subClassOf,",
+				"C3)",
+				"\u2190",
+				"t(C1,",
+				"rdfs:subClassOf,",
+				"C2)\u2227"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "\\hspace*{5mm}$t(C_2,\\textit{rdfs:subClassOf},C_3)$",
+			"content": [
+				"t(C2,",
+				"rdfs:subClassOf,",
+				"C3)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "$t(X,\\textit{rdf:type},C_2)\\leftarrow t(C_1,\\textit{owl:equivalentClass},C_2)\\wedge t(X,\\textit{rdf:type},C_2)$",
+			"content": [
+				"t(X,",
+				"rdf:type,",
+				"C2)",
+				"\u2190",
+				"t(C1,",
+				"owl:equivalentClass,",
+				"C2)",
+				"\u2227",
+				"t(X,",
+				"rdf:type,",
+				"C2)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

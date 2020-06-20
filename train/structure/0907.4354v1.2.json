@@ -1,0 +1,420 @@
+{
+	"cells": [
+		{
+			"id": 23,
+			"tex": "$k$ is varied from 1000 to 5000 (increments of 500).",
+			"content": [
+				"k",
+				"is",
+				"varied",
+				"from",
+				"1000",
+				"to",
+				"5000",
+				"(increments",
+				"of",
+				"500)."
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "Post-Processing",
+			"content": [
+				"Post-Processing"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "Iterations",
+			"content": [
+				"Iterations"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "Features/per iter",
+			"content": [
+				"Features/per",
+				"iter"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "Features",
+			"content": [
+				"Features"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "Region grow (R), Erosion (E), Dilation (D), Median (M), None (N)",
+			"content": [
+				"Region",
+				"grow",
+				"(R),",
+				"Erosion",
+				"(E),",
+				"Dilation",
+				"(D),",
+				"Median",
+				"(M),",
+				"None",
+				"(N)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "Feature Set",
+			"content": [
+				"Feature",
+				"Set"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "\\bf Parameter",
+			"content": [
+				"Parameter"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "LLM Detector",
+			"content": [
+				"LLM",
+				"Detector"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "$\\sigma_{LLM}$ from 0 to 20 (0.2 increments) exclusive.",
+			"content": [
+				"\u03c3LLM",
+				"from",
+				"0",
+				"to",
+				"20",
+				"(0.2",
+				"increments)",
+				"exclusive."
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 25,
+			"tex": "$k$ is varied from 1000 to 5000 (increments of 500).",
+			"content": [
+				"k",
+				"is",
+				"varied",
+				"from",
+				"1000",
+				"to",
+				"5000",
+				"(increments",
+				"of",
+				"500)."
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "CC Detector",
+			"content": [
+				"CC",
+				"Detector"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "$r$ is varied between $1$ and $5$.",
+			"content": [
+				"r",
+				"is",
+				"varied",
+				"between",
+				"1",
+				"and",
+				"5."
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "$\\sigma_{KDE}$ from 0 to 10 (0.1 increments) exclusive, $\\sigma_{LLM}$ as above.",
+			"content": [
+				"\u03c3KDE",
+				"from",
+				"0",
+				"to",
+				"10",
+				"(0.1",
+				"increments)",
+				"exclusive,",
+				"\u03c3LLM",
+				"as",
+				"above."
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "",
+			"content": [],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "Pick best threshold for each post-processing parameter tried.",
+			"content": [
+				"Pick",
+				"best",
+				"threshold",
+				"for",
+				"each",
+				"post-processing",
+				"parameter",
+				"tried."
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "Grammar, Haar-only, Grammar w/o Morphology or w/o Haar",
+			"content": [
+				"Grammar,",
+				"Haar-only,",
+				"Grammar",
+				"w/o",
+				"Morphology",
+				"or",
+				"w/o",
+				"Haar"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "$w=100$",
+			"content": [
+				"w",
+				"=",
+				"100"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "$\\sigma_{CC}$ from 0 to 20 (0.2 increments) exclusive.",
+			"content": [
+				"\u03c3CC",
+				"from",
+				"0",
+				"to",
+				"20",
+				"(0.2",
+				"increments)",
+				"exclusive."
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "Decision Stump",
+			"content": [
+				"Decision",
+				"Stump"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "w/ combinations $\\{R\\}$, $\\{E,D\\}$, $\\{E,D,M\\}$, $\\{R,E,D,M\\}$, $\\{N\\}$",
+			"content": [
+				"w/",
+				"combinations",
+				"{R},",
+				"{E,",
+				"D},",
+				"{E,",
+				"D,",
+				"M},",
+				"{R,",
+				"E,",
+				"D,",
+				"M},",
+				"{N}"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "Generate $w$ for each of $T$ iterations.",
+			"content": [
+				"Generate",
+				"w",
+				"for",
+				"each",
+				"of",
+				"T",
+				"iterations."
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "Region grow PP",
+			"content": [
+				"Region",
+				"grow",
+				"PP"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "Region grow PP",
+			"content": [
+				"Region",
+				"grow",
+				"PP"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "E,D,M PP",
+			"content": [
+				"E,D,M",
+				"PP"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "KDE Detector",
+			"content": [
+				"KDE",
+				"Detector"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "$T \\in \\{10, 25, 50, 75, 100\\}$",
+			"content": [
+				"T",
+				"\u2208",
+				"{10,",
+				"25,",
+				"50,",
+				"75,",
+				"100}"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "\\bf Parameters Tried",
+			"content": [
+				"Parameters",
+				"Tried"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

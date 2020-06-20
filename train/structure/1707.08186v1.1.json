@@ -1,0 +1,587 @@
+{
+	"cells": [
+		{
+			"id": 25,
+			"tex": "No",
+			"content": [
+				"No"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 44,
+			"tex": "Partial",
+			"content": [
+				"Partial"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 26,
+			"tex": "Full",
+			"content": [
+				"Full"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 10,
+			"tex": "$O(\\log_{B} N + Z/B)$",
+			"content": [
+				"O(logB",
+				"N",
+				"+",
+				"Z/B)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 15,
+			"tex": "$O(\\log_{B} N_{v})$",
+			"content": [
+				"O(logB",
+				"Nv)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 38,
+			"tex": "None",
+			"content": [
+				"None"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 23,
+			"tex": "$O(N)$",
+			"content": [
+				"O(N",
+				")"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 24,
+			"tex": "Lanka et al.",
+			"content": [
+				"Lanka",
+				"et",
+				"al."
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "None",
+			"content": [
+				"None"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 14,
+			"tex": "Full",
+			"content": [
+				"Full"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 2,
+			"tex": "\\bf Persistence",
+			"content": [
+				"Persistence"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 7,
+			"tex": "No",
+			"content": [
+				"No"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 32,
+			"tex": "Full",
+			"content": [
+				"Full"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 5,
+			"tex": "Space",
+			"content": [
+				"Space"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 33,
+			"tex": "$O^{*}(\\log_{B} N_{v} + \\log_{2} B)$",
+			"content": [
+				"O\u2217(logB",
+				"Nv",
+				"+",
+				"log2",
+				"B)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 39,
+			"tex": "$O^{*}((\\log N)/B)$",
+			"content": [
+				"O\u2217((log",
+				"N",
+				")/B)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 0,
+			"tex": "\\bf Result",
+			"content": [
+				"Result"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "CoW B-tree",
+			"content": [
+				"CoW",
+				"B-tree"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 28,
+			"tex": "$O((\\log_{B} N_{v})(1+Z/B))$",
+			"content": [
+				"O((logB",
+				"Nv)(1",
+				"+",
+				"Z/B))"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 17,
+			"tex": "$O(N B \\log_{B} N)$",
+			"content": [
+				"O(N",
+				"B",
+				"logB",
+				"N",
+				")"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 36,
+			"tex": "COLA",
+			"content": [
+				"COLA"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 40,
+			"tex": "$O(\\log N + Z/B)$",
+			"content": [
+				"O(log",
+				"N",
+				"+",
+				"Z/B)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 22,
+			"tex": "$O(\\log_{B} N_{v} + Z/B)$",
+			"content": [
+				"O(logB",
+				"Nv",
+				"+",
+				"Z/B)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 13,
+			"tex": "No",
+			"content": [
+				"No"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 41,
+			"tex": "$O(N)$",
+			"content": [
+				"O(N",
+				")"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 11,
+			"tex": "$O(N)$",
+			"content": [
+				"O(N",
+				")"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 31,
+			"tex": "No",
+			"content": [
+				"No"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 45,
+			"tex": "$O^{*}((\\log N_{v})/B)$",
+			"content": [
+				"O\u2217((log",
+				"Nv)/B)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 19,
+			"tex": "No",
+			"content": [
+				"No"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "\\bf Range query (size $Z$)",
+			"content": [
+				"Range",
+				"query",
+				"(size",
+				"Z)"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 16,
+			"tex": "$O(\\log_{B} N_{v} + Z/B)$",
+			"content": [
+				"O(logB",
+				"Nv",
+				"+",
+				"Z/B)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 27,
+			"tex": "$O(\\log_{B} N_{v})$",
+			"content": [
+				"O(logB",
+				"Nv)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 34,
+			"tex": "$O(\\log_{B} N_{v} + Z/B)$",
+			"content": [
+				"O(logB",
+				"Nv",
+				"+",
+				"Z/B)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 9,
+			"tex": "$O(\\log_{B} N)$",
+			"content": [
+				"O(logB",
+				"N",
+				")"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 3,
+			"tex": "\\bf Update",
+			"content": [
+				"Update"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 30,
+			"tex": "Brodal et al.",
+			"content": [
+				"Brodal",
+				"et",
+				"al."
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 37,
+			"tex": "Yes",
+			"content": [
+				"Yes"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "$O(\\log_{B} N_{v})$",
+			"content": [
+				"O(logB",
+				"Nv)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 6,
+			"tex": "B-tree",
+			"content": [
+				"B-tree"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "\\bf Cache-oblivious?",
+			"content": [
+				"Cache-oblivious?"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "Partial",
+			"content": [
+				"Partial"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 35,
+			"tex": "$O(N)$",
+			"content": [
+				"O(N",
+				")"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 42,
+			"tex": "This paper",
+			"content": [
+				"This",
+				"paper"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "MVBT",
+			"content": [
+				"MVBT"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 46,
+			"tex": "$O^{*}(\\log N + \\log^2 N_{v} + Z/B)$",
+			"content": [
+				"O\u2217(log",
+				"N",
+				"+",
+				"log2",
+				"Nv",
+				"+",
+				"Z/B)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 43,
+			"tex": "Yes",
+			"content": [
+				"Yes"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 29,
+			"tex": "$O(N)$",
+			"content": [
+				"O(N",
+				")"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 47,
+			"tex": "$O(N)$",
+			"content": [
+				"O(N",
+				")"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 5,
+			"end_col": 5
+		}
+	]
+}

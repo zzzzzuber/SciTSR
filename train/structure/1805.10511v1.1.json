@@ -1,0 +1,624 @@
+{
+	"cells": [
+		{
+			"id": 40,
+			"tex": "$k$-itemset",
+			"content": [
+				"k-itemset"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "$I$",
+			"content": [
+				"I"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 41,
+			"tex": "An itemset with $k$ number of items in itself.",
+			"content": [
+				"An",
+				"itemset",
+				"with",
+				"k",
+				"number",
+				"of",
+				"items",
+				"in",
+				"itself."
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "Each $T_n \\in D$ has a unique transaction identifier.",
+			"content": [
+				"Each",
+				"Tn",
+				"\u2208",
+				"D",
+				"has",
+				"a",
+				"unique",
+				"transaction",
+				"identi\ufb01er."
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "The utility of an itemset $X$ in transaction $T_q$.",
+			"content": [
+				"The",
+				"utility",
+				"of",
+				"an",
+				"itemset",
+				"X",
+				"in",
+				"transaction",
+				"Tq."
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "$QSD$",
+			"content": [
+				"QSD"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "$tu(T_q)$",
+			"content": [
+				"tu(Tq)"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 30,
+			"tex": "$TWU$",
+			"content": [
+				"T",
+				"W",
+				"U"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "The sum of the utilities of items in transaction $T_q$.",
+			"content": [
+				"The",
+				"sum",
+				"of",
+				"the",
+				"utilities",
+				"of",
+				"items",
+				"in",
+				"transaction",
+				"Tq."
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "The support of an itemset $X$ in \\textit{D} or \\textit{QSD}.",
+			"content": [
+				"The",
+				"support",
+				"of",
+				"an",
+				"itemset",
+				"X",
+				"in",
+				"D",
+				"or",
+				"QSD."
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 24,
+			"tex": "$minsup$",
+			"content": [
+				"minsup"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 29,
+			"tex": "A predefined minimum high-utility threshold.",
+			"content": [
+				"A",
+				"prede\ufb01ned",
+				"minimum",
+				"high-utility",
+				"threshold."
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 25,
+			"tex": "A predefined minimum support threshold.",
+			"content": [
+				"A",
+				"prede\ufb01ned",
+				"minimum",
+				"support",
+				"threshold."
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "$sup(X)$",
+			"content": [
+				"sup(X)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "$minconf$",
+			"content": [
+				"minconf"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 28,
+			"tex": "$minutil$",
+			"content": [
+				"minutil"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "A predefined minimum confidence threshold.",
+			"content": [
+				"A",
+				"prede\ufb01ned",
+				"minimum",
+				"con\ufb01dence",
+				"threshold."
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "A $k$-itemset having $k$ distinct items $\\{i_1, i_2, \\ldots, i_k\\}$.",
+			"content": [
+				"A",
+				"k-itemset",
+				"having",
+				"k",
+				"distinct",
+				"items",
+				"{i1,",
+				"i2,",
+				".",
+				".",
+				".",
+				",",
+				"ik}."
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "$TID$",
+			"content": [
+				"T",
+				"ID"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "$q(i_j, T_q)$",
+			"content": [
+				"q(ij,",
+				"Tq)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "The purchase quantity of an item $i_j$ in transaction $T_q$.",
+			"content": [
+				"The",
+				"purchase",
+				"quantity",
+				"of",
+				"an",
+				"item",
+				"ij",
+				"in",
+				"transaction",
+				"Tq."
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "$pr(i_j)$",
+			"content": [
+				"pr(ij)"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "The predefined unit profit of an item $i_j$.",
+			"content": [
+				"The",
+				"prede\ufb01ned",
+				"unit",
+				"pro\ufb01t",
+				"of",
+				"an",
+				"item",
+				"ij."
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "$u(i_j, T_q)$",
+			"content": [
+				"u(ij,",
+				"Tq)"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "The utility of an item $i_j$ in transaction $T_q$.",
+			"content": [
+				"The",
+				"utility",
+				"of",
+				"an",
+				"item",
+				"ij",
+				"in",
+				"transaction",
+				"Tq."
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "$u(X, T_q)$",
+			"content": [
+				"u(X,",
+				"Tq)"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "A quantitative sequential database = \\{\\textit{s}$_{1}$, \\textit{s}$_{2}$, $\\ldots$, \\textit{s$_{n}$}\\}.",
+			"content": [
+				"A",
+				"quantitative",
+				"sequential",
+				"database",
+				"=",
+				"{s",
+				"1,",
+				"s",
+				"2,",
+				".",
+				".",
+				".,",
+				"sn}."
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "A quantitative database, \\textit{D} = \\{\\textit{T}$_{1}$, \\textit{T}$_{2}$, $\\ldots$, \\textit{T$_{n}$}\\}.",
+			"content": [
+				"A",
+				"quantitative",
+				"database,",
+				"D",
+				"=",
+				"{T",
+				"1,",
+				"T",
+				"2,",
+				".",
+				".",
+				".,",
+				"Tn}."
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "$X$",
+			"content": [
+				"X"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "$D$",
+			"content": [
+				"D"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "\\textbf{Definition}",
+			"content": [
+				"De\ufb01nition"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "An unordered set of $m$ distinct items, \\textit{I} = \\{\\textit{i}$_{1}$, \\textit{i}$_{2}$, $\\ldots$, \\textit{i$_{m}$}\\}.",
+			"content": [
+				"An",
+				"unordered",
+				"set",
+				"of",
+				"m",
+				"distinct",
+				"items,",
+				"I",
+				"=",
+				"{i",
+				"1,",
+				"i",
+				"2,",
+				".",
+				".",
+				".,",
+				"im}."
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 31,
+			"tex": "The transaction-weighted utility of a pattern.",
+			"content": [
+				"The",
+				"transaction-weighted",
+				"utility",
+				"of",
+				"a",
+				"pattern."
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 32,
+			"tex": "\\textit{TWDC}",
+			"content": [
+				"TWDC"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 33,
+			"tex": "The transaction-weighted downward closure property.",
+			"content": [
+				"The",
+				"transaction-weighted",
+				"downward",
+				"closure",
+				"property."
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 34,
+			"tex": "\\textit{HTWUI}",
+			"content": [
+				"HTWUI"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 35,
+			"tex": "A high transaction-weighted utilization itemset.",
+			"content": [
+				"A",
+				"high",
+				"transaction-weighted",
+				"utilization",
+				"itemset."
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "\\textbf{Symbol}",
+			"content": [
+				"Symbol"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 36,
+			"tex": "$HUI$",
+			"content": [
+				"HU",
+				"I"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 37,
+			"tex": "A high-utility itemset.",
+			"content": [
+				"A",
+				"high-utility",
+				"itemset."
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 38,
+			"tex": "$HUPM$",
+			"content": [
+				"HU",
+				"P",
+				"M"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 39,
+			"tex": "High-utility or utility-oriented pattern mining.",
+			"content": [
+				"High-utility",
+				"or",
+				"utility-oriented",
+				"pattern",
+				"mining."
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

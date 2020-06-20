@@ -1,0 +1,258 @@
+{
+	"cells": [
+		{
+			"id": 1,
+			"tex": "Description",
+			"content": [
+				"Description"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "8. Post Process",
+			"content": [
+				"8.",
+				"Post",
+				"Process"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "Step",
+			"content": [
+				"Step"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "Finds the edges/shape of the plate",
+			"content": [
+				"Finds",
+				"the",
+				"edges/shape",
+				"of",
+				"the",
+				"plate"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "7. Char Recognition",
+			"content": [
+				"7.",
+				"Char",
+				"Recognition"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "Converts the plate image into black and white",
+			"content": [
+				"Converts",
+				"the",
+				"plate",
+				"image",
+				"into",
+				"black",
+				"and",
+				"white"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "Transforms the perspective to a straight-on view",
+			"content": [
+				"Transforms",
+				"the",
+				"perspective",
+				"to",
+				"a",
+				"straight-on",
+				"view"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "2. Binarization",
+			"content": [
+				"2.",
+				"Binarization"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "5. Deskew",
+			"content": [
+				"5.",
+				"Deskew"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "4. Plate Edges",
+			"content": [
+				"4.",
+				"Plate",
+				"Edges"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "1. Plate detection",
+			"content": [
+				"1.",
+				"Plate",
+				"detection"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "Isolates and cleans up the characters",
+			"content": [
+				"Isolates",
+				"and",
+				"cleans",
+				"up",
+				"the",
+				"characters"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "Analyzes each character image",
+			"content": [
+				"Analyzes",
+				"each",
+				"character",
+				"image"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "Finds character-sized ``blobs'' in the plate region",
+			"content": [
+				"Finds",
+				"character-sized",
+				"\u201cblobs\u201d",
+				"in",
+				"the",
+				"plate",
+				"region"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "6. Segmentation",
+			"content": [
+				"6.",
+				"Segmentation"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "Creates a top N list of plate possibilities",
+			"content": [
+				"Creates",
+				"a",
+				"top",
+				"N",
+				"list",
+				"of",
+				"plate",
+				"possibilities"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "3. Char Analysis",
+			"content": [
+				"3.",
+				"Char",
+				"Analysis"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "Finds potential license plate regions",
+			"content": [
+				"Finds",
+				"potential",
+				"license",
+				"plate",
+				"regions"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

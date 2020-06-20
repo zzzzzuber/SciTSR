@@ -1,0 +1,499 @@
+{
+	"cells": [
+		{
+			"id": 25,
+			"tex": "{\\small \\{{[}38.4; 42.93{[} , }\\textbf{\\small 0.7}{\\small ; {[}42.93;\n45.22{]} , }\\textbf{\\small 0.3}{\\small \\} }",
+			"content": [
+				"{[38.4;",
+				"42.93[",
+				",",
+				"0.7;",
+				"[42.93;",
+				"45.22]",
+				",",
+				"0.3}"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 30,
+			"tex": "10",
+			"content": [
+				"10"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "{\\small \\{{[}13.27; 14.0{[} ,}\\textbf{\\small{} 0.6}{\\small ; {[}14.0;\n14.6{]} ,}\\textbf{\\small{} 0.4}{\\small \\} }",
+			"content": [
+				"{[13.27;",
+				"14.0[",
+				",",
+				"0.6;",
+				"[14.0;",
+				"14.6]",
+				",",
+				"0.4}"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 10,
+			"tex": "{\\small \\{{[}36.69; 42.64{[} , }\\textbf{\\small 0.5}{\\small ; {[}42.64;\n48.68{]} , }\\textbf{\\small 0.5}{\\small \\} }",
+			"content": [
+				"{[36.69;",
+				"42.64[",
+				",",
+				"0.5;",
+				"[42.64;",
+				"48.68]",
+				",",
+				"0.5}"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "{\\small \\{{[}41.56; 46.65{[} , }\\textbf{\\small 0.6}{\\small ; {[}46.65;\n48.81{]} , }\\textbf{\\small 0.4}{\\small \\} }",
+			"content": [
+				"{[41.56;",
+				"46.65[",
+				",",
+				"0.6;",
+				"[46.65;",
+				"48.81]",
+				",",
+				"0.4}"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "{\\small \\{{[}13.58; 14.28{[} , }\\textbf{\\small 0.3}{\\small ; {[}14.28;\n16.24{]} , }\\textbf{\\small 0.7}{\\small \\}}",
+			"content": [
+				"{[13.58;",
+				"14.28[",
+				",",
+				"0.3;",
+				"[14.28;",
+				"16.24]",
+				",",
+				"0.7}"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 7,
+			"tex": "{\\small \\{{[}36.69; 39.11{[} , }\\textbf{\\small 0.3}{\\small ; {[}39.11;\n45.12{]} , }\\textbf{\\small 0.7}{\\small \\} }",
+			"content": [
+				"{[36.69;",
+				"39.11[",
+				",",
+				"0.3;",
+				"[39.11;",
+				"45.12]",
+				",",
+				"0.7}"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "6",
+			"content": [
+				"6"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "2",
+			"content": [
+				"2"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "5",
+			"content": [
+				"5"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "{\\small \\{{[}11.54; 12.19{[} , }\\textbf{\\small 0.4}{\\small ; {[}12.19;\n12.8{]} ,}\\textbf{\\small{} 0.6}{\\small \\}}",
+			"content": [
+				"{[11.54;",
+				"12.19[",
+				",",
+				"0.4;",
+				"[12.19;",
+				"12.8]",
+				",",
+				"0.6}"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 4,
+			"tex": "{\\small \\{{[}33.29;37.57{[}, }\\textbf{{\\small 0.6}}{\\small{} ;\n{[}37,52; 39.61{]}, }\\textbf{\\small 0.4}{\\small \\}}",
+			"content": [
+				"{[33.29;37.57[,",
+				"0.6",
+				";",
+				"[37,52;",
+				"39.61],",
+				"0.4}"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "1",
+			"content": [
+				"1"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "{\\small \\{{[}39.7; 44.32{[} , }\\textbf{\\small 0.4}{\\small ; {[}44.32;\n47.24{]} ,}\\textbf{\\small{} 0.6}{\\small \\} }",
+			"content": [
+				"{[39.7;",
+				"44.32[",
+				",",
+				"0.4;",
+				"[44.32;",
+				"47.24]",
+				",",
+				"0.6}"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 28,
+			"tex": "{\\small \\{{[}28.83; 35.55{[} , }\\textbf{\\small 0.5}{\\small ; {[}35.55;\n41.98{]} , }\\textbf{\\small 0.5}{\\small \\} }",
+			"content": [
+				"{[28.83;",
+				"35.55[",
+				",",
+				"0.5;",
+				"[35.55;",
+				"41.98]",
+				",",
+				"0.5}"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "{\\small \\{{[}12.38; 14.26{[} , }\\textbf{\\small 0.5}{\\small ; {[}14.26;\n15.29{]} , }\\textbf{\\small 0.5}{\\small \\}}",
+			"content": [
+				"{[12.38;",
+				"14.26[",
+				",",
+				"0.5;",
+				"[14.26;",
+				"15.29]",
+				",",
+				"0.5}"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 13,
+			"tex": "{\\small \\{{[}36.38; 40.87{[} , }\\textbf{\\small 0.4}{\\small ; {[}40.87;\n47.41{]} , }\\textbf{\\small 0.6}{\\small \\} }",
+			"content": [
+				"{[36.38;",
+				"40.87[",
+				",",
+				"0.4;",
+				"[40.87;",
+				"47.41]",
+				",",
+				"0.6}"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "{\\small \\{{[}39.19; 50.86{]} , }\\textbf{\\small 1}{\\small \\} }",
+			"content": [
+				"{[39.19;",
+				"50.86]",
+				",",
+				"1}"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 29,
+			"tex": "{\\small \\{{[}9.92; 11.98{[} , }\\textbf{\\small 0.4}{\\small ; {[}11.98;\n13.8{]} , }\\textbf{\\small 0.6}{\\small \\}}",
+			"content": [
+				"{[9.92;",
+				"11.98[",
+				",",
+				"0.4;",
+				"[11.98;",
+				"13.8]",
+				",",
+				"0.6}"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 8,
+			"tex": "{\\small \\{{[}12.07; 13.32{[} , }\\textbf{\\small 0.5}{\\small ; {[}13.32;\n14.17{]} , }\\textbf{\\small 0.5}{\\small \\}}",
+			"content": [
+				"{[12.07;",
+				"13.32[",
+				",",
+				"0.5;",
+				"[13.32;",
+				"14.17]",
+				",",
+				"0.5}"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 1,
+			"tex": "Y: Hematocrit",
+			"content": [
+				"Y:",
+				"Hematocrit"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "4",
+			"content": [
+				"4"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "Units",
+			"content": [
+				"Units"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "9",
+			"content": [
+				"9"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "{\\small \\{{[}14.34; 14.81{[} ,}\\textbf{\\small{} 0.5}{\\small ; {[}14.81;\n15.55{]} ,}\\textbf{\\small{} 0.5}{\\small \\}}",
+			"content": [
+				"{[14.34;",
+				"14.81[",
+				",",
+				"0.5;",
+				"[14.81;",
+				"15.55]",
+				",",
+				"0.5}"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 2,
+			"tex": "X: Hemoglobin",
+			"content": [
+				"X:",
+				"Hemoglobin"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 32,
+			"tex": "{\\small \\{{[}15.37; 15.78{[} , }\\textbf{\\small 0.3}{\\small ; {[}15.78;\n16.75{]} , }\\textbf{\\small 0.7}{\\small \\}}",
+			"content": [
+				"{[15.37;",
+				"15.78[",
+				",",
+				"0.3;",
+				"[15.78;",
+				"16.75]",
+				",",
+				"0.7}"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 11,
+			"tex": "{\\small \\{{[}12.38; 14.2{[} , }\\textbf{\\small 0.3}{\\small ; {[}14.2;\n16.16{]} , }\\textbf{\\small 0.7}{\\small \\}}",
+			"content": [
+				"{[12.38;",
+				"14.2[",
+				",",
+				"0.3;",
+				"[14.2;",
+				"16.16]",
+				",",
+				"0.7}"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 9,
+			"tex": "3",
+			"content": [
+				"3"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 31,
+			"tex": "{\\small \\{{[}44.48; 52.53{]} , }\\textbf{\\small 1}{\\small \\} }",
+			"content": [
+				"{[44.48;",
+				"52.53]",
+				",",
+				"1}"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "7",
+			"content": [
+				"7"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "{\\small \\{{[}13.81; 14.5{[} ,}\\textbf{\\small{} 0.4}{\\small ; {[}14.5;\n15.2{]} , }\\textbf{\\small 0.6}{\\small \\}}",
+			"content": [
+				"{[13.81;",
+				"14.5[",
+				",",
+				"0.4;",
+				"[14.5;",
+				"15.2]",
+				",",
+				"0.6}"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 24,
+			"tex": "8",
+			"content": [
+				"8"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

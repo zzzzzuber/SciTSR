@@ -1,0 +1,210 @@
+{
+	"cells": [
+		{
+			"id": 9,
+			"tex": "Collision Detection",
+			"content": [
+				"Collision",
+				"Detection"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "\\textbf{Processing Time}",
+			"content": [
+				"Processing",
+				"Time"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "$<$ 1 ms",
+			"content": [
+				"<",
+				"1",
+				"ms"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 10,
+			"tex": "$<$ 1 ms",
+			"content": [
+				"<",
+				"1",
+				"ms"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "9 ms",
+			"content": [
+				"9",
+				"ms"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 7,
+			"tex": "23 ms",
+			"content": [
+				"23",
+				"ms"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "$<$ 1 ms",
+			"content": [
+				"<",
+				"1",
+				"ms"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 2,
+			"tex": "\\textbf{Rendering Time}",
+			"content": [
+				"Rendering",
+				"Time"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 16,
+			"tex": "$\\mathbf{\\approx 73 ms}$ (framerate $\\mathbf{\\approx 14 fps}$)",
+			"content": [
+				"\u2248",
+				"73ms",
+				"(framerate",
+				"\u2248",
+				"14fps)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 2
+		},
+		{
+			"id": 3,
+			"tex": "3D Object",
+			"content": [
+				"3D",
+				"Object"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "25 ms",
+			"content": [
+				"25",
+				"ms"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "\\textbf{Total Time}",
+			"content": [
+				"Total",
+				"Time"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "--",
+			"content": [
+				"\u2013"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 6,
+			"tex": "\\textsc{rgb-d} Processing",
+			"content": [
+				"rgb-d",
+				"Processing"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "5 ms",
+			"content": [
+				"5",
+				"ms"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "",
+			"content": [],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "Network Transmission",
+			"content": [
+				"Network",
+				"Transmission"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

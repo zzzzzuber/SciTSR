@@ -1,0 +1,133 @@
+{
+	"cells": [
+		{
+			"id": 7,
+			"tex": "$\\eta=0.1$",
+			"content": [
+				"\u03b7",
+				"=",
+				"0.1"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "Regularization weight",
+			"content": [
+				"Regularization",
+				"weight"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "$m=100$",
+			"content": [
+				"m",
+				"=",
+				"100"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "Initial learning rate",
+			"content": [
+				"Initial",
+				"learning",
+				"rate"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "$\\delta=32$",
+			"content": [
+				"\u03b4",
+				"=",
+				"32"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "Batch size",
+			"content": [
+				"Batch",
+				"size"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "$\\lambda=10^{-5}$",
+			"content": [
+				"\u03bb",
+				"=",
+				"10\u22125"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "$d=300$",
+			"content": [
+				"d",
+				"=",
+				"300"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "Hidden layer size of LSTM",
+			"content": [
+				"Hidden",
+				"layer",
+				"size",
+				"of",
+				"LSTM"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "Embedding size",
+			"content": [
+				"Embedding",
+				"size"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

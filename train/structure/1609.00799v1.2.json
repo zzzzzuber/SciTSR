@@ -1,0 +1,496 @@
+{
+	"cells": [
+		{
+			"id": 11,
+			"tex": "Matching coefficient of two text fragments",
+			"content": [
+				"Matching",
+				"coe\ufb03cient",
+				"of",
+				"two",
+				"text",
+				"fragments"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 32,
+			"tex": "Word overlapping",
+			"content": [
+				"Word",
+				"overlapping"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 25,
+			"tex": "The longest common sub string of two text fragments",
+			"content": [
+				"The",
+				"longest",
+				"common",
+				"sub",
+				"string",
+				"of",
+				"two",
+				"text",
+				"fragments"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 17,
+			"tex": "Jaro distance of two text fragments",
+			"content": [
+				"Jaro",
+				"distance",
+				"of",
+				"two",
+				"text",
+				"fragments"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 30,
+			"tex": "Avg-TF of S and Q",
+			"content": [
+				"Avg-TF",
+				"of",
+				"S",
+				"and",
+				"Q"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "Cosine similarity distance",
+			"content": [
+				"Cosine",
+				"similarity",
+				"distance"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 6,
+			"tex": "Euclidean",
+			"content": [
+				"Euclidean"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "Dice coefficient of two text fragments",
+			"content": [
+				"Dice",
+				"coe\ufb03cient",
+				"of",
+				"two",
+				"text",
+				"fragments"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 26,
+			"tex": "Average of TF-IDF",
+			"content": [
+				"Average",
+				"of",
+				"TF-IDF"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 27,
+			"tex": "Term frequency-inverse document frequency",
+			"content": [
+				"Term",
+				"frequency-inverse",
+				"document",
+				"frequency"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 24,
+			"tex": "Lcs",
+			"content": [
+				"Lcs"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "Jaro",
+			"content": [
+				"Jaro"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "Manhattan distance from two text fragments",
+			"content": [
+				"Manhattan",
+				"distance",
+				"from",
+				"two",
+				"text",
+				"fragments"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 18,
+			"tex": "Damerau-Levenshtein",
+			"content": [
+				"Damerau-Levenshtein"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "Dice coefficient",
+			"content": [
+				"Dice",
+				"coe\ufb03cient"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "\\textbf{Distance}",
+			"content": [
+				"Distance"
+			],
+			"start_row": 1,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "Jaccard",
+			"content": [
+				"Jaccard"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "Cosine similarity",
+			"content": [
+				"Cosine",
+				"similarity"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "Jaccard distance of two text fragments",
+			"content": [
+				"Jaccard",
+				"distance",
+				"of",
+				"two",
+				"text",
+				"fragments"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 34,
+			"tex": "Average of Word2Vec",
+			"content": [
+				"Average",
+				"of",
+				"Word2Vec"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "Matching coefficient",
+			"content": [
+				"Matching",
+				"coe\ufb03cient"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 29,
+			"tex": "Avg-TF of words in a Q appearing in a S",
+			"content": [
+				"Avg-TF",
+				"of",
+				"words",
+				"in",
+				"a",
+				"Q",
+				"appearing",
+				"in",
+				"a",
+				"S"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 20,
+			"tex": "",
+			"content": [],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "\\textbf{Statistical}",
+			"content": [
+				"Statistical"
+			],
+			"start_row": 10,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "Euclidean distance from two text fragments",
+			"content": [
+				"Euclidean",
+				"distance",
+				"from",
+				"two",
+				"text",
+				"fragments"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 22,
+			"tex": "Levenshtein distance of two text fragments",
+			"content": [
+				"Levenshtein",
+				"distance",
+				"of",
+				"two",
+				"text",
+				"fragments"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 31,
+			"tex": "Avg-TF of words in a S appearing in a S",
+			"content": [
+				"Avg-TF",
+				"of",
+				"words",
+				"in",
+				"a",
+				"S",
+				"appearing",
+				"in",
+				"a",
+				"S"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 4,
+			"tex": "Manhattan",
+			"content": [
+				"Manhattan"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "Damerau Levenshtein distance of two text fragments",
+			"content": [
+				"Damerau",
+				"Levenshtein",
+				"distance",
+				"of",
+				"two",
+				"text",
+				"fragments"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 33,
+			"tex": "\\# word overlapping in a Q appearing in a article",
+			"content": [
+				"#",
+				"word",
+				"overlapping",
+				"in",
+				"a",
+				"Q",
+				"appearing",
+				"in",
+				"a",
+				"article"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 0,
+			"tex": "",
+			"content": [],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "\\textbf{Description}",
+			"content": [
+				"Description"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 28,
+			"tex": "Avg-TF of Q and S",
+			"content": [
+				"Avg-TF",
+				"of",
+				"Q",
+				"and",
+				"S"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "Levenshtein",
+			"content": [
+				"Levenshtein"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "\\textbf{Feature}",
+			"content": [
+				"Feature"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 35,
+			"tex": "Average of word2vec similarity",
+			"content": [
+				"Average",
+				"of",
+				"word2vec",
+				"similarity"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 2,
+			"end_col": 2
+		}
+	]
+}

@@ -1,0 +1,1638 @@
+{
+	"cells": [
+		{
+			"id": 114,
+			"tex": "MKL-RT-KFDA + SVM",
+			"content": [
+				"MKL-RT-KFDA",
+				"+",
+				"SVM"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 125,
+			"tex": "65.5 $\\pm$ 0.8",
+			"content": [
+				"65.5",
+				"\u00b1",
+				"0.8"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 127,
+			"tex": "72.1 $\\pm$ 1.3",
+			"content": [
+				"72.1",
+				"\u00b1",
+				"1.3"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 126,
+			"tex": "68.6 $\\pm$ 0.9",
+			"content": [
+				"68.6",
+				"\u00b1",
+				"0.9"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 59,
+			"tex": "40.2 $\\pm$ 4.0",
+			"content": [
+				"40.2",
+				"\u00b1",
+				"4.0"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 58,
+			"tex": "MKL-DR-KFDA + NN",
+			"content": [
+				"MKL-DR-KFDA",
+				"+",
+				"NN"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 90,
+			"tex": "\\textbf{67.1} $\\mathbf{\\pm}$\\textbf{0.9}",
+			"content": [
+				"67.1",
+				"\u00b10.9"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 20,
+			"tex": "38.3 $\\pm$ 1.2",
+			"content": [
+				"38.3",
+				"\u00b1",
+				"1.2"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 51,
+			"tex": "MKL-RT-KFDA + NN",
+			"content": [
+				"MKL-RT-KFDA",
+				"+",
+				"NN"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "Method",
+			"content": [
+				"Method"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 47,
+			"tex": "59.7 $\\pm$ 0.5",
+			"content": [
+				"59.7",
+				"\u00b1",
+				"0.5"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 49,
+			"tex": "65.4 $\\pm$ 0.7",
+			"content": [
+				"65.4",
+				"\u00b1",
+				"0.7"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 81,
+			"tex": "55.6 $\\pm$ 0.5",
+			"content": [
+				"55.6",
+				"\u00b1",
+				"0.5"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 52,
+			"tex": "45.7 $\\pm$ 0.6",
+			"content": [
+				"45.7",
+				"\u00b1",
+				"0.6"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 88,
+			"tex": "55.1 $\\pm$ 0.7",
+			"content": [
+				"55.1",
+				"\u00b1",
+				"0.7"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 46,
+			"tex": "54.8 $\\pm$ 0.1",
+			"content": [
+				"54.8",
+				"\u00b1",
+				"0.1"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 118,
+			"tex": "\\textbf{69.7} $\\mathbf{\\pm}$ \\textbf{1.0}",
+			"content": [
+				"69.7",
+				"\u00b1",
+				"1.0"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 8,
+			"tex": "30",
+			"content": [
+				"30"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 50,
+			"tex": "67.8 $\\pm$ 0.7",
+			"content": [
+				"67.8",
+				"\u00b1",
+				"0.7"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 96,
+			"tex": "64.2 $\\pm$ 0.8",
+			"content": [
+				"64.2",
+				"\u00b1",
+				"0.8"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 37,
+			"tex": "PK-RT-KFDA + NN",
+			"content": [
+				"PK-RT-KFDA",
+				"+",
+				"NN"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 84,
+			"tex": "66.9 $\\pm$ 0.8",
+			"content": [
+				"66.9",
+				"\u00b1",
+				"0.8"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 38,
+			"tex": "45.0 $\\pm$ 0.6",
+			"content": [
+				"45.0",
+				"\u00b1",
+				"0.6"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 75,
+			"tex": "61.3 $\\pm$ 0.9",
+			"content": [
+				"61.3",
+				"\u00b1",
+				"0.9"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 64,
+			"tex": "72.1 $\\pm$ 1.2",
+			"content": [
+				"72.1",
+				"\u00b1",
+				"1.2"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 34,
+			"tex": "68.1 $\\pm$ 1.2",
+			"content": [
+				"68.1",
+				"\u00b1",
+				"1.2"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 105,
+			"tex": "69.4 $\\pm$ 0.9",
+			"content": [
+				"69.4",
+				"\u00b1",
+				"0.9"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 7,
+			"tex": "25",
+			"content": [
+				"25"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 29,
+			"tex": "\\textbf{45.7} $\\mathbf{\\pm}$ \\textbf{1.1}",
+			"content": [
+				"45.7",
+				"\u00b1",
+				"1.1"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 74,
+			"tex": "54.7 $\\pm$ 0.5",
+			"content": [
+				"54.7",
+				"\u00b1",
+				"0.5"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 27,
+			"tex": "\\textbf{41.3} $\\mathbf{\\pm}$ \\textbf{1.0}",
+			"content": [
+				"41.3",
+				"\u00b1",
+				"1.0"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 92,
+			"tex": "\\textbf{73.7} $\\mathbf{\\pm}$ \\textbf{0.7}",
+			"content": [
+				"73.7",
+				"\u00b1",
+				"0.7"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 31,
+			"tex": "46.0 $\\pm$ 0.8",
+			"content": [
+				"46.0",
+				"\u00b1",
+				"0.8"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 94,
+			"tex": "46.1 $\\pm$ 0.8",
+			"content": [
+				"46.1",
+				"\u00b1",
+				"0.8"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 36,
+			"tex": "73.6 $\\pm$ 1.1",
+			"content": [
+				"73.6",
+				"\u00b1",
+				"1.1"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 72,
+			"tex": "PK-SVM",
+			"content": [
+				"PK-SVM"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 39,
+			"tex": "56.1 $\\pm$ 0.6",
+			"content": [
+				"56.1",
+				"\u00b1",
+				"0.6"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 71,
+			"tex": "71.6 $\\pm$ 1.5",
+			"content": [
+				"71.6",
+				"\u00b1",
+				"1.5"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 35,
+			"tex": "70.8 $\\pm$ 0.9",
+			"content": [
+				"70.8",
+				"\u00b1",
+				"0.9"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 115,
+			"tex": "\\textbf{46.3} $\\mathbf{\\pm}$ \\textbf{0.9}",
+			"content": [
+				"46.3",
+				"\u00b1",
+				"0.9"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 63,
+			"tex": "68.6 $\\pm$ 0.9",
+			"content": [
+				"68.6",
+				"\u00b1",
+				"0.9"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 97,
+			"tex": "68.1 $\\pm$ 1.0",
+			"content": [
+				"68.1",
+				"\u00b1",
+				"1.0"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 48,
+			"tex": "63.0 $\\pm$ 0.8",
+			"content": [
+				"63.0",
+				"\u00b1",
+				"0.8"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 124,
+			"tex": "61.7 $\\pm$ 1.4",
+			"content": [
+				"61.7",
+				"\u00b1",
+				"1.4"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 60,
+			"tex": "53.6 $\\pm$ 2.5",
+			"content": [
+				"53.6",
+				"\u00b1",
+				"2.5"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 113,
+			"tex": "67.8 $\\pm$ 0.7",
+			"content": [
+				"67.8",
+				"\u00b1",
+				"0.7"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 57,
+			"tex": "\\textbf{74.6} $\\mathbf{\\pm}$ \\textbf{0.7}",
+			"content": [
+				"74.6",
+				"\u00b1",
+				"0.7"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 76,
+			"tex": "65.4 $\\pm$ 0.8",
+			"content": [
+				"65.4",
+				"\u00b1",
+				"0.8"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 73,
+			"tex": "43.6 $\\pm$ 0.7",
+			"content": [
+				"43.6",
+				"\u00b1",
+				"0.7"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 85,
+			"tex": "69.4 $\\pm$ 0.4",
+			"content": [
+				"69.4",
+				"\u00b1",
+				"0.4"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 117,
+			"tex": "\\textbf{65.5} $\\mathbf{\\pm}$ \\textbf{0.7}",
+			"content": [
+				"65.5",
+				"\u00b1",
+				"0.7"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 122,
+			"tex": "40.2 $\\pm$ 4.0",
+			"content": [
+				"40.2",
+				"\u00b1",
+				"4.0"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "5",
+			"content": [
+				"5"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 83,
+			"tex": "64.3 $\\pm$ 0.9",
+			"content": [
+				"64.3",
+				"\u00b1",
+				"0.9"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 56,
+			"tex": "\\textbf{72.1} $\\mathbf{\\pm}$ \\textbf{0.4}",
+			"content": [
+				"72.1",
+				"\u00b1",
+				"0.4"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 93,
+			"tex": "AK-RT-KFDA + SVM",
+			"content": [
+				"AK-RT-KFDA",
+				"+",
+				"SVM"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 68,
+			"tex": "62.2 $\\pm$ 1.1",
+			"content": [
+				"62.2",
+				"\u00b1",
+				"1.1"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 61,
+			"tex": "61.7 $\\pm$ 1.4",
+			"content": [
+				"61.7",
+				"\u00b1",
+				"1.4"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 69,
+			"tex": "66.1 $\\pm$ 1.0",
+			"content": [
+				"66.1",
+				"\u00b1",
+				"1.0"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 4,
+			"tex": "10",
+			"content": [
+				"10"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 55,
+			"tex": "\\textbf{69.5} $\\mathbf{\\pm}$ \\textbf{0.7}",
+			"content": [
+				"69.5",
+				"\u00b1",
+				"0.7"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 87,
+			"tex": "42.1 $\\pm$ 1.2",
+			"content": [
+				"42.1",
+				"\u00b1",
+				"1.2"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 102,
+			"tex": "56.2 $\\pm$ 0.6",
+			"content": [
+				"56.2",
+				"\u00b1",
+				"0.6"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 12,
+			"tex": "36.1 $\\pm$ 0.9",
+			"content": [
+				"36.1",
+				"\u00b1",
+				"0.9"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 91,
+			"tex": "\\textbf{70.5} $\\mathbf{\\pm}$ \\textbf{0.8}",
+			"content": [
+				"70.5",
+				"\u00b1",
+				"0.8"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 13,
+			"tex": "38.0 $\\pm$ 1.1",
+			"content": [
+				"38.0",
+				"\u00b1",
+				"1.1"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 14,
+			"tex": "39.9 $\\pm$ 1.0",
+			"content": [
+				"39.9",
+				"\u00b1",
+				"1.0"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 99,
+			"tex": "73.7 $\\pm$ 1.0",
+			"content": [
+				"73.7",
+				"\u00b1",
+				"1.0"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 80,
+			"tex": "\\textbf{46.1} $\\mathbf{\\pm}$ \\textbf{0.9}",
+			"content": [
+				"46.1",
+				"\u00b1",
+				"0.9"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 66,
+			"tex": "44.4 $\\pm$ 0.6",
+			"content": [
+				"44.4",
+				"\u00b1",
+				"0.6"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 82,
+			"tex": "61.0 $\\pm$ 0.2",
+			"content": [
+				"61.0",
+				"\u00b1",
+				"0.2"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 65,
+			"tex": "AK-SVM",
+			"content": [
+				"AK-SVM"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "32.8 $\\pm$ 1.0",
+			"content": [
+				"32.8",
+				"\u00b1",
+				"1.0"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 104,
+			"tex": "66.7 $\\pm$ 0.8",
+			"content": [
+				"66.7",
+				"\u00b1",
+				"0.8"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 17,
+			"tex": "27.5 $\\pm$ 0.7",
+			"content": [
+				"27.5",
+				"\u00b1",
+				"0.7"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 110,
+			"tex": "59.8 $\\pm$ 0.4",
+			"content": [
+				"59.8",
+				"\u00b1",
+				"0.4"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 42,
+			"tex": "69.4 $\\pm$ 0.9",
+			"content": [
+				"69.4",
+				"\u00b1",
+				"0.9"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 101,
+			"tex": "45.0 $\\pm$ 0.6",
+			"content": [
+				"45.0",
+				"\u00b1",
+				"0.6"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 41,
+			"tex": "66.7 $\\pm$ 0.7",
+			"content": [
+				"66.7",
+				"\u00b1",
+				"0.7"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 78,
+			"tex": "71.3 $\\pm$ 1.4",
+			"content": [
+				"71.3",
+				"\u00b1",
+				"1.4"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 40,
+			"tex": "62.6 $\\pm$ 0.6",
+			"content": [
+				"62.6",
+				"\u00b1",
+				"0.6"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 0,
+			"tex": "",
+			"content": [],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "32.6 $\\pm$ 0.6",
+			"content": [
+				"32.6",
+				"\u00b1",
+				"0.6"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 111,
+			"tex": "63.0 $\\pm$ 0.8",
+			"content": [
+				"63.0",
+				"\u00b1",
+				"0.8"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 26,
+			"tex": "\\textbf{39.5} $\\mathbf{\\pm}$ \\textbf{0.7}",
+			"content": [
+				"39.5",
+				"\u00b1",
+				"0.7"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 119,
+			"tex": "\\textbf{72.2} $\\mathbf{\\pm}$ \\textbf{0.4}",
+			"content": [
+				"72.2",
+				"\u00b1",
+				"0.4"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 33,
+			"tex": "64.2 $\\pm$ 0.8",
+			"content": [
+				"64.2",
+				"\u00b1",
+				"0.8"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 79,
+			"tex": "BIK-SVM",
+			"content": [
+				"BIK-SVM"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 28,
+			"tex": "\\textbf{43.3} $\\mathbf{\\pm}$ \\textbf{0.8}",
+			"content": [
+				"43.3",
+				"\u00b1",
+				"0.8"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 121,
+			"tex": "MKL-DR-KFDA + SVM",
+			"content": [
+				"MKL-DR-KFDA",
+				"+",
+				"SVM"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 30,
+			"tex": "AK-RT-KFDA + NN",
+			"content": [
+				"AK-RT-KFDA",
+				"+",
+				"NN"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 108,
+			"tex": "46.1 $\\pm$ 0.6",
+			"content": [
+				"46.1",
+				"\u00b1",
+				"0.6"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 32,
+			"tex": "57.6 $\\pm$ 0.6",
+			"content": [
+				"57.6",
+				"\u00b1",
+				"0.6"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 116,
+			"tex": "\\textbf{58.9} $\\mathbf{\\pm}$ \\textbf{0.4}",
+			"content": [
+				"58.9",
+				"\u00b1",
+				"0.4"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 45,
+			"tex": "\\textbf{46.1} $\\mathbf{\\pm}$ \\textbf{0.6}",
+			"content": [
+				"46.1",
+				"\u00b1",
+				"0.6"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 98,
+			"tex": "70.8 $\\pm$ 0.9",
+			"content": [
+				"70.8",
+				"\u00b1",
+				"0.9"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 15,
+			"tex": "42.4 $\\pm$ 1.5",
+			"content": [
+				"42.4",
+				"\u00b1",
+				"1.5"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 77,
+			"tex": "68.3 $\\pm$ 0.7",
+			"content": [
+				"68.3",
+				"\u00b1",
+				"0.7"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 95,
+			"tex": "57.6 $\\pm$ 0.6",
+			"content": [
+				"57.6",
+				"\u00b1",
+				"0.6"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 54,
+			"tex": "\\textbf{65.3} $\\mathbf{\\pm}$ \\textbf{0.8}",
+			"content": [
+				"65.3",
+				"\u00b1",
+				"0.8"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 112,
+			"tex": "65.5 $\\pm$ 0.6",
+			"content": [
+				"65.5",
+				"\u00b1",
+				"0.6"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 16,
+			"tex": "PK-NN",
+			"content": [
+				"PK-NN"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "36.4 $\\pm$ 1.1",
+			"content": [
+				"36.4",
+				"\u00b1",
+				"1.1"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 67,
+			"tex": "\\textbf{55.7} $\\mathbf{\\pm}$ \\textbf{0.5}",
+			"content": [
+				"55.7",
+				"\u00b1",
+				"0.5"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 53,
+			"tex": "\\textbf{58.6} $\\mathbf{\\pm}$ \\textbf{0.4}",
+			"content": [
+				"58.6",
+				"\u00b1",
+				"0.4"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 70,
+			"tex": "68.9 $\\pm$ 1.0",
+			"content": [
+				"68.9",
+				"\u00b1",
+				"1.0"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 6,
+			"tex": "20",
+			"content": [
+				"20"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 62,
+			"tex": "65.5 $\\pm$ 0.8",
+			"content": [
+				"65.5",
+				"\u00b1",
+				"0.8"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 107,
+			"tex": "BIK-RT-KFDA + SVM",
+			"content": [
+				"BIK-RT-KFDA",
+				"+",
+				"SVM"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 43,
+			"tex": "72.4 $\\pm$ 1.0",
+			"content": [
+				"72.4",
+				"\u00b1",
+				"1.0"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 123,
+			"tex": "53.6 $\\pm$ 2.5",
+			"content": [
+				"53.6",
+				"\u00b1",
+				"2.5"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 44,
+			"tex": "BIK-RT-KFDA + NN",
+			"content": [
+				"BIK-RT-KFDA",
+				"+",
+				"NN"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 109,
+			"tex": "54.8 $\\pm$ 0.2",
+			"content": [
+				"54.8",
+				"\u00b1",
+				"0.2"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 10,
+			"tex": "27.3 $\\pm$ 0.5",
+			"content": [
+				"27.3",
+				"\u00b1",
+				"0.5"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 120,
+			"tex": "\\textbf{74.7} $\\mathbf{\\pm}$ \\textbf{0.7}",
+			"content": [
+				"74.7",
+				"\u00b1",
+				"0.7"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 1,
+			"tex": "Number of training images per class",
+			"content": [
+				"Number",
+				"of",
+				"training",
+				"images",
+				"per",
+				"class"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 6
+		},
+		{
+			"id": 9,
+			"tex": "AK-NN",
+			"content": [
+				"AK-NN"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 106,
+			"tex": "72.5 $\\pm$ 1.1",
+			"content": [
+				"72.5",
+				"\u00b1",
+				"1.1"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 25,
+			"tex": "\\textbf{35.5} $\\mathbf{\\pm}$ \\textbf{1.2}",
+			"content": [
+				"35.5",
+				"\u00b1",
+				"1.2"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 100,
+			"tex": "PK-RT-KFDA + SVM",
+			"content": [
+				"PK-RT-KFDA",
+				"+",
+				"SVM"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "\\textbf{29.4} $\\mathbf{\\pm}$ \\textbf{0.9}",
+			"content": [
+				"29.4",
+				"\u00b1",
+				"0.9"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 103,
+			"tex": "62.6 $\\pm$ 0.7",
+			"content": [
+				"62.6",
+				"\u00b1",
+				"0.7"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 23,
+			"tex": "BIK-NN",
+			"content": [
+				"BIK-NN"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 86,
+			"tex": "MKL-SVM",
+			"content": [
+				"MKL-SVM"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "15",
+			"content": [
+				"15"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 89,
+			"tex": "\\textbf{62.3} $\\mathbf{\\pm}$ \\textbf{0.8}",
+			"content": [
+				"62.3",
+				"\u00b1",
+				"0.8"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 22,
+			"tex": "42.9 $\\pm$ 1.4",
+			"content": [
+				"42.9",
+				"\u00b1",
+				"1.4"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 21,
+			"tex": "40.4 $\\pm$ 1.1",
+			"content": [
+				"40.4",
+				"\u00b1",
+				"1.1"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 5,
+			"end_col": 5
+		}
+	]
+}

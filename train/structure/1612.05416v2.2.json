@@ -1,0 +1,598 @@
+{
+	"cells": [
+		{
+			"id": 2,
+			"tex": "Downlink carrier frequency",
+			"content": [
+				"Downlink",
+				"carrier",
+				"frequency"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 40,
+			"tex": "Aggregator standard",
+			"content": [
+				"Aggregator",
+				"standard"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 29,
+			"tex": "1000 B",
+			"content": [
+				"1000",
+				"B"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 27,
+			"tex": "400 kb/s",
+			"content": [
+				"400",
+				"kb/s"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 33,
+			"tex": "64 kb/s",
+			"content": [
+				"64",
+				"kb/s"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "eNBs beamwidth",
+			"content": [
+				"eNBs",
+				"beamwidth"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 47,
+			"tex": "30 dBm",
+			"content": [
+				"30",
+				"dBm"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "3 dB",
+			"content": [
+				"3",
+				"dB"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "Available bandwidth",
+			"content": [
+				"Available",
+				"bandwidth"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "20-60-100-120",
+			"content": [
+				"20-60-100-120"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 32,
+			"tex": "MT requested traffic (uplink)",
+			"content": [
+				"MT",
+				"requested",
+				"tra\ufb03c",
+				"(uplink)"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 41,
+			"tex": "802.11n",
+			"content": [
+				"802.11n"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "Parameter",
+			"content": [
+				"Parameter"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 31,
+			"tex": "6.4 kb/s",
+			"content": [
+				"6.4",
+				"kb/s"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 43,
+			"tex": "2.4 GHz",
+			"content": [
+				"2.4",
+				"GHz"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 46,
+			"tex": "Aggregator maximum TX power",
+			"content": [
+				"Aggregator",
+				"maximum",
+				"TX",
+				"power"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 36,
+			"tex": "Vehicle speed",
+			"content": [
+				"Vehicle",
+				"speed"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 25,
+			"tex": "800 kb/s",
+			"content": [
+				"800",
+				"kb/s"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 44,
+			"tex": "Aggregator bandwidth",
+			"content": [
+				"Aggregator",
+				"bandwidth"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 37,
+			"tex": "5 m/s",
+			"content": [
+				"5",
+				"m/s"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 34,
+			"tex": "MT packet size",
+			"content": [
+				"MT",
+				"packet",
+				"size"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "43 dBm",
+			"content": [
+				"43",
+				"dBm"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 35,
+			"tex": "800 B",
+			"content": [
+				"800",
+				"B"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "900 MHz",
+			"content": [
+				"900",
+				"MHz"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "Number of MT devices",
+			"content": [
+				"Number",
+				"of",
+				"MT",
+				"devices"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "Number of eNBs",
+			"content": [
+				"Number",
+				"of",
+				"eNBs"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "HT requested traffic (downlink)",
+			"content": [
+				"HT",
+				"requested",
+				"tra\ufb03c",
+				"(downlink)"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 30,
+			"tex": "MT requested traffic (downlink)",
+			"content": [
+				"MT",
+				"requested",
+				"tra\ufb03c",
+				"(downlink)"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "HT requested traffic (uplink)",
+			"content": [
+				"HT",
+				"requested",
+				"tra\ufb03c",
+				"(uplink)"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 28,
+			"tex": "HT packet size",
+			"content": [
+				"HT",
+				"packet",
+				"size"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "TX power used by eNBs",
+			"content": [
+				"TX",
+				"power",
+				"used",
+				"by",
+				"eNBs"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "eNB noise figure",
+			"content": [
+				"eNB",
+				"noise",
+				"\ufb01gure"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "945 MHz",
+			"content": [
+				"945",
+				"MHz"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "1",
+			"content": [
+				"1"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 39,
+			"tex": "50 ms",
+			"content": [
+				"50",
+				"ms"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "180 kHz",
+			"content": [
+				"180",
+				"kHz"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "25-50 RBs",
+			"content": [
+				"25-50",
+				"RBs"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "PF/FF",
+			"content": [
+				"PF/FF"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 38,
+			"tex": "Vehicle inter-arrival time",
+			"content": [
+				"Vehicle",
+				"inter-arrival",
+				"time"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 45,
+			"tex": "20 MHz",
+			"content": [
+				"20",
+				"MHz"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "Value",
+			"content": [
+				"Value"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "RB bandwidth",
+			"content": [
+				"RB",
+				"bandwidth"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 42,
+			"tex": "Aggregator carrier frequency",
+			"content": [
+				"Aggregator",
+				"carrier",
+				"frequency"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "30-35-45-55-60",
+			"content": [
+				"30-35-45-55-60"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "Number of HT devices",
+			"content": [
+				"Number",
+				"of",
+				"HT",
+				"devices"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "Uplink carrier frequency",
+			"content": [
+				"Uplink",
+				"carrier",
+				"frequency"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "LTE scheduler",
+			"content": [
+				"LTE",
+				"scheduler"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "$360^{\\circ}$ (isotropic)",
+			"content": [
+				"360\u25e6",
+				"(isotropic)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

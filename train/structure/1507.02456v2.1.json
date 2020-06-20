@@ -1,0 +1,193 @@
+{
+	"cells": [
+		{
+			"id": 8,
+			"tex": "$F_{13}$",
+			"content": [
+				"F13"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "$\\forall c,d,a,r: \\mathrm{subNom}(c,a) \\wedge \\mathrm{subNom}(d,a) \\wedge \\mathrm{rsup}(c,r,d) \\rightarrow \\mathrm{sub}(c,d)$",
+			"content": [
+				"\u2200c,",
+				"d,",
+				"a,",
+				"r",
+				":",
+				"subNom(c,",
+				"a)",
+				"\u2227",
+				"subNom(d,",
+				"a)",
+				"\u2227",
+				"rsup(c,",
+				"r,",
+				"d)",
+				"\u2192",
+				"sub(c,",
+				"d)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "$\\forall c,d,f,o,v: \\mathrm{rsupEx}(c,f,o_1,v_1) \\wedge \\mathrm{rsubEx}(f,o_2,v_2,d) \\wedge \\mathrm{eval}(o_1,v_1,o_2,v_2) \\Rightarrow \\mathrm{sub}(c,d)$",
+			"content": [
+				"\u2200c,",
+				"d,",
+				"f,",
+				"o,",
+				"v",
+				":",
+				"rsupEx(c,",
+				"f,",
+				"o1,",
+				"v1)",
+				"\u2227",
+				"rsubEx(f,",
+				"o2,",
+				"v2,",
+				"d)",
+				"\u2227",
+				"eval(o1,",
+				"v1,",
+				"o2,",
+				"v2)",
+				"\u21d2",
+				"sub(c,",
+				"d)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "$\\forall c,d,f,o,v: \\mathrm{sub}(c,d) \\wedge \\mathrm{rsupEx}(d,f,o,v) \\Rightarrow \\mathrm{rsupEx}(c,f,o,v)$",
+			"content": [
+				"\u2200c,",
+				"d,",
+				"f,",
+				"o,",
+				"v",
+				":",
+				"sub(c,",
+				"d)",
+				"\u2227",
+				"rsupEx(d,",
+				"f,",
+				"o,",
+				"v)",
+				"\u21d2",
+				"rsupEx(c,",
+				"f,",
+				"o,",
+				"v)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "$F_{11}$",
+			"content": [
+				"F11"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "$F_1$ -- $F_9$",
+			"content": [
+				"F1",
+				"\u2013",
+				"F9"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "Refer to Table 2 in .",
+			"content": [
+				"Refer",
+				"to",
+				"Table",
+				"2",
+				"in",
+				"."
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "$F_{12}$",
+			"content": [
+				"F12"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "$\\forall c,d,a,r,b: \\mathrm{subNom}(c,a) \\wedge \\mathrm{subNom}(d,a) \\wedge \\mathrm{rsupNom}(b,r,d) \\rightarrow \\mathrm{sub}(c,d)$",
+			"content": [
+				"\u2200c,",
+				"d,",
+				"a,",
+				"r,",
+				"b",
+				":",
+				"subNom(c,",
+				"a)",
+				"\u2227",
+				"subNom(d,",
+				"a)",
+				"\u2227",
+				"rsupNom(b,",
+				"r,",
+				"d)",
+				"\u2192",
+				"sub(c,",
+				"d)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "$F_{10}$",
+			"content": [
+				"F10"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

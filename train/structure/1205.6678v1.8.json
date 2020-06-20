@@ -1,0 +1,147 @@
+{
+	"cells": [
+		{
+			"id": 8,
+			"tex": "\\textbf{9. B\\(\\rightarrow\\)A:} MAC\\{2,B,A,NB,NA\\}$_{H(MAC\\{A,B,NA,NB\\}_{MK},1)}$",
+			"content": [
+				"9.",
+				"B\u2192A:",
+				"MAC{2,B,A,NB,NA}H(M",
+				"AC{A,B,N",
+				"A,N",
+				"B}MK",
+				",1)"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "\\textbf{4. A\\(\\rightarrow\\)B:} \\{B, FALSE, Zero, SKKE\\}$_{MK}$",
+			"content": [
+				"4.",
+				"A\u2192B:",
+				"{B,",
+				"FALSE,",
+				"Zero,",
+				"SKKE}M",
+				"K"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "\\textbf{6. A\\(\\rightarrow\\)B:} \\{NA\\}$_{MK}$",
+			"content": [
+				"6.",
+				"A\u2192B:",
+				"{NA}M",
+				"K"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "\\textbf{1. A\\(\\rightarrow\\)TC:} \\{TC, AppKey, B\\}$_{KA}$",
+			"content": [
+				"1.",
+				"A\u2192TC:",
+				"{TC,",
+				"AppKey,",
+				"B}KA"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "\\textbf{3. TC\\(\\rightarrow\\)B:} \\{B, AppMK, A, FALSE, MK\\}$_{KB}$",
+			"content": [
+				"3.",
+				"TC\u2192B:",
+				"{B,",
+				"AppMK,",
+				"A,",
+				"FALSE,",
+				"MK}KB"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "\\textbf{5. B\\(\\rightarrow\\)A:} \\{A, TRUE\\}$_{MK}$",
+			"content": [
+				"5.",
+				"B\u2192A:",
+				"{A,",
+				"TRUE}M",
+				"K"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "\\textbf{7. B\\(\\rightarrow\\)A:} \\{NB\\}$_{MK}$",
+			"content": [
+				"7.",
+				"B\u2192A:",
+				"{NB}M",
+				"K"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "\\textbf{2. TC\\(\\rightarrow\\)A:} \\{A, AppMK, B, TRUE, MK\\}$_{KA}$",
+			"content": [
+				"2.",
+				"TC\u2192A:",
+				"{A,",
+				"AppMK,",
+				"B,",
+				"TRUE,",
+				"MK}KA"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "\\textbf{8. A\\(\\rightarrow\\)B:} MAC\\{3,A,B,NA,NB\\}$_{H(MAC\\{A,B,NA,NB\\}_{MK},1)}$",
+			"content": [
+				"8.",
+				"A\u2192B:",
+				"MAC{3,A,B,NA,NB}H(M",
+				"AC{A,B,N",
+				"A,N",
+				"B}MK",
+				",1)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

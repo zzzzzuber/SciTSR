@@ -1,0 +1,597 @@
+{
+	"cells": [
+		{
+			"id": 3,
+			"tex": "number of training items",
+			"content": [
+				"number",
+				"of",
+				"training",
+				"items"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 44,
+			"tex": "$\\tau$",
+			"content": [
+				"\u03c4"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "$M$",
+			"content": [
+				"M"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "Description",
+			"content": [
+				"Description"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 37,
+			"tex": "covariance diagonal of Gaussian distribution \\qquad",
+			"content": [
+				"covariance",
+				"diagonal",
+				"of",
+				"Gaussian",
+				"distribution"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 25,
+			"tex": "index of an item",
+			"content": [
+				"index",
+				"of",
+				"an",
+				"item"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 26,
+			"tex": "$x_m$",
+			"content": [
+				"xm"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 32,
+			"tex": "$s_m$",
+			"content": [
+				"sm"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "$Y$",
+			"content": [
+				"Y"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "quality vector variable",
+			"content": [
+				"quality",
+				"vector",
+				"variable"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 36,
+			"tex": "$\\sigma$",
+			"content": [
+				"\u03c3"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 30,
+			"tex": "$z_m$",
+			"content": [
+				"zm"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "$S$",
+			"content": [
+				"S"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "Notation",
+			"content": [
+				"Notation"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "latent label vector variable",
+			"content": [
+				"latent",
+				"label",
+				"vector",
+				"variable"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "$Z$",
+			"content": [
+				"Z"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "noisy label vector variable",
+			"content": [
+				"noisy",
+				"label",
+				"vector",
+				"variable"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "image variable",
+			"content": [
+				"image",
+				"variable"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "$X$",
+			"content": [
+				"X"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 40,
+			"tex": "$\\gamma_m$",
+			"content": [
+				"\u03b3m"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "dimension of the quality variable",
+			"content": [
+				"dimension",
+				"of",
+				"the",
+				"quality",
+				"variable"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 41,
+			"tex": "$m$th sample from Gumbel distribution",
+			"content": [
+				"mth",
+				"sample",
+				"from",
+				"Gumbel",
+				"distribution"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "number of categories",
+			"content": [
+				"number",
+				"of",
+				"categories"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 33,
+			"tex": "$m$th quality vector",
+			"content": [
+				"mth",
+				"quality",
+				"vector"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 39,
+			"tex": "regularizaion cofficient",
+			"content": [
+				"regularizaion",
+				"co\ufb03cient"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "$D$",
+			"content": [
+				"D"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "parameter of annotation quality network",
+			"content": [
+				"parameter",
+				"of",
+				"annotation",
+				"quality",
+				"network"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 29,
+			"tex": "$m$th observed noisy label vector",
+			"content": [
+				"mth",
+				"observed",
+				"noisy",
+				"label",
+				"vector"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "parameter of noise network",
+			"content": [
+				"parameter",
+				"of",
+				"noise",
+				"network"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 47,
+			"tex": "time-varying coefficient",
+			"content": [
+				"time-varying",
+				"coe\ufb03cient"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "parameter of latent label network",
+			"content": [
+				"parameter",
+				"of",
+				"latent",
+				"label",
+				"network"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "$W_Q$",
+			"content": [
+				"WQ"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "$m$th observed image",
+			"content": [
+				"mth",
+				"observed",
+				"image"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "$W_N$",
+			"content": [
+				"WN"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "$W_L$",
+			"content": [
+				"WL"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "$W_C$",
+			"content": [
+				"WC"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 45,
+			"tex": "temperature in Gumbel-SoftMax",
+			"content": [
+				"temperature",
+				"in",
+				"Gumbel-SoftMax"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 31,
+			"tex": "$m$th latent label vector",
+			"content": [
+				"mth",
+				"latent",
+				"label",
+				"vector"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "parameter of classifier network",
+			"content": [
+				"parameter",
+				"of",
+				"classi\ufb01er",
+				"network"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "$K$",
+			"content": [
+				"K"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 38,
+			"tex": "$\\lambda$",
+			"content": [
+				"\u03bb"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 43,
+			"tex": "$m$th sample from Gaussian distribution",
+			"content": [
+				"mth",
+				"sample",
+				"from",
+				"Gaussian",
+				"distribution"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 46,
+			"tex": "$\\alpha$",
+			"content": [
+				"\u03b1"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 42,
+			"tex": "$\\zeta_m$",
+			"content": [
+				"\u03b6m"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 34,
+			"tex": "$\\mu$",
+			"content": [
+				"\u00b5"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "$m$",
+			"content": [
+				"m"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 35,
+			"tex": "mean of Guassian distribution",
+			"content": [
+				"mean",
+				"of",
+				"Guassian",
+				"distribution"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 28,
+			"tex": "$y_m$",
+			"content": [
+				"ym"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

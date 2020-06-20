@@ -1,0 +1,285 @@
+{
+	"cells": [
+		{
+			"id": 1,
+			"tex": "G\\\"{o}del logic",
+			"content": [
+				"G\u00a8odel",
+				"logic"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "$\\mathbf{} $",
+			"content": [],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "if $x=0$ then 1 else 0",
+			"content": [
+				"if",
+				"x",
+				"=",
+				"0",
+				"then",
+				"1",
+				"else",
+				"0"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "$1-x$",
+			"content": [
+				"1",
+				"\u2212",
+				"x"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 14,
+			"tex": "$x + y - x\\cdot y$",
+			"content": [
+				"x",
+				"+",
+				"y",
+				"\u2212",
+				"x",
+				"\u00b7",
+				"y"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 2,
+			"tex": "Product logic",
+			"content": [
+				"Product",
+				"logic"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 4,
+			"tex": "$\\mathbf{\\neg x} $",
+			"content": [
+				"\u00acx"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "$\\min\\{x,y\\}$",
+			"content": [
+				"min{x,",
+				"y}"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "$\\mathbf{x \\vee y} $",
+			"content": [
+				"x",
+				"\u2228",
+				"y"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "$x\\cdot y$",
+			"content": [
+				"x",
+				"\u00b7",
+				"y"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 16,
+			"tex": "$\\mathbf{x \\Rightarrow y} $",
+			"content": [
+				"x",
+				"\u21d2",
+				"y"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "$x\\cdot y$",
+			"content": [
+				"x",
+				"\u00b7",
+				"y"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 17,
+			"tex": "if $x\\leq y$ then 1, else $y$",
+			"content": [
+				"if",
+				"x",
+				"\u2264",
+				"y",
+				"then",
+				"1,",
+				"else",
+				"y"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "if $x\\leq y$ then 1, else $x/y$",
+			"content": [
+				"if",
+				"x",
+				"\u2264",
+				"y",
+				"then",
+				"1,",
+				"else",
+				"x/y"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 19,
+			"tex": "$y - x + x\\cdot y$",
+			"content": [
+				"y",
+				"\u2212",
+				"x",
+				"+",
+				"x",
+				"\u00b7",
+				"y"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 6,
+			"tex": "if $x=0$ then 1 else 0",
+			"content": [
+				"if",
+				"x",
+				"=",
+				"0",
+				"then",
+				"1",
+				"else",
+				"0"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 13,
+			"tex": "$\\max\\{x,y\\}$",
+			"content": [
+				"max{x,",
+				"y}"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "$x + y - x\\cdot y$",
+			"content": [
+				"x",
+				"+",
+				"y",
+				"\u2212",
+				"x",
+				"\u00b7",
+				"y"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 3,
+			"tex": "Probabilistic logic",
+			"content": [
+				"Probabilistic",
+				"logic"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 8,
+			"tex": "$\\mathbf{x \\wedge y} $",
+			"content": [
+				"x",
+				"\u2227",
+				"y"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

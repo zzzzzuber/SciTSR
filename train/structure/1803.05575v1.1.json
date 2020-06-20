@@ -1,0 +1,476 @@
+{
+	"cells": [
+		{
+			"id": 25,
+			"tex": "set of neighbors of server $i$ in the share graph",
+			"content": [
+				"set",
+				"of",
+				"neighbors",
+				"of",
+				"server",
+				"i",
+				"in",
+				"the",
+				"share",
+				"graph"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "Explanations",
+			"content": [
+				"Explanations"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "$GST_i(c,k)$",
+			"content": [
+				"GSTi(c,",
+				"k)"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "$v$",
+			"content": [
+				"v"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "$S_c$",
+			"content": [
+				"Sc"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "Symbols",
+			"content": [
+				"Symbols"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "set of servers client $c$ can access",
+			"content": [
+				"set",
+				"of",
+				"servers",
+				"client",
+				"c",
+				"can",
+				"access"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "key",
+			"content": [
+				"key"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "global stable time of key $k$ at server $i$ for client $c$",
+			"content": [
+				"global",
+				"stable",
+				"time",
+				"of",
+				"key",
+				"k",
+				"at",
+				"server",
+				"i",
+				"for",
+				"client",
+				"c"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "$LST_i(k)$",
+			"content": [
+				"LSTi(k)"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "update message",
+			"content": [
+				"update",
+				"message"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "equivalence class containing server-key pairs defined in Section \\ref{sec:gst_client}",
+			"content": [
+				"equivalence",
+				"class",
+				"containing",
+				"server-key",
+				"pairs",
+				"de\ufb01ned",
+				"in",
+				"Section",
+				"??"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "global stable time stored at client $c$ for any server-key pair $(i,k)\\in P$",
+			"content": [
+				"global",
+				"stable",
+				"time",
+				"stored",
+				"at",
+				"client",
+				"c",
+				"for",
+				"any",
+				"server-key",
+				"pair",
+				"(i,",
+				"k)",
+				"\u2208",
+				"P"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "$u$",
+			"content": [
+				"u"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "$DT_c$",
+			"content": [
+				"DTc"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 29,
+			"tex": "physical clock at server $i$",
+			"content": [
+				"physical",
+				"clock",
+				"at",
+				"server",
+				"i"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "item tuple $<k,v,ut>$",
+			"content": [
+				"item",
+				"tuple",
+				"<",
+				"k,",
+				"v,",
+				"ut",
+				">"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "$gst_c(P)$",
+			"content": [
+				"gstc(P",
+				")"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "value",
+			"content": [
+				"value"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "$K$",
+			"content": [
+				"K"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "$HB_i$",
+			"content": [
+				"HBi"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 33,
+			"tex": "local time updated by physical clock at server $i$",
+			"content": [
+				"local",
+				"time",
+				"updated",
+				"by",
+				"physical",
+				"clock",
+				"at",
+				"server",
+				"i"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "$k$",
+			"content": [
+				"k"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 31,
+			"tex": "set of servers that server $i$ needs to send heartbeat to",
+			"content": [
+				"set",
+				"of",
+				"servers",
+				"that",
+				"server",
+				"i",
+				"needs",
+				"to",
+				"send",
+				"heartbeat",
+				"to"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 28,
+			"tex": "$Clock_i$",
+			"content": [
+				"Clocki"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "update time",
+			"content": [
+				"update",
+				"time"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "local stable time of key $k$ at server $i$",
+			"content": [
+				"local",
+				"stable",
+				"time",
+				"of",
+				"key",
+				"k",
+				"at",
+				"server",
+				"i"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 32,
+			"tex": "$ts_i$",
+			"content": [
+				"tsi"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "heartbeat message from server $i$",
+			"content": [
+				"heartbeat",
+				"message",
+				"from",
+				"server",
+				"i"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 24,
+			"tex": "$N_i^s$",
+			"content": [
+				"N",
+				"s",
+				"i"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 30,
+			"tex": "$O_i$",
+			"content": [
+				"Oi"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "$ut$",
+			"content": [
+				"ut"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "$P$",
+			"content": [
+				"P"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "dependency time at client $c$",
+			"content": [
+				"dependency",
+				"time",
+				"at",
+				"client",
+				"c"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

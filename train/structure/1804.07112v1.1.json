@@ -1,0 +1,452 @@
+{
+	"cells": [
+		{
+			"id": 2,
+			"tex": "$\\phi - V_s$",
+			"content": [
+				"\u03c6",
+				"\u2212",
+				"Vs"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 10,
+			"tex": "$V_S=3.581-4.719\\phi$",
+			"content": [
+				"VS",
+				"=",
+				"3.581",
+				"\u2212",
+				"4.719\u03c6"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 16,
+			"tex": "Tight-gas sandstones",
+			"content": [
+				"Tight-gas",
+				"sandstones"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "$V_p=4.944-5.201\\phi$",
+			"content": [
+				"Vp",
+				"=",
+				"4.944",
+				"\u2212",
+				"5.201\u03c6"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "Limestone",
+			"content": [
+				"Limestone"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "$\\rho=1.96+0.117V_p$",
+			"content": [
+				"\u03c1",
+				"=",
+				"1.96",
+				"+",
+				"0.117Vp"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 9,
+			"tex": "$V_p = 6.606 - 9.380\\phi$",
+			"content": [
+				"Vp",
+				"=",
+				"6.606",
+				"\u2212",
+				"9.380\u03c6"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "$V_p=4.868-3.836\\phi$",
+			"content": [
+				"Vp",
+				"=",
+				"4.868",
+				"\u2212",
+				"3.836\u03c6"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "$V_s = 2.766-2.933\\phi$",
+			"content": [
+				"Vs",
+				"=",
+				"2.766",
+				"\u2212",
+				"2.933\u03c6"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 30,
+			"tex": "$V_s=2.100-2.424\\phi$",
+			"content": [
+				"Vs",
+				"=",
+				"2.100",
+				"\u2212",
+				"2.424\u03c6"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 7,
+			"tex": "$\\rho = 1.045 + 0.373V_p$",
+			"content": [
+				"\u03c1",
+				"=",
+				"1.045",
+				"+",
+				"0.373Vp"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 8,
+			"tex": "Dolomite",
+			"content": [
+				"Dolomite"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "Sandstones",
+			"content": [
+				"Sandstones"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 31,
+			"tex": "$\\rho=1.498+0.224V_p$",
+			"content": [
+				"\u03c1",
+				"=",
+				"1.498",
+				"+",
+				"0.224Vp"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 1,
+			"tex": "$\\phi - V_p$",
+			"content": [
+				"\u03c6",
+				"\u2212",
+				"Vp"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "$V_s=2.981-3.484\\phi$",
+			"content": [
+				"Vs",
+				"=",
+				"2.981",
+				"\u2212",
+				"3.484\u03c6"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 23,
+			"tex": "$\\rho=1.513+0.202V_p$",
+			"content": [
+				"\u03c1",
+				"=",
+				"1.513",
+				"+",
+				"0.202Vp"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 3,
+			"tex": "$V_p - \\rho$",
+			"content": [
+				"Vp",
+				"\u2212",
+				"\u03c1"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 29,
+			"tex": "$V_p=3.774-3.414\\phi$",
+			"content": [
+				"Vp",
+				"=",
+				"3.774",
+				"\u2212",
+				"3.414\u03c6"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "$\\rho=1.843-0.137V_p$",
+			"content": [
+				"\u03c1",
+				"=",
+				"1.843",
+				"\u2212",
+				"0.137Vp"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 18,
+			"tex": "$V_s=3.149-1.703\\phi$",
+			"content": [
+				"Vs",
+				"=",
+				"3.149",
+				"\u2212",
+				"1.703\u03c6"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 5,
+			"tex": "$V_p = 5.059\\phi^2 - 8.505\\phi + 5.128$",
+			"content": [
+				"Vp",
+				"=",
+				"5.059\u03c62",
+				"\u2212",
+				"8.505\u03c6",
+				"+",
+				"5.128"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 28,
+			"tex": "Poorly consolidated sandstones",
+			"content": [
+				"Poorly",
+				"consolidated",
+				"sandstones"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "Lithology",
+			"content": [
+				"Lithology"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "$V_s=2.486-1.626\\phi$",
+			"content": [
+				"Vs",
+				"=",
+				"2.486",
+				"\u2212",
+				"1.626\u03c6"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 4,
+			"tex": "Chalks",
+			"content": [
+				"Chalks"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "High-porosity sandstones",
+			"content": [
+				"High-porosity",
+				"sandstones"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "$\\rho=1.569+0.195V_p$",
+			"content": [
+				"\u03c1",
+				"=",
+				"1.569",
+				"+",
+				"0.195Vp"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 21,
+			"tex": "$V_p=5.624-6.65\\phi$",
+			"content": [
+				"Vp",
+				"=",
+				"5.624",
+				"\u2212",
+				"6.65\u03c6"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 27,
+			"tex": "$\\rho=1.450+0.219V_p$",
+			"content": [
+				"\u03c1",
+				"=",
+				"1.450",
+				"+",
+				"0.219Vp"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 25,
+			"tex": "$V_p=4.303-2.227\\phi$",
+			"content": [
+				"Vp",
+				"=",
+				"4.303",
+				"\u2212",
+				"2.227\u03c6"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "$V_s=3.053-3.866\\phi$",
+			"content": [
+				"Vs",
+				"=",
+				"3.053",
+				"\u2212",
+				"3.866\u03c6"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		}
+	]
+}

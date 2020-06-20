@@ -1,0 +1,848 @@
+{
+	"cells": [
+		{
+			"id": 64,
+			"tex": "\\verb|=>|",
+			"content": [
+				"=>"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 41,
+			"tex": "\\verb|{@false}.|",
+			"content": [
+				"{@false}."
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 61,
+			"tex": "\\verb|=>|",
+			"content": [
+				"=>"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 24,
+			"tex": "\\verb|{?Q owl:sameAs ?R. ?Q owl:differentFrom ?R}|",
+			"content": [
+				"{?Q",
+				"owl:sameAs",
+				"?R.",
+				"?Q",
+				"owl:differentFrom",
+				"?R}"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 46,
+			"tex": "\\verb|=>|",
+			"content": [
+				"=>"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 54,
+			"tex": "\\verb|{?P1 owl:equivalentProperty ?P2. ?Q ?P2 ?R}|",
+			"content": [
+				"{?P1",
+				"owl:equivalentProperty",
+				"?P2.",
+				"?Q",
+				"?P2",
+				"?R}"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 42,
+			"tex": "\\verb|{?P rdf:type owl:SymmetricProperty. ?Q ?P ?R}|",
+			"content": [
+				"{?P",
+				"rdf:type",
+				"owl:SymmetricProperty.",
+				"?Q",
+				"?P",
+				"?R}"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 36,
+			"tex": "\\verb| ?Q1 ?P ?R. ?Q2 ?P ?R}|",
+			"content": [
+				"?Q1",
+				"?P",
+				"?R.",
+				"?Q2",
+				"?P",
+				"?R}"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "\\verb|=>|",
+			"content": [
+				"=>"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 43,
+			"tex": "\\verb|=>|",
+			"content": [
+				"=>"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "\\verb|{?O owl:sameAs ?O2. ?S ?P ?O}|",
+			"content": [
+				"{?O",
+				"owl:sameAs",
+				"?O2.",
+				"?S",
+				"?P",
+				"?O}"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 32,
+			"tex": "\\verb|{?R1 owl:sameAs ?R2}.|",
+			"content": [
+				"{?R1",
+				"owl:sameAs",
+				"?R2}."
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 45,
+			"tex": "\\verb|{?P rdf:type owl:AsymmetricProperty. ?Q ?P ?R. ?R ?P ?Q }|",
+			"content": [
+				"{?P",
+				"rdf:type",
+				"owl:AsymmetricProperty.",
+				"?Q",
+				"?P",
+				"?R.",
+				"?R",
+				"?P",
+				"?Q",
+				"}"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "\\verb|{?O owl:sameAs ?S}.|",
+			"content": [
+				"{?O",
+				"owl:sameAs",
+				"?S}."
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 15,
+			"tex": "\\verb|{?S owl:sameAs ?S2. ?S ?P ?O}|",
+			"content": [
+				"{?S",
+				"owl:sameAs",
+				"?S2.",
+				"?S",
+				"?P",
+				"?O}"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 60,
+			"tex": "\\verb|{?P1 owl:inverseOf ?P2. ?Q ?P1 ?R}|",
+			"content": [
+				"{?P1",
+				"owl:inverseOf",
+				"?P2.",
+				"?Q",
+				"?P1",
+				"?R}"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 37,
+			"tex": "\\verb|=>|",
+			"content": [
+				"=>"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "\\verb|{?Q owl:sameAs ?P}.|",
+			"content": [
+				"{?Q",
+				"owl:sameAs",
+				"?P}."
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 17,
+			"tex": "\\verb|{?S2 ?P ?O}.|",
+			"content": [
+				"{?S2",
+				"?P",
+				"?O}."
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 23,
+			"tex": "\\verb|{?S ?P ?O2}.|",
+			"content": [
+				"{?S",
+				"?P",
+				"?O2}."
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 18,
+			"tex": "\\verb|{?P owl:sameAs ?P2. ?S ?P ?O}|",
+			"content": [
+				"{?P",
+				"owl:sameAs",
+				"?P2.",
+				"?S",
+				"?P",
+				"?O}"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "\\verb|{?S owl:sameAs ?S. ?P owl:sameAs ?P.|",
+			"content": [
+				"{?S",
+				"owl:sameAs",
+				"?S.",
+				"?P",
+				"owl:sameAs",
+				"?P."
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 55,
+			"tex": "\\verb|=>|",
+			"content": [
+				"=>"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 31,
+			"tex": "\\verb|=>|",
+			"content": [
+				"=>"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 35,
+			"tex": "",
+			"content": [],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 44,
+			"tex": "\\verb|{?R ?P ?Q}.|",
+			"content": [
+				"{?R",
+				"?P",
+				"?Q}."
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 57,
+			"tex": "\\verb|{?P1 owl:propertyDisjointWith ?P2. ?Q ?P1 ?R. ?Q ?P2 ?R}|",
+			"content": [
+				"{?P1",
+				"owl:propertyDisjointWith",
+				"?P2.",
+				"?Q",
+				"?P1",
+				"?R.",
+				"?Q",
+				"?P2",
+				"?R}"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 59,
+			"tex": "\\verb|{@false}.|",
+			"content": [
+				"{@false}."
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 62,
+			"tex": "\\verb|{?R ?P2 ?Q}.|",
+			"content": [
+				"{?R",
+				"?P2",
+				"?Q}."
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 51,
+			"tex": "\\verb|{?P1 owl:equivalentProperty ?P2. ?Q ?P1 ?R}|",
+			"content": [
+				"{?P1",
+				"owl:equivalentProperty",
+				"?P2.",
+				"?Q",
+				"?P1",
+				"?R}"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 30,
+			"tex": "\\verb| ?Q ?P ?R1. ?Q ?P ?R2}|",
+			"content": [
+				"?Q",
+				"?P",
+				"?R1.",
+				"?Q",
+				"?P",
+				"?R2}"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 39,
+			"tex": "\\verb|{?P rdf:type owl:IrreflexiveProperty. ?Q ?P ?Q}|",
+			"content": [
+				"{?P",
+				"rdf:type",
+				"owl:IrreflexiveProperty.",
+				"?Q",
+				"?P",
+				"?Q}"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "\\verb|{?S ?P2 ?O}.|",
+			"content": [
+				"{?S",
+				"?P2",
+				"?O}."
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 63,
+			"tex": "\\verb|{?P1 owl:inverseOf ?P2 . ?Q ?P2 ?R}|",
+			"content": [
+				"{?P1",
+				"owl:inverseOf",
+				"?P2",
+				".",
+				"?Q",
+				"?P2",
+				"?R}"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 47,
+			"tex": "\\verb|{@false}.|",
+			"content": [
+				"{@false}."
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 25,
+			"tex": "\\verb|=>|",
+			"content": [
+				"=>"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 26,
+			"tex": "\\verb|{@false}.|",
+			"content": [
+				"{@false}."
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 48,
+			"tex": "\\verb|{?P rdf:type owl:TransitiveProperty. ?Q ?P ?R. ?R ?P ?P}|",
+			"content": [
+				"{?P",
+				"rdf:type",
+				"owl:TransitiveProperty.",
+				"?Q",
+				"?P",
+				"?R.",
+				"?R",
+				"?P",
+				"?P}"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "",
+			"content": [],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "\\verb|{?S owl:sameAs ?O}|",
+			"content": [
+				"{?S",
+				"owl:sameAs",
+				"?O}"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 50,
+			"tex": "\\verb|{?Q ?P ?P}.|",
+			"content": [
+				"{?Q",
+				"?P",
+				"?P}."
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 8,
+			"tex": "\\verb| ?O owl:sameAs ?O}.|",
+			"content": [
+				"?O",
+				"owl:sameAs",
+				"?O}."
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 29,
+			"tex": "",
+			"content": [],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 10,
+			"tex": "\\verb|=>|",
+			"content": [
+				"=>"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 58,
+			"tex": "\\verb|=>|",
+			"content": [
+				"=>"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 34,
+			"tex": "",
+			"content": [],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 49,
+			"tex": "\\verb|=>|",
+			"content": [
+				"=>"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "\\verb|{?Q owl:sameAs ?R. ?R owl:sameAs ?P}|",
+			"content": [
+				"{?Q",
+				"owl:sameAs",
+				"?R.",
+				"?R",
+				"owl:sameAs",
+				"?P}"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 52,
+			"tex": "\\verb|=>|",
+			"content": [
+				"=>"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "Conditions",
+			"content": [
+				"Conditions"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "\\verb|=>|",
+			"content": [
+				"=>"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "",
+			"content": [],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 27,
+			"tex": "\\verb|{?P rdf:type owl:FunctionalProperty.|",
+			"content": [
+				"{?P",
+				"rdf:type",
+				"owl:FunctionalProperty."
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 65,
+			"tex": "\\verb|{?R ?P1 ?Q}.|",
+			"content": [
+				"{?R",
+				"?P1",
+				"?Q}."
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 3,
+			"tex": "\\verb|{?S ?P ?O}|",
+			"content": [
+				"{?S",
+				"?P",
+				"?O}"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 28,
+			"tex": "",
+			"content": [],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 38,
+			"tex": "\\verb|{?Q1 owl:sameAs ?Q2}.|",
+			"content": [
+				"{?Q1",
+				"owl:sameAs",
+				"?Q2}."
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 2,
+			"tex": "Conclusions",
+			"content": [
+				"Conclusions"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 6,
+			"tex": "",
+			"content": [],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "\\verb|=>|",
+			"content": [
+				"=>"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 40,
+			"tex": "\\verb|=>|",
+			"content": [
+				"=>"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "\\verb|=>|",
+			"content": [
+				"=>"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 33,
+			"tex": "\\verb|{?P rdf:type owl:InverseFunctionalProperty.|",
+			"content": [
+				"{?P",
+				"rdf:type",
+				"owl:InverseFunctionalProperty."
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 56,
+			"tex": "\\verb|{?Q ?P1 ?R}.|",
+			"content": [
+				"{?Q",
+				"?P1",
+				"?R}."
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 19,
+			"tex": "\\verb|=>|",
+			"content": [
+				"=>"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 53,
+			"tex": "\\verb|{?Q ?P2 ?R}.|",
+			"content": [
+				"{?Q",
+				"?P2",
+				"?R}."
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 2,
+			"end_col": 2
+		}
+	]
+}

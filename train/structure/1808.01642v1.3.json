@@ -1,0 +1,790 @@
+{
+	"cells": [
+		{
+			"id": 21,
+			"tex": "L1 SVM + KHA",
+			"content": [
+				"L1",
+				"SVM",
+				"+",
+				"KHA"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 33,
+			"tex": "84.08$\\pm$1.84",
+			"content": [
+				"84.08\u00b11.84"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 62,
+			"tex": "92.66$\\pm$0.73",
+			"content": [
+				"92.66\u00b10.73"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 27,
+			"tex": "81.76$\\pm$2.92",
+			"content": [
+				"81.76\u00b12.92"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 34,
+			"tex": "82.27$\\pm$2.06",
+			"content": [
+				"82.27\u00b12.06"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 35,
+			"tex": "PSO-SVM",
+			"content": [
+				"PSO-SVM"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "DS116",
+			"content": [
+				"DS116"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 36,
+			"tex": "67.84$\\pm$2.82",
+			"content": [
+				"67.84\u00b12.82"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "78.32$\\pm$1.21",
+			"content": [
+				"78.32\u00b11.21"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 37,
+			"tex": "75.61$\\pm$1.57",
+			"content": [
+				"75.61\u00b11.57"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 68,
+			"tex": "\\textbf{93.72$\\pm$0.31}",
+			"content": [
+				"93.72\u00b10.31"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 38,
+			"tex": "80.14$\\pm$2.47",
+			"content": [
+				"80.14\u00b12.47"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 0,
+			"tex": "$\\downarrow$Algorithms, Datasets$\\rightarrow$",
+			"content": [
+				"\u2193Algorithms,",
+				"Datasets\u2192"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "83.36$\\pm$2.12",
+			"content": [
+				"83.36\u00b12.12"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 39,
+			"tex": "73.59$\\pm$1.95",
+			"content": [
+				"73.59\u00b11.95"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 40,
+			"tex": "79.05$\\pm$2.12",
+			"content": [
+				"79.05\u00b12.12"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 25,
+			"tex": "77.41$\\pm$1.97",
+			"content": [
+				"77.41\u00b11.97"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 41,
+			"tex": "79.88$\\pm$3.73",
+			"content": [
+				"79.88\u00b13.73"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 9,
+			"tex": "80.91$\\pm$3.21",
+			"content": [
+				"80.91\u00b13.21"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 5,
+			"tex": "DS117",
+			"content": [
+				"DS117"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 17,
+			"tex": "82.94$\\pm$1.03",
+			"content": [
+				"82.94\u00b11.03"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 42,
+			"tex": "HHPSO-SVM",
+			"content": [
+				"HHPSO-SVM"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 43,
+			"tex": "87.91$\\pm$1.83",
+			"content": [
+				"87.91\u00b11.83"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "88.81$\\pm$1.61",
+			"content": [
+				"88.81\u00b11.61"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 44,
+			"tex": "92.39$\\pm$1.73",
+			"content": [
+				"92.39\u00b11.73"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 45,
+			"tex": "86.12$\\pm$0.99",
+			"content": [
+				"86.12\u00b10.99"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 18,
+			"tex": "73.91$\\pm$1.33",
+			"content": [
+				"73.91\u00b11.33"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 46,
+			"tex": "\\textbf{95.32$\\pm$1.18}",
+			"content": [
+				"95.32\u00b11.18"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 1,
+			"tex": "DS005",
+			"content": [
+				"DS005"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "66.85$\\pm$3.05",
+			"content": [
+				"66.85\u00b13.05"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 47,
+			"tex": "90.73$\\pm$1.59",
+			"content": [
+				"90.73\u00b11.59"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 13,
+			"tex": "70.08$\\pm$2.94",
+			"content": [
+				"70.08\u00b12.94"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 30,
+			"tex": "89.54$\\pm$1.74",
+			"content": [
+				"89.54\u00b11.74"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 15,
+			"tex": "70.32$\\pm$2.92",
+			"content": [
+				"70.32\u00b12.92"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 48,
+			"tex": "87.01$\\pm$1.61",
+			"content": [
+				"87.01\u00b11.61"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 49,
+			"tex": "Kao et al.",
+			"content": [
+				"Kao",
+				"et",
+				"al."
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 66,
+			"tex": "\\textbf{93.22$\\pm$0.49}",
+			"content": [
+				"93.22\u00b10.49"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 14,
+			"tex": "L1 SVM + HA",
+			"content": [
+				"L1",
+				"SVM",
+				"+",
+				"HA"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "DS107",
+			"content": [
+				"DS107"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 28,
+			"tex": "Osher et al.",
+			"content": [
+				"Osher",
+				"et",
+				"al."
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "81.54$\\pm$1.92",
+			"content": [
+				"81.54\u00b11.92"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 29,
+			"tex": "81.83$\\pm$2.86",
+			"content": [
+				"81.83\u00b12.86"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 51,
+			"tex": "90.45$\\pm$0.73",
+			"content": [
+				"90.45\u00b10.73"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 19,
+			"tex": "75.14$\\pm$2.49",
+			"content": [
+				"75.14\u00b12.49"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 10,
+			"tex": "80.72$\\pm$2.88",
+			"content": [
+				"80.72\u00b12.88"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 61,
+			"tex": "90.15$\\pm$0.69",
+			"content": [
+				"90.15\u00b10.69"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 60,
+			"tex": "90.16$\\pm$0.72",
+			"content": [
+				"90.16\u00b10.72"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 50,
+			"tex": "88.13$\\pm$1.58",
+			"content": [
+				"88.13\u00b11.58"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 59,
+			"tex": "91.63$\\pm$0.69",
+			"content": [
+				"91.63\u00b10.69"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 63,
+			"tex": "MOMVP (Gaussian kernel)",
+			"content": [
+				"MOMVP",
+				"(Gaussian",
+				"kernel)"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 69,
+			"tex": "\\textbf{95.79$\\pm$0.42}",
+			"content": [
+				"95.79\u00b10.42"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 58,
+			"tex": "92.36$\\pm$0.84",
+			"content": [
+				"92.36\u00b10.84"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 16,
+			"tex": "84.82$\\pm$2.53",
+			"content": [
+				"84.82\u00b12.53"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 57,
+			"tex": "91.17$\\pm$0.80",
+			"content": [
+				"91.17\u00b10.80"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 65,
+			"tex": "\\textbf{97.71$\\pm$0.58}",
+			"content": [
+				"97.71\u00b10.58"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 67,
+			"tex": "94.97$\\pm$0.14",
+			"content": [
+				"94.97\u00b10.14"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 8,
+			"tex": "68.37$\\pm$4.01",
+			"content": [
+				"68.37\u00b14.01"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 56,
+			"tex": "MOMVP (Linear kernel)",
+			"content": [
+				"MOMVP",
+				"(Linear",
+				"kernel)"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 55,
+			"tex": "89.00$\\pm$1.02",
+			"content": [
+				"89.00\u00b11.02"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 12,
+			"tex": "72.12$\\pm$1.48",
+			"content": [
+				"72.12\u00b11.48"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 7,
+			"tex": "L1 SVM",
+			"content": [
+				"L1",
+				"SVM"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 54,
+			"tex": "89.69$\\pm$1.27",
+			"content": [
+				"89.69\u00b11.27"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 6,
+			"tex": "CMU",
+			"content": [
+				"CMU"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 53,
+			"tex": "83.28$\\pm$1.47",
+			"content": [
+				"83.28\u00b11.47"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 31,
+			"tex": "82.02$\\pm$2.43",
+			"content": [
+				"82.02\u00b12.43"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 52,
+			"tex": "84.67$\\pm$1.04",
+			"content": [
+				"84.67\u00b11.04"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 22,
+			"tex": "82.22$\\pm$2.42",
+			"content": [
+				"82.22\u00b12.42"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "DS105",
+			"content": [
+				"DS105"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 64,
+			"tex": "\\textbf{94.37$\\pm$0.63}",
+			"content": [
+				"94.37\u00b10.63"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 32,
+			"tex": "75.08$\\pm$1.12",
+			"content": [
+				"75.08\u00b11.12"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 4,
+			"end_col": 4
+		}
+	]
+}

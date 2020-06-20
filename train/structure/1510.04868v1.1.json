@@ -1,0 +1,376 @@
+{
+	"cells": [
+		{
+			"id": 19,
+			"tex": "$\\overline{x}_{xfer} \\approx 0.16$ ms",
+			"content": [
+				"xxf",
+				"er",
+				"\u2248",
+				"0.16",
+				"ms"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "$\\overline{x}_{seek} \\approx 7.16$ ms",
+			"content": [
+				"xseek",
+				"\u2248",
+				"7.16",
+				"ms"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "Tracks per cylinder",
+			"content": [
+				"Tracks",
+				"per",
+				"cylinder"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "Disk rotation time",
+			"content": [
+				"Disk",
+				"rotation",
+				"time"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "Mean read time ($\\overline{x}_{SR}$)",
+			"content": [
+				"Mean",
+				"read",
+				"time",
+				"(xSR)"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "Read time for RAID5",
+			"content": [
+				"Read",
+				"time",
+				"for",
+				"RAID5"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "RMW time for RAID5",
+			"content": [
+				"RMW",
+				"time",
+				"for",
+				"RAID5"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "5",
+			"content": [
+				"5"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "$ \\overline{x}_{seek}+\n\\overline{x}_{lat} + \\overline{x}_{xfer}$",
+			"content": [
+				"xseek",
+				"+",
+				"xlat",
+				"+",
+				"xxf",
+				"er"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "11,474/11",
+			"content": [
+				"11,474/11"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "latency",
+			"content": [
+				"latency"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "Number of cylinders/zones",
+			"content": [
+				"Number",
+				"of",
+				"cylinders/zones"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "Mean transfer time per blocks",
+			"content": [
+				"Mean",
+				"transfer",
+				"time",
+				"per",
+				"blocks"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "IBM DNES-309170W",
+			"content": [
+				"IBM",
+				"DNES-309170W"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 25,
+			"tex": "$\\overline{x}_{SW}= \\overline{x}_{SR}+T_h $",
+			"content": [
+				"xSW",
+				"=",
+				"xSR",
+				"+",
+				"Th"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "Head settling time",
+			"content": [
+				"Head",
+				"settling",
+				"time"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "$\\overline{x}_{lat} \\approx T_{rot} /2 $",
+			"content": [
+				"xlat",
+				"\u2248",
+				"Trot/2"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "Disk Capacity",
+			"content": [
+				"Disk",
+				"Capacity"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "Disk write time",
+			"content": [
+				"Disk",
+				"write",
+				"time"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "$\\overline{x}_{SR} \\approx 11.49$ ms",
+			"content": [
+				"xSR",
+				"\u2248",
+				"11.49",
+				"ms"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "Rotations per minute",
+			"content": [
+				"Rotations",
+				"per",
+				"minute"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "$\\overline{x}_{RMW}=\\overline{x}_{SR}+T_{rot}$",
+			"content": [
+				"xRMW",
+				"=",
+				"xSR",
+				"+",
+				"Trot"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "$T_{h} = 0.14 $ ms",
+			"content": [
+				"Th",
+				"=",
+				"0.14",
+				"ms"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "$C=9.17$ GB",
+			"content": [
+				"C",
+				"=",
+				"9.17",
+				"GB"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "Mean seek time",
+			"content": [
+				"Mean",
+				"seek",
+				"time"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "7200 RPM",
+			"content": [
+				"7200",
+				"RPM"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "Model",
+			"content": [
+				"Model"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "$T_{rot} = 8.33$ ms",
+			"content": [
+				"Trot",
+				"=",
+				"8.33",
+				"ms"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

@@ -1,0 +1,270 @@
+{
+	"cells": [
+		{
+			"id": 19,
+			"tex": "",
+			"content": [],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "\\textbf{value}",
+			"content": [
+				"value"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "{\\small 64MB}",
+			"content": [
+				"64MB"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "\\texttt{{\\small mapred.tasktracker.map.tasks.maximum}}",
+			"content": [
+				"mapred.tasktracker.map.tasks.maximum"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "{\\small 1 or 3}",
+			"content": [
+				"1",
+				"or",
+				"3"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "\\texttt{{\\small mapred.tasktracker.reduce.}}",
+			"content": [
+				"mapred.tasktracker.reduce."
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "\\texttt{{\\small dfs.replication}}",
+			"content": [
+				"dfs.replication"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "{\\small 4096}",
+			"content": [
+				"4096"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "\\texttt{{\\small mapred.job.reuse.jvm.num.tasks}}",
+			"content": [
+				"mapred.job.reuse.jvm.num.tasks"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "\\texttt{{\\small tasks.maximum}}",
+			"content": [
+				"tasks.maximum"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "{\\small 2 or 3}",
+			"content": [
+				"2",
+				"or",
+				"3"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "{\\small -1}",
+			"content": [
+				"-1"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "\\textbf{parameters}",
+			"content": [
+				"parameters"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "{\\small 0.2}",
+			"content": [
+				"0.2"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "\\texttt{{\\small io.sort.spill.percent}}",
+			"content": [
+				"io.sort.spill.percent"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "\\texttt{{\\small mapred.child.java.opts}}",
+			"content": [
+				"mapred.child.java.opts"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "{\\small 3}",
+			"content": [
+				"3"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "{\\small -Xmx512m}",
+			"content": [
+				"-Xmx512m"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "\\texttt{{\\small dfs.block.size}}",
+			"content": [
+				"dfs.block.size"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "\\texttt{{\\small io.sort.mb}}",
+			"content": [
+				"io.sort.mb"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "{\\small 125}",
+			"content": [
+				"125"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "\\texttt{{\\small io.bytes.per.checksum}}",
+			"content": [
+				"io.bytes.per.checksum"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "\\texttt{{\\small io.sort.record.percent}}",
+			"content": [
+				"io.sort.record.percent"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "{\\small 0.8}",
+			"content": [
+				"0.8"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

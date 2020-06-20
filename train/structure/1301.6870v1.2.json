@@ -1,0 +1,295 @@
+{
+	"cells": [
+		{
+			"id": 1,
+			"tex": "\\small{CA}",
+			"content": [
+				"CA"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "name$_{jw}$, userid$_{jw}$, loc$_{geo}$, desc$_{jaccard}$, img$_{psnr}$, conn$_{norm}$",
+			"content": [
+				"namejw,",
+				"useridjw,",
+				"locgeo,",
+				"descjaccard,",
+				"imgpsnr,",
+				"connnorm"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "98.060",
+			"content": [
+				"98.060"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "name$_{jw}$, userid$_{jw}$, loc$_{geo}$, desc$_{jaccard}$, img$_{mse}$",
+			"content": [
+				"namejw,",
+				"useridjw,",
+				"locgeo,",
+				"descjaccard,",
+				"imgmse"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "name$_{jw}$, userid$_{jw}$, loc$_{geo}$, desc$_{jaccard}$, img$_{ls}$, conn$_{norm}$",
+			"content": [
+				"namejw,",
+				"useridjw,",
+				"locgeo,",
+				"descjaccard,",
+				"imgls,",
+				"connnorm"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "98.041",
+			"content": [
+				"98.041"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "\\textsc{\\small{Features}}",
+			"content": [
+				"Features"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "name$_{jw}$, userid$_{jw}$, loc$_{geo}$, desc$_{tfidf}$, img$_{mse}$",
+			"content": [
+				"namejw,",
+				"useridjw,",
+				"locgeo,",
+				"desctf",
+				"idf",
+				",",
+				"imgmse"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "name$_{jw}$, userid$_{jw}$, loc$_{geo}$, desc$_{jaccard}$, img$_{ls}$, conn$_{class}$",
+			"content": [
+				"namejw,",
+				"useridjw,",
+				"locgeo,",
+				"descjaccard,",
+				"imgls,",
+				"connclass"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "98.062",
+			"content": [
+				"98.062"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "98.070",
+			"content": [
+				"98.070"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "98.056",
+			"content": [
+				"98.056"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "98.043",
+			"content": [
+				"98.043"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "98.043",
+			"content": [
+				"98.043"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "98.044",
+			"content": [
+				"98.044"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "name$_{jw}$, userid$_{jw}$, loc$_{geo}$, desc$_{jaccard}$, img$_{psnr}$",
+			"content": [
+				"namejw,",
+				"useridjw,",
+				"locgeo,",
+				"descjaccard,",
+				"imgpsnr"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "name$_{jw}$, userid$_{jw}$, loc$_{geo}$, desc$_{jaccard}$, img$_{mse}$, conn$_{class}$",
+			"content": [
+				"namejw,",
+				"useridjw,",
+				"locgeo,",
+				"descjaccard,",
+				"imgmse,",
+				"connclass"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "name$_{jw}$, userid$_{jw}$, loc$_{geo}$, desc$_{jaccard}$, img$_{mse}$, conn$_{norm}$",
+			"content": [
+				"namejw,",
+				"useridjw,",
+				"locgeo,",
+				"descjaccard,",
+				"imgmse,",
+				"connnorm"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "name$_{jw}$, userid$_{jw}$, loc$_{geo}$, desc$_{tfidf}$, img$_{ls}$",
+			"content": [
+				"namejw,",
+				"useridjw,",
+				"locgeo,",
+				"desctf",
+				"idf",
+				",",
+				"imgls"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "name$_{jw}$, userid$_{jw}$, loc$_{geo}$, desc$_{jaccard}$, img$_{ls}$",
+			"content": [
+				"namejw,",
+				"useridjw,",
+				"locgeo,",
+				"descjaccard,",
+				"imgls"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "98.056",
+			"content": [
+				"98.056"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "98.054",
+			"content": [
+				"98.054"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

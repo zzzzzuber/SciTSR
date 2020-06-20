@@ -1,0 +1,1094 @@
+{
+	"cells": [
+		{
+			"id": 80,
+			"tex": "\\textit{OGNConv}$(4^3)\\rightarrow \\mathbf{l3}$",
+			"content": [
+				"OGNConv",
+				"(43)",
+				"\u2192",
+				"l3"
+			],
+			"start_row": 32,
+			"end_row": 32,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 1,
+			"tex": "$\\mathbf{64^3}$ ($2^3$ filters)",
+			"content": [
+				"643",
+				"(23",
+				"\ufb01lters)"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 91,
+			"tex": "",
+			"content": [],
+			"start_row": 35,
+			"end_row": 35,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 86,
+			"tex": "",
+			"content": [],
+			"start_row": 34,
+			"end_row": 34,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 75,
+			"tex": "\\textit{OGNProp}",
+			"content": [
+				"OGNProp"
+			],
+			"start_row": 31,
+			"end_row": 31,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 81,
+			"tex": "\\textit{OGNConv}$(2^3)$",
+			"content": [
+				"OGNConv",
+				"(23)"
+			],
+			"start_row": 32,
+			"end_row": 32,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 79,
+			"tex": "\\textit{OGNConv}$(2^3)\\rightarrow \\mathbf{l3}$",
+			"content": [
+				"OGNConv",
+				"(23)",
+				"\u2192",
+				"l3"
+			],
+			"start_row": 32,
+			"end_row": 32,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 76,
+			"tex": "\\textit{OGNProp}",
+			"content": [
+				"OGNProp"
+			],
+			"start_row": 31,
+			"end_row": 31,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 88,
+			"tex": "",
+			"content": [],
+			"start_row": 34,
+			"end_row": 34,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 0,
+			"tex": "$\\mathbf{32^3}$",
+			"content": [
+				"323"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 93,
+			"tex": "$[64^3 \\times 32]$",
+			"content": [
+				"[643",
+				"\u00d7",
+				"32]"
+			],
+			"start_row": 35,
+			"end_row": 35,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 4,
+			"tex": "",
+			"content": [],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 74,
+			"tex": "",
+			"content": [],
+			"start_row": 31,
+			"end_row": 31,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "Conv ($3^3$)",
+			"content": [
+				"Conv",
+				"(33)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 3
+		},
+		{
+			"id": 78,
+			"tex": "",
+			"content": [],
+			"start_row": 32,
+			"end_row": 32,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "$\\mathbf{64^3}$ ($4^3$ filters)",
+			"content": [
+				"643",
+				"(43",
+				"\ufb01lters)"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 82,
+			"tex": "",
+			"content": [],
+			"start_row": 33,
+			"end_row": 33,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 87,
+			"tex": "",
+			"content": [],
+			"start_row": 34,
+			"end_row": 34,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 84,
+			"tex": "$[64^3 \\times 32]$",
+			"content": [
+				"[643",
+				"\u00d7",
+				"32]"
+			],
+			"start_row": 33,
+			"end_row": 33,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 3,
+			"tex": "$\\mathbf{64^3}$ (InvConv)",
+			"content": [
+				"643",
+				"(InvConv)"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 83,
+			"tex": "$[64^3 \\times 32]$",
+			"content": [
+				"[643",
+				"\u00d7",
+				"32]"
+			],
+			"start_row": 33,
+			"end_row": 33,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 89,
+			"tex": "\\textit{OGNConv*}$(3^3)\\rightarrow \\mathbf{l3}$",
+			"content": [
+				"OGNConv*",
+				"(33)",
+				"\u2192",
+				"l3"
+			],
+			"start_row": 34,
+			"end_row": 34,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 85,
+			"tex": "$[64^3 \\times 32]$",
+			"content": [
+				"[643",
+				"\u00d7",
+				"32]"
+			],
+			"start_row": 33,
+			"end_row": 33,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 77,
+			"tex": "\\textit{OGNProp}",
+			"content": [
+				"OGNProp"
+			],
+			"start_row": 31,
+			"end_row": 31,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 5,
+			"tex": "$[64^3 \\times 1]$",
+			"content": [
+				"[643",
+				"\u00d7",
+				"1]"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 3
+		},
+		{
+			"id": 6,
+			"tex": "",
+			"content": [],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 92,
+			"tex": "",
+			"content": [],
+			"start_row": 35,
+			"end_row": 35,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 90,
+			"tex": "",
+			"content": [],
+			"start_row": 35,
+			"end_row": 35,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 47,
+			"tex": "$[16^3 \\times 64]$",
+			"content": [
+				"[163",
+				"\u00d7",
+				"64]"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 1,
+			"end_col": 3
+		},
+		{
+			"id": 43,
+			"tex": "",
+			"content": [],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 1,
+			"end_col": 3
+		},
+		{
+			"id": 40,
+			"tex": "$[8^3 \\times 64]$",
+			"content": [
+				"[83",
+				"\u00d7",
+				"64]"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "FC",
+			"content": [
+				"FC"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 3
+		},
+		{
+			"id": 46,
+			"tex": "$[16^3 \\times 48]$",
+			"content": [
+				"[163",
+				"\u00d7",
+				"48]"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 36,
+			"tex": "$[8^3 \\times 64]$",
+			"content": [
+				"[83",
+				"\u00d7",
+				"64]"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 56,
+			"tex": "\\textit{OGNProp}",
+			"content": [
+				"OGNProp"
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 29,
+			"tex": "$[1024]$",
+			"content": [
+				"[1024]"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 3
+		},
+		{
+			"id": 31,
+			"tex": "FC",
+			"content": [
+				"FC"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 3
+		},
+		{
+			"id": 71,
+			"tex": "",
+			"content": [],
+			"start_row": 30,
+			"end_row": 30,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 72,
+			"tex": "",
+			"content": [],
+			"start_row": 30,
+			"end_row": 30,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 73,
+			"tex": "$[32^3 \\times 48]$",
+			"content": [
+				"[323",
+				"\u00d7",
+				"48]"
+			],
+			"start_row": 30,
+			"end_row": 30,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 39,
+			"tex": "Conv ($3^3$)",
+			"content": [
+				"Conv",
+				"(33)"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 1,
+			"end_col": 3
+		},
+		{
+			"id": 41,
+			"tex": "$[8^3 \\times 80]$",
+			"content": [
+				"[83",
+				"\u00d7",
+				"80]"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 1,
+			"end_col": 3
+		},
+		{
+			"id": 14,
+			"tex": "Conv ($3^3$)",
+			"content": [
+				"Conv",
+				"(33)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "$[8^3 \\times 48]$",
+			"content": [
+				"[83",
+				"\u00d7",
+				"48]"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 55,
+			"tex": "\\textit{OGNProp}",
+			"content": [
+				"OGNProp"
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 38,
+			"tex": "Conv ($3^3$)$\\rightarrow \\mathbf{l1}$",
+			"content": [
+				"Conv",
+				"(33)\u2192",
+				"l1"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 42,
+			"tex": "\\textit{OGNProp}",
+			"content": [
+				"OGNProp"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "FC",
+			"content": [
+				"FC"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "$[32^3 \\times 1]$",
+			"content": [
+				"[323",
+				"\u00d7",
+				"1]"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "$[32^3 \\times 32]$",
+			"content": [
+				"[323",
+				"\u00d7",
+				"32]"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 3
+		},
+		{
+			"id": 30,
+			"tex": "FC",
+			"content": [
+				"FC"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 61,
+			"tex": "\\textit{OGNConv}$(2^3)$",
+			"content": [
+				"OGNConv",
+				"(23)"
+			],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 63,
+			"tex": "$[32^3 \\times 48]$",
+			"content": [
+				"[323",
+				"\u00d7",
+				"48]"
+			],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 62,
+			"tex": "",
+			"content": [],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 53,
+			"tex": "$[16^3 \\times 64]$",
+			"content": [
+				"[163",
+				"\u00d7",
+				"64]"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 1,
+			"end_col": 3
+		},
+		{
+			"id": 32,
+			"tex": "$[4^3 \\times 80]$",
+			"content": [
+				"[43",
+				"\u00d7",
+				"80]"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "$[4^3 \\times 80]$",
+			"content": [
+				"[43",
+				"\u00d7",
+				"80]"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 3
+		},
+		{
+			"id": 57,
+			"tex": "\\textit{OGNProp}",
+			"content": [
+				"OGNProp"
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 68,
+			"tex": "",
+			"content": [],
+			"start_row": 29,
+			"end_row": 29,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 20,
+			"tex": "$[4^3 \\times 64]$",
+			"content": [
+				"[43",
+				"\u00d7",
+				"64]"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 51,
+			"tex": "Conv ($3^3$)$\\rightarrow \\mathbf{l1}$",
+			"content": [
+				"Conv",
+				"(33)\u2192",
+				"l1"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 1,
+			"end_col": 3
+		},
+		{
+			"id": 27,
+			"tex": "FC",
+			"content": [
+				"FC"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 3
+		},
+		{
+			"id": 24,
+			"tex": "$[1024]$",
+			"content": [
+				"[1024]"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 66,
+			"tex": "",
+			"content": [],
+			"start_row": 29,
+			"end_row": 29,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 45,
+			"tex": "Deconv ($2^3$)",
+			"content": [
+				"Deconv",
+				"(23)"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 1,
+			"end_col": 3
+		},
+		{
+			"id": 19,
+			"tex": "Conv ($3^3$)",
+			"content": [
+				"Conv",
+				"(33)"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 3
+		},
+		{
+			"id": 34,
+			"tex": "Deconv ($2^3$)",
+			"content": [
+				"Deconv",
+				"(23)"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 44,
+			"tex": "\\textit{OGNConv}$(2^3)\\rightarrow \\mathbf{l2}$",
+			"content": [
+				"OGNConv",
+				"(23)",
+				"\u2192",
+				"l2"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 69,
+			"tex": "\\textit{OGNConv*}$(3^3)\\rightarrow \\mathbf{l2}$",
+			"content": [
+				"OGNConv*",
+				"(33)",
+				"\u2192",
+				"l2"
+			],
+			"start_row": 29,
+			"end_row": 29,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 28,
+			"tex": "$[1024]$",
+			"content": [
+				"[1024]"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "Conv ($3^3$)",
+			"content": [
+				"Conv",
+				"(33)"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "Conv ($3^3$)",
+			"content": [
+				"Conv",
+				"(33)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 3
+		},
+		{
+			"id": 65,
+			"tex": "$[32^3 \\times 48]$",
+			"content": [
+				"[323",
+				"\u00d7",
+				"48]"
+			],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 37,
+			"tex": "$[8^3 \\times 80]$",
+			"content": [
+				"[83",
+				"\u00d7",
+				"80]"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 1,
+			"end_col": 3
+		},
+		{
+			"id": 64,
+			"tex": "$[32^3 \\times 48]$",
+			"content": [
+				"[323",
+				"\u00d7",
+				"48]"
+			],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 60,
+			"tex": "\\textit{OGNConv}$(4^3)\\rightarrow \\mathbf{l2}$",
+			"content": [
+				"OGNConv",
+				"(43)",
+				"\u2192",
+				"l2"
+			],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 15,
+			"tex": "Conv ($3^3$)",
+			"content": [
+				"Conv",
+				"(33)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 3
+		},
+		{
+			"id": 25,
+			"tex": "$[1024]$",
+			"content": [
+				"[1024]"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 3
+		},
+		{
+			"id": 67,
+			"tex": "",
+			"content": [],
+			"start_row": 29,
+			"end_row": 29,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 49,
+			"tex": "",
+			"content": [],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 1,
+			"end_col": 3
+		},
+		{
+			"id": 12,
+			"tex": "$[16^3 \\times 32]$",
+			"content": [
+				"[163",
+				"\u00d7",
+				"32]"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 52,
+			"tex": "$[32^3 \\times 32]$",
+			"content": [
+				"[323",
+				"\u00d7",
+				"32]"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 50,
+			"tex": "\\textit{OGNConv}$(2^3)\\rightarrow \\mathbf{l3}$",
+			"content": [
+				"OGNConv",
+				"(23)",
+				"\u2192",
+				"l3"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 48,
+			"tex": "\\textit{OGNProp}",
+			"content": [
+				"OGNProp"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 35,
+			"tex": "Deconv ($2^3$)",
+			"content": [
+				"Deconv",
+				"(23)"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 3
+		},
+		{
+			"id": 26,
+			"tex": "FC",
+			"content": [
+				"FC"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "Conv ($3^3$)",
+			"content": [
+				"Conv",
+				"(33)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "$[16^3 \\times 48]$",
+			"content": [
+				"[163",
+				"\u00d7",
+				"48]"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 3
+		},
+		{
+			"id": 17,
+			"tex": "$[8^3 \\times 64]$",
+			"content": [
+				"[83",
+				"\u00d7",
+				"64]"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 3
+		},
+		{
+			"id": 70,
+			"tex": "",
+			"content": [],
+			"start_row": 30,
+			"end_row": 30,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 54,
+			"tex": "",
+			"content": [],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 59,
+			"tex": "\\textit{OGNConv}$(2^3)\\rightarrow \\mathbf{l2}$",
+			"content": [
+				"OGNConv",
+				"(23)",
+				"\u2192",
+				"l2"
+			],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 33,
+			"tex": "$[4^3 \\times 96]$",
+			"content": [
+				"[43",
+				"\u00d7",
+				"96]"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 3
+		},
+		{
+			"id": 58,
+			"tex": "",
+			"content": [],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

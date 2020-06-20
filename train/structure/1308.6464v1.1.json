@@ -1,0 +1,181 @@
+{
+	"cells": [
+		{
+			"id": 3,
+			"tex": "On arrival of this signal a node of $FTG(G)$ wake up and starts\nprocessing.",
+			"content": [
+				"On",
+				"arrival",
+				"of",
+				"this",
+				"signal",
+				"a",
+				"node",
+				"of",
+				"F",
+				"T",
+				"G(G)",
+				"wake",
+				"up",
+				"and",
+				"starts",
+				"processing."
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "A node in $G$ or $FTG(G)$ sends a \\textbf{\\texttt{cycle}} signal\non identification of an elementary bar.",
+			"content": [
+				"A",
+				"node",
+				"in",
+				"G",
+				"or",
+				"F",
+				"T",
+				"G(G)",
+				"sends",
+				"a",
+				"cycle",
+				"signal",
+				"on",
+				"identi\ufb01cation",
+				"of",
+				"an",
+				"elementary",
+				"bar."
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "~~~~~~~~~~~~~~~ Significance of the symbol",
+			"content": [
+				"Signi\ufb01cance",
+				"of",
+				"the",
+				"symbol"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "\\textbf{cycle}",
+			"content": [
+				"cycle"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "\\textbf{visitNode}",
+			"content": [
+				"visitNode"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "A node in $G$ sends a \\textbf{\\texttt{child}} signal to its parent to\nregister itself as a child in parent.",
+			"content": [
+				"A",
+				"node",
+				"in",
+				"G",
+				"sends",
+				"a",
+				"child",
+				"signal",
+				"to",
+				"its",
+				"parent",
+				"to",
+				"register",
+				"itself",
+				"as",
+				"a",
+				"child",
+				"in",
+				"parent."
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "On arrival of this signal a node of $G$ wake up and starts\nprocessing.",
+			"content": [
+				"On",
+				"arrival",
+				"of",
+				"this",
+				"signal",
+				"a",
+				"node",
+				"of",
+				"G",
+				"wake",
+				"up",
+				"and",
+				"starts",
+				"processing."
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "\\textbf{child}",
+			"content": [
+				"child"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "\\textbf{visit}",
+			"content": [
+				"visit"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "Signal types",
+			"content": [
+				"Signal",
+				"types"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

@@ -1,0 +1,519 @@
+{
+	"cells": [
+		{
+			"id": 21,
+			"tex": "[Deal Title: Lime Leaf Thai Cuisine - Hendersonville] \\$10 for \\$20 Worth of Thai Fusion Cuisine",
+			"content": [
+				"[Deal",
+				"Title:",
+				"Lime",
+				"Leaf",
+				"Thai",
+				"Cuisine",
+				"-",
+				"Hendersonville]",
+				"$10",
+				"for",
+				"$20",
+				"Worth",
+				"of",
+				"Thai",
+				"Fusion",
+				"Cuisine"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 3
+		},
+		{
+			"id": 29,
+			"tex": "0.56",
+			"content": [
+				"0.56"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 39,
+			"tex": "384",
+			"content": [
+				"384"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "\\texttt{SP} with 12-hour observation",
+			"content": [
+				"SP",
+				"with",
+				"12-hour",
+				"observation"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 25,
+			"tex": "Relative error",
+			"content": [
+				"Relative",
+				"error"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 2,
+			"tex": "Real purchases",
+			"content": [
+				"Real",
+				"purchases"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "\\texttt{MLR}",
+			"content": [
+				"MLR"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 35,
+			"tex": "384",
+			"content": [
+				"384"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "0.92",
+			"content": [
+				"0.92"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 20,
+			"tex": "0.42",
+			"content": [
+				"0.42"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 19,
+			"tex": "355",
+			"content": [
+				"355"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 34,
+			"tex": "\\texttt{MLR}",
+			"content": [
+				"MLR"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "93",
+			"content": [
+				"93"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 22,
+			"tex": "Algorithms",
+			"content": [
+				"Algorithms"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 40,
+			"tex": "463",
+			"content": [
+				"463"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 23,
+			"tex": "Real purchases",
+			"content": [
+				"Real",
+				"purchases"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "Predicted purchases",
+			"content": [
+				"Predicted",
+				"purchases"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 15,
+			"tex": "51",
+			"content": [
+				"51"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 32,
+			"tex": "714",
+			"content": [
+				"714"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 38,
+			"tex": "\\texttt{SP} with 12-hour observation",
+			"content": [
+				"SP",
+				"with",
+				"12-hour",
+				"observation"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "384",
+			"content": [
+				"384"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "[Deal Title: The Magnetic Field - Asheville] \\$12 for Two Tickets to a Theater Performance (Up to \\$28 Value)",
+			"content": [
+				"[Deal",
+				"Title:",
+				"The",
+				"Magnetic",
+				"Field",
+				"-",
+				"Asheville]",
+				"$12",
+				"for",
+				"Two",
+				"Tickets",
+				"to",
+				"a",
+				"Theater",
+				"Performance",
+				"(Up",
+				"to",
+				"$28",
+				"Value)"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 3
+		},
+		{
+			"id": 33,
+			"tex": "0.86",
+			"content": [
+				"0.86"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 31,
+			"tex": "384",
+			"content": [
+				"384"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 28,
+			"tex": "169",
+			"content": [
+				"169"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 14,
+			"tex": "251",
+			"content": [
+				"251"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 30,
+			"tex": "\\texttt{baseline-2} 12-hour observation",
+			"content": [
+				"baseline-2",
+				"12-hour",
+				"observation"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "251",
+			"content": [
+				"251"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "0.80",
+			"content": [
+				"0.80"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 4,
+			"tex": "Relative error",
+			"content": [
+				"Relative",
+				"error"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 8,
+			"tex": "0.63",
+			"content": [
+				"0.63"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 11,
+			"tex": "482",
+			"content": [
+				"482"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 6,
+			"tex": "251",
+			"content": [
+				"251"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "251",
+			"content": [
+				"251"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 41,
+			"tex": "0.21",
+			"content": [
+				"0.21"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 37,
+			"tex": "2.783",
+			"content": [
+				"2.783"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 36,
+			"tex": "1,452",
+			"content": [
+				"1,452"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 26,
+			"tex": "\\texttt{baseline-1} 12-hour observation",
+			"content": [
+				"baseline-1",
+				"12-hour",
+				"observation"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "Predicted purchases",
+			"content": [
+				"Predicted",
+				"purchases"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 9,
+			"tex": "\\texttt{baseline-2} 12-hour observation",
+			"content": [
+				"baseline-2",
+				"12-hour",
+				"observation"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "Algorithms",
+			"content": [
+				"Algorithms"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "\\texttt{baseline-1} 12-hour observation",
+			"content": [
+				"baseline-1",
+				"12-hour",
+				"observation"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

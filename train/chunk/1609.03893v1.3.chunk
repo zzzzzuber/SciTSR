@@ -1,0 +1,92 @@
+{"chunks": [
+    {
+        "pos": [
+            139.74600219726562,
+            406.04302978515625,
+            706.3280029296875,
+            711.309326171875
+        ],
+        "text": "Algorithm1Connectivity-based Brain Parcellation Scheme"
+    },
+    {
+        "pos": [
+            139.74600219726562,
+            469.10833740234375,
+            693.9739990234375,
+            698.955322265625
+        ],
+        "text": "1. Generate the probabilistic tractography results from diﬀusion MRI data."
+    },
+    {
+        "pos": [
+            139.74600219726562,
+            686.3609619140625,
+            682.0189819335938,
+            687.0003051757812
+        ],
+        "text": "2. Initialize a parcellation as a random spatial brain segmentation, to be used to deﬁne the connectivity proﬁle of each voxel."
+    },
+    {
+        "pos": [
+            139.74600219726562,
+            175.54959106445312,
+            670.06396484375,
+            675.0452880859375
+        ],
+        "text": "Repeat"
+    },
+    {
+        "pos": [
+            139.74600219726562,
+            448.1440124511719,
+            658.1089477539062,
+            663.0902709960938
+        ],
+        "text": "3. Deﬁne the connectivity proﬁles using the current brain parcellation."
+    },
+    {
+        "pos": [
+            139.74600219726562,
+            440.5914001464844,
+            646.1539306640625,
+            651.13525390625
+        ],
+        "text": "4. update the spatial similarity graph using the connectivity proﬁles."
+    },
+    {
+        "pos": [
+            139.74600219726562,
+            629.5242309570312,
+            634.1989135742188,
+            639.1802368164062
+        ],
+        "text": "5. Apply spectral clustering algorithm on the current spatial similarity graph to generate the brain parcellation."
+    },
+    {
+        "pos": [
+            139.74600219726562,
+            667.657958984375,
+            622.242919921875,
+            627.2242431640625
+        ],
+        "text": "6. Measure the similarity between the new parcellation and the previous parcellation used to deﬁne connectivity proﬁles."
+    },
+    {
+        "pos": [
+            139.74600219726562,
+            394.9237976074219,
+            610.2879028320312,
+            615.2692260742188
+        ],
+        "text": "Untilthe similarity measurement exceeds some threshold."
+    },
+    {
+        "pos": [
+            139.74600219726562,
+            284.4786071777344,
+            598.3328857421875,
+            603.314208984375
+        ],
+        "text": "7. Return the parcellation result.."
+    }
+]}

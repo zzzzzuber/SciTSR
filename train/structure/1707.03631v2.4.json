@@ -1,0 +1,532 @@
+{
+	"cells": [
+		{
+			"id": 24,
+			"tex": "conv3a",
+			"content": [
+				"conv3a"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "Name",
+			"content": [
+				"Name"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 35,
+			"tex": "Fully connected 128 $\\rightarrow$ 10",
+			"content": [
+				"Fully",
+				"connected",
+				"128",
+				"\u2192",
+				"10"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "conv2b",
+			"content": [
+				"conv2b"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 25,
+			"tex": "512 filters, 3 x 3, pad='valid', LReLU($\\alpha=0.1$)",
+			"content": [
+				"512",
+				"\ufb01lters,",
+				"3",
+				"x",
+				"3,",
+				"pad=\u2019valid\u2019,",
+				"LReLU(\u03b1",
+				"=",
+				"0.1)"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 34,
+			"tex": "dense",
+			"content": [
+				"dense"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 32,
+			"tex": "add",
+			"content": [
+				"add"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 36,
+			"tex": "output",
+			"content": [
+				"output"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "pool2",
+			"content": [
+				"pool2"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "256 filters, 3 x 3, pad='same', LReLU($\\alpha=0.1$)",
+			"content": [
+				"256",
+				"\ufb01lters,",
+				"3",
+				"x",
+				"3,",
+				"pad=\u2019same\u2019,",
+				"LReLU(\u03b1",
+				"=",
+				"0.1)"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 33,
+			"tex": "Adversarial dropout, $p=1.0$, $\\delta=0.05$",
+			"content": [
+				"Adversarial",
+				"dropout,",
+				"p",
+				"=",
+				"1.0,",
+				"\u03b4",
+				"=",
+				"0.05"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "Dropout, $p=0.5$",
+			"content": [
+				"Dropout,",
+				"p",
+				"=",
+				"0.5"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "input",
+			"content": [
+				"input"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 29,
+			"tex": "128 filters, 1 x 1, LReLU($\\alpha=0.1$)",
+			"content": [
+				"128",
+				"\ufb01lters,",
+				"1",
+				"x",
+				"1,",
+				"LReLU(\u03b1",
+				"=",
+				"0.1)"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 31,
+			"tex": "Global average pool (6 x 6 $\\rightarrow$ 1 x 1)pixels",
+			"content": [
+				"Global",
+				"average",
+				"pool",
+				"(6",
+				"x",
+				"6",
+				"\u2192",
+				"1",
+				"x",
+				"1)pixels"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "32 X 32 RGB image",
+			"content": [
+				"32",
+				"X",
+				"32",
+				"RGB",
+				"image"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "Maxpool 2 x 2 pixels",
+			"content": [
+				"Maxpool",
+				"2",
+				"x",
+				"2",
+				"pixels"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "noise",
+			"content": [
+				"noise"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "256 filters, 3 x 3, pad='same', LReLU($\\alpha=0.1$)",
+			"content": [
+				"256",
+				"\ufb01lters,",
+				"3",
+				"x",
+				"3,",
+				"pad=\u2019same\u2019,",
+				"LReLU(\u03b1",
+				"=",
+				"0.1)"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 37,
+			"tex": "Softmax",
+			"content": [
+				"Softmax"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "Additive Gaussian noise $\\sigma=0.15$",
+			"content": [
+				"Additive",
+				"Gaussian",
+				"noise",
+				"\u03c3",
+				"=",
+				"0.15"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "conv2c",
+			"content": [
+				"conv2c"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "conv1a",
+			"content": [
+				"conv1a"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "pool1",
+			"content": [
+				"pool1"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "128 filters, 3 x 3, pad='same', LReLU($\\alpha=0.1$)",
+			"content": [
+				"128",
+				"\ufb01lters,",
+				"3",
+				"x",
+				"3,",
+				"pad=\u2019same\u2019,",
+				"LReLU(\u03b1",
+				"=",
+				"0.1)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "256 filters, 3 x 3, pad='same', LReLU($\\alpha=0.1$)",
+			"content": [
+				"256",
+				"\ufb01lters,",
+				"3",
+				"x",
+				"3,",
+				"pad=\u2019same\u2019,",
+				"LReLU(\u03b1",
+				"=",
+				"0.1)"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "conv1b",
+			"content": [
+				"conv1b"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "128 filters, 3 x 3, pad='same', LReLU($\\alpha=0.1$)",
+			"content": [
+				"128",
+				"\ufb01lters,",
+				"3",
+				"x",
+				"3,",
+				"pad=\u2019same\u2019,",
+				"LReLU(\u03b1",
+				"=",
+				"0.1)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "conv1c",
+			"content": [
+				"conv1c"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "conv3b",
+			"content": [
+				"conv3b"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "conv2a",
+			"content": [
+				"conv2a"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "drop1",
+			"content": [
+				"drop1"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "Maxpool 2 x 2 pixels",
+			"content": [
+				"Maxpool",
+				"2",
+				"x",
+				"2",
+				"pixels"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 27,
+			"tex": "256 filters, 1 x 1, LReLU($\\alpha=0.1$)",
+			"content": [
+				"256",
+				"\ufb01lters,",
+				"1",
+				"x",
+				"1,",
+				"LReLU(\u03b1",
+				"=",
+				"0.1)"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "128 filters, 3 x 3, pad='same', LReLU($\\alpha=0.1$)",
+			"content": [
+				"128",
+				"\ufb01lters,",
+				"3",
+				"x",
+				"3,",
+				"pad=\u2019same\u2019,",
+				"LReLU(\u03b1",
+				"=",
+				"0.1)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "Description",
+			"content": [
+				"Description"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 28,
+			"tex": "conv3c",
+			"content": [
+				"conv3c"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 30,
+			"tex": "pool3",
+			"content": [
+				"pool3"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

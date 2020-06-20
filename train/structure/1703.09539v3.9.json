@@ -1,0 +1,1197 @@
+{
+	"cells": [
+		{
+			"id": 24,
+			"tex": "XM13",
+			"content": [
+				"XM13"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 30,
+			"tex": "XM16",
+			"content": [
+				"XM16"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 32,
+			"tex": "XM17",
+			"content": [
+				"XM17"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 83,
+			"tex": "//people/person[/@id and /homepage and /creditcard]",
+			"content": [
+				"//people/person[/@id",
+				"and",
+				"/homepage",
+				"and",
+				"/creditcard]"
+			],
+			"start_row": 41,
+			"end_row": 41,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "XM11",
+			"content": [
+				"XM11"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 89,
+			"tex": "//categories/category[/@id and //parlist/listitem/text/bold]",
+			"content": [
+				"//categories/category[/@id",
+				"and",
+				"//parlist/listitem/text/bold]"
+			],
+			"start_row": 44,
+			"end_row": 44,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 60,
+			"tex": "XM31",
+			"content": [
+				"XM31"
+			],
+			"start_row": 30,
+			"end_row": 30,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 85,
+			"tex": "//regions//australia/item[//name and //description//keyword]/incategory/@category",
+			"content": [
+				"//regions//australia/item[//name",
+				"and",
+				"//description//keyword]/incategory/@category"
+			],
+			"start_row": 42,
+			"end_row": 42,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 40,
+			"tex": "XM21",
+			"content": [
+				"XM21"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 90,
+			"tex": "XM46",
+			"content": [
+				"XM46"
+			],
+			"start_row": 45,
+			"end_row": 45,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 34,
+			"tex": "XM18",
+			"content": [
+				"XM18"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 88,
+			"tex": "XM45",
+			"content": [
+				"XM45"
+			],
+			"start_row": 44,
+			"end_row": 44,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "//open\\_auctions/open\\_auction[/interval//start]",
+			"content": [
+				"//open",
+				"auctions/open",
+				"auction[/interval//start]"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 86,
+			"tex": "XM44",
+			"content": [
+				"XM44"
+			],
+			"start_row": 43,
+			"end_row": 43,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 38,
+			"tex": "XM20",
+			"content": [
+				"XM20"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 25,
+			"tex": "//closed\\_auctions/closed\\_auction[//buyer]/itemref[/@item]",
+			"content": [
+				"//closed",
+				"auctions/closed",
+				"auction[//buyer]/itemref[/@item]"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 78,
+			"tex": "XM40",
+			"content": [
+				"XM40"
+			],
+			"start_row": 39,
+			"end_row": 39,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "XM03",
+			"content": [
+				"XM03"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "XM14",
+			"content": [
+				"XM14"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 67,
+			"tex": "//open\\_auctions//open\\_auction[/interval/start]/seller/@person",
+			"content": [
+				"//open",
+				"auctions//open",
+				"auction[/interval/start]/seller/@person"
+			],
+			"start_row": 33,
+			"end_row": 33,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 29,
+			"tex": "//open\\_auctions/open\\_auction[/annotation/description//text]//date",
+			"content": [
+				"//open",
+				"auctions/open",
+				"auction[/annotation/description//text]//date"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "XM04",
+			"content": [
+				"XM04"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 75,
+			"tex": "//categories/category[//name]/description[/text]",
+			"content": [
+				"//categories/category[//name]/description[/text]"
+			],
+			"start_row": 37,
+			"end_row": 37,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 71,
+			"tex": "//open\\_auctions/open\\_auction[/quantity and /current]/annotation[/description/text[/bold]/emph]/happiness",
+			"content": [
+				"//open",
+				"auctions/open",
+				"auction[/quantity",
+				"and",
+				"/current]/annotation[/description/text[/bold]/emph]/happiness"
+			],
+			"start_row": 35,
+			"end_row": 35,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 48,
+			"tex": "XM25",
+			"content": [
+				"XM25"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "XM05",
+			"content": [
+				"XM05"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 64,
+			"tex": "XM33",
+			"content": [
+				"XM33"
+			],
+			"start_row": 32,
+			"end_row": 32,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "XM10",
+			"content": [
+				"XM10"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 84,
+			"tex": "XM43",
+			"content": [
+				"XM43"
+			],
+			"start_row": 42,
+			"end_row": 42,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "//closed\\_auctions//closed\\_auction[//date]//itemref[/@item]",
+			"content": [
+				"//closed",
+				"auctions//closed",
+				"auction[//date]//itemref[/@item]"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 70,
+			"tex": "XM36",
+			"content": [
+				"XM36"
+			],
+			"start_row": 35,
+			"end_row": 35,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "//people/person/profile[//business]/interest/@category",
+			"content": [
+				"//people/person/pro\ufb01le[//business]/interest/@category"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 61,
+			"tex": "//open\\_auctions/open\\_auction[/reserve]//seller/@person",
+			"content": [
+				"//open",
+				"auctions/open",
+				"auction[/reserve]//seller/@person"
+			],
+			"start_row": 30,
+			"end_row": 30,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 87,
+			"tex": "//regions[/europe]/africa/item[/mailbox/mail[//text]/from and /payment]/incategory/@category",
+			"content": [
+				"//regions[/europe]/africa/item[/mailbox/mail[//text]/from",
+				"and",
+				"/payment]/incategory/@category"
+			],
+			"start_row": 43,
+			"end_row": 43,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 37,
+			"tex": "//regions[/samerica]//item[/description/text]/incategory[/@category]",
+			"content": [
+				"//regions[/samerica]//item[/description/text]/incategory[/@category]"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 51,
+			"tex": "//open\\_auctions/open\\_auction[/bidder[/personref/@person]/time]/interval//end",
+			"content": [
+				"//open",
+				"auctions/open",
+				"auction[/bidder[/personref/@person]/time]/interval//end"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "//closed\\_auctions/closed\\_auction[//price]/buyer/@person",
+			"content": [
+				"//closed",
+				"auctions/closed",
+				"auction[//price]/buyer/@person"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 52,
+			"tex": "XM27",
+			"content": [
+				"XM27"
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 46,
+			"tex": "XM24",
+			"content": [
+				"XM24"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 80,
+			"tex": "XM41",
+			"content": [
+				"XM41"
+			],
+			"start_row": 40,
+			"end_row": 40,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 35,
+			"tex": "//regions//item[//text/keyword]/mailbox/mail[/to]/from",
+			"content": [
+				"//regions//item[//text/keyword]/mailbox/mail[/to]/from"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 72,
+			"tex": "XM37",
+			"content": [
+				"XM37"
+			],
+			"start_row": 36,
+			"end_row": 36,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "XM08",
+			"content": [
+				"XM08"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 63,
+			"tex": "//categories/category[/description/text/keyword]/name",
+			"content": [
+				"//categories/category[/description/text/keyword]/name"
+			],
+			"start_row": 31,
+			"end_row": 31,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "//open\\_auctions//open\\_auction[/reserve and //bidder/personref/@person]/itemref/@item",
+			"content": [
+				"//open",
+				"auctions//open",
+				"auction[/reserve",
+				"and",
+				"//bidder/personref/@person]/itemref/@item"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 62,
+			"tex": "XM32",
+			"content": [
+				"XM32"
+			],
+			"start_row": 31,
+			"end_row": 31,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 79,
+			"tex": "//categories/category/description//parlist/listitem//text/bold",
+			"content": [
+				"//categories/category/description//parlist/listitem//text/bold"
+			],
+			"start_row": 39,
+			"end_row": 39,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "//closed\\_auctions//annotation[//happiness and /description/text]",
+			"content": [
+				"//closed",
+				"auctions//annotation[//happiness",
+				"and",
+				"/description/text]"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 94,
+			"tex": "XM48",
+			"content": [
+				"XM48"
+			],
+			"start_row": 47,
+			"end_row": 47,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 44,
+			"tex": "XM23",
+			"content": [
+				"XM23"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "XM06",
+			"content": [
+				"XM06"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 56,
+			"tex": "XM29",
+			"content": [
+				"XM29"
+			],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "XM07",
+			"content": [
+				"XM07"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 97,
+			"tex": "//categories/category[/name]/description/text[/emph]",
+			"content": [
+				"//categories/category[/name]/description/text[/emph]"
+			],
+			"start_row": 48,
+			"end_row": 48,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 43,
+			"tex": "//open\\_auctions//open\\_auction[/current and //bidder]/initial",
+			"content": [
+				"//open",
+				"auctions//open",
+				"auction[/current",
+				"and",
+				"//bidder]/initial"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 69,
+			"tex": "//categories/category[//description/parlist/listitem]",
+			"content": [
+				"//categories/category[//description/parlist/listitem]"
+			],
+			"start_row": 34,
+			"end_row": 34,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 39,
+			"tex": "//regions//item[//bold and /payment]//shipping",
+			"content": [
+				"//regions//item[//bold",
+				"and",
+				"/payment]//shipping"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 91,
+			"tex": "//categories/category[//name and /description/text//emph and /@id]",
+			"content": [
+				"//categories/category[//name",
+				"and",
+				"/description/text//emph",
+				"and",
+				"/@id]"
+			],
+			"start_row": 45,
+			"end_row": 45,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 93,
+			"tex": "//open\\_auctions/open\\_auction[/bidder[//time and //increase]//date and //reserve]",
+			"content": [
+				"//open",
+				"auctions/open",
+				"auction[/bidder[//time",
+				"and",
+				"//increase]//date",
+				"and",
+				"//reserve]"
+			],
+			"start_row": 46,
+			"end_row": 46,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 33,
+			"tex": "//open\\_auctions/open\\_auction[/@id]/bidder/date",
+			"content": [
+				"//open",
+				"auctions/open",
+				"auction[/@id]/bidder/date"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 76,
+			"tex": "XM39",
+			"content": [
+				"XM39"
+			],
+			"start_row": 38,
+			"end_row": 38,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 41,
+			"tex": "//regions//item[/description/text and /location]/shipping",
+			"content": [
+				"//regions//item[/description/text",
+				"and",
+				"/location]/shipping"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 49,
+			"tex": "//open\\_auctions//open\\_auction[//bidder[/time]/date]/initial",
+			"content": [
+				"//open",
+				"auctions//open",
+				"auction[//bidder[/time]/date]/initial"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 53,
+			"tex": "//categories/category[/description/text//emph and /@id]",
+			"content": [
+				"//categories/category[/description/text//emph",
+				"and",
+				"/@id]"
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 31,
+			"tex": "//open\\_auctions/open\\_auction//bidder[/increase]/date",
+			"content": [
+				"//open",
+				"auctions/open",
+				"auction//bidder[/increase]/date"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 92,
+			"tex": "XM47",
+			"content": [
+				"XM47"
+			],
+			"start_row": 46,
+			"end_row": 46,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 36,
+			"tex": "XM19",
+			"content": [
+				"XM19"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 73,
+			"tex": "//categories/category/description/parlist[//listitem/text/emph]",
+			"content": [
+				"//categories/category/description/parlist[//listitem/text/emph]"
+			],
+			"start_row": 36,
+			"end_row": 36,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "XM02",
+			"content": [
+				"XM02"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 81,
+			"tex": "//people//person[/homepage and /@id]//profile/business",
+			"content": [
+				"//people//person[/homepage",
+				"and",
+				"/@id]//pro\ufb01le/business"
+			],
+			"start_row": 40,
+			"end_row": 40,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 96,
+			"tex": "XM49",
+			"content": [
+				"XM49"
+			],
+			"start_row": 48,
+			"end_row": 48,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "XM09",
+			"content": [
+				"XM09"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 58,
+			"tex": "XM30",
+			"content": [
+				"XM30"
+			],
+			"start_row": 29,
+			"end_row": 29,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 55,
+			"tex": "//categories/category[//name and /@id]/description//text",
+			"content": [
+				"//categories/category[//name",
+				"and",
+				"/@id]/description//text"
+			],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "//people/person[/emailaddress and //creditcard]/@id",
+			"content": [
+				"//people/person[/emailaddress",
+				"and",
+				"//creditcard]/@id"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 74,
+			"tex": "XM38",
+			"content": [
+				"XM38"
+			],
+			"start_row": 37,
+			"end_row": 37,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 57,
+			"tex": "//categories/category[/name]/description/parlist/listitem/text",
+			"content": [
+				"//categories/category[/name]/description/parlist/listitem/text"
+			],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "//closed\\_auctions/closed\\_auction[/type]/quantity",
+			"content": [
+				"//closed",
+				"auctions/closed",
+				"auction[/type]/quantity"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 59,
+			"tex": "//people/person[/@id and /homepage and //name]",
+			"content": [
+				"//people/person[/@id",
+				"and",
+				"/homepage",
+				"and",
+				"//name]"
+			],
+			"start_row": 29,
+			"end_row": 29,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 27,
+			"tex": "//closed\\_auctions/closed\\_auction[//seller/@person]/annotation",
+			"content": [
+				"//closed",
+				"auctions/closed",
+				"auction[//seller/@person]/annotation"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 77,
+			"tex": "//closed\\_auctions/closed\\_auction[/seller/@person]/annotation[/happiness]//description[/parlist/listitem/text//emph/bold]",
+			"content": [
+				"//closed",
+				"auctions/closed",
+				"auction[/seller/@person]/annotation[/happiness]//description[/parlist/listitem/text//emph/bold]"
+			],
+			"start_row": 38,
+			"end_row": 38,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "XM12",
+			"content": [
+				"XM12"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 82,
+			"tex": "XM42",
+			"content": [
+				"XM42"
+			],
+			"start_row": 41,
+			"end_row": 41,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 65,
+			"tex": "//regions//samerica/item[/incategory/@category and //name]//shipping",
+			"content": [
+				"//regions//samerica/item[/incategory/@category",
+				"and",
+				"//name]//shipping"
+			],
+			"start_row": 32,
+			"end_row": 32,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 42,
+			"tex": "XM22",
+			"content": [
+				"XM22"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 98,
+			"tex": "XM50",
+			"content": [
+				"XM50"
+			],
+			"start_row": 49,
+			"end_row": 49,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "//regions/samerica/item[/mailbox/mail/to]/incategory/@category",
+			"content": [
+				"//regions/samerica/item[/mailbox/mail/to]/incategory/@category"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 45,
+			"tex": "//open\\_auctions/open\\_auction[/bidder]//interval",
+			"content": [
+				"//open",
+				"auctions/open",
+				"auction[/bidder]//interval"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "//regions/namerica/item[//from]/incategory/@category",
+			"content": [
+				"//regions/namerica/item[//from]/incategory/@category"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 99,
+			"tex": "//categories/category[/@id and //description/parlist/listitem//text/bold]",
+			"content": [
+				"//categories/category[/@id",
+				"and",
+				"//description/parlist/listitem//text/bold]"
+			],
+			"start_row": 49,
+			"end_row": 49,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "//categories/category[//description//text and /@id]",
+			"content": [
+				"//categories/category[//description//text",
+				"and",
+				"/@id]"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 50,
+			"tex": "XM26",
+			"content": [
+				"XM26"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "//regions[//europe]/namerica/item/description[/parlist]//listitem/text",
+			"content": [
+				"//regions[//europe]/namerica/item/description[/parlist]//listitem/text"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 95,
+			"tex": "//closed\\_auctions/closed\\_auction[/type and /quantity]//annotation/author/@person",
+			"content": [
+				"//closed",
+				"auctions/closed",
+				"auction[/type",
+				"and",
+				"/quantity]//annotation/author/@person"
+			],
+			"start_row": 47,
+			"end_row": 47,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 68,
+			"tex": "XM35",
+			"content": [
+				"XM35"
+			],
+			"start_row": 34,
+			"end_row": 34,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 66,
+			"tex": "XM34",
+			"content": [
+				"XM34"
+			],
+			"start_row": 33,
+			"end_row": 33,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 54,
+			"tex": "XM28",
+			"content": [
+				"XM28"
+			],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 28,
+			"tex": "XM15",
+			"content": [
+				"XM15"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 47,
+			"tex": "//open\\_auctions/open\\_auction[/bidder]//initial",
+			"content": [
+				"//open",
+				"auctions/open",
+				"auction[/bidder]//initial"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "XM01",
+			"content": [
+				"XM01"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

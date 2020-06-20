@@ -1,0 +1,1003 @@
+{
+	"cells": [
+		{
+			"id": 12,
+			"tex": "$0.5\\times 2 \\times 4 = 4$x",
+			"content": [
+				"0.5",
+				"\u00d7",
+				"2",
+				"\u00d7",
+				"4",
+				"=",
+				"4x"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 16,
+			"tex": "uniform sampling 80 frames",
+			"content": [
+				"uniform",
+				"sampling",
+				"80",
+				"frames"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 36,
+			"tex": "$0.5\\times 2\\times 33=33$x",
+			"content": [
+				"0.5",
+				"\u00d7",
+				"2",
+				"\u00d7",
+				"33",
+				"=",
+				"33x"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 61,
+			"tex": "$1\\times 1=1$x",
+			"content": [
+				"1",
+				"\u00d7",
+				"1",
+				"=",
+				"1x"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 9,
+			"tex": "C3D (2x)",
+			"content": [
+				"C3D",
+				"(2x)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 7,
+			"tex": "TA",
+			"content": [
+				"TA"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 49,
+			"tex": "$1\\times 5 =5$x",
+			"content": [
+				"1",
+				"\u00d7",
+				"5",
+				"=",
+				"5x"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 24,
+			"tex": "$0.5\\times 2\\times 5=5$x",
+			"content": [
+				"0.5",
+				"\u00d7",
+				"2",
+				"\u00d7",
+				"5",
+				"=",
+				"5x"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 68,
+			"tex": "\\textsf{PickNet} (L)",
+			"content": [
+				"PickNet",
+				"(L)"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 33,
+			"tex": "C3D (2x)",
+			"content": [
+				"C3D",
+				"(2x)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 17,
+			"tex": "80 (13x)",
+			"content": [
+				"80",
+				"(13x)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 60,
+			"tex": "6 (1x)",
+			"content": [
+				"6",
+				"(1x)"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 34,
+			"tex": "first 200 frames",
+			"content": [
+				"\ufb01rst",
+				"200",
+				"frames"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 66,
+			"tex": "6 (1x)",
+			"content": [
+				"6",
+				"(1x)"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 38,
+			"tex": "ResNet (0.5x)",
+			"content": [
+				"ResNet",
+				"(0.5x)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 52,
+			"tex": "$\\times$",
+			"content": [
+				"\u00d7"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 27,
+			"tex": "C3D (2x)",
+			"content": [
+				"C3D",
+				"(2x)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 2,
+			"tex": "Motion",
+			"content": [
+				"Motion"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 67,
+			"tex": "$1\\times 1=1$x",
+			"content": [
+				"1",
+				"\u00d7",
+				"1",
+				"=",
+				"1x"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 3,
+			"tex": "Sampling method",
+			"content": [
+				"Sampling",
+				"method"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 76,
+			"tex": "$\\times$",
+			"content": [
+				"\u00d7"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 21,
+			"tex": "C3D (2x)",
+			"content": [
+				"C3D",
+				"(2x)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 74,
+			"tex": "\\textsf{PickNet} (V+L)",
+			"content": [
+				"PickNet",
+				"(V+L)"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 31,
+			"tex": "HRNE",
+			"content": [
+				"HRNE"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 72,
+			"tex": "6 (1x)",
+			"content": [
+				"6",
+				"(1x)"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 30,
+			"tex": "$0.5\\times 2\\times 5=5$x",
+			"content": [
+				"0.5",
+				"\u00d7",
+				"2",
+				"\u00d7",
+				"5",
+				"=",
+				"5x"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 28,
+			"tex": "uniform sampling 30 frames",
+			"content": [
+				"uniform",
+				"sampling",
+				"30",
+				"frames"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 19,
+			"tex": "LSTM-E",
+			"content": [
+				"LSTM-E"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 35,
+			"tex": "200 (33x)",
+			"content": [
+				"200",
+				"(33x)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 14,
+			"tex": "VGG (0.5x)",
+			"content": [
+				"VGG",
+				"(0.5x)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 64,
+			"tex": "$\\times$",
+			"content": [
+				"\u00d7"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 25,
+			"tex": "\\textit{p}-RNN",
+			"content": [
+				"p-RNN"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 37,
+			"tex": "BA",
+			"content": [
+				"BA"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 79,
+			"tex": "$1\\times 1=1$x",
+			"content": [
+				"1",
+				"\u00d7",
+				"1",
+				"=",
+				"1x"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 13,
+			"tex": "S2VT",
+			"content": [
+				"S2VT"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 57,
+			"tex": "ResNet (1x)",
+			"content": [
+				"ResNet",
+				"(1x)"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 39,
+			"tex": "C3D (2x)",
+			"content": [
+				"C3D",
+				"(2x)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 77,
+			"tex": "picking",
+			"content": [
+				"picking"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 78,
+			"tex": "6 (1x)",
+			"content": [
+				"6",
+				"(1x)"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 42,
+			"tex": "$0.5\\times 2\\times 12=12$x",
+			"content": [
+				"0.5",
+				"\u00d7",
+				"2",
+				"\u00d7",
+				"12",
+				"=",
+				"12x"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 4,
+			"tex": "Frame num.",
+			"content": [
+				"Frame",
+				"num."
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 56,
+			"tex": "$k$-means ($k$=6)",
+			"content": [
+				"k-means",
+				"(k=6)"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "Model",
+			"content": [
+				"Model"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "Time",
+			"content": [
+				"Time"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 1,
+			"tex": "Appearance",
+			"content": [
+				"Appearance"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 70,
+			"tex": "$\\times$",
+			"content": [
+				"\u00d7"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 45,
+			"tex": "ResNet (1x)",
+			"content": [
+				"ResNet",
+				"(1x)"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "GoogleNet (0.5x)",
+			"content": [
+				"GoogleNet",
+				"(0.5x)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "$0.5\\times 2\\times 13 = 13$x",
+			"content": [
+				"0.5",
+				"\u00d7",
+				"2",
+				"\u00d7",
+				"13",
+				"=",
+				"13x"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 75,
+			"tex": "ResNet (1x)",
+			"content": [
+				"ResNet",
+				"(1x)"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 53,
+			"tex": "randomly sampling",
+			"content": [
+				"randomly",
+				"sampling"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 43,
+			"tex": "Our Models",
+			"content": [
+				"Our",
+				"Models"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 5
+		},
+		{
+			"id": 46,
+			"tex": "$\\times$",
+			"content": [
+				"\u00d7"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 54,
+			"tex": "15 (2.5x)",
+			"content": [
+				"15",
+				"(2.5x)"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 73,
+			"tex": "$1\\times 1=1$x",
+			"content": [
+				"1",
+				"\u00d7",
+				"1",
+				"=",
+				"1x"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 20,
+			"tex": "VGG (0.5x)",
+			"content": [
+				"VGG",
+				"(0.5x)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 41,
+			"tex": "72 (12x)",
+			"content": [
+				"72",
+				"(12x)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 23,
+			"tex": "30 (5x)",
+			"content": [
+				"30",
+				"(5x)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 50,
+			"tex": "Random",
+			"content": [
+				"Random"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 40,
+			"tex": "every 5 frames",
+			"content": [
+				"every",
+				"5",
+				"frames"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 58,
+			"tex": "$\\times$",
+			"content": [
+				"\u00d7"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 62,
+			"tex": "\\textsf{PickNet} (V)",
+			"content": [
+				"PickNet",
+				"(V)"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "uniform sampling 30 frames",
+			"content": [
+				"uniform",
+				"sampling",
+				"30",
+				"frames"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 55,
+			"tex": "$1\\times 2.5 =2.5$x",
+			"content": [
+				"1",
+				"\u00d7",
+				"2.5",
+				"=",
+				"2.5x"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 47,
+			"tex": "uniform sampling 30 frames",
+			"content": [
+				"uniform",
+				"sampling",
+				"30",
+				"frames"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 51,
+			"tex": "ResNet (1x)",
+			"content": [
+				"ResNet",
+				"(1x)"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 59,
+			"tex": "$k$-means clustering",
+			"content": [
+				"k-means",
+				"clustering"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 29,
+			"tex": "30 (5x)",
+			"content": [
+				"30",
+				"(5x)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 6,
+			"tex": "Previous Work",
+			"content": [
+				"Previous",
+				"Work"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 5
+		},
+		{
+			"id": 10,
+			"tex": "uniform sampling 26 frames",
+			"content": [
+				"uniform",
+				"sampling",
+				"26",
+				"frames"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 71,
+			"tex": "picking",
+			"content": [
+				"picking"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 11,
+			"tex": "26 (4x)",
+			"content": [
+				"26",
+				"(4x)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 65,
+			"tex": "picking",
+			"content": [
+				"picking"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 69,
+			"tex": "ResNet (1x)",
+			"content": [
+				"ResNet",
+				"(1x)"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 44,
+			"tex": "Baseline",
+			"content": [
+				"Baseline"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 48,
+			"tex": "30 (5x)",
+			"content": [
+				"30",
+				"(5x)"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 15,
+			"tex": "OF (2x)",
+			"content": [
+				"OF",
+				"(2x)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 63,
+			"tex": "ResNet (1x)",
+			"content": [
+				"ResNet",
+				"(1x)"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 26,
+			"tex": "VGG (0.5x)",
+			"content": [
+				"VGG",
+				"(0.5x)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 32,
+			"tex": "GoogleNet (0.5x)",
+			"content": [
+				"GoogleNet",
+				"(0.5x)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

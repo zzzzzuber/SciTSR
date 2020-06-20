@@ -1,0 +1,319 @@
+{
+	"cells": [
+		{
+			"id": 8,
+			"tex": "conv 5$\\times$5$\\times$32",
+			"content": [
+				"conv",
+				"5\u00d75\u00d732"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 11,
+			"tex": "maxpool 3$\\times$3",
+			"content": [
+				"maxpool",
+				"3\u00d73"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 26,
+			"tex": "innerproduct 10",
+			"content": [
+				"innerproduct",
+				"10"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 5,
+			"tex": "32$\\times$32$\\times$3",
+			"content": [
+				"32\u00d732\u00d73"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 10,
+			"tex": "avgpool 2$\\times$2",
+			"content": [
+				"avgpool",
+				"2\u00d72"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "conv 5$\\times$5$\\times$16",
+			"content": [
+				"conv",
+				"5\u00d75\u00d716"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "avgpool 2$\\times$2",
+			"content": [
+				"avgpool",
+				"2\u00d72"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "conv 5$\\times$5$\\times$20",
+			"content": [
+				"conv",
+				"5\u00d75\u00d720"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "conv 5$\\times$5$\\times$20",
+			"content": [
+				"conv",
+				"5\u00d75\u00d720"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 25,
+			"tex": "innerproduct 10",
+			"content": [
+				"innerproduct",
+				"10"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "innerproduct 10",
+			"content": [
+				"innerproduct",
+				"10"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "32$\\times$32$\\times$3",
+			"content": [
+				"32\u00d732\u00d73"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "maxpool 2$\\times$2",
+			"content": [
+				"maxpool",
+				"2\u00d72"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "innerproduct 20",
+			"content": [
+				"innerproduct",
+				"20"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "conv 5$\\times$5$\\times$32",
+			"content": [
+				"conv",
+				"5\u00d75\u00d732"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 24,
+			"tex": "",
+			"content": [],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "LeNet",
+			"content": [
+				"LeNet"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "ALEXnet",
+			"content": [
+				"ALEXnet"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 12,
+			"tex": "conv 5$\\times$5$\\times$50",
+			"content": [
+				"conv",
+				"5\u00d75\u00d750"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "conv 7$\\times$7$\\times$512",
+			"content": [
+				"conv",
+				"7\u00d77\u00d7512"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "avgpool 3$\\times$3",
+			"content": [
+				"avgpool",
+				"3\u00d73"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 9,
+			"tex": "maxpool 2$\\times$2",
+			"content": [
+				"maxpool",
+				"2\u00d72"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "conv 5$\\times$5$\\times$64",
+			"content": [
+				"conv",
+				"5\u00d75\u00d764"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 23,
+			"tex": "avgpool 3$\\times$3",
+			"content": [
+				"avgpool",
+				"3\u00d73"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 1,
+			"tex": "ConvNets",
+			"content": [
+				"ConvNets"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "28$\\times$28",
+			"content": [
+				"28\u00d728"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "innerproduct 500",
+			"content": [
+				"innerproduct",
+				"500"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

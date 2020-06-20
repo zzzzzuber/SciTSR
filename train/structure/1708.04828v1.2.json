@@ -1,0 +1,498 @@
+{
+	"cells": [
+		{
+			"id": 12,
+			"tex": "TransR",
+			"content": [
+				"TransR"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "$N_e m + N_r (mn)$",
+			"content": [
+				"Nem",
+				"+",
+				"Nr(mn)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "\\# Params",
+			"content": [
+				"#",
+				"Params"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 14,
+			"tex": "1.278M",
+			"content": [
+				"1.278M"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 11,
+			"tex": "$N_t$",
+			"content": [
+				"Nt"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 10,
+			"tex": "1.202M",
+			"content": [
+				"1.202M"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 15,
+			"tex": "$2mn N_t$",
+			"content": [
+				"2mnNt"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 16,
+			"tex": "ER-MLP",
+			"content": [
+				"ER-MLP"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "$N_e m + N_r n + ((2m+n) \\times h) + h$",
+			"content": [
+				"Nem",
+				"+",
+				"Nrn",
+				"+",
+				"((2m",
+				"+",
+				"n)",
+				"\u00d7",
+				"h)",
+				"+",
+				"h"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "1.217M",
+			"content": [
+				"1.217M"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 19,
+			"tex": "$(3mh + h) N_t$",
+			"content": [
+				"(3mh",
+				"+",
+				"h)Nt"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 20,
+			"tex": "NTN",
+			"content": [
+				"NTN"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "$N_e m + N_r (n^2 s + 2ns + 2s)$",
+			"content": [
+				"Nem",
+				"+",
+				"Nr(n2s",
+				"+",
+				"2ns",
+				"+",
+				"2s)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "1.523M",
+			"content": [
+				"1.523M"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 23,
+			"tex": "$((m^2 + m) \\: s + 2ms + s) \\: N_t$",
+			"content": [
+				"((m2",
+				"+",
+				"m)",
+				"s",
+				"+",
+				"2ms",
+				"+",
+				"s)",
+				"Nt"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 9,
+			"tex": "$N_e m + N_r n$",
+			"content": [
+				"Nem",
+				"+",
+				"Nrn"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 24,
+			"tex": "RelNet",
+			"content": [
+				"RelNet"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 25,
+			"tex": "$N_e m + N_r n + N_a n^{*} + ((2m+n) \\times h) + h $",
+			"content": [
+				"Nem",
+				"+",
+				"Nrn",
+				"+",
+				"Nan\u2217",
+				"+",
+				"((2m",
+				"+",
+				"n)",
+				"\u00d7",
+				"h)",
+				"+",
+				"h"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "RESCAL",
+			"content": [
+				"RESCAL"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "1.278M",
+			"content": [
+				"1.278M"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 27,
+			"tex": "$((2m+n) \\: h + h) N_t$",
+			"content": [
+				"((2m",
+				"+",
+				"n)",
+				"h",
+				"+",
+				"h)Nt"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 28,
+			"tex": "AttrNet",
+			"content": [
+				"AttrNet"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 29,
+			"tex": "$N_e m + N_a n^{*} + 2((m+n^{*}) \\times h) + h$",
+			"content": [
+				"Nem",
+				"+",
+				"Nan\u2217",
+				"+",
+				"2((m",
+				"+",
+				"n\u2217)",
+				"\u00d7",
+				"h)",
+				"+",
+				"h"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "Model",
+			"content": [
+				"Model"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 30,
+			"tex": "1.221M",
+			"content": [
+				"1.221M"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 31,
+			"tex": "$(2 + k) (m + n^{*}) N_{t} $",
+			"content": [
+				"(2",
+				"+",
+				"k)(m",
+				"+",
+				"n\u2217)Nt"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 32,
+			"tex": "MT-KGNN",
+			"content": [
+				"MT-KGNN"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 33,
+			"tex": "$N_e m + N_r n + N_a n^{*} + ((2m+n) \\times h) + 2h + 2((m+n^{*}) \\times h)$",
+			"content": [
+				"Nem",
+				"+",
+				"Nrn",
+				"+",
+				"Nan\u2217",
+				"+",
+				"((2m",
+				"+",
+				"n)",
+				"\u00d7",
+				"h)",
+				"+",
+				"2h",
+				"+",
+				"2((m",
+				"+",
+				"n\u2217)",
+				"\u00d7",
+				"h)"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 34,
+			"tex": "1.237M",
+			"content": [
+				"1.237M"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 8,
+			"tex": "TransE",
+			"content": [
+				"TransE"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 35,
+			"tex": "$((2 + k) (m + n^{*}) + ((2m+n) \\: h + h) )N_{t} $",
+			"content": [
+				"((2",
+				"+",
+				"k)(m",
+				"+",
+				"n\u2217)",
+				"+",
+				"((2m",
+				"+",
+				"n)",
+				"h",
+				"+",
+				"h))Nt"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 6,
+			"tex": "1.278M",
+			"content": [
+				"1.278M"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 1,
+			"tex": "Space Complexity",
+			"content": [
+				"Space",
+				"Complexity"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "$(m^2 + m) N_t$",
+			"content": [
+				"(m2",
+				"+",
+				"m)Nt"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 5,
+			"tex": "$N_e m + N_r n^2$",
+			"content": [
+				"Nem",
+				"+",
+				"Nrn2"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "Operations (Time Complexity)",
+			"content": [
+				"Operations",
+				"(Time",
+				"Complexity)"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 3
+		}
+	]
+}

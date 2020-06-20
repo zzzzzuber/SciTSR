@@ -1,0 +1,753 @@
+{
+	"cells": [
+		{
+			"id": 42,
+			"tex": "{\\small 2.99 ms}",
+			"content": [
+				"2.99",
+				"ms"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 35,
+			"tex": "{\\small Optimized Sequential}",
+			"content": [
+				"Optimized",
+				"Sequential"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 29,
+			"tex": "{\\small CLUSTP}",
+			"content": [
+				"CLUSTP"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 24,
+			"tex": "{\\small Prefetching policy}",
+			"content": [
+				"Prefetching",
+				"policy"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "{\\small {\\bf Code}}",
+			"content": [
+				"Code"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "{\\small LRU}",
+			"content": [
+				"LRU"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 37,
+			"tex": "{\\small DISKSEA}",
+			"content": [
+				"DISKSEA"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "{\\small Disk page size}",
+			"content": [
+				"Disk",
+				"page",
+				"size"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "{\\small Buffer page replacement strategy}",
+			"content": [
+				"Bu\ufb00er",
+				"page",
+				"replacement",
+				"strategy"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "{\\small BUFFSIZE}",
+			"content": [
+				"BUFFSIZE"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 61,
+			"tex": "{\\small NUSERS}",
+			"content": [
+				"NUSERS"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "{\\small 4096 bytes}",
+			"content": [
+				"4096",
+				"bytes"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 19,
+			"tex": "{\\small 3275 pages}",
+			"content": [
+				"3275",
+				"pages"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 39,
+			"tex": "{\\small 7.4 ms}",
+			"content": [
+				"7.4",
+				"ms"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 41,
+			"tex": "{\\small DISKLAT}",
+			"content": [
+				"DISKLAT"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "{\\small {\\bf Parameter}}",
+			"content": [
+				"Parameter"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "{\\small None}",
+			"content": [
+				"None"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 48,
+			"tex": "{\\small Multiprogramming level}",
+			"content": [
+				"Multiprogramming",
+				"level"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "{\\small Buffer size}",
+			"content": [
+				"Bu\ufb00er",
+				"size"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 40,
+			"tex": "{\\small Disk latency time}",
+			"content": [
+				"Disk",
+				"latency",
+				"time"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "{\\small LRU}",
+			"content": [
+				"LRU"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 28,
+			"tex": "{\\small Object clustering policy}",
+			"content": [
+				"Object",
+				"clustering",
+				"policy"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 53,
+			"tex": "{\\small GETLOCK}",
+			"content": [
+				"GETLOCK"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "{\\small PGSIZE}",
+			"content": [
+				"PGSIZE"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 60,
+			"tex": "{\\small Number of users}",
+			"content": [
+				"Number",
+				"of",
+				"users"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 25,
+			"tex": "{\\small PREFETCH}",
+			"content": [
+				"PREFETCH"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 30,
+			"tex": "{\\small None}",
+			"content": [
+				"None"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 9,
+			"tex": "{\\small NETTHRU}",
+			"content": [
+				"NETTHRU"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 44,
+			"tex": "{\\small Disk transfer time}",
+			"content": [
+				"Disk",
+				"transfer",
+				"time"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 49,
+			"tex": "{\\small MULTILVL}",
+			"content": [
+				"MULTILVL"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 32,
+			"tex": "{\\small Objects initial placement}",
+			"content": [
+				"Objects",
+				"initial",
+				"placement"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 59,
+			"tex": "{\\small 0}",
+			"content": [
+				"0"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 10,
+			"tex": "{\\small +$\\infty$}",
+			"content": [
+				"+\u221e"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 43,
+			"tex": "{\\small 4.3 ms}",
+			"content": [
+				"4.3",
+				"ms"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 21,
+			"tex": "{\\small PGREP}",
+			"content": [
+				"PGREP"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 45,
+			"tex": "{\\small DISKTRA}",
+			"content": [
+				"DISKTRA"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "{\\small Network throughput}",
+			"content": [
+				"Network",
+				"throughput"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 63,
+			"tex": "{\\small 1}",
+			"content": [
+				"1"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 54,
+			"tex": "{\\small 0.5 ms}",
+			"content": [
+				"0.5",
+				"ms"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 50,
+			"tex": "{\\small 10}",
+			"content": [
+				"10"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 51,
+			"tex": "{\\small 1}",
+			"content": [
+				"1"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 62,
+			"tex": "{\\small 1}",
+			"content": [
+				"1"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 5,
+			"tex": "{\\small SYSCLASS}",
+			"content": [
+				"SYSCLASS"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "{\\small 4096 bytes}",
+			"content": [
+				"4096",
+				"bytes"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 52,
+			"tex": "{\\small Locks acquisition time}",
+			"content": [
+				"Locks",
+				"acquisition",
+				"time"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "{\\small Centralized}",
+			"content": [
+				"Centralized"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 56,
+			"tex": "{\\small Locks release time}",
+			"content": [
+				"Locks",
+				"release",
+				"time"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 31,
+			"tex": "{\\small DSTC}",
+			"content": [
+				"DSTC"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 57,
+			"tex": "{\\small RELLOCK}",
+			"content": [
+				"RELLOCK"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "{\\small {\\bf Value for O$_{\\mbox{\\tiny{2}}}$}}",
+			"content": [
+				"Value",
+				"for",
+				"O2"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 18,
+			"tex": "{\\small 3840 pages}",
+			"content": [
+				"3840",
+				"pages"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 46,
+			"tex": "{\\small 0.7 ms}",
+			"content": [
+				"0.7",
+				"ms"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 58,
+			"tex": "{\\small 0.5 ms}",
+			"content": [
+				"0.5",
+				"ms"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 11,
+			"tex": "{\\small N/A}",
+			"content": [
+				"N/A"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 38,
+			"tex": "{\\small 6.3 ms}",
+			"content": [
+				"6.3",
+				"ms"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 6,
+			"tex": "{\\small Page server}",
+			"content": [
+				"Page",
+				"server"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 4,
+			"tex": "{\\small System class}",
+			"content": [
+				"System",
+				"class"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 55,
+			"tex": "{\\small 0}",
+			"content": [
+				"0"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 3,
+			"tex": "{\\small {\\bf Value for Texas}}",
+			"content": [
+				"Value",
+				"for",
+				"Texas"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 47,
+			"tex": "{\\small 0.5 ms}",
+			"content": [
+				"0.5",
+				"ms"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 33,
+			"tex": "{\\small INITPL}",
+			"content": [
+				"INITPL"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 34,
+			"tex": "{\\small Optimized Sequential}",
+			"content": [
+				"Optimized",
+				"Sequential"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 36,
+			"tex": "{\\small Disk search time}",
+			"content": [
+				"Disk",
+				"search",
+				"time"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "{\\small None}",
+			"content": [
+				"None"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		}
+	]
+}

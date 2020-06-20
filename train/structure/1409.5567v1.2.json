@@ -1,0 +1,294 @@
+{
+	"cells": [
+		{
+			"id": 23,
+			"tex": "see Table~\\ref{tb:DRAMState}",
+			"content": [
+				"see",
+				"Table",
+				"??"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "DRAM",
+			"content": [
+				"DRAM"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "48KB",
+			"content": [
+				"48KB"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "Capacity (GB)",
+			"content": [
+				"Capacity",
+				"(GB)"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "Cores",
+			"content": [
+				"Cores"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "1, {\\bf 2}, 4",
+			"content": [
+				"1,",
+				"2,",
+				"4"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "Channels",
+			"content": [
+				"Channels"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "4",
+			"content": [
+				"4"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "Features",
+			"content": [
+				"Features"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "4, {\\bf 8}, 12, 16",
+			"content": [
+				"4,",
+				"8,",
+				"12,",
+				"16"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "Ranks",
+			"content": [
+				"Ranks"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "4",
+			"content": [
+				"4"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "In-order cores running at 2.66GHz",
+			"content": [
+				"In-order",
+				"cores",
+				"running",
+				"at",
+				"2.66GHz"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "Cache line/OS page size",
+			"content": [
+				"Cache",
+				"line/OS",
+				"page",
+				"size"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "256KB/4MB",
+			"content": [
+				"256KB/4MB"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "Component",
+			"content": [
+				"Component"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "CPU",
+			"content": [
+				"CPU"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "64B/4KB",
+			"content": [
+				"64B/4KB"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "Delay and Power",
+			"content": [
+				"Delay",
+				"and",
+				"Power"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "L1 I/D cache (per core)",
+			"content": [
+				"L1",
+				"I/D",
+				"cache",
+				"(per",
+				"core)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "TLB",
+			"content": [
+				"TLB"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "64 entries",
+			"content": [
+				"64",
+				"entries"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "L2/L3 cache (shared)",
+			"content": [
+				"L2/L3",
+				"cache",
+				"(shared)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "DDR3-1333, DDR2-800, LPDDR2-800",
+			"content": [
+				"DDR3-1333,",
+				"DDR2-800,",
+				"LPDDR2-800"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

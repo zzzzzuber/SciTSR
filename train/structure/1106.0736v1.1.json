@@ -1,0 +1,389 @@
+{
+	"cells": [
+		{
+			"id": 8,
+			"tex": "to link $k$'s receiver",
+			"content": [
+				"to",
+				"link",
+				"k\u2019s",
+				"receiver"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 24,
+			"tex": "transmission rate of link $l$",
+			"content": [
+				"transmission",
+				"rate",
+				"of",
+				"link",
+				"l"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "SINR function of link $l$",
+			"content": [
+				"SINR",
+				"function",
+				"of",
+				"link",
+				"l"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "$U_l(\\cdot)$",
+			"content": [
+				"Ul(\u00b7)"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "$\\gamma_l(\\cdot)$",
+			"content": [
+				"\u03b3l(\u00b7)"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "$r_l$ (in vector $\\mathbf{r}$)",
+			"content": [
+				"rl",
+				"(in",
+				"vector",
+				"r)"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "$L$",
+			"content": [
+				"L"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "\\textbf{Notation}",
+			"content": [
+				"Notation"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "$\\mathbf{H}$",
+			"content": [
+				"H"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "$\\gamma_l$",
+			"content": [
+				"\u03b3l"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "$x_l$ (in vector $\\mathbf{x}$)",
+			"content": [
+				"xl",
+				"(in",
+				"vector",
+				"x)"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "\\textbf{Definition}",
+			"content": [
+				"De\ufb01nition"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "ratio of link $l$'s utility to the total network utility",
+			"content": [
+				"ratio",
+				"of",
+				"link",
+				"l\u2019s",
+				"utility",
+				"to",
+				"the",
+				"total",
+				"network",
+				"utility"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 25,
+			"tex": "$r_l(\\cdot)$",
+			"content": [
+				"rl(\u00b7)"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "total number of links",
+			"content": [
+				"total",
+				"number",
+				"of",
+				"links"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 28,
+			"tex": "penalty multipliers",
+			"content": [
+				"penalty",
+				"multipliers"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "SINR of link $l$",
+			"content": [
+				"SINR",
+				"of",
+				"link",
+				"l"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "$p_l$ (in vector $\\mathbf{p}$)",
+			"content": [
+				"pl",
+				"(in",
+				"vector",
+				"p)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "utility function of link $l$",
+			"content": [
+				"utility",
+				"function",
+				"of",
+				"link",
+				"l"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "noise power for link $l$",
+			"content": [
+				"noise",
+				"power",
+				"for",
+				"link",
+				"l"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "$\\mathcal{L}$",
+			"content": [
+				"L"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "transmission rate function of link $l$",
+			"content": [
+				"transmission",
+				"rate",
+				"function",
+				"of",
+				"link",
+				"l"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "$n_l$ (in vector $\\mathbf{n}$)",
+			"content": [
+				"nl",
+				"(in",
+				"vector",
+				"n)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "transmission power of link $l$",
+			"content": [
+				"transmission",
+				"power",
+				"of",
+				"link",
+				"l"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "channel gain from link $l$'s transmitter",
+			"content": [
+				"channel",
+				"gain",
+				"from",
+				"link",
+				"l\u2019s",
+				"transmitter"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "set of links",
+			"content": [
+				"set",
+				"of",
+				"links"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 27,
+			"tex": "$\\alpha$, $\\beta$",
+			"content": [
+				"\u03b1,",
+				"\u03b2"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "$h_{lk}$",
+			"content": [
+				"hlk"
+			],
+			"start_row": 3,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "link gain matrix",
+			"content": [
+				"link",
+				"gain",
+				"matrix"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

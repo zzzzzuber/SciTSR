@@ -1,0 +1,319 @@
+{
+	"cells": [
+		{
+			"id": 6,
+			"tex": "$g\\times c\\times 5\\times 5 \\times c$ trimmed conv, pad $2$, stride $1$",
+			"content": [
+				"g",
+				"\u00d7",
+				"c",
+				"\u00d7",
+				"5",
+				"\u00d7",
+				"5",
+				"\u00d7",
+				"c",
+				"trimmed",
+				"conv,",
+				"pad",
+				"2,",
+				"stride",
+				"1"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "$g\\times h\\times w\\times c$",
+			"content": [
+				"g",
+				"\u00d7",
+				"h",
+				"\u00d7",
+				"w",
+				"\u00d7",
+				"c"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "$g\\times h\\times w\\times c$",
+			"content": [
+				"g",
+				"\u00d7",
+				"h",
+				"\u00d7",
+				"w",
+				"\u00d7",
+				"c"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "$g\\times h\\times w\\times c$",
+			"content": [
+				"g",
+				"\u00d7",
+				"h",
+				"\u00d7",
+				"w",
+				"\u00d7",
+				"c"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "$g\\times h\\times w\\times c$",
+			"content": [
+				"g",
+				"\u00d7",
+				"h",
+				"\u00d7",
+				"w",
+				"\u00d7",
+				"c"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "Trimmed residual block, $g\\times c$ 3D filters",
+			"content": [
+				"Trimmed",
+				"residual",
+				"block,",
+				"g",
+				"\u00d7",
+				"c",
+				"3D",
+				"\ufb01lters"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "Trimmed residual block, $g\\times c$ 3D filters",
+			"content": [
+				"Trimmed",
+				"residual",
+				"block,",
+				"g",
+				"\u00d7",
+				"c",
+				"3D",
+				"\ufb01lters"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "Trimmed residual block, $g\\times c$ 3D filters",
+			"content": [
+				"Trimmed",
+				"residual",
+				"block,",
+				"g",
+				"\u00d7",
+				"c",
+				"3D",
+				"\ufb01lters"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "$g\\times c\\times 5\\times 5 \\times c$ trimmed conv, pad $2$, stride $1$",
+			"content": [
+				"g",
+				"\u00d7",
+				"c",
+				"\u00d7",
+				"5",
+				"\u00d7",
+				"5",
+				"\u00d7",
+				"c",
+				"trimmed",
+				"conv,",
+				"pad",
+				"2,",
+				"stride",
+				"1"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "Trimmed residual block, $g\\times c$ 3D filters",
+			"content": [
+				"Trimmed",
+				"residual",
+				"block,",
+				"g",
+				"\u00d7",
+				"c",
+				"3D",
+				"\ufb01lters"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "Input",
+			"content": [
+				"Input"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "Activation size",
+			"content": [
+				"Activation",
+				"size"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "$g\\times h\\times w\\times c$",
+			"content": [
+				"g",
+				"\u00d7",
+				"h",
+				"\u00d7",
+				"w",
+				"\u00d7",
+				"c"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "$h\\times w \\times c$",
+			"content": [
+				"h",
+				"\u00d7",
+				"w",
+				"\u00d7",
+				"c"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "$m\\times h\\times w\\times c$",
+			"content": [
+				"m",
+				"\u00d7",
+				"h",
+				"\u00d7",
+				"w",
+				"\u00d7",
+				"c"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "Layer",
+			"content": [
+				"Layer"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "$m\\times c \\times 5\\times 5\\times c$ trimmed conv, pad $2$, stride $1$",
+			"content": [
+				"m",
+				"\u00d7",
+				"c",
+				"\u00d7",
+				"5",
+				"\u00d7",
+				"5",
+				"\u00d7",
+				"c",
+				"trimmed",
+				"conv,",
+				"pad",
+				"2,",
+				"stride",
+				"1"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "$g\\times h\\times w\\times c$",
+			"content": [
+				"g",
+				"\u00d7",
+				"h",
+				"\u00d7",
+				"w",
+				"\u00d7",
+				"c"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

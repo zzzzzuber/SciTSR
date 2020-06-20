@@ -1,0 +1,1121 @@
+{
+	"cells": [
+		{
+			"id": 21,
+			"tex": "$T_S$",
+			"content": [
+				"TS"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 59,
+			"tex": "54 s",
+			"content": [
+				"54",
+				"s"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 20,
+			"tex": "0.95",
+			"content": [
+				"0.95"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 55,
+			"tex": "Emission time (node TX)",
+			"content": [
+				"Emission",
+				"time",
+				"(node",
+				"TX)"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "0.9",
+			"content": [
+				"0.9"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 62,
+			"tex": "250 molecules",
+			"content": [
+				"250",
+				"molecules"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 42,
+			"tex": "$r_{r,rx}$",
+			"content": [
+				"rr,rx"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "$r_{TX}$",
+			"content": [
+				"rT",
+				"X"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 57,
+			"tex": "$Timeout_{rx}$",
+			"content": [
+				"T",
+				"imeoutrx"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 61,
+			"tex": "Assimilation Threshold for HALVE signal (node RX)",
+			"content": [
+				"Assimilation",
+				"Threshold",
+				"for",
+				"HALVE",
+				"signal",
+				"(node",
+				"RX)"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 36,
+			"tex": "$r_{c,rx}$",
+			"content": [
+				"rc,rx"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 25,
+			"tex": "Radius node RX",
+			"content": [
+				"Radius",
+				"node",
+				"RX"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "$dt$",
+			"content": [
+				"dt"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "Grow factor for assimilations in RX",
+			"content": [
+				"Grow",
+				"factor",
+				"for",
+				"assimilations",
+				"in",
+				"RX"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 28,
+			"tex": "Radius node TX",
+			"content": [
+				"Radius",
+				"node",
+				"TX"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "Coefficient of restitution",
+			"content": [
+				"Coe\ufb03cient",
+				"of",
+				"restitution"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "20 $\\mu s$",
+			"content": [
+				"20",
+				"\u00b5s"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 17,
+			"tex": "2",
+			"content": [
+				"2"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 0,
+			"tex": "Symbol",
+			"content": [
+				"Symbol"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 70,
+			"tex": "Signal pattern: HALVE",
+			"content": [
+				"Signal",
+				"pattern:",
+				"HALVE"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 64,
+			"tex": "Assimilation Threshold for STOP signal (node RX)",
+			"content": [
+				"Assimilation",
+				"Threshold",
+				"for",
+				"STOP",
+				"signal",
+				"(node",
+				"RX)"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 33,
+			"tex": "$R_{TX}$",
+			"content": [
+				"RT",
+				"X"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "$\\alpha$",
+			"content": [
+				"\u03b1"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "Value",
+			"content": [
+				"Value"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 50,
+			"tex": "200 $\\mu s$",
+			"content": [
+				"200",
+				"\u00b5s"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 23,
+			"tex": "10 s",
+			"content": [
+				"10",
+				"s"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 69,
+			"tex": "$HALVE$",
+			"content": [
+				"HALV",
+				"E"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 54,
+			"tex": "$\\Delta t$",
+			"content": [
+				"\u2206t"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "$e$",
+			"content": [
+				"e"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 37,
+			"tex": "Radius emitted molecules (type \\textit{R})",
+			"content": [
+				"Radius",
+				"emitted",
+				"molecules",
+				"(type",
+				"R)"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 26,
+			"tex": "2.5 $\\mu m$",
+			"content": [
+				"2.5",
+				"\u00b5m"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 34,
+			"tex": "Amount of surface receptors (node TX)",
+			"content": [
+				"Amount",
+				"of",
+				"surface",
+				"receptors",
+				"(node",
+				"TX)"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 51,
+			"tex": "$\\zeta_S$",
+			"content": [
+				"\u03b6S"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 44,
+			"tex": "8 nm",
+			"content": [
+				"8",
+				"nm"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 45,
+			"tex": "$r_{r,tx}$",
+			"content": [
+				"rr,tx"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "Tolerance factor",
+			"content": [
+				"Tolerance",
+				"factor"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 71,
+			"tex": "10",
+			"content": [
+				"10"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 7,
+			"tex": "Temperature",
+			"content": [
+				"Temperature"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 60,
+			"tex": "$\\zeta_{halve}$",
+			"content": [
+				"\u03b6halve"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "$T$",
+			"content": [
+				"T"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 56,
+			"tex": "20 ms",
+			"content": [
+				"20",
+				"ms"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 40,
+			"tex": "Radius emitted molecules (type \\textit{S})",
+			"content": [
+				"Radius",
+				"emitted",
+				"molecules",
+				"(type",
+				"S",
+				")"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 29,
+			"tex": "2.5 $\\mu m$",
+			"content": [
+				"2.5",
+				"\u00b5m"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 53,
+			"tex": "34 molecules",
+			"content": [
+				"34",
+				"molecules"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 47,
+			"tex": "4 nm",
+			"content": [
+				"4",
+				"nm"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 22,
+			"tex": "Symbol time",
+			"content": [
+				"Symbol",
+				"time"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 46,
+			"tex": "Receptor radius (node TX)",
+			"content": [
+				"Receptor",
+				"radius",
+				"(node",
+				"TX)"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 49,
+			"tex": "Trafficking time",
+			"content": [
+				"Tra\ufb03cking",
+				"time"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 65,
+			"tex": "10000, 20000 molecules",
+			"content": [
+				"10000,",
+				"20000",
+				"molecules"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 8,
+			"tex": "310 K",
+			"content": [
+				"310",
+				"K"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 32,
+			"tex": "10000",
+			"content": [
+				"10000"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 14,
+			"tex": "0.0011 $Kg \\times (m s)^{-1}$",
+			"content": [
+				"0.0011",
+				"Kg",
+				"\u00d7",
+				"(ms)\u22121"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 43,
+			"tex": "Receptor radius (node RX)",
+			"content": [
+				"Receptor",
+				"radius",
+				"(node",
+				"RX)"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 52,
+			"tex": "Assimilation Threshold (node TX)",
+			"content": [
+				"Assimilation",
+				"Threshold",
+				"(node",
+				"TX)"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 63,
+			"tex": "$\\zeta_{stop}$",
+			"content": [
+				"\u03b6stop"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 39,
+			"tex": "$r_{c,tx}$",
+			"content": [
+				"rc,tx"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "Description",
+			"content": [
+				"Description"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 68,
+			"tex": "110",
+			"content": [
+				"110"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 4,
+			"tex": "Simulation time step",
+			"content": [
+				"Simulation",
+				"time",
+				"step"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 48,
+			"tex": "$T_{traff}$",
+			"content": [
+				"Ttraf",
+				"f"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 66,
+			"tex": "$START$",
+			"content": [
+				"ST",
+				"ART"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "$r_{RX}$",
+			"content": [
+				"rRX"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "$\\eta$",
+			"content": [
+				"\u03b7"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 30,
+			"tex": "$R_{RX}$",
+			"content": [
+				"RRX"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "Viscosity",
+			"content": [
+				"Viscosity"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 58,
+			"tex": "Timeout before retransmission (node RX)",
+			"content": [
+				"Timeout",
+				"before",
+				"retransmission",
+				"(node",
+				"RX)"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 35,
+			"tex": "10000",
+			"content": [
+				"10000"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 31,
+			"tex": "Amount of surface receptors (node RX)",
+			"content": [
+				"Amount",
+				"of",
+				"surface",
+				"receptors",
+				"(node",
+				"RX)"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 38,
+			"tex": "3.5 nm",
+			"content": [
+				"3.5",
+				"nm"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 67,
+			"tex": "Signal pattern: START",
+			"content": [
+				"Signal",
+				"pattern:",
+				"START"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 41,
+			"tex": "1.75 nm",
+			"content": [
+				"1.75",
+				"nm"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 18,
+			"tex": "$\\beta$",
+			"content": [
+				"\u03b2"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 80,
+			"tex": "1000 \\textit{R} molecules",
+			"content": [
+				"1000",
+				"R",
+				"molecules"
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 77,
+			"tex": "26.5, 35.4, 44.2, 53.0, 61.9",
+			"content": [
+				"26.5,",
+				"35.4,",
+				"44.2,",
+				"53.0,",
+				"61.9"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 72,
+			"tex": "$STOP$",
+			"content": [
+				"ST",
+				"OP"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 82,
+			"tex": "Initial burst (node TX)",
+			"content": [
+				"Initial",
+				"burst",
+				"(node",
+				"TX)"
+			],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 74,
+			"tex": "111",
+			"content": [
+				"111"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 79,
+			"tex": "Initial burst (node RX)",
+			"content": [
+				"Initial",
+				"burst",
+				"(node",
+				"RX)"
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 75,
+			"tex": "$d$",
+			"content": [
+				"d"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 78,
+			"tex": "$B_{0,RX}$",
+			"content": [
+				"B0,RX"
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 84,
+			"tex": "$\\zeta_{RTT}$",
+			"content": [
+				"\u03b6RT",
+				"T"
+			],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 89,
+			"tex": "0.2 s",
+			"content": [
+				"0.2",
+				"s"
+			],
+			"start_row": 29,
+			"end_row": 29,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 76,
+			"tex": "Simulated distance ($\\mu m$)",
+			"content": [
+				"Simulated",
+				"distance",
+				"(\u00b5m)"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 73,
+			"tex": "Signal pattern: STOP",
+			"content": [
+				"Signal",
+				"pattern:",
+				"STOP"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 83,
+			"tex": "1 \\textit{S} molecule",
+			"content": [
+				"1",
+				"S",
+				"molecule"
+			],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 81,
+			"tex": "$B_{0,TX}$",
+			"content": [
+				"B0,T",
+				"X"
+			],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 85,
+			"tex": "Assimilation Threshold for RTT estimation (node RX)",
+			"content": [
+				"Assimilation",
+				"Threshold",
+				"for",
+				"RTT",
+				"estimation",
+				"(node",
+				"RX)"
+			],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 87,
+			"tex": "$T_w$",
+			"content": [
+				"Tw"
+			],
+			"start_row": 29,
+			"end_row": 29,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 86,
+			"tex": "5 molecules",
+			"content": [
+				"5",
+				"molecules"
+			],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 88,
+			"tex": "Waiting time for parabolic estimation (node RX)",
+			"content": [
+				"Waiting",
+				"time",
+				"for",
+				"parabolic",
+				"estimation",
+				"(node",
+				"RX)"
+			],
+			"start_row": 29,
+			"end_row": 29,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

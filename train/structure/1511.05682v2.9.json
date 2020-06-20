@@ -1,0 +1,334 @@
+{
+	"cells": [
+		{
+			"id": 21,
+			"tex": ": sealedPassList",
+			"content": [
+				":",
+				"sealedPassList"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": ": Update PassList with Userid, MasPass and OTP[list]",
+			"content": [
+				":",
+				"Update",
+				"PassList",
+				"with",
+				"Userid,",
+				"MasPass",
+				"and",
+				"OTP[list]"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "1a.Client$\\rightarrow$PM",
+			"content": [
+				"1a.Client\u2192PM"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": ": sealedPassList",
+			"content": [
+				":",
+				"sealedPassList"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "2a.PM$\\rightarrow$PAL",
+			"content": [
+				"2a.PM\u2192PAL"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "4c.PAL",
+			"content": [
+				"4c.PAL"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "5a.PAL$\\rightarrow$PM",
+			"content": [
+				"5a.PAL\u2192PM"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "3b.Client$\\rightarrow$PAL",
+			"content": [
+				"3b.Client\u2192PAL"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "4b.PAL",
+			"content": [
+				"4b.PAL"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": ": Execute Secure Tunnel Protocol",
+			"content": [
+				":",
+				"Execute",
+				"Secure",
+				"Tunnel",
+				"Protocol"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 24,
+			"tex": "8a.Client",
+			"content": [
+				"8a.Client"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "4d.PAL",
+			"content": [
+				"4d.PAL"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": ": Registration Request",
+			"content": [
+				":",
+				"Registration",
+				"Request"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "7a.PM$\\rightarrow$Client",
+			"content": [
+				"7a.PM\u2192Client"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": ": OTP Parameters",
+			"content": [
+				":",
+				"OTP",
+				"Parameters"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 25,
+			"tex": ": Generate OTP[list] by using OTP Parameters and SecPhrase",
+			"content": [
+				":",
+				"Generate",
+				"OTP[list]",
+				"by",
+				"using",
+				"OTP",
+				"Parameters",
+				"and",
+				"SecPhrase"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": ": Invoke PAL with \"Registration Block\"",
+			"content": [
+				":",
+				"Invoke",
+				"PAL",
+				"with",
+				"\u201dRegistration",
+				"Block\u201d"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": ": OTP Parameters, sealedPassList",
+			"content": [
+				":",
+				"OTP",
+				"Parameters,",
+				"sealedPassList"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": ": Userid, MasPass and SecPhrase",
+			"content": [
+				":",
+				"Userid,",
+				"MasPass",
+				"and",
+				"SecPhrase"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "6a.PM$\\rightarrow$DB",
+			"content": [
+				"6a.PM\u2192DB"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": ": sealedPassList=TPMSeal(PassList,PCR18)",
+			"content": [
+				":",
+				"sealedPassList=TPMSeal(PassList,PCR18)"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": ": Generate OTP passwords (OTP[list])",
+			"content": [
+				":",
+				"Generate",
+				"OTP",
+				"passwords",
+				"(OTP[list])"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "4a.PAL",
+			"content": [
+				"4a.PAL"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": ": PassList= TPMUnseal(sealedPassList,PCR18)",
+			"content": [
+				":",
+				"PassList=",
+				"TPMUnseal(sealedPassList,PCR18)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "2b.PM$\\rightarrow$PAL",
+			"content": [
+				"2b.PM\u2192PAL"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "3a.Client$\\leftrightarrow$PAL",
+			"content": [
+				"3a.Client\u2194PAL"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

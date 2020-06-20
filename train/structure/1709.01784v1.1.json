@@ -1,0 +1,432 @@
+{
+	"cells": [
+		{
+			"id": 9,
+			"tex": "negative image (unmatched image to $o$)",
+			"content": [
+				"negative",
+				"image",
+				"(unmatched",
+				"image",
+				"to",
+				"o)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "$o\\in I_u$",
+			"content": [
+				"o",
+				"\u2208",
+				"Iu"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "$\\mathbf{v}\\in R^{C}$",
+			"content": [
+				"v",
+				"\u2208",
+				"RC"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 29,
+			"tex": "feature alignment function in Equation~\\ref{eq:gu} and \\ref{eq:gs}",
+			"content": [
+				"feature",
+				"alignment",
+				"function",
+				"in",
+				"Equation",
+				"??",
+				"and",
+				"??"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 24,
+			"tex": "$\\mathbf{U}\\in R^{L*C}$",
+			"content": [
+				"U",
+				"\u2208",
+				"RL\u2217C"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "$I_u$",
+			"content": [
+				"Iu"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "anchor image or query image",
+			"content": [
+				"anchor",
+				"image",
+				"or",
+				"query",
+				"image"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "positive image (matched image to $o$)",
+			"content": [
+				"positive",
+				"image",
+				"(matched",
+				"image",
+				"to",
+				"o)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "total number of tags",
+			"content": [
+				"total",
+				"number",
+				"of",
+				"tags"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "$I_s$",
+			"content": [
+				"Is"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "$\\mathbf{x}^t\\in \\{0, 1\\}^T$",
+			"content": [
+				"xt",
+				"\u2208",
+				"{0,",
+				"1}T"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "$\\mathbf{o}^p$ (resp. $\\mathbf{o}^q$)",
+			"content": [
+				"op",
+				"(resp.",
+				"oq)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "feature at location $l$, $x\\in \\{o, p, q\\}$",
+			"content": [
+				"feature",
+				"at",
+				"location",
+				"l,",
+				"x",
+				"\u2208",
+				"{o,",
+				"p,",
+				"q}"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "tags vector, $x\\in \\{p, q\\}$",
+			"content": [
+				"tags",
+				"vector,",
+				"x",
+				"\u2208",
+				"{p,",
+				"q}"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 28,
+			"tex": "$g_u$(), $g_s$()",
+			"content": [
+				"gu(),",
+				"gs()"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "tag embedding matrix",
+			"content": [
+				"tag",
+				"embedding",
+				"matrix"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 25,
+			"tex": "weight matrix in Equation~\\ref{eq:gs}",
+			"content": [
+				"weight",
+				"matrix",
+				"in",
+				"Equation",
+				"??"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "$q\\in I_s$",
+			"content": [
+				"q",
+				"\u2208",
+				"Is"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "$p\\in I_s$",
+			"content": [
+				"p",
+				"\u2208",
+				"Is"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "$\\mathbf{x}_l\\in R^C$",
+			"content": [
+				"xl",
+				"\u2208",
+				"RC"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "weight vector in Equation~\\ref{eq:gs}",
+			"content": [
+				"weight",
+				"vector",
+				"in",
+				"Equation",
+				"??"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "attention weight at location $l$",
+			"content": [
+				"attention",
+				"weight",
+				"at",
+				"location",
+				"l"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "$\\mathbf{W}\\in R^{T*C}$",
+			"content": [
+				"W",
+				"\u2208",
+				"RT\u2217C"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "feature of $o$ using the attention w.r.t to $p$ (resp. $q$)",
+			"content": [
+				"feature",
+				"of",
+				"o",
+				"using",
+				"the",
+				"attention",
+				"w.r.t",
+				"to",
+				"p",
+				"(resp.",
+				"q)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "shop domain images from e-commerce websites",
+			"content": [
+				"shop",
+				"domain",
+				"images",
+				"from",
+				"e-commerce",
+				"websites"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "$a_l\\in R$",
+			"content": [
+				"al",
+				"\u2208",
+				"R"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "$L$",
+			"content": [
+				"L"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "total number of locations, i.e. height*width",
+			"content": [
+				"total",
+				"number",
+				"of",
+				"locations,",
+				"i.e.",
+				"height*width"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "user domain images taken by users",
+			"content": [
+				"user",
+				"domain",
+				"images",
+				"taken",
+				"by",
+				"users"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "$T$",
+			"content": [
+				"T"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

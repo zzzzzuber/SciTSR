@@ -1,0 +1,350 @@
+{
+	"cells": [
+		{
+			"id": 9,
+			"tex": "Number of views",
+			"content": [
+				"Number",
+				"of",
+				"views"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "\\textbf{Definition}",
+			"content": [
+				"De\ufb01nition"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "$\\mathbf{W}\\in {\\rm I\\!R}^{N\\times N}$",
+			"content": [
+				"W",
+				"\u2208",
+				"IRN\u00d7N"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "$D^{(v)}$",
+			"content": [
+				"D(v)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "$\\mathbf{C}^{*}\\in {\\rm I\\!R}^{N\\times N}$",
+			"content": [
+				"C\u2217",
+				"\u2208",
+				"IRN\u00d7N"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "View index",
+			"content": [
+				"View",
+				"index"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "$\\mathbf{X}^{(v)}\\in {\\rm I\\!R}^{D^{(v)}\\times N}$",
+			"content": [
+				"X(v)",
+				"\u2208",
+				"IRD(v)\u00d7N"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "Number of data points",
+			"content": [
+				"Number",
+				"of",
+				"data",
+				"points"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "Representation matrix in a view $v$",
+			"content": [
+				"Representation",
+				"matrix",
+				"in",
+				"a",
+				"view",
+				"v"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "Data points in a view $v$ mapped into high-dimensional feature space",
+			"content": [
+				"Data",
+				"points",
+				"in",
+				"a",
+				"view",
+				"v",
+				"mapped",
+				"into",
+				"high-dimensional",
+				"feature",
+				"space"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "Singular value decomposition (SVD) of $\\mathbf{X}$",
+			"content": [
+				"Singular",
+				"value",
+				"decomposition",
+				"(SVD)",
+				"of",
+				"X"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 25,
+			"tex": "Gram matrix in a view $v$",
+			"content": [
+				"Gram",
+				"matrix",
+				"in",
+				"a",
+				"view",
+				"v"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "Data matrix in a view $v$",
+			"content": [
+				"Data",
+				"matrix",
+				"in",
+				"a",
+				"view",
+				"v"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 24,
+			"tex": "$\\mathbf{K}^{(v)}\\in {\\rm I\\!R}^{N\\times N}$",
+			"content": [
+				"K(v)",
+				"\u2208",
+				"IRN\u00d7N"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "$\\Phi(\\mathbf{X}^{(v)})$",
+			"content": [
+				"\u03a6(X(v))"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "Dimension of data points in a view $v$",
+			"content": [
+				"Dimension",
+				"of",
+				"data",
+				"points",
+				"in",
+				"a",
+				"view",
+				"v"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "$k$",
+			"content": [
+				"k"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "$n_v$",
+			"content": [
+				"nv"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "$N$",
+			"content": [
+				"N"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "Number of clusters",
+			"content": [
+				"Number",
+				"of",
+				"clusters"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "Centroid representation matrix",
+			"content": [
+				"Centroid",
+				"representation",
+				"matrix"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "Affinity matrix",
+			"content": [
+				"A\ufb03nity",
+				"matrix"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "\\textbf{Notation}",
+			"content": [
+				"Notation"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "$\\mathbf{X}=\\mathbf{U\\Sigma} \\mathbf{V}^T$",
+			"content": [
+				"X",
+				"=",
+				"U\u03a3VT"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "$v$",
+			"content": [
+				"v"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "$\\mathbf{C}^{(v)}\\in {\\rm I\\!R}^{N\\times N}$",
+			"content": [
+				"C(v)",
+				"\u2208",
+				"IRN\u00d7N"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

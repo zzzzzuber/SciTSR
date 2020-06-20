@@ -1,0 +1,513 @@
+{
+	"cells": [
+		{
+			"id": 12,
+			"tex": "\\textbf{Input}: \\textsl{Worst cleaning job ever!}",
+			"content": [
+				"Input:",
+				"Worst",
+				"cleaning",
+				"job",
+				"ever!"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "\\textbf{MDAL}: \\textsl{The food is very friendly and very good.\n}",
+			"content": [
+				"MDAL:",
+				"The",
+				"food",
+				"is",
+				"very",
+				"friendly",
+				"and",
+				"very",
+				"good."
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "\\textbf{Input}: \\textsl{I would strongly advise against using this company.}",
+			"content": [
+				"Input:",
+				"I",
+				"would",
+				"strongly",
+				"advise",
+				"against",
+				"using",
+				"this",
+				"company."
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "\\textbf{Input}: \\textsl{Place is very clean and the food is delicious.}",
+			"content": [
+				"Input:",
+				"Place",
+				"is",
+				"very",
+				"clean",
+				"and",
+				"the",
+				"food",
+				"is",
+				"delicious."
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "\\textbf{Input}: \\textsl{Asked for the roast beef and mushroom sub, only received roast beef.}",
+			"content": [
+				"Input:",
+				"Asked",
+				"for",
+				"the",
+				"roast",
+				"beef",
+				"and",
+				"mushroom",
+				"sub,",
+				"only",
+				"received",
+				"roast",
+				"beef."
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "\\textbf{Input}: \\textsl{Most boring show I've ever been.}",
+			"content": [
+				"Input:",
+				"Most",
+				"boring",
+				"show",
+				"I\u2019ve",
+				"ever",
+				"been."
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "\\textbf{Input}: \\textsl{Really satisfied with experience buying clothes.}",
+			"content": [
+				"Input:",
+				"Really",
+				"satis\ufb01ed",
+				"with",
+				"experience",
+				"buying",
+				"clothes."
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "\\textbf{Proposed Method}: \\textsl{Place is very small and the food is terrible.}",
+			"content": [
+				"Proposed",
+				"Method:",
+				"Place",
+				"is",
+				"very",
+				"small",
+				"and",
+				"the",
+				"food",
+				"is",
+				"terrible."
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "\\textbf{MDAL}: \\textsl{Great food, food!}",
+			"content": [
+				"MDAL:",
+				"Great",
+				"food,",
+				"food!"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "\\textbf{Proposed Method}: \\textsl{Thanks for the beef and spring bbq.}",
+			"content": [
+				"Proposed",
+				"Method:",
+				"Thanks",
+				"for",
+				"the",
+				"beef",
+				"and",
+				"spring",
+				"bbq."
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "\\textbf{Proposed Method}: \\textsl{I would love using this company.}",
+			"content": [
+				"Proposed",
+				"Method:",
+				"I",
+				"would",
+				"love",
+				"using",
+				"this",
+				"company."
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "\\textbf{MDAL}: \\textsl{Do not impressed with this place.}",
+			"content": [
+				"MDAL:",
+				"Do",
+				"not",
+				"impressed",
+				"with",
+				"this",
+				"place."
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 25,
+			"tex": "\\textbf{CAAE}: \\textsl{Don't go to this place.}",
+			"content": [
+				"CAAE:",
+				"Don\u2019t",
+				"go",
+				"to",
+				"this",
+				"place."
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "\\textbf{Proposed Method}: \\textsl{The service was served and completely fresh.}",
+			"content": [
+				"Proposed",
+				"Method:",
+				"The",
+				"service",
+				"was",
+				"served",
+				"and",
+				"completely",
+				"fresh."
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "\\textbf{Proposed Method}: \\textsl{Really bad experience.}",
+			"content": [
+				"Proposed",
+				"Method:",
+				"Really",
+				"bad",
+				"experience."
+			],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "\\textbf{CAAE}: \\textsl{I love this place for a great experience here.}",
+			"content": [
+				"CAAE:",
+				"I",
+				"love",
+				"this",
+				"place",
+				"for",
+				"a",
+				"great",
+				"experience",
+				"here."
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "\\textbf{Input}: \\textsl{The service was nearly non-existent and extremely rude.}",
+			"content": [
+				"Input:",
+				"The",
+				"service",
+				"was",
+				"nearly",
+				"non-existent",
+				"and",
+				"extremely",
+				"rude."
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "\\textbf{Proposed Method}: \\textsl{Excellent outstanding job ever!}",
+			"content": [
+				"Proposed",
+				"Method:",
+				"Excellent",
+				"outstanding",
+				"job",
+				"ever!"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "\\textbf{Proposed Method}: \\textsl{Most amazing show I've ever been.}",
+			"content": [
+				"Proposed",
+				"Method:",
+				"Most",
+				"amazing",
+				"show",
+				"I\u2019ve",
+				"ever",
+				"been."
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "\\textbf{CAAE}: \\textsl{Don't go to this place.}",
+			"content": [
+				"CAAE:",
+				"Don\u2019t",
+				"go",
+				"to",
+				"this",
+				"place."
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "\\textbf{MDAL}: \\textsl{I have been a great place was great.}",
+			"content": [
+				"MDAL:",
+				"I",
+				"have",
+				"been",
+				"a",
+				"great",
+				"place",
+				"was",
+				"great."
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "\\textbf{MDAL}: \\textsl{This place wasn't worth the worst place is horrible.}",
+			"content": [
+				"MDAL:",
+				"This",
+				"place",
+				"wasn\u2019t",
+				"worth",
+				"the",
+				"worst",
+				"place",
+				"is",
+				"horrible."
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "\\textbf{CAAE}: \\textsl{Great place is the best place in town.}",
+			"content": [
+				"CAAE:",
+				"Great",
+				"place",
+				"is",
+				"the",
+				"best",
+				"place",
+				"in",
+				"town."
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "\\textbf{CAAE}: \\textsl{The best place in the best area in vegas.}",
+			"content": [
+				"CAAE:",
+				"The",
+				"best",
+				"place",
+				"in",
+				"the",
+				"best",
+				"area",
+				"in",
+				"vegas."
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "\\textbf{CAAE}: \\textsl{We had a great experience with. }",
+			"content": [
+				"CAAE:",
+				"We",
+				"had",
+				"a",
+				"great",
+				"experience",
+				"with."
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "\\textbf{MDAL}: \\textsl{This place for a great place for a great food and best.}",
+			"content": [
+				"MDAL:",
+				"This",
+				"place",
+				"for",
+				"a",
+				"great",
+				"place",
+				"for",
+				"a",
+				"great",
+				"food",
+				"and",
+				"best."
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "\\textbf{CAAE}: \\textsl{Great food and great service!}",
+			"content": [
+				"CAAE:",
+				"Great",
+				"food",
+				"and",
+				"great",
+				"service!"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "\\textbf{MDAL}: \\textsl{Great place I've ever ever had.}",
+			"content": [
+				"MDAL:",
+				"Great",
+				"place",
+				"I\u2019ve",
+				"ever",
+				"ever",
+				"had."
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

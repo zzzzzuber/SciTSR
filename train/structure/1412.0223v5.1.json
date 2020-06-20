@@ -1,0 +1,413 @@
+{
+	"cells": [
+		{
+			"id": 17,
+			"tex": "the reliability that task $t_i$ can be\ncompleted by workers\nin $W_i$",
+			"content": [
+				"the",
+				"reliability",
+				"that",
+				"task",
+				"ti",
+				"can",
+				"be",
+				"completed",
+				"by",
+				"workers",
+				"in",
+				"Wi"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 27,
+			"tex": "the sample size",
+			"content": [
+				"the",
+				"sample",
+				"size"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "the spatial/temporal diversity of task $t_i$",
+			"content": [
+				"the",
+				"spatial/temporal",
+				"diversity",
+				"of",
+				"task",
+				"ti"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "$[s_i, e_i]$",
+			"content": [
+				"[si,",
+				"ei]"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "$W$",
+			"content": [
+				"W"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "$STD(t_i, W_i)$",
+			"content": [
+				"ST",
+				"D(ti,",
+				"Wi)"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "$K$",
+			"content": [
+				"K"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "$R(t_i, W_i)$",
+			"content": [
+				"R(ti,",
+				"Wi)"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "{\\bf Symbol}",
+			"content": [
+				"Symbol"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "$total\\_STD$",
+			"content": [
+				"total",
+				"ST",
+				"D"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "$rel(t_i, W_i)$",
+			"content": [
+				"rel(ti,",
+				"Wi)"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "$v_j$",
+			"content": [
+				"vj"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "the velocity of moving worker $w_j$",
+			"content": [
+				"the",
+				"velocity",
+				"of",
+				"moving",
+				"worker",
+				"wj"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "the interval of moving direction (angle)",
+			"content": [
+				"the",
+				"interval",
+				"of",
+				"moving",
+				"direction",
+				"(angle)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "a (equivalent) variant of reliability $rel(t_i, W_i)$",
+			"content": [
+				"a",
+				"(equivalent)",
+				"variant",
+				"of",
+				"reliability",
+				"rel(ti,",
+				"Wi)"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "the time constraint of accomplishing a task $t_i$",
+			"content": [
+				"the",
+				"time",
+				"constraint",
+				"of",
+				"accomplishing",
+				"a",
+				"task",
+				"ti"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "a set of $m$ time-constrained spatial tasks $t_i$",
+			"content": [
+				"a",
+				"set",
+				"of",
+				"m",
+				"time-constrained",
+				"spatial",
+				"tasks",
+				"ti"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "the confidence of worker $w_j$ that reliably do the task",
+			"content": [
+				"the",
+				"con\ufb01dence",
+				"of",
+				"worker",
+				"wj",
+				"that",
+				"reliably",
+				"do",
+				"the",
+				"task"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "the expected spatial/temporal diversity of task $t_i$",
+			"content": [
+				"the",
+				"expected",
+				"spatial/temporal",
+				"diversity",
+				"of",
+				"task",
+				"ti"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "$[\\alpha_j^-, \\alpha_j^+]$",
+			"content": [
+				"[\u03b1\u2212",
+				"j",
+				",",
+				"\u03b1+",
+				"j",
+				"]"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "{\\bf \\qquad \\qquad \\qquad Description}",
+			"content": [
+				"Description"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "$T$",
+			"content": [
+				"T"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 25,
+			"tex": "the sum of the expected spatial/temporal diversities for all tasks",
+			"content": [
+				"the",
+				"sum",
+				"of",
+				"the",
+				"expected",
+				"spatial/temporal",
+				"diversities",
+				"for",
+				"all",
+				"tasks"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "$E(STD(t_i))$",
+			"content": [
+				"E(ST",
+				"D(ti))"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "$p_j$",
+			"content": [
+				"pj"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "a set of $n$ dynamically moving workers $w_j$",
+			"content": [
+				"a",
+				"set",
+				"of",
+				"n",
+				"dynamically",
+				"moving",
+				"workers",
+				"wj"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "the position of task $t_i$ (or worker $w_j$)",
+			"content": [
+				"the",
+				"position",
+				"of",
+				"task",
+				"ti",
+				"(or",
+				"worker",
+				"wj)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "$l_i$ (or $l_j$)",
+			"content": [
+				"li",
+				"(or",
+				"lj)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

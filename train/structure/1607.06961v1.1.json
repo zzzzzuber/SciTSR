@@ -1,0 +1,178 @@
+{
+	"cells": [
+		{
+			"id": 2,
+			"tex": "{``There are three men waiting for him at}",
+			"content": [
+				"\u201cThere",
+				"are",
+				"three",
+				"men",
+				"waiting",
+				"for",
+				"him",
+				"at"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "{completely must complement}",
+			"content": [
+				"completely",
+				"must",
+				"complement"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "{three men wait}",
+			"content": [
+				"three",
+				"men",
+				"wait"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "{seem do thing}",
+			"content": [
+				"seem",
+				"do",
+				"thing"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "{the door\", said Holmes. ``Oh, indeed!}",
+			"content": [
+				"the",
+				"door\u201d,",
+				"said",
+				"Holmes.",
+				"\u201cOh,",
+				"indeed!"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "\\textbf{Without stopwords + lemmatization}",
+			"content": [
+				"Without",
+				"stopwords",
+				"+",
+				"lemmatization"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "\\textbf{Original extract}",
+			"content": [
+				"Original",
+				"extract"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "{door say holmes oh indeed}",
+			"content": [
+				"door",
+				"say",
+				"holmes",
+				"oh",
+				"indeed"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "{You seem to have done the thing very}",
+			"content": [
+				"You",
+				"seem",
+				"to",
+				"have",
+				"done",
+				"the",
+				"thing",
+				"very"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "{``And I you\", Holmes answered.}",
+			"content": [
+				"\u201cAnd",
+				"I",
+				"you\u201d,",
+				"Holmes",
+				"answered."
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "{completely. I must compliment you.\"}",
+			"content": [
+				"completely.",
+				"I",
+				"must",
+				"compliment",
+				"you.\u201d"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "{holmes answer}",
+			"content": [
+				"holmes",
+				"answer"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}
