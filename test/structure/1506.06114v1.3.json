@@ -1,0 +1,325 @@
+{
+	"cells": [
+		{
+			"id": 12,
+			"tex": "$\\mathbf{H}_{22}^{-1}\\mathbf{H}_{12}\\mathbf{H}_{11}^{-1}\\mathbf{H}_{31}$",
+			"content": [
+				"H\u22121",
+				"22",
+				"H12H\u22121",
+				"11",
+				"H31"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 17,
+			"tex": "$\\mathbf{H}_{22}^{-1}\\mathbf{H}_{32}$",
+			"content": [
+				"H\u22121",
+				"22",
+				"H32"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 2,
+			"tex": "$T_{2j}$",
+			"content": [
+				"T2j"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 7,
+			"tex": "$\\mathbf{H}_{21}^{-1}\\mathbf{H}_{31}$",
+			"content": [
+				"H\u22121",
+				"21",
+				"H31"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 3,
+			"tex": "$T_{3j}$",
+			"content": [
+				"T3j"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 11,
+			"tex": "$\\mathbf{H}_{11}^{-1}\\mathbf{H}_{31}$",
+			"content": [
+				"H\u22121",
+				"11",
+				"H31"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "$T_{4j}$",
+			"content": [
+				"T4j"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 14,
+			"tex": "$\\mathbf{H}_{32}^{-1}\\mathbf{H}_{12}$",
+			"content": [
+				"H\u22121",
+				"32",
+				"H12"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 0,
+			"tex": "",
+			"content": [],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "$\\mathbf{H}_{12}^{-1}\\mathbf{H}_{32}$",
+			"content": [
+				"H\u22121",
+				"12",
+				"H32"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "$T_{1j}$",
+			"content": [
+				"T1j"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "$\\mathbf{H}_{33}^{-1}\\mathbf{H}_{23}\\mathbf{H}_{22}^{-1}\\mathbf{H}_{12}$",
+			"content": [
+				"H\u22121",
+				"33",
+				"H23H\u22121",
+				"22",
+				"H12"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 23,
+			"tex": "$\\mathbf{H}_{33}^{-1}\\mathbf{H}_{13}$",
+			"content": [
+				"H\u22121",
+				"33",
+				"H13"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 9,
+			"tex": "$\\mathbf{H}_{31}^{-1}\\mathbf{H}_{21}$",
+			"content": [
+				"H\u22121",
+				"31",
+				"H21"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 21,
+			"tex": "$\\mathbf{H}_{13}^{-1}\\mathbf{H}_{23}$",
+			"content": [
+				"H\u22121",
+				"13",
+				"H23"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "$j=3$",
+			"content": [
+				"j",
+				"=",
+				"3"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "$\\mathbf{H}_{31}^{-1}\\mathbf{H}_{21}\\mathbf{H}_{22}^{-1}\\mathbf{H}_{12}$",
+			"content": [
+				"H\u22121",
+				"31",
+				"H21H\u22121",
+				"22",
+				"H12"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 20,
+			"tex": "$j=4$",
+			"content": [
+				"j",
+				"=",
+				"4"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "$j=2$",
+			"content": [
+				"j",
+				"=",
+				"2"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "$\\mathbf{H}_{23}^{-1}\\mathbf{H}_{13}\\mathbf{H}_{11}^{-1}\\mathbf{H}_{31}$",
+			"content": [
+				"H\u22121",
+				"23",
+				"H13H\u22121",
+				"11",
+				"H31"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 13,
+			"tex": "$\\mathbf{H}_{32}^{-1}\\mathbf{H}_{12}$",
+			"content": [
+				"H\u22121",
+				"32",
+				"H12"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 19,
+			"tex": "$\\mathbf{H}_{33}^{-1}\\mathbf{H}_{23}$",
+			"content": [
+				"H\u22121",
+				"33",
+				"H23"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 5,
+			"tex": "$j=1$",
+			"content": [
+				"j",
+				"=",
+				"1"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "$\\mathbf{H}_{33}^{-1}\\mathbf{H}_{13}$",
+			"content": [
+				"H\u22121",
+				"33",
+				"H13"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 6,
+			"tex": "$\\mathbf{H}_{11}^{-1}\\mathbf{H}_{21}$",
+			"content": [
+				"H\u22121",
+				"11",
+				"H21"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

@@ -1,0 +1,164 @@
+{
+	"cells": [
+		{
+			"id": 8,
+			"tex": "ATT+Random+BiLSTM (layer=1)",
+			"content": [
+				"ATT+Random+BiLSTM",
+				"(layer=1)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "ATT+MaxPool+BiLSTM (window\\_size=3)",
+			"content": [
+				"ATT+MaxPool+BiLSTM",
+				"(window",
+				"size=3)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "0.80954",
+			"content": [
+				"0.80954"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "\\textbf{0.82046}",
+			"content": [
+				"0.82046"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "ATT+BiLSTM",
+			"content": [
+				"ATT+BiLSTM"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "0.81308",
+			"content": [
+				"0.81308"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "ATT+MaxPool+BiLSTM (window\\_size=5)",
+			"content": [
+				"ATT+MaxPool+BiLSTM",
+				"(window",
+				"size=5)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "ATT+Random+BiLSTM (layer=4)",
+			"content": [
+				"ATT+Random+BiLSTM",
+				"(layer=4)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "ATT+Hierarchical+BiLSTM",
+			"content": [
+				"ATT+Hierarchical+BiLSTM"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "GAP",
+			"content": [
+				"GAP"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "0.80934",
+			"content": [
+				"0.80934"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "0.81821",
+			"content": [
+				"0.81821"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "Model",
+			"content": [
+				"Model"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "\\textbf{0.81513}",
+			"content": [
+				"0.81513"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

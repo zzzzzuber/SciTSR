@@ -1,0 +1,336 @@
+{
+	"cells": [
+		{
+			"id": 6,
+			"tex": "$y^- - x^- \\le d$",
+			"content": [
+				"y\u2212",
+				"\u2212",
+				"x\u2212",
+				"\u2264",
+				"d"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "$x^-\\stackrel{2d}{\\to} x^+$",
+			"content": [
+				"x\u2212",
+				"2d\u2192",
+				"x+"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 16,
+			"tex": "$y^- - x^+ \\le d$",
+			"content": [
+				"y\u2212",
+				"\u2212",
+				"x+",
+				"\u2264",
+				"d"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "$y^- \\stackrel{d}{\\to} x^+$",
+			"content": [
+				"y\u2212",
+				"d\u2192",
+				"x+"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 9,
+			"tex": "$x^+ - y^- \\le d$",
+			"content": [
+				"x+",
+				"\u2212",
+				"y\u2212",
+				"\u2264",
+				"d"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "$y^+ \\stackrel{d}{\\to} x^-$",
+			"content": [
+				"y+",
+				"d\u2192",
+				"x\u2212"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 13,
+			"tex": "$-x - y \\le d$",
+			"content": [
+				"\u2212x",
+				"\u2212",
+				"y",
+				"\u2264",
+				"d"
+			],
+			"start_row": 5,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "$x + y \\le d$",
+			"content": [
+				"x",
+				"+",
+				"y",
+				"\u2264",
+				"d"
+			],
+			"start_row": 3,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "$x^+ - x^- \\le 2d$",
+			"content": [
+				"x+",
+				"\u2212",
+				"x\u2212",
+				"\u2264",
+				"2d"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "$x^-\n\\stackrel{d}{\\to} y^+$",
+			"content": [
+				"x\u2212",
+				"d\u2192",
+				"y+"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 4,
+			"tex": "$x^+ - y^+ \\le d$",
+			"content": [
+				"x+",
+				"\u2212",
+				"y+",
+				"\u2264",
+				"d"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "$x^+ \\stackrel{d}{\\to} y^-$",
+			"content": [
+				"x+",
+				"d\u2192",
+				"y\u2212"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 11,
+			"tex": "$y^+ - x^- \\le d$",
+			"content": [
+				"y+",
+				"\u2212",
+				"x\u2212",
+				"\u2264",
+				"d"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "$-x\\le d$",
+			"content": [
+				"\u2212x",
+				"\u2264",
+				"d"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "$x^- - x^+\n\\le 2d$",
+			"content": [
+				"x\u2212",
+				"\u2212",
+				"x+",
+				"\u2264",
+				"2d"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "$y^+ \\stackrel{d}{\\to} x^+$",
+			"content": [
+				"y+",
+				"d\u2192",
+				"x+"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 14,
+			"tex": "$x^- - y^+ \\le d$",
+			"content": [
+				"x\u2212",
+				"\u2212",
+				"y+",
+				"\u2264",
+				"d"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "Edges $E(c)$",
+			"content": [
+				"Edges",
+				"E(c)"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 23,
+			"tex": "$x^+\\stackrel{2d}{\\to} x^-$",
+			"content": [
+				"x+",
+				"2d\u2192",
+				"x\u2212"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 3,
+			"tex": "$x - y \\le d$",
+			"content": [
+				"x",
+				"\u2212",
+				"y",
+				"\u2264",
+				"d"
+			],
+			"start_row": 1,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "UTVPI $c$",
+			"content": [
+				"UTVPI",
+				"c"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "Diff. Constr.\n$D(c)$",
+			"content": [
+				"Di\ufb00.",
+				"Constr.",
+				"D(c)"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "$x^- \\stackrel{d}{\\to} y^-$",
+			"content": [
+				"x\u2212",
+				"d\u2192",
+				"y\u2212"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 18,
+			"tex": "$x\\le d$",
+			"content": [
+				"x",
+				"\u2264",
+				"d"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

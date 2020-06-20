@@ -1,0 +1,309 @@
+{
+	"cells": [
+		{
+			"id": 1,
+			"tex": "\\textbf{Speaker adaptation}",
+			"content": [
+				"Speaker",
+				"adaptation"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 2
+		},
+		{
+			"id": 15,
+			"tex": "$\\sim 0.5-5$ mins",
+			"content": [
+				"\u223c",
+				"0.5",
+				"\u2212",
+				"5",
+				"mins"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 21,
+			"tex": "128",
+			"content": [
+				"128"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "With fine-tuning",
+			"content": [
+				"With",
+				"\ufb01ne-tuning"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 3,
+			"tex": "\\textbf{Approaches}",
+			"content": [
+				"Approaches"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "\\textbf{Speaker encoding}",
+			"content": [
+				"Speaker",
+				"encoding"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 4
+		},
+		{
+			"id": 8,
+			"tex": "\\textbf{Pre-training}",
+			"content": [
+				"Pre-training"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "$\\sim 25$ million",
+			"content": [
+				"\u223c",
+				"25",
+				"million"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 17,
+			"tex": "$\\sim 1.5 - 3.5$ secs",
+			"content": [
+				"\u223c",
+				"1.5",
+				"\u2212",
+				"3.5",
+				"secs"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 4,
+			"tex": "Embedding-only",
+			"content": [
+				"Embedding-only"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "Audio",
+			"content": [
+				"Audio"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 4
+		},
+		{
+			"id": 24,
+			"tex": "512",
+			"content": [
+				"512"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 20,
+			"tex": "\\textbf{Parameters per speaker}",
+			"content": [
+				"Parameters",
+				"per",
+				"speaker"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "Whole-model",
+			"content": [
+				"Whole-model"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 9,
+			"tex": "Multi-speaker generative model",
+			"content": [
+				"Multi-speaker",
+				"generative",
+				"model"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 4
+		},
+		{
+			"id": 16,
+			"tex": "$\\sim 1.5 - 3.5$ secs",
+			"content": [
+				"\u223c",
+				"1.5",
+				"\u2212",
+				"3.5",
+				"secs"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 19,
+			"tex": "$\\sim 0.4 - 0.6$ secs ",
+			"content": [
+				"\u223c",
+				"0.4",
+				"\u2212",
+				"0.6",
+				"secs"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 4
+		},
+		{
+			"id": 13,
+			"tex": "\\textbf{Cloning time}",
+			"content": [
+				"Cloning",
+				"time"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "$\\sim 8$ hours",
+			"content": [
+				"\u223c",
+				"8",
+				"hours"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "Without fine-tuning",
+			"content": [
+				"Without",
+				"\ufb01ne-tuning"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 0,
+			"tex": "",
+			"content": [],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "Text and audio",
+			"content": [
+				"Text",
+				"and",
+				"audio"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 2
+		},
+		{
+			"id": 18,
+			"tex": "\\textbf{Inference time}",
+			"content": [
+				"Inference",
+				"time"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "\\textbf{Data}",
+			"content": [
+				"Data"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "512",
+			"content": [
+				"512"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		}
+	]
+}

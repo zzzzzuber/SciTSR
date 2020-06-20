@@ -1,0 +1,596 @@
+{
+	"cells": [
+		{
+			"id": 4,
+			"tex": "$AP_1$",
+			"content": [
+				"AP1"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "meaning",
+			"content": [
+				"meaning"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "$AP_0$",
+			"content": [
+				"AP0"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "$E$",
+			"content": [
+				"E"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "$m_w$",
+			"content": [
+				"mw"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "the expiration time",
+			"content": [
+				"the",
+				"expiration",
+				"time"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 31,
+			"tex": "an additive group derived from $E$ and $F$",
+			"content": [
+				"an",
+				"additive",
+				"group",
+				"derived",
+				"from",
+				"E",
+				"and",
+				"F"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 25,
+			"tex": "a Galois field",
+			"content": [
+				"a",
+				"Galois",
+				"\ufb01eld"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "$tID_X$",
+			"content": [
+				"tIDX"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "the target AP",
+			"content": [
+				"the",
+				"target",
+				"AP"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 37,
+			"tex": "hash function: $\\lbrace0, 1\\rbrace^{\\ast} \\rightarrow Z^{\\ast}_x$",
+			"content": [
+				"hash",
+				"function:",
+				"{0,",
+				"1}\u2217",
+				"\u2192",
+				"Z\u2217",
+				"x"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "the temporary identity of $X$",
+			"content": [
+				"the",
+				"temporary",
+				"identity",
+				"of",
+				"X"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 29,
+			"tex": "a point on $E$",
+			"content": [
+				"a",
+				"point",
+				"on",
+				"E"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 28,
+			"tex": "$T$",
+			"content": [
+				"T"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "the current AP",
+			"content": [
+				"the",
+				"current",
+				"AP"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 30,
+			"tex": "$E/F$",
+			"content": [
+				"E/F"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "the pairwise transient key between $X$ and $Y$",
+			"content": [
+				"the",
+				"pairwise",
+				"transient",
+				"key",
+				"between",
+				"X",
+				"and",
+				"Y"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "$K_{X-Y}$",
+			"content": [
+				"KX\u2212Y"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 33,
+			"tex": "the largest prime factor of the order of $T$",
+			"content": [
+				"the",
+				"largest",
+				"prime",
+				"factor",
+				"of",
+				"the",
+				"order",
+				"of",
+				"T"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 39,
+			"tex": "a point multiplication operator in $E/F$",
+			"content": [
+				"a",
+				"point",
+				"multiplication",
+				"operator",
+				"in",
+				"E/F"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 35,
+			"tex": "a cyclic group of order $x-1$ for prime number $x$",
+			"content": [
+				"a",
+				"cyclic",
+				"group",
+				"of",
+				"order",
+				"x",
+				"\u2212",
+				"1",
+				"for",
+				"prime",
+				"number",
+				"x"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "$T_{EXP}$",
+			"content": [
+				"TEXP"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "$CMAC$",
+			"content": [
+				"CM",
+				"AC"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 40,
+			"tex": "$+$",
+			"content": [
+				"+"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "${m}_{K_{X-Y}}$",
+			"content": [
+				"mKX\u2212Y"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 36,
+			"tex": "$h(\\cdot)$",
+			"content": [
+				"h(\u00b7)"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 42,
+			"tex": "$\\parallel$",
+			"content": [
+				"(cid:107)"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "$T^X_{cur}$",
+			"content": [
+				"T",
+				"X",
+				"cur"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 41,
+			"tex": "a point addition operator in $E/F$",
+			"content": [
+				"a",
+				"point",
+				"addition",
+				"operator",
+				"in",
+				"E/F"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 43,
+			"tex": "the concatenation operator of two bit strings",
+			"content": [
+				"the",
+				"concatenation",
+				"operator",
+				"of",
+				"two",
+				"bit",
+				"strings"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 32,
+			"tex": "$q$",
+			"content": [
+				"q"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "the identity of $X$",
+			"content": [
+				"the",
+				"identity",
+				"of",
+				"X"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 38,
+			"tex": "$\\cdot$",
+			"content": [
+				"\u00b7"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "$F$",
+			"content": [
+				"F"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "the shared secret key between $X$ and $Y$",
+			"content": [
+				"the",
+				"shared",
+				"secret",
+				"key",
+				"between",
+				"X",
+				"and",
+				"Y"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "$ID_X$",
+			"content": [
+				"IDX"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 34,
+			"tex": "$Z^{\\ast}_x$",
+			"content": [
+				"Z\u2217",
+				"x"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "$PTK_{X-Y}$",
+			"content": [
+				"P",
+				"T",
+				"KX\u2212Y"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "the message $m$ encrypted with the key $K_{X-Y}$",
+			"content": [
+				"the",
+				"message",
+				"m",
+				"encrypted",
+				"with",
+				"the",
+				"key",
+				"KX\u2212Y"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "the current time of $X$",
+			"content": [
+				"the",
+				"current",
+				"time",
+				"of",
+				"X"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "Cipher-based Message Authentication Code",
+			"content": [
+				"Cipher-based",
+				"Message",
+				"Authentication",
+				"Code"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "notation and acronyms",
+			"content": [
+				"notation",
+				"and",
+				"acronyms"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "an elliptic curve over $F$",
+			"content": [
+				"an",
+				"elliptic",
+				"curve",
+				"over",
+				"F"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "the warrant information",
+			"content": [
+				"the",
+				"warrant",
+				"information"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

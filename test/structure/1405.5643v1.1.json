@@ -1,0 +1,667 @@
+{
+	"cells": [
+		{
+			"id": 4,
+			"tex": "RP",
+			"content": [
+				"RP"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 49,
+			"tex": "",
+			"content": [],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 39,
+			"tex": "{\\tt{GS-02}}",
+			"content": [
+				"GS-02"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 18,
+			"tex": "{\\tt{GS-01}}",
+			"content": [
+				"GS-01"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 44,
+			"tex": "($r_1 = 64968, r_2 = 3850.3$)",
+			"content": [
+				"(r1",
+				"=",
+				"64968,",
+				"r2",
+				"=",
+				"3850.3)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 7,
+			"tex": "$R_1$",
+			"content": [
+				"R1"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 52,
+			"tex": "$R_8$",
+			"content": [
+				"R8"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 15,
+			"tex": "{\\tt{GS-02}}",
+			"content": [
+				"GS-02"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 45,
+			"tex": "{\\tt{GS-02}}",
+			"content": [
+				"GS-02"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 28,
+			"tex": "$R_4$",
+			"content": [
+				"R4"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 42,
+			"tex": "{\\tt{GS-01}}",
+			"content": [
+				"GS-01"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "($r_1 = 4242, r_2 = 17453.3$)",
+			"content": [
+				"(r1",
+				"=",
+				"4242,",
+				"r2",
+				"=",
+				"17453.3)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 36,
+			"tex": "{\\tt{GS-01}}",
+			"content": [
+				"GS-01"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 48,
+			"tex": "",
+			"content": [],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "{\\tt{GS-02}}",
+			"content": [
+				"GS-02"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 0,
+			"tex": "instance",
+			"content": [
+				"instance"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "($r_1 = 12838, r_2 = 8868.3$)",
+			"content": [
+				"(r1",
+				"=",
+				"12838,",
+				"r2",
+				"=",
+				"8868.3)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 30,
+			"tex": "{\\tt{GS-01}}",
+			"content": [
+				"GS-01"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 46,
+			"tex": "$R_7$",
+			"content": [
+				"R7"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 33,
+			"tex": "{\\tt{GS-02}}",
+			"content": [
+				"GS-02"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 41,
+			"tex": "($r_1 = 91912, r_2 = 6272.0$)",
+			"content": [
+				"(r1",
+				"=",
+				"91912,",
+				"r2",
+				"=",
+				"6272.0)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 9,
+			"tex": "{\\tt{GS-02}}",
+			"content": [
+				"GS-02"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 22,
+			"tex": "$R_3$",
+			"content": [
+				"R3"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 35,
+			"tex": "($r_1 = 74637, r_2 = 6852.7$)",
+			"content": [
+				"(r1",
+				"=",
+				"74637,",
+				"r2",
+				"=",
+				"6852.7)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 34,
+			"tex": "$R_5$",
+			"content": [
+				"R5"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 8,
+			"tex": "($r_1 = 2401, r_2 = 12734.9$)",
+			"content": [
+				"(r1",
+				"=",
+				"2401,",
+				"r2",
+				"=",
+				"12734.9)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 25,
+			"tex": "$R_4$",
+			"content": [
+				"R4"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 50,
+			"tex": "",
+			"content": [],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 16,
+			"tex": "$R_2$",
+			"content": [
+				"R2"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 31,
+			"tex": "$R_5$",
+			"content": [
+				"R5"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 29,
+			"tex": "($r_1 = 59212, r_2 = 7316.3$)",
+			"content": [
+				"(r1",
+				"=",
+				"59212,",
+				"r2",
+				"=",
+				"7316.3)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 38,
+			"tex": "($r_1 = 52234, r_2 = 4291.9$)",
+			"content": [
+				"(r1",
+				"=",
+				"52234,",
+				"r2",
+				"=",
+				"4291.9)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 32,
+			"tex": "($r_1 = 42390, r_2 = 4696.9$)",
+			"content": [
+				"(r1",
+				"=",
+				"42390,",
+				"r2",
+				"=",
+				"4696.9)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 2,
+			"tex": "vectors",
+			"content": [
+				"vectors"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 5,
+			"tex": "vectors",
+			"content": [
+				"vectors"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 24,
+			"tex": "{\\tt{GS-01}}",
+			"content": [
+				"GS-01"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 37,
+			"tex": "$R_6$",
+			"content": [
+				"R6"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "{\\tt{GS-01}}",
+			"content": [
+				"GS-01"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 51,
+			"tex": "{\\tt{GS-02}}",
+			"content": [
+				"GS-02"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 19,
+			"tex": "$R_3$",
+			"content": [
+				"R3"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "{\\tt{GS-02}}",
+			"content": [
+				"GS-02"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 23,
+			"tex": "($r_1 = 41101, r_2 = 8965.3$)",
+			"content": [
+				"(r1",
+				"=",
+				"41101,",
+				"r2",
+				"=",
+				"8965.3)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 6,
+			"tex": "{\\tt{GS-01}}",
+			"content": [
+				"GS-01"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "($r_1 = 23377, r_2 = 6669.5$)",
+			"content": [
+				"(r1",
+				"=",
+				"23377,",
+				"r2",
+				"=",
+				"6669.5)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 10,
+			"tex": "$R_1$",
+			"content": [
+				"R1"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 40,
+			"tex": "$R_6$",
+			"content": [
+				"R6"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 53,
+			"tex": "($r_1 = 124820, r_2 = 5659.9$)",
+			"content": [
+				"(r1",
+				"=",
+				"124820,",
+				"r2",
+				"=",
+				"5659.9)"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 1,
+			"tex": "RP",
+			"content": [
+				"RP"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 43,
+			"tex": "$R_7$",
+			"content": [
+				"R7"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 26,
+			"tex": "($r_1 = 33842, r_2 = 5346.3$)",
+			"content": [
+				"(r1",
+				"=",
+				"33842,",
+				"r2",
+				"=",
+				"5346.3)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 47,
+			"tex": "($r_1 = 113818, r_2 = 5765.4$)",
+			"content": [
+				"(r1",
+				"=",
+				"113818,",
+				"r2",
+				"=",
+				"5765.4)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 3,
+			"tex": "instance",
+			"content": [
+				"instance"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 17,
+			"tex": "($r_1 = 22538, r_2 = 11777.8$)",
+			"content": [
+				"(r1",
+				"=",
+				"22538,",
+				"r2",
+				"=",
+				"11777.8)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 13,
+			"tex": "$R_2$",
+			"content": [
+				"R2"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

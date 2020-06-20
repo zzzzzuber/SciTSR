@@ -1,0 +1,305 @@
+{
+	"cells": [
+		{
+			"id": 21,
+			"tex": "total \\# check-ins between hours $h$ and $h+1$ for user $u$",
+			"content": [
+				"total",
+				"#",
+				"check-ins",
+				"between",
+				"hours",
+				"h",
+				"and",
+				"h",
+				"+",
+				"1",
+				"for",
+				"user",
+				"u"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "set of city users",
+			"content": [
+				"set",
+				"of",
+				"city",
+				"users"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "$U(e)$",
+			"content": [
+				"U",
+				"(e)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "$U$",
+			"content": [
+				"U"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "$N^c_u$",
+			"content": [
+				"N",
+				"c",
+				"u"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "$C$",
+			"content": [
+				"C"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "city social graph",
+			"content": [
+				"city",
+				"social",
+				"graph"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "set of city locations",
+			"content": [
+				"set",
+				"of",
+				"city",
+				"locations"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "$L$",
+			"content": [
+				"L"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "social network of event attendees",
+			"content": [
+				"social",
+				"network",
+				"of",
+				"event",
+				"attendees"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "accumulated \\# check-ins for user $u$ at places of type $c$",
+			"content": [
+				"accumulated",
+				"#",
+				"check-ins",
+				"for",
+				"user",
+				"u",
+				"at",
+				"places",
+				"of",
+				"type",
+				"c"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "$E$",
+			"content": [
+				"E"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "set of city events",
+			"content": [
+				"set",
+				"of",
+				"city",
+				"events"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "$G(e)$",
+			"content": [
+				"G(e)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "neighborhood set of user $u \\in U$ in $G$",
+			"content": [
+				"neighborhood",
+				"set",
+				"of",
+				"user",
+				"u",
+				"\u2208",
+				"U",
+				"in",
+				"G"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "set of event attendees",
+			"content": [
+				"set",
+				"of",
+				"event",
+				"attendees"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "set of place types",
+			"content": [
+				"set",
+				"of",
+				"place",
+				"types"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "$L(e)$",
+			"content": [
+				"L(e)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "$G$",
+			"content": [
+				"G"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "$N^h_u$",
+			"content": [
+				"N",
+				"h",
+				"u"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "set of event places",
+			"content": [
+				"set",
+				"of",
+				"event",
+				"places"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "$\\Gamma_{u}$",
+			"content": [
+				"\u0393u"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

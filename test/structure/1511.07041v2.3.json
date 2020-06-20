@@ -1,0 +1,222 @@
+{
+	"cells": [
+		{
+			"id": 15,
+			"tex": "Angle to wall",
+			"content": [
+				"Angle",
+				"to",
+				"wall"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "Pairwise distance",
+			"content": [
+				"Pairwise",
+				"distance"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "\\textbf{Constraint}",
+			"content": [
+				"Constraint"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "Distance to wall",
+			"content": [
+				"Distance",
+				"to",
+				"wall"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "$\\max(0,bb_{o,n} - d_{o,n})$",
+			"content": [
+				"max(0,",
+				"bbo,n",
+				"\u2212",
+				"do,n)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 11,
+			"tex": "$\\nu(v_{o},v_{n},v_{m})$",
+			"content": [
+				"\u03bd(vo,",
+				"vn,",
+				"vm)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 17,
+			"tex": "$\\psi(\\theta_{o,w} - \\theta^{\\prime}_{o,w})$",
+			"content": [
+				"\u03c8(\u03b8o,w",
+				"\u2212",
+				"\u03b8(cid:48)",
+				"o,w)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 7,
+			"tex": "$w_{pw}$",
+			"content": [
+				"wpw"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "$\\psi(d_{o,w} - d^{\\prime}_{o,w})$",
+			"content": [
+				"\u03c8(do,w",
+				"\u2212",
+				"d(cid:48)",
+				"o,w)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 2,
+			"tex": "\\textbf{Function}",
+			"content": [
+				"Function"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 9,
+			"tex": "Visibility",
+			"content": [
+				"Visibility"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "Bbox intersection",
+			"content": [
+				"Bbox",
+				"intersection"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "\\textbf{Weight}",
+			"content": [
+				"Weight"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "$w_{o,w}$",
+			"content": [
+				"wo,w"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "$w_{o,n,m}$",
+			"content": [
+				"wo,n,m"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "$w_{bb}$",
+			"content": [
+				"wbb"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "$w_{\\theta,w}$",
+			"content": [
+				"w\u03b8,w"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "$\\rho(bb_{o,n},d_{o,n},M_{o,n},\\alpha)$",
+			"content": [
+				"\u03c1(bbo,n,",
+				"do,n,",
+				"Mo,n,",
+				"\u03b1)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		}
+	]
+}

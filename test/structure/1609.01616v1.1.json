@@ -1,0 +1,540 @@
+{
+	"cells": [
+		{
+			"id": 26,
+			"tex": "$\\beta$",
+			"content": [
+				"\u03b2"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "$(v\\rightarrow w)$",
+			"content": [
+				"(v",
+				"\u2192",
+				"w)"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "adjacency matrix of $G$",
+			"content": [
+				"adjacency",
+				"matrix",
+				"of",
+				"G"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "$L_{uv}(t)$",
+			"content": [
+				"Luv(t)"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 37,
+			"tex": "Bloom filter $u$ sends to $v$ at time $t$",
+			"content": [
+				"Bloom",
+				"\ufb01lter",
+				"u",
+				"sends",
+				"to",
+				"v",
+				"at",
+				"time",
+				"t"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "$Diam(G)$",
+			"content": [
+				"Diam(G)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "$(v,w)$",
+			"content": [
+				"(v,",
+				"w)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "degree sequence of $G$ (column vector)",
+			"content": [
+				"degree",
+				"sequence",
+				"of",
+				"G",
+				"(column",
+				"vector)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "true link between $v$ and $w$",
+			"content": [
+				"true",
+				"link",
+				"between",
+				"v",
+				"and",
+				"w"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 36,
+			"tex": "$Bf_{uv}(t)$",
+			"content": [
+				"Bfuv(t)"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 30,
+			"tex": "$k$",
+			"content": [
+				"k"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "$\\alpha$",
+			"content": [
+				"\u03b1"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "diameter of $G$",
+			"content": [
+				"diameter",
+				"of",
+				"G"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 33,
+			"tex": "number of elements in Bloom filter",
+			"content": [
+				"number",
+				"of",
+				"elements",
+				"in",
+				"Bloom",
+				"\ufb01lter"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "uniformly at random sampling without replacement",
+			"content": [
+				"uniformly",
+				"at",
+				"random",
+				"sampling",
+				"without",
+				"replacement"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "$\\propto$",
+			"content": [
+				"\u221d"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 28,
+			"tex": "$m$",
+			"content": [
+				"m"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "neighbors of node $u$ in $G$, $d_u = |N(u)|$",
+			"content": [
+				"neighbors",
+				"of",
+				"node",
+				"u",
+				"in",
+				"G,",
+				"du",
+				"=",
+				"|N",
+				"(u)|"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "\\textbf{Symbol}",
+			"content": [
+				"Symbol"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 34,
+			"tex": "$Bf_u(t)$",
+			"content": [
+				"Bfu(t)"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 32,
+			"tex": "$n$",
+			"content": [
+				"n"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "fraction of fake links generated at $t = 0$",
+			"content": [
+				"fraction",
+				"of",
+				"fake",
+				"links",
+				"generated",
+				"at",
+				"t",
+				"=",
+				"0"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 25,
+			"tex": "fraction of links shared between a pair of nodes",
+			"content": [
+				"fraction",
+				"of",
+				"links",
+				"shared",
+				"between",
+				"a",
+				"pair",
+				"of",
+				"nodes"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "$G=(V,E)$",
+			"content": [
+				"G",
+				"=",
+				"(V,",
+				"E)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "social graph with $N=|V|$ and $M=|E_{G}|$",
+			"content": [
+				"social",
+				"graph",
+				"with",
+				"N",
+				"=",
+				"|V",
+				"|",
+				"and",
+				"M",
+				"=",
+				"|EG|"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "number of exchange rounds",
+			"content": [
+				"number",
+				"of",
+				"exchange",
+				"rounds"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "\\textbf{Definition}",
+			"content": [
+				"De\ufb01nition"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "$T$",
+			"content": [
+				"T"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "$D$",
+			"content": [
+				"D"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 29,
+			"tex": "number of bits in Bloom filter",
+			"content": [
+				"number",
+				"of",
+				"bits",
+				"in",
+				"Bloom",
+				"\ufb01lter"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "set of links possessed by $u$ at round $t$",
+			"content": [
+				"set",
+				"of",
+				"links",
+				"possessed",
+				"by",
+				"u",
+				"at",
+				"round",
+				"t"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "$N(u)$",
+			"content": [
+				"N",
+				"(u)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "set of links $u$ sends to $v$ at time $t$",
+			"content": [
+				"set",
+				"of",
+				"links",
+				"u",
+				"sends",
+				"to",
+				"v",
+				"at",
+				"time",
+				"t"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 31,
+			"tex": "number of hash functions used in Bloom filter",
+			"content": [
+				"number",
+				"of",
+				"hash",
+				"functions",
+				"used",
+				"in",
+				"Bloom",
+				"\ufb01lter"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "$A(G)$",
+			"content": [
+				"A(G)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "fake link generated by $v$",
+			"content": [
+				"fake",
+				"link",
+				"generated",
+				"by",
+				"v"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 35,
+			"tex": "Bloom filter possessed by $u$ at round $t$",
+			"content": [
+				"Bloom",
+				"\ufb01lter",
+				"possessed",
+				"by",
+				"u",
+				"at",
+				"round",
+				"t"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "$L_u(t)$",
+			"content": [
+				"Lu(t)"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

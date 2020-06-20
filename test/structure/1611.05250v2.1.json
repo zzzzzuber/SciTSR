@@ -1,0 +1,271 @@
+{
+	"cells": [
+		{
+			"id": 10,
+			"tex": "Conv k5-n24-s2 / ReLU",
+			"content": [
+				"Conv",
+				"k5-n24-s2",
+				"/",
+				"ReLU"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "Sub-pixel upscale $\\times 4$",
+			"content": [
+				"Sub-pixel",
+				"upscale",
+				"\u00d74"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "Conv k3-n24-s1 / ReLU",
+			"content": [
+				"Conv",
+				"k3-n24-s1",
+				"/",
+				"ReLU"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 7,
+			"tex": "Conv k3-n24-s1 / ReLU",
+			"content": [
+				"Conv",
+				"k3-n24-s1",
+				"/",
+				"ReLU"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "5",
+			"content": [
+				"5"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "Conv k3-n8-s1 / tanh",
+			"content": [
+				"Conv",
+				"k3-n8-s1",
+				"/",
+				"tanh"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 20,
+			"tex": "Sub-pixel upscale $\\times 2$",
+			"content": [
+				"Sub-pixel",
+				"upscale",
+				"\u00d72"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 0,
+			"tex": "Layer",
+			"content": [
+				"Layer"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "Conv k3-n24-s1 / ReLU",
+			"content": [
+				"Conv",
+				"k3-n24-s1",
+				"/",
+				"ReLU"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 5,
+			"tex": "Conv k5-n24-s2 / ReLU",
+			"content": [
+				"Conv",
+				"k5-n24-s2",
+				"/",
+				"ReLU"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 18,
+			"tex": "6",
+			"content": [
+				"6"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "Conv k3-n24-s1 / ReLU",
+			"content": [
+				"Conv",
+				"k3-n24-s1",
+				"/",
+				"ReLU"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "Conv k3-n32-s1 / tanh",
+			"content": [
+				"Conv",
+				"k3-n32-s1",
+				"/",
+				"tanh"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "4",
+			"content": [
+				"4"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "2",
+			"content": [
+				"2"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "3",
+			"content": [
+				"3"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "Fine flow",
+			"content": [
+				"Fine",
+				"\ufb02ow"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 3,
+			"tex": "1",
+			"content": [
+				"1"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "Conv k3-n24-s1 / ReLU",
+			"content": [
+				"Conv",
+				"k3-n24-s1",
+				"/",
+				"ReLU"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 4,
+			"tex": "Conv k5-n24-s2 / ReLU",
+			"content": [
+				"Conv",
+				"k5-n24-s2",
+				"/",
+				"ReLU"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "Coarse flow",
+			"content": [
+				"Coarse",
+				"\ufb02ow"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

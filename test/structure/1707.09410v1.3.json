@@ -1,0 +1,143 @@
+{
+	"cells": [
+		{
+			"id": 6,
+			"tex": "PERSON be {\\bf charged} $\\leftarrow$ {\\bf conspiracy},",
+			"content": [
+				"PERSON",
+				"be",
+				"charged",
+				"\u2190",
+				"conspiracy,"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "{\\bf elections} $\\rightarrow$ {\\bf won} seats",
+			"content": [
+				"elections",
+				"\u2192",
+				"won",
+				"seats"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "{\\bf injury} $\\rightarrow$ {\\bf missed} games",
+			"content": [
+				"injury",
+				"\u2192",
+				"missed",
+				"games"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "PERSON {\\bf suffered} $\\leftarrow$ {\\bf injuries},",
+			"content": [
+				"PERSON",
+				"su\ufb00ered",
+				"\u2190",
+				"injuries,"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "PERSON {\\bf died} $\\leftarrow${\\bf attack} ,",
+			"content": [
+				"PERSON",
+				"died",
+				"\u2190attack",
+				","
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "{\\bf Seed Pairs:}",
+			"content": [
+				"Seed",
+				"Pairs:"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "{\\bf washing} hands $\\rightarrow$ {\\bf eating},",
+			"content": [
+				"washing",
+				"hands",
+				"\u2192",
+				"eating,"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "{\\bf Bootstrapped Pairs:}",
+			"content": [
+				"Bootstrapped",
+				"Pairs:"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "{\\bf felony} $\\rightarrow$ PERSON be {\\bf charged},",
+			"content": [
+				"felony",
+				"\u2192",
+				"PERSON",
+				"be",
+				"charged,"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "{\\bf interview} $\\rightarrow$ {\\bf release} of report,",
+			"content": [
+				"interview",
+				"\u2192",
+				"release",
+				"of",
+				"report,"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

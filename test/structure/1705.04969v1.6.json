@@ -1,0 +1,178 @@
+{
+	"cells": [
+		{
+			"id": 0,
+			"tex": "Hidden layers",
+			"content": [
+				"Hidden",
+				"layers"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "$512$\\textit{Softsign} $\\rightarrow256$\\textit{Softsign} $\\rightarrow 128$\\textit{Softsign}~~~~~~",
+			"content": [
+				"512Softsign",
+				"\u2192",
+				"256Softsign",
+				"\u2192",
+				"128Softsign"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "0.802",
+			"content": [
+				"0.802"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 7,
+			"tex": "0.9418",
+			"content": [
+				"0.9418"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "0.799",
+			"content": [
+				"0.799"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 9,
+			"tex": "$256$\\textit{Softsign} $\\rightarrow128$\\textit{Softsign}",
+			"content": [
+				"256Softsign",
+				"\u2192",
+				"128Softsign"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "\\textbf{0.804}",
+			"content": [
+				"0.804"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 6,
+			"tex": "$128$\\textit{Softsign}",
+			"content": [
+				"128Softsign"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "\\textit{No Hidden Layers}",
+			"content": [
+				"No",
+				"Hidden",
+				"Layers"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "0.791",
+			"content": [
+				"0.791"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 10,
+			"tex": "0.9546",
+			"content": [
+				"0.9546"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "\\textbf{0.9589}",
+			"content": [
+				"0.9589"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "\\textit{micro-F1}",
+			"content": [
+				"micro-F1"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 4,
+			"tex": "0.9273",
+			"content": [
+				"0.9273"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "\\textit{AUROC}",
+			"content": [
+				"AUROC"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

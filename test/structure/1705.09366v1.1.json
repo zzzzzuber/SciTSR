@@ -1,0 +1,278 @@
+{
+	"cells": [
+		{
+			"id": 14,
+			"tex": "$(X_i, Y_i, T_i)$",
+			"content": [
+				"(Xi,",
+				"Yi,",
+				"Ti)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "Coordinate of point $i$",
+			"content": [
+				"Coordinate",
+				"of",
+				"point",
+				"i"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "$h_s$, $h_t$",
+			"content": [
+				"hs,",
+				"ht"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "A voxel in voxel space",
+			"content": [
+				"A",
+				"voxel",
+				"in",
+				"voxel",
+				"space"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "Voxel of point $i$",
+			"content": [
+				"Voxel",
+				"of",
+				"point",
+				"i"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "$s = (x,y,t)$",
+			"content": [
+				"s",
+				"=",
+				"(x,",
+				"y,",
+				"t)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "Size of the domain (in voxels)",
+			"content": [
+				"Size",
+				"of",
+				"the",
+				"domain",
+				"(in",
+				"voxels)"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "Bandwidth (in voxels)",
+			"content": [
+				"Bandwidth",
+				"(in",
+				"voxels)"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "Number of points",
+			"content": [
+				"Number",
+				"of",
+				"points"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "Resolution (in meters)",
+			"content": [
+				"Resolution",
+				"(in",
+				"meters)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "$(x_i, y_i, t_i)$",
+			"content": [
+				"(xi,",
+				"yi,",
+				"ti)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "Spatial and temporal bandwidth",
+			"content": [
+				"Spatial",
+				"and",
+				"temporal",
+				"bandwidth"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "$sres$, $tres$",
+			"content": [
+				"sres,",
+				"tres"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "$g_x, g_y, g_t$",
+			"content": [
+				"gx,",
+				"gy,",
+				"gt"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "Real size of the domain (in meters)",
+			"content": [
+				"Real",
+				"size",
+				"of",
+				"the",
+				"domain",
+				"(in",
+				"meters)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "$G_x, G_y, G_t$",
+			"content": [
+				"Gx,",
+				"Gy,",
+				"Gt"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "$s = (X,Y,T)$",
+			"content": [
+				"s",
+				"=",
+				"(X,",
+				"Y,",
+				"T",
+				")"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "A voxel and sampling coordinate",
+			"content": [
+				"A",
+				"voxel",
+				"and",
+				"sampling",
+				"coordinate"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "$n$",
+			"content": [
+				"n"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "$H_s, H_t$",
+			"content": [
+				"Hs,",
+				"Ht"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

@@ -1,0 +1,759 @@
+{
+	"cells": [
+		{
+			"id": 11,
+			"tex": "Skip-gram",
+			"content": [
+				"Skip-gram"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 44,
+			"tex": "running, ran, runs, afoul, amok",
+			"content": [
+				"running,",
+				"ran,",
+				"runs,",
+				"afoul,",
+				"amok"
+			],
+			"start_row": 31,
+			"end_row": 31,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 39,
+			"tex": "NP-MSSG",
+			"content": [
+				"NP-MSSG"
+			],
+			"start_row": 28,
+			"end_row": 29,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 43,
+			"tex": "Skip-gram",
+			"content": [
+				"Skip-gram"
+			],
+			"start_row": 31,
+			"end_row": 31,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "pear, honey, pumpkin, potato, nut",
+			"content": [
+				"pear,",
+				"honey,",
+				"pumpkin,",
+				"potato,",
+				"nut"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 46,
+			"tex": "running, stretch, ran, pinch-hit, runs",
+			"content": [
+				"running,",
+				"stretch,",
+				"ran,",
+				"pinch-hit,",
+				"runs"
+			],
+			"start_row": 32,
+			"end_row": 32,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "macintosh, pc, ibm, iigs, chipsets",
+			"content": [
+				"macintosh,",
+				"pc,",
+				"ibm,",
+				"iigs,",
+				"chipsets"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 31,
+			"tex": "wnet, tvontorio, cable, tv, tv-5",
+			"content": [
+				"wnet,",
+				"tvontorio,",
+				"cable,",
+				"tv,",
+				"tv-5"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 48,
+			"tex": "running, runs, operate, drivers, configure",
+			"content": [
+				"running,",
+				"runs,",
+				"operate,",
+				"drivers,",
+				"con\ufb01gure"
+			],
+			"start_row": 34,
+			"end_row": 34,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "NP-MSSG",
+			"content": [
+				"NP-MSSG"
+			],
+			"start_row": 5,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 53,
+			"tex": "re-election, reelection, re-elect, unseat, term-limited",
+			"content": [
+				"re-election,",
+				"reelection,",
+				"re-elect,",
+				"unseat,",
+				"term-limited"
+			],
+			"start_row": 38,
+			"end_row": 38,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 25,
+			"tex": "negative, offset, constant, hence, potential",
+			"content": [
+				"negative,",
+				"o\ufb00set,",
+				"constant,",
+				"hence,",
+				"potential"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "dexter, myers, sawyer, kelly, griffith",
+			"content": [
+				"dexter,",
+				"myers,",
+				"sawyer,",
+				"kelly,",
+				"gri\ufb03th"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 35,
+			"tex": "MSSG",
+			"content": [
+				"MSSG"
+			],
+			"start_row": 25,
+			"end_row": 27,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "Skip-gram",
+			"content": [
+				"Skip-gram"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 54,
+			"tex": "",
+			"content": [],
+			"start_row": 39,
+			"end_row": 39,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 38,
+			"tex": "rocks, pine, rocky, butte, deer",
+			"content": [
+				"rocks,",
+				"pine,",
+				"rocky,",
+				"butte,",
+				"deer"
+			],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 33,
+			"tex": "Skip-gram",
+			"content": [
+				"Skip-gram"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "beaver, wolf, moose, otter, swan",
+			"content": [
+				"beaver,",
+				"wolf,",
+				"moose,",
+				"otter,",
+				"swan"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 30,
+			"tex": "ball, yard, fouled, bounced, 50-yard",
+			"content": [
+				"ball,",
+				"yard,",
+				"fouled,",
+				"bounced,",
+				"50-yard"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 24,
+			"tex": "snap, sideline, ball, game-trying, scoring",
+			"content": [
+				"snap,",
+				"sideline,",
+				"ball,",
+				"game-trying,",
+				"scoring"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 36,
+			"tex": "rocks, basalt, boulders, sand, quartzite",
+			"content": [
+				"rocks,",
+				"basalt,",
+				"boulders,",
+				"sand,",
+				"quartzite"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 47,
+			"tex": "operated , running, runs, operate, managed",
+			"content": [
+				"operated",
+				",",
+				"running,",
+				"runs,",
+				"operate,",
+				"managed"
+			],
+			"start_row": 33,
+			"end_row": 33,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 28,
+			"tex": "negative, total, transfer, minimizes, loop",
+			"content": [
+				"negative,",
+				"total,",
+				"transfer,",
+				"minimizes,",
+				"loop"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "MSSG",
+			"content": [
+				"MSSG"
+			],
+			"start_row": 16,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "MSSG",
+			"content": [
+				"MSSG"
+			],
+			"start_row": 2,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 37,
+			"tex": "alternative, progressive, roll, indie, blues-rock",
+			"content": [
+				"alternative,",
+				"progressive,",
+				"roll,",
+				"indie,",
+				"blues-rock"
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "profit, dividends, pegged, profits, nets",
+			"content": [
+				"pro\ufb01t,",
+				"dividends,",
+				"pegged,",
+				"pro\ufb01ts,",
+				"nets"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 51,
+			"tex": "operated, runs, serviced, links, walk",
+			"content": [
+				"operated,",
+				"runs,",
+				"serviced,",
+				"links,",
+				"walk"
+			],
+			"start_row": 36,
+			"end_row": 36,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "NP-MSSG",
+			"content": [
+				"NP-MSSG"
+			],
+			"start_row": 12,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "microsoft, activision, sony, retail, gamestop",
+			"content": [
+				"microsoft,",
+				"activision,",
+				"sony,",
+				"retail,",
+				"gamestop"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "\\textsc{Net}",
+			"content": [
+				"Net"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 1
+		},
+		{
+			"id": 34,
+			"tex": "glam, indie, punk, band, pop",
+			"content": [
+				"glam,",
+				"indie,",
+				"punk,",
+				"band,",
+				"pop"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 45,
+			"tex": "MSSG",
+			"content": [
+				"MSSG"
+			],
+			"start_row": 32,
+			"end_row": 34,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "blackberry, macintosh, acorn, pear, plum",
+			"content": [
+				"blackberry,",
+				"macintosh,",
+				"acorn,",
+				"pear,",
+				"plum"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "rabbit, squirrel, wolf, badger, stoat",
+			"content": [
+				"rabbit,",
+				"squirrel,",
+				"wolf,",
+				"badger,",
+				"stoat"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 40,
+			"tex": "granite, basalt, outcropping, rocks, quartzite",
+			"content": [
+				"granite,",
+				"basalt,",
+				"outcropping,",
+				"rocks,",
+				"quartzite"
+			],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "nbc, espn, cbs, ctv, pbs",
+			"content": [
+				"nbc,",
+				"espn,",
+				"cbs,",
+				"ctv,",
+				"pbs"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 52,
+			"tex": "running, operating, ran, go, configure",
+			"content": [
+				"running,",
+				"operating,",
+				"ran,",
+				"go,",
+				"con\ufb01gure"
+			],
+			"start_row": 37,
+			"end_row": 37,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "microsoft, ibm, wordperfect, amiga, trs-80",
+			"content": [
+				"microsoft,",
+				"ibm,",
+				"wordperfect,",
+				"amiga,",
+				"trs-80"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "abc, nbc, soapnet, espn, kttv",
+			"content": [
+				"abc,",
+				"nbc,",
+				"soapnet,",
+				"espn,",
+				"kttv"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "\\textsc{Apple}",
+			"content": [
+				"Apple"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 1
+		},
+		{
+			"id": 27,
+			"tex": "NP-MSSG",
+			"content": [
+				"NP-MSSG"
+			],
+			"start_row": 19,
+			"end_row": 22,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 42,
+			"tex": "\\textsc{Run}",
+			"content": [
+				"Run"
+			],
+			"start_row": 30,
+			"end_row": 30,
+			"start_col": 0,
+			"end_col": 1
+		},
+		{
+			"id": 50,
+			"tex": "two-run, walk-off, runs, three-runs, starts",
+			"content": [
+				"two-run,",
+				"walk-o\ufb00,",
+				"runs,",
+				"three-runs,",
+				"starts"
+			],
+			"start_row": 35,
+			"end_row": 35,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "MSSG",
+			"content": [
+				"MSSG"
+			],
+			"start_row": 9,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 55,
+			"tex": "helmed, longest-running, mtv, promoted, produced",
+			"content": [
+				"helmed,",
+				"longest-running,",
+				"mtv,",
+				"promoted,",
+				"produced"
+			],
+			"start_row": 39,
+			"end_row": 39,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 41,
+			"tex": "alternative, indie, pop/rock, rock/metal, blues-rock",
+			"content": [
+				"alternative,",
+				"indie,",
+				"pop/rock,",
+				"rock/metal,",
+				"blues-rock"
+			],
+			"start_row": 29,
+			"end_row": 29,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 32,
+			"tex": "\\textsc{Rock}",
+			"content": [
+				"Rock"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 0,
+			"end_col": 1
+		},
+		{
+			"id": 49,
+			"tex": "NP-MSSG",
+			"content": [
+				"NP-MSSG"
+			],
+			"start_row": 35,
+			"end_row": 38,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "Skip-gram",
+			"content": [
+				"Skip-gram"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "apricot, blackberry, cabbage, blackberries, pear",
+			"content": [
+				"apricot,",
+				"blackberry,",
+				"cabbage,",
+				"blackberries,",
+				"pear"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "\\textsc{Fox}",
+			"content": [
+				"Fox"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 1
+		},
+		{
+			"id": 26,
+			"tex": "pre-tax, billion, revenue, annualized, us\\$",
+			"content": [
+				"pre-tax,",
+				"billion,",
+				"revenue,",
+				"annualized,",
+				"us$"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 29,
+			"tex": "pre-tax, taxable, per, billion, us\\$, income",
+			"content": [
+				"pre-tax,",
+				"taxable,",
+				"per,",
+				"billion,",
+				"us$,",
+				"income"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "cbs,abc, nbc, wnyw, abc-tv",
+			"content": [
+				"cbs,abc,",
+				"nbc,",
+				"wnyw,",
+				"abc-tv"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

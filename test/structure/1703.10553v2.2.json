@@ -1,0 +1,340 @@
+{
+	"cells": [
+		{
+			"id": 6,
+			"tex": "Residual block, 512 filters",
+			"content": [
+				"Residual",
+				"block,",
+				"512",
+				"\ufb01lters"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "Residual block, 256 filters",
+			"content": [
+				"Residual",
+				"block,",
+				"256",
+				"\ufb01lters"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "$128\\times32\\times32$",
+			"content": [
+				"128",
+				"\u00d7",
+				"32",
+				"\u00d7",
+				"32"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "$3\\times3\\times32$ conv, pad $1$, stride $1$",
+			"content": [
+				"3",
+				"\u00d7",
+				"3",
+				"\u00d7",
+				"32",
+				"conv,",
+				"pad",
+				"1,",
+				"stride",
+				"1"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "$3\\times3\\times3$ conv, pad $1$, stride $1$",
+			"content": [
+				"3",
+				"\u00d7",
+				"3",
+				"\u00d7",
+				"3",
+				"conv,",
+				"pad",
+				"1,",
+				"stride",
+				"1"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "$32\\times128\\times128$",
+			"content": [
+				"32",
+				"\u00d7",
+				"128",
+				"\u00d7",
+				"128"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "$512\\times16\\times16$",
+			"content": [
+				"512",
+				"\u00d7",
+				"16",
+				"\u00d7",
+				"16"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "$128\\times32\\times32$",
+			"content": [
+				"128",
+				"\u00d7",
+				"32",
+				"\u00d7",
+				"32"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "$1\\times1\\times512$ conv, pad $0$, stride $1$",
+			"content": [
+				"1",
+				"\u00d7",
+				"1",
+				"\u00d7",
+				"512",
+				"conv,",
+				"pad",
+				"0,",
+				"stride",
+				"1"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "$3\\times128\\times128$",
+			"content": [
+				"3",
+				"\u00d7",
+				"128",
+				"\u00d7",
+				"128"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "Depth to Space, stride 4",
+			"content": [
+				"Depth",
+				"to",
+				"Space,",
+				"stride",
+				"4"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "Depth to Space, stride 2",
+			"content": [
+				"Depth",
+				"to",
+				"Space,",
+				"stride",
+				"2"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "$64(128)\\times 16\\times 16$",
+			"content": [
+				"64(128)",
+				"\u00d7",
+				"16",
+				"\u00d7",
+				"16"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "Residual block, 512 filters",
+			"content": [
+				"Residual",
+				"block,",
+				"512",
+				"\ufb01lters"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "$512\\times16\\times16$",
+			"content": [
+				"512",
+				"\u00d7",
+				"16",
+				"\u00d7",
+				"16"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "$512\\times16\\times16$",
+			"content": [
+				"512",
+				"\u00d7",
+				"16",
+				"\u00d7",
+				"16"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "$256\\times32\\times32$",
+			"content": [
+				"256",
+				"\u00d7",
+				"32",
+				"\u00d7",
+				"32"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "Layer",
+			"content": [
+				"Layer"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "$256\\times32\\times32$",
+			"content": [
+				"256",
+				"\u00d7",
+				"32",
+				"\u00d7",
+				"32"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "Input",
+			"content": [
+				"Input"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "$3\\times3\\times256$ conv, pad $1$, stride $1$",
+			"content": [
+				"3",
+				"\u00d7",
+				"3",
+				"\u00d7",
+				"256",
+				"conv,",
+				"pad",
+				"1,",
+				"stride",
+				"1"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "Activation size",
+			"content": [
+				"Activation",
+				"size"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

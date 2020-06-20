@@ -1,0 +1,316 @@
+{
+	"cells": [
+		{
+			"id": 10,
+			"tex": "$T + E \\rightarrow E$",
+			"content": [
+				"T",
+				"+",
+				"E",
+				"\u2192",
+				"E"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "$2 * T \\rightarrow T$",
+			"content": [
+				"2",
+				"\u2217",
+				"T",
+				"\u2192",
+				"T"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "Tumour cell death",
+			"content": [
+				"Tumour",
+				"cell",
+				"death"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "Effector death",
+			"content": [
+				"E\ufb00ector",
+				"death"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "$dE$",
+			"content": [
+				"dE"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 12,
+			"tex": "Effector proliferation",
+			"content": [
+				"E\ufb00ector",
+				"proliferation"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "Rate law (per cell)",
+			"content": [
+				"Rate",
+				"law",
+				"(per",
+				"cell)"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 9,
+			"tex": "Tumour cell death by effector cells",
+			"content": [
+				"Tumour",
+				"cell",
+				"death",
+				"by",
+				"e\ufb00ector",
+				"cells"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "$T + E \\rightarrow T$",
+			"content": [
+				"T",
+				"+",
+				"E",
+				"\u2192",
+				"T"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "$\\frac{pTE}{g+T}$",
+			"content": [
+				"pT",
+				"E",
+				"g+T"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 17,
+			"tex": "$mTE$",
+			"content": [
+				"mT",
+				"E"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 19,
+			"tex": "$E \\rightarrow$",
+			"content": [
+				"E",
+				"\u2192"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "$s$",
+			"content": [
+				"s"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 0,
+			"tex": "Phenomenon",
+			"content": [
+				"Phenomenon"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "$aT$",
+			"content": [
+				"aT"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 21,
+			"tex": "Effector supply",
+			"content": [
+				"E\ufb00ector",
+				"supply"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "Tumour cell birth",
+			"content": [
+				"Tumour",
+				"cell",
+				"birth"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "Effector death by fighting tumour",
+			"content": [
+				"E\ufb00ector",
+				"death",
+				"by",
+				"\ufb01ghting",
+				"tumour"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "$nTE$",
+			"content": [
+				"nT",
+				"E"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 4,
+			"tex": "$T \\rightarrow 2 \\times T$",
+			"content": [
+				"T",
+				"\u2192",
+				"2",
+				"\u00d7",
+				"T"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "Reaction equation",
+			"content": [
+				"Reaction",
+				"equation"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "$E \\rightarrow 2 \\times E; T$",
+			"content": [
+				"E",
+				"\u2192",
+				"2",
+				"\u00d7",
+				"E;",
+				"T"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "$abT^{2}$",
+			"content": [
+				"abT",
+				"2"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 22,
+			"tex": "$\\rightarrow E$",
+			"content": [
+				"\u2192",
+				"E"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

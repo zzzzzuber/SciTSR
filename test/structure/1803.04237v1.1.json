@@ -1,0 +1,425 @@
+{
+	"cells": [
+		{
+			"id": 14,
+			"tex": "{\\bf 4},8,24",
+			"content": [
+				"4,8,24"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 2,
+			"tex": "{\\bf Value}",
+			"content": [
+				"Value"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 30,
+			"tex": "0",
+			"content": [
+				"0"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 31,
+			"tex": "No skew (uniform distribution)~",
+			"content": [
+				"No",
+				"skew",
+				"(uniform",
+				"distribution)"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 1,
+			"tex": "{\\bf Definition}",
+			"content": [
+				"De\ufb01nition"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "{\\bf 0.05}",
+			"content": [
+				"0.05"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 22,
+			"tex": "2048",
+			"content": [
+				"2048"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 23,
+			"tex": "Representative of workloads with large items",
+			"content": [
+				"Representative",
+				"of",
+				"workloads",
+				"with",
+				"large",
+				"items"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 5,
+			"tex": "\\#PUTS/(\\#PUTs+\\#individual reads)",
+			"content": [
+				"#PUTS/(#PUTs+#individual",
+				"reads)"
+			],
+			"start_row": 1,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "{\\bf 8}",
+			"content": [
+				"8"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 9,
+			"tex": "Default read-heavy parameter in YCSB~",
+			"content": [
+				"Default",
+				"read-heavy",
+				"parameter",
+				"in",
+				"YCSB"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 17,
+			"tex": "Value size (in bytes). Keys take 8 bytes.",
+			"content": [
+				"Value",
+				"size",
+				"(in",
+				"bytes).",
+				"Keys",
+				"take",
+				"8",
+				"bytes."
+			],
+			"start_row": 5,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "Size of values ({\\bf b})",
+			"content": [
+				"Size",
+				"of",
+				"values",
+				"(b)"
+			],
+			"start_row": 5,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "Skew in key popularity ({\\bf z})",
+			"content": [
+				"Skew",
+				"in",
+				"key",
+				"popularity",
+				"(z)"
+			],
+			"start_row": 8,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "Representative of many production workloads~",
+			"content": [
+				"Representative",
+				"of",
+				"many",
+				"production",
+				"workloads"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 11,
+			"tex": "Default parameter in COPS-SNOW~",
+			"content": [
+				"Default",
+				"parameter",
+				"in",
+				"COPS-SNOW"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 15,
+			"tex": "Application operations span multiple partitions~",
+			"content": [
+				"Application",
+				"operations",
+				"span",
+				"multiple",
+				"partitions"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 29,
+			"tex": "Moderate skew and default in COPS-SNOW~",
+			"content": [
+				"Moderate",
+				"skew",
+				"and",
+				"default",
+				"in",
+				"COPS-SNOW"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 25,
+			"tex": "Parameter of the zipfian distribution.",
+			"content": [
+				"Parameter",
+				"of",
+				"the",
+				"zip\ufb01an",
+				"distribution."
+			],
+			"start_row": 8,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 26,
+			"tex": "{\\bf 0.99}",
+			"content": [
+				"0.99"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 27,
+			"tex": "Strong skew typical of many production workloads~",
+			"content": [
+				"Strong",
+				"skew",
+				"typical",
+				"of",
+				"many",
+				"production",
+				"workloads"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 12,
+			"tex": "Size of a ROT ({\\bf p})",
+			"content": [
+				"Size",
+				"of",
+				"a",
+				"ROT",
+				"(p)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "Extremely read-heavy workload",
+			"content": [
+				"Extremely",
+				"read-heavy",
+				"workload"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 28,
+			"tex": "0.8",
+			"content": [
+				"0.8"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 3,
+			"tex": "{\\bf Motivation}",
+			"content": [
+				"Motivation"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 0,
+			"tex": "{\\bf Parameter }",
+			"content": [
+				"Parameter"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "0.01",
+			"content": [
+				"0.01"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 4,
+			"tex": "Write/read ratio ({\\bf w}) ",
+			"content": [
+				"Write/read",
+				"ratio",
+				"(w)"
+			],
+			"start_row": 1,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "128",
+			"content": [
+				"128"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 21,
+			"tex": "Default parameter in COPS-SNOW~",
+			"content": [
+				"Default",
+				"parameter",
+				"in",
+				"COPS-SNOW"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 13,
+			"tex": "\\# Partitions involved in a ROT",
+			"content": [
+				"#",
+				"Partitions",
+				"involved",
+				"in",
+				"a",
+				"ROT"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "0.1",
+			"content": [
+				"0.1"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		}
+	]
+}

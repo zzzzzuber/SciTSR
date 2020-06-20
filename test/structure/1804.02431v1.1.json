@@ -1,0 +1,435 @@
+{
+	"cells": [
+		{
+			"id": 32,
+			"tex": "$PD$",
+			"content": [
+				"P",
+				"D"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "Social network server",
+			"content": [
+				"Social",
+				"network",
+				"server"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "A vehicle's social network identifier",
+			"content": [
+				"A",
+				"vehicle\u2019s",
+				"social",
+				"network",
+				"identi\ufb01er"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "Description",
+			"content": [
+				"Description"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "$(pk_s,sk_s)$",
+			"content": [
+				"(pks,",
+				"sks)"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "$t$",
+			"content": [
+				"t"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "LSs",
+			"content": [
+				"LSs"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "A vehicle's public-private key pair",
+			"content": [
+				"A",
+				"vehicle\u2019s",
+				"public-private",
+				"key",
+				"pair"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 31,
+			"tex": "Paillier encryption algorithm",
+			"content": [
+				"Paillier",
+				"encryption",
+				"algorithm"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 33,
+			"tex": "Paillier decryption algorithm",
+			"content": [
+				"Paillier",
+				"decryption",
+				"algorithm"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "Threshold distance for strangers",
+			"content": [
+				"Threshold",
+				"distance",
+				"for",
+				"strangers"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 30,
+			"tex": "$PE$",
+			"content": [
+				"P",
+				"E"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "$ts$",
+			"content": [
+				"ts"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 25,
+			"tex": "Vehicles' location update cycle",
+			"content": [
+				"Vehicles\u2019",
+				"location",
+				"update",
+				"cycle"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "A vehicle's pseudo-identifier",
+			"content": [
+				"A",
+				"vehicle\u2019s",
+				"pseudo-identi\ufb01er"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "The time length for LS to save a record",
+			"content": [
+				"The",
+				"time",
+				"length",
+				"for",
+				"LS",
+				"to",
+				"save",
+				"a",
+				"record"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "$ID$",
+			"content": [
+				"ID"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "Location of a vehicle",
+			"content": [
+				"Location",
+				"of",
+				"a",
+				"vehicle"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "$ds$",
+			"content": [
+				"ds"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "$(pk_u,sk_u)$",
+			"content": [
+				"(pku,",
+				"sku)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "LS's public-private key pair",
+			"content": [
+				"LS\u2019s",
+				"public-private",
+				"key",
+				"pair"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "Symbol",
+			"content": [
+				"Symbol"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "Threshold distance for a friend",
+			"content": [
+				"Threshold",
+				"distance",
+				"for",
+				"a",
+				"friend"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 29,
+			"tex": "Distance between $u_i$ and $u_j$",
+			"content": [
+				"Distance",
+				"between",
+				"ui",
+				"and",
+				"uj"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 28,
+			"tex": "$dis(u_i,u_j)$",
+			"content": [
+				"dis(ui,",
+				"uj)"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "$PID$",
+			"content": [
+				"P",
+				"ID"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "$tl$",
+			"content": [
+				"tl"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "$(pk_m,sk_m)$",
+			"content": [
+				"(pkm,",
+				"skm)"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "SNS's public-private key pair",
+			"content": [
+				"SNS\u2019s",
+				"public-private",
+				"key",
+				"pair"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "Time stamp",
+			"content": [
+				"Time",
+				"stamp"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "Location servers",
+			"content": [
+				"Location",
+				"servers"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "SNS",
+			"content": [
+				"SNS"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "$(x,y)$",
+			"content": [
+				"(x,",
+				"y)"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "$df$",
+			"content": [
+				"df"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

@@ -1,0 +1,192 @@
+{
+	"cells": [
+		{
+			"id": 13,
+			"tex": "maximum moment arm joint orientation, rest joint orientation.",
+			"content": [
+				"maximum",
+				"moment",
+				"arm",
+				"joint",
+				"orientation,",
+				"rest",
+				"joint",
+				"orientation."
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "{\\bf Actuation Model}",
+			"content": [
+				"Actuation",
+				"Model"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "maximum isometric force, pennation, moment arm,",
+			"content": [
+				"maximum",
+				"isometric",
+				"force,",
+				"pennation,",
+				"moment",
+				"arm,"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "{\\bf Actuator Parameters}",
+			"content": [
+				"Actuator",
+				"Parameters"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "Muscle Activations (MTU)",
+			"content": [
+				"Muscle",
+				"Activations",
+				"(MTU)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "Torques (Tor)",
+			"content": [
+				"Torques",
+				"(Tor)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "derivative gains $k_d$",
+			"content": [
+				"derivative",
+				"gains",
+				"kd"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "Target Joint Angles (PD)",
+			"content": [
+				"Target",
+				"Joint",
+				"Angles",
+				"(PD)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "Target Joint Velocities (Vel)",
+			"content": [
+				"Target",
+				"Joint",
+				"Velocities",
+				"(Vel)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "optimal contractile element length, serial elastic element rest length,",
+			"content": [
+				"optimal",
+				"contractile",
+				"element",
+				"length,",
+				"serial",
+				"elastic",
+				"element",
+				"rest",
+				"length,"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "",
+			"content": [],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "",
+			"content": [],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "proportional gains $k_p$, derivative gains $k_d$",
+			"content": [
+				"proportional",
+				"gains",
+				"kp,",
+				"derivative",
+				"gains",
+				"kd"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "none",
+			"content": [
+				"none"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

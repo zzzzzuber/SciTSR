@@ -1,0 +1,277 @@
+{
+	"cells": [
+		{
+			"id": 18,
+			"tex": "$maxRank$",
+			"content": [
+				"maxRank"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "1000",
+			"content": [
+				"1000"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "160:170:130:124:254:290:372",
+			"content": [
+				"160:170:130:124:254:290:372"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "Description",
+			"content": [
+				"Description"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 19,
+			"tex": "300",
+			"content": [
+				"300"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "number of direct queries",
+			"content": [
+				"number",
+				"of",
+				"direct",
+				"queries"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 14,
+			"tex": "number of matching requests",
+			"content": [
+				"number",
+				"of",
+				"matching",
+				"requests"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 11,
+			"tex": "number of unique policies",
+			"content": [
+				"number",
+				"of",
+				"unique",
+				"policies"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 8,
+			"tex": "query graph composition\n(Single FB : Single MB : Single AB : FB+MB : FB+AB : MB+AB : FB+MB+AB)",
+			"content": [
+				"query",
+				"graph",
+				"composition",
+				"(Single",
+				"FB",
+				":",
+				"Single",
+				"MB",
+				":",
+				"Single",
+				"AB",
+				":",
+				"FB+MB",
+				":",
+				"FB+AB",
+				":",
+				"MB+AB",
+				":",
+				"FB+MB+AB)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 15,
+			"tex": "$\\alpha$",
+			"content": [
+				"\u03b1"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "1500",
+			"content": [
+				"1500"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "$directQueryDist$",
+			"content": [
+				"directQueryDist"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "$nDirectQueries$",
+			"content": [
+				"nDirectQueries"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "maximum rank of unique requests from which Zipf\ndistribution is generated",
+			"content": [
+				"maximum",
+				"rank",
+				"of",
+				"unique",
+				"requests",
+				"from",
+				"which",
+				"Zipf",
+				"distribution",
+				"is",
+				"generated"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 0,
+			"tex": "Variable",
+			"content": [
+				"Variable"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "0.223",
+			"content": [
+				"0.223"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "$nPolicies$",
+			"content": [
+				"nP",
+				"olicies"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "skew parameter for Zipf distribution",
+			"content": [
+				"skew",
+				"parameter",
+				"for",
+				"Zipf",
+				"distribution"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 12,
+			"tex": "$nRequests$",
+			"content": [
+				"nRequests"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "Value",
+			"content": [
+				"Value"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "1500",
+			"content": [
+				"1500"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

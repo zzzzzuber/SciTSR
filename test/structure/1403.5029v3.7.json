@@ -1,0 +1,575 @@
+{
+	"cells": [
+		{
+			"id": 8,
+			"tex": "{NM\\_002137}",
+			"content": [
+				"NM",
+				"002137"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "{TCC TTT TCT CTC CTC CAT CG}",
+			"content": [
+				"TCC",
+				"TTT",
+				"TCT",
+				"CTC",
+				"CTC",
+				"CAT",
+				"CG"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 21,
+			"tex": "{TTT TCA TTG CTG CCG TCC AC}",
+			"content": [
+				"TTT",
+				"TCA",
+				"TTG",
+				"CTG",
+				"CCG",
+				"TCC",
+				"AC"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 7,
+			"tex": "{GCC ACC AAT AAA GAG CTT ACG G}",
+			"content": [
+				"GCC",
+				"ACC",
+				"AAT",
+				"AAA",
+				"GAG",
+				"CTT",
+				"ACG",
+				"G"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 5,
+			"tex": "{NM\\_031243}",
+			"content": [
+				"NM",
+				"031243"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "{Gene Name}",
+			"content": [
+				"Gene",
+				"Name"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "{Primer Sequence - Forward}",
+			"content": [
+				"Primer",
+				"Sequence",
+				"-",
+				"Forward"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 25,
+			"tex": "TSC2$^{*}$",
+			"content": [
+				"TSC2\u2217"
+			],
+			"start_row": 7,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "{NM\\_022455}",
+			"content": [
+				"NM",
+				"022455"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "HRAS$^{*}$",
+			"content": [
+				"HRAS\u2217"
+			],
+			"start_row": 3,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "{Primer Sequence - Reverse}",
+			"content": [
+				"Primer",
+				"Sequence",
+				"-",
+				"Reverse"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 34,
+			"tex": "{ATG TAA AAC TGG GGC AGC AC}",
+			"content": [
+				"ATG",
+				"TAA",
+				"AAC",
+				"TGG",
+				"GGC",
+				"AGC",
+				"AC"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 16,
+			"tex": "{AGG ATG CCT TCT ACA CGT TGG}",
+			"content": [
+				"AGG",
+				"ATG",
+				"CCT",
+				"TCT",
+				"ACA",
+				"CGT",
+				"TGG"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 23,
+			"tex": "{ATT GTC TGC TGC CCT TTT CC}",
+			"content": [
+				"ATT",
+				"GTC",
+				"TGC",
+				"TGC",
+				"CCT",
+				"TTT",
+				"CC"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 22,
+			"tex": "{NM\\_172349}",
+			"content": [
+				"NM",
+				"172349"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "{CAT GTC CTG AGC TTG TGC CT}",
+			"content": [
+				"CAT",
+				"GTC",
+				"CTG",
+				"AGC",
+				"TTG",
+				"TGC",
+				"CT"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 35,
+			"tex": "{AAG CAC CAA CAG AAC AAC GC}",
+			"content": [
+				"AAG",
+				"CAC",
+				"CAA",
+				"CAG",
+				"AAC",
+				"AAC",
+				"GC"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 9,
+			"tex": "{AGC GGC AGT TCT CAC TAC AG}",
+			"content": [
+				"AGC",
+				"GGC",
+				"AGT",
+				"TCT",
+				"CAC",
+				"TAC",
+				"AG"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 38,
+			"tex": "{TTT GGG CTG TTT GGC AAA CC}",
+			"content": [
+				"TTT",
+				"GGG",
+				"CTG",
+				"TTT",
+				"GGC",
+				"AAA",
+				"CC"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 6,
+			"tex": "{TCC GCG ATG GAG GAA AAC TTT AG}",
+			"content": [
+				"TCC",
+				"GCG",
+				"ATG",
+				"GAG",
+				"GAA",
+				"AAC",
+				"TTT",
+				"AG"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 27,
+			"tex": "{CTC TCC ACC CGT GAA AGA ATT C}",
+			"content": [
+				"CTC",
+				"TCC",
+				"ACC",
+				"CGT",
+				"GAA",
+				"AGA",
+				"ATT",
+				"C"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 30,
+			"tex": "{AAC GAG AGA CCC AAG AGG AT}",
+			"content": [
+				"AAC",
+				"GAG",
+				"AGA",
+				"CCC",
+				"AAG",
+				"AGG",
+				"AT"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 24,
+			"tex": "{TGG AAT CTG GAT CAT CCC GA}",
+			"content": [
+				"TGG",
+				"AAT",
+				"CTG",
+				"GAT",
+				"CAT",
+				"CCC",
+				"GA"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 1,
+			"tex": "{Transcript Name}",
+			"content": [
+				"Transcript",
+				"Name"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 33,
+			"tex": "{NM\\_023034}",
+			"content": [
+				"NM",
+				"023034"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 26,
+			"tex": "{NM\\_000548}",
+			"content": [
+				"NM",
+				"000548"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "{CCG CTC TGG CTC TAG CTC }",
+			"content": [
+				"CCG",
+				"CTC",
+				"TGG",
+				"CTC",
+				"TAG",
+				"CTC"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 32,
+			"tex": "WHSC1L1",
+			"content": [
+				"WHSC1L1"
+			],
+			"start_row": 9,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "{ACC AAC GTG TAG AAG GCA TCC}",
+			"content": [
+				"ACC",
+				"AAC",
+				"GTG",
+				"TAG",
+				"AAG",
+				"GCA",
+				"TCC"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 28,
+			"tex": "{GAC CAC ATG TTC AGA CAC ACT G}",
+			"content": [
+				"GAC",
+				"CAC",
+				"ATG",
+				"TTC",
+				"AGA",
+				"CAC",
+				"ACT",
+				"G"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 37,
+			"tex": "{TTT CGG TTT GAG CTG GAT GG}",
+			"content": [
+				"TTT",
+				"CGG",
+				"TTT",
+				"GAG",
+				"CTG",
+				"GAT",
+				"GG"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 20,
+			"tex": "{TCG CCA TTC TTG CCA TTA GC}",
+			"content": [
+				"TCG",
+				"CCA",
+				"TTC",
+				"TTG",
+				"CCA",
+				"TTA",
+				"GC"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 15,
+			"tex": "{NM\\_005343}",
+			"content": [
+				"NM",
+				"005343"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "NSD-1",
+			"content": [
+				"NSD-1"
+			],
+			"start_row": 5,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 36,
+			"tex": "{NM\\_017778}",
+			"content": [
+				"NM",
+				"017778"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 29,
+			"tex": "{NM\\_001077183}",
+			"content": [
+				"NM",
+				"001077183"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 31,
+			"tex": "{GA CGT ATC GAG CCA TCA TGT C}",
+			"content": [
+				"GA",
+				"CGT",
+				"ATC",
+				"GAG",
+				"CCA",
+				"TCA",
+				"TGT",
+				"C"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 4,
+			"tex": "HNRNPA2B1",
+			"content": [
+				"HNRNPA2B1"
+			],
+			"start_row": 1,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "{NM\\_176795}",
+			"content": [
+				"NM",
+				"176795"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

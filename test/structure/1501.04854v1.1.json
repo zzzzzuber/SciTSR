@@ -1,0 +1,305 @@
+{
+	"cells": [
+		{
+			"id": 7,
+			"tex": "vertex id $i$",
+			"content": [
+				"vertex",
+				"id",
+				"i"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "PageRank",
+			"content": [
+				"PageRank"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "vector block id $j$",
+			"content": [
+				"vector",
+				"block",
+				"id",
+				"j"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 2,
+			"tex": "\\textbf{Structure\nValue (SV)}",
+			"content": [
+				"Structure",
+				"Value",
+				"(SV)"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 15,
+			"tex": "unique key 1",
+			"content": [
+				"unique",
+				"key",
+				"1"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 8,
+			"tex": "out-neighbor set $N_i$",
+			"content": [
+				"out-neighbor",
+				"set",
+				"Ni"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 0,
+			"tex": "\\textbf{Algorithm}",
+			"content": [
+				"Algorithm"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "\\textbf{State Key (DK)}",
+			"content": [
+				"State",
+				"Key",
+				"(DK)"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 19,
+			"tex": "matrix block id $(i,j)$",
+			"content": [
+				"matrix",
+				"block",
+				"id",
+				"(i,",
+				"j)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "\\textbf{State Value (DV)}",
+			"content": [
+				"State",
+				"Value",
+				"(DV)"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 22,
+			"tex": "vector block $v_j$",
+			"content": [
+				"vector",
+				"block",
+				"vj"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 12,
+			"tex": "Kmeans",
+			"content": [
+				"Kmeans"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "one-to-one",
+			"content": [
+				"one-to-one"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 13,
+			"tex": "point id $pid$",
+			"content": [
+				"point",
+				"id",
+				"pid"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "GIM-V",
+			"content": [
+				"GIM-V"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "point value $pval$",
+			"content": [
+				"point",
+				"value",
+				"pval"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 17,
+			"tex": "all-to-one",
+			"content": [
+				"all-to-one"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 10,
+			"tex": "rank score $R_i$",
+			"content": [
+				"rank",
+				"score",
+				"Ri"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 23,
+			"tex": "many-to-one",
+			"content": [
+				"many-to-one"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 16,
+			"tex": "centroids $\\{\\langle cid,cval\\rangle\\}$",
+			"content": [
+				"centroids",
+				"{(cid:104)cid,",
+				"cval(cid:105)}"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 20,
+			"tex": "matrix block $m_{i,j}$",
+			"content": [
+				"matrix",
+				"block",
+				"mi,j"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 1,
+			"tex": "\\textbf{Structure Key (SK)}",
+			"content": [
+				"Structure",
+				"Key",
+				"(SK)"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "vertex id $i$",
+			"content": [
+				"vertex",
+				"id",
+				"i"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 5,
+			"tex": "\\textbf{SK $\\leftrightarrow$ DK}",
+			"content": [
+				"SK",
+				"\u2194",
+				"DK"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 5,
+			"end_col": 5
+		}
+	]
+}

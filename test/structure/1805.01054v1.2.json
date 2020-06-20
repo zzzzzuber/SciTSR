@@ -1,0 +1,320 @@
+{
+	"cells": [
+		{
+			"id": 16,
+			"tex": "\"neonatal\"",
+			"content": [
+				"\u201dneonatal\u201d"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "\\textbf{Rule}",
+			"content": [
+				"Rule"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "\"neonate\"",
+			"content": [
+				"\u201dneonate\u201d"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "\"the patient is\"",
+			"content": [
+				"\u201dthe",
+				"patient",
+				"is\u201d"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "\"RISK\"",
+			"content": [
+				"\u201dRISK\u201d"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 21,
+			"tex": "\\textbf{Stop Word Removal}",
+			"content": [
+				"Stop",
+				"Word",
+				"Removal"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "\"cannot rule out\"",
+			"content": [
+				"\u201dcannot",
+				"rule",
+				"out\u201d"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "\\textbf{Raw Text}",
+			"content": [
+				"Raw",
+				"Text"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "\\textbf{Semantic Map}",
+			"content": [
+				"Semantic",
+				"Map"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "\"NEGEX\"",
+			"content": [
+				"\u201dNEGEX\u201d"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 23,
+			"tex": "\"patient\"",
+			"content": [
+				"\u201dpatient\u201d"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 2,
+			"tex": "\\textbf{Processed Text}",
+			"content": [
+				"Processed",
+				"Text"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 9,
+			"tex": "\\textbf{Semantic Map}",
+			"content": [
+				"Semantic",
+				"Map"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "\"NEGEX\"",
+			"content": [
+				"\u201dNEGEX\u201d"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 17,
+			"tex": "\"neonat\"",
+			"content": [
+				"\u201dneonat\u201d"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 25,
+			"tex": "\"heart attack\"",
+			"content": [
+				"\u201dheart",
+				"attack\u201d"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "\\textbf{Stemming}",
+			"content": [
+				"Stemming"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "\"heart\\_attack\"",
+			"content": [
+				"\u201dheart",
+				"attack\u201d"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 24,
+			"tex": "\\textbf{Phrase Detection}",
+			"content": [
+				"Phrase",
+				"Detection"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "\"no evidence of\"",
+			"content": [
+				"\u201dno",
+				"evidence",
+				"of\u201d"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "\"RISK\"",
+			"content": [
+				"\u201dRISK\u201d"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 12,
+			"tex": "\\textbf{Semantic Map}",
+			"content": [
+				"Semantic",
+				"Map"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "\\textbf{Semantic Map}",
+			"content": [
+				"Semantic",
+				"Map"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "\"neonat\"",
+			"content": [
+				"\u201dneonat\u201d"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 15,
+			"tex": "\\textbf{Stemming}",
+			"content": [
+				"Stemming"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "\"rule out\"",
+			"content": [
+				"\u201drule",
+				"out\u201d"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "\"raises concern\"",
+			"content": [
+				"\u201draises",
+				"concern\u201d"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

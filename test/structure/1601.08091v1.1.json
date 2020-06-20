@@ -1,0 +1,305 @@
+{
+	"cells": [
+		{
+			"id": 10,
+			"tex": "Gravitational acceleration",
+			"content": [
+				"Gravitational",
+				"acceleration"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "Free-surface height at rest",
+			"content": [
+				"Free-surface",
+				"height",
+				"at",
+				"rest"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "$g$ = 9.81 ms$^{-2}$",
+			"content": [
+				"g",
+				"=",
+				"9.81",
+				"ms\u22122"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "$N$ = 15",
+			"content": [
+				"N",
+				"=",
+				"15"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "$K_i$ = 12 $\\forall$ $i$ = 1, $\\ldots$, $N$",
+			"content": [
+				"Ki",
+				"=",
+				"12",
+				"\u2200",
+				"i",
+				"=",
+				"1,",
+				".",
+				".",
+				".,",
+				"N"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "Turbine friction coefficient",
+			"content": [
+				"Turbine",
+				"friction",
+				"coe\ufb03cient"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "$r_i$ = 10 m $\\forall$ $i$ = 1, $\\ldots$, $N$",
+			"content": [
+				"ri",
+				"=",
+				"10",
+				"m",
+				"\u2200",
+				"i",
+				"=",
+				"1,",
+				".",
+				".",
+				".,",
+				"N"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "$\\eta$ = 1 m$^2$s$^{-1}$",
+			"content": [
+				"\u03b7",
+				"=",
+				"1",
+				"m2s\u22121"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "Kinematic viscosity (transient)",
+			"content": [
+				"Kinematic",
+				"viscosity",
+				"(transient)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "$c_b$ = 0.0025",
+			"content": [
+				"cb",
+				"=",
+				"0.0025"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "Bottom drag coefficient",
+			"content": [
+				"Bottom",
+				"drag",
+				"coe\ufb03cient"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "Smagorinsky coefficient",
+			"content": [
+				"Smagorinsky",
+				"coe\ufb03cient"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "Number of turbines",
+			"content": [
+				"Number",
+				"of",
+				"turbines"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "$\\rho$ = 1,000 kgm$^{-3}$",
+			"content": [
+				"\u03c1",
+				"=",
+				"1,000",
+				"kgm\u22123"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "Kinematic viscosity (steady-state)",
+			"content": [
+				"Kinematic",
+				"viscosity",
+				"(steady-state)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "$\\eta$ = $10^{-6}$ m$^2$s$^{-1}$",
+			"content": [
+				"\u03b7",
+				"=",
+				"10\u22126",
+				"m2s\u22121"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "$h$ = 50 m",
+			"content": [
+				"h",
+				"=",
+				"50",
+				"m"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "Turbine radii",
+			"content": [
+				"Turbine",
+				"radii"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "Water density",
+			"content": [
+				"Water",
+				"density"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "$c_s$ = 0.2",
+			"content": [
+				"cs",
+				"=",
+				"0.2"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "Value",
+			"content": [
+				"Value"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "Parameter",
+			"content": [
+				"Parameter"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

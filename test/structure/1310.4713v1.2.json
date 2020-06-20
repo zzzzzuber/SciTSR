@@ -1,0 +1,456 @@
+{
+	"cells": [
+		{
+			"id": 21,
+			"tex": "$0\\leq\\sigma_{rot} \\leq 2.4^{\\circ}$ and $0\\leq\\sigma_{trans} \\leq 0.1 meters$",
+			"content": [
+				"0",
+				"\u2264",
+				"\u03c3rot",
+				"\u2264",
+				"2.4\u25e6",
+				"and",
+				"0",
+				"\u2264",
+				"\u03c3trans",
+				"\u2264",
+				"0.1meters"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "\\textbf{Zero Mean Gaussian noise:}",
+			"content": [
+				"Zero",
+				"Mean",
+				"Gaussian",
+				"noise:"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "Rotations of cameras ($\\mathbf{R}_{A}^i$, $\\mathbf{R}_{B}^i$)",
+			"content": [
+				"Rotations",
+				"of",
+				"cameras",
+				"(Ri",
+				"A,",
+				"Ri",
+				"B)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "\\textbf{Input ($i = 1 \\dots n$)}",
+			"content": [
+				"Input",
+				"(i",
+				"=",
+				"1",
+				".",
+				".",
+				".",
+				"n)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "\\textbf{Transformations with fixed joint pose:}",
+			"content": [
+				"Transformations",
+				"with",
+				"\ufb01xed",
+				"joint",
+				"pose:"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "{Random transformations per test} (n)",
+			"content": [
+				"Random",
+				"transformations",
+				"per",
+				"test",
+				"(n)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "Number of tests",
+			"content": [
+				"Number",
+				"of",
+				"tests"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "\\textbf{General transformations:}",
+			"content": [
+				"General",
+				"transformations:"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "$2\\times 30\\times 100$",
+			"content": [
+				"2",
+				"\u00d7",
+				"30",
+				"\u00d7",
+				"100"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "Translations of cameras ($T_{A}^i$, $T_{B}^i$)",
+			"content": [
+				"Translations",
+				"of",
+				"cameras",
+				"(T",
+				"i",
+				"A,",
+				"T",
+				"i",
+				"B)"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "\\textbf{Configuration}",
+			"content": [
+				"Con\ufb01guration"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "$2\\times 30\\times 100$",
+			"content": [
+				"2",
+				"\u00d7",
+				"30",
+				"\u00d7",
+				"100"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "No. of Joints in the ACS",
+			"content": [
+				"No.",
+				"of",
+				"Joints",
+				"in",
+				"the",
+				"ACS"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "30",
+			"content": [
+				"30"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 27,
+			"tex": "Mean error of relative rotation estimation (see equation (\\ref{eq:rot_err}))",
+			"content": [
+				"Mean",
+				"error",
+				"of",
+				"relative",
+				"rotation",
+				"estimation",
+				"(see",
+				"equation",
+				"(??))"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 0,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "$2\\times 30\\times 100$",
+			"content": [
+				"2",
+				"\u00d7",
+				"30",
+				"\u00d7",
+				"100"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 22,
+			"tex": "\\textbf{Output}",
+			"content": [
+				"Output"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "Mean error of joint pose estimation (see equation (\\ref{eq:err}))",
+			"content": [
+				"Mean",
+				"error",
+				"of",
+				"joint",
+				"pose",
+				"estimation",
+				"(see",
+				"equation",
+				"(??))"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "$2\\times 30\\times 100$",
+			"content": [
+				"2",
+				"\u00d7",
+				"30",
+				"\u00d7",
+				"100"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "Translations of cameras ($T_{A}^i$, $T_{B}^i$)",
+			"content": [
+				"Translations",
+				"of",
+				"cameras",
+				"(T",
+				"i",
+				"A,",
+				"T",
+				"i",
+				"B)"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "Rotations of cameras ($\\mathbf{R}_{A}^i$, $\\mathbf{R}_{B}^i$)",
+			"content": [
+				"Rotations",
+				"of",
+				"cameras",
+				"(Ri",
+				"A,",
+				"Ri",
+				"B)"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 25,
+			"tex": "Mean error of relative translation estimation (see equation (\\ref{eq:trans_err}))",
+			"content": [
+				"Mean",
+				"error",
+				"of",
+				"relative",
+				"translation",
+				"estimation",
+				"(see",
+				"equation",
+				"(??))"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 1
+		},
+		{
+			"id": 28,
+			"tex": "STD error of relative rotation estimation (see equation (\\ref{eq:rot_err}))",
+			"content": [
+				"STD",
+				"error",
+				"of",
+				"relative",
+				"rotation",
+				"estimation",
+				"(see",
+				"equation",
+				"(??))"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 0,
+			"end_col": 1
+		},
+		{
+			"id": 26,
+			"tex": "STD error of relative translation estimation (see equation (\\ref{eq:trans_err}))",
+			"content": [
+				"STD",
+				"error",
+				"of",
+				"relative",
+				"translation",
+				"estimation",
+				"(see",
+				"equation",
+				"(??))"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "100",
+			"content": [
+				"100"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 24,
+			"tex": "STD error of joint pose estimation (see equation (\\ref{eq:err}))",
+			"content": [
+				"STD",
+				"error",
+				"of",
+				"joint",
+				"pose",
+				"estimation",
+				"(see",
+				"equation",
+				"(??))"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "No. of Cameras in the ACS",
+			"content": [
+				"No.",
+				"of",
+				"Cameras",
+				"in",
+				"the",
+				"ACS"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "2",
+			"content": [
+				"2"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "1",
+			"content": [
+				"1"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

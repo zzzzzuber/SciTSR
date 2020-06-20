@@ -1,0 +1,304 @@
+{
+	"cells": [
+		{
+			"id": 1,
+			"tex": "unigram/bigram",
+			"content": [
+				"unigram/bigram"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "relative position in the meeting?(beginning, ending, or else)",
+			"content": [
+				"relative",
+				"position",
+				"in",
+				"the",
+				"meeting?(beginning,",
+				"ending,",
+				"or",
+				"else)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "if in an AP and is target part, source is a question?",
+			"content": [
+				"if",
+				"in",
+				"an",
+				"AP",
+				"and",
+				"is",
+				"target",
+				"part,",
+				"source",
+				"is",
+				"a",
+				"question?"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "length of the DA",
+			"content": [
+				"length",
+				"of",
+				"the",
+				"DA"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "{\\bf Discourse Features}",
+			"content": [
+				"Discourse",
+				"Features"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "DA type",
+			"content": [
+				"DA",
+				"type"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "{\\bf Lexical Features}",
+			"content": [
+				"Lexical",
+				"Features"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "if in an AP, the other part is decision-related?",
+			"content": [
+				"if",
+				"in",
+				"an",
+				"AP,",
+				"the",
+				"other",
+				"part",
+				"is",
+				"decision-related?"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "{\\bf Other Features}",
+			"content": [
+				"Other",
+				"Features"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "if in an AP, AP type",
+			"content": [
+				"if",
+				"in",
+				"an",
+				"AP,",
+				"AP",
+				"type"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "relative position to ``WRAP UP\" or ``RECAP\"",
+			"content": [
+				"relative",
+				"position",
+				"to",
+				"\u201cWRAP",
+				"UP\u201d",
+				"or",
+				"\u201cRECAP\u201d"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "has overlapping words with next DA?",
+			"content": [
+				"has",
+				"overlapping",
+				"words",
+				"with",
+				"next",
+				"DA?"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "next DA is a positive feedback?",
+			"content": [
+				"next",
+				"DA",
+				"is",
+				"a",
+				"positive",
+				"feedback?"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "in an AP?",
+			"content": [
+				"in",
+				"an",
+				"AP?"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "topic",
+			"content": [
+				"topic"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "{\\bf Structural Features}",
+			"content": [
+				"Structural",
+				"Features"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "speaker role",
+			"content": [
+				"speaker",
+				"role"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "if in an AP, is the source part or target part?",
+			"content": [
+				"if",
+				"in",
+				"an",
+				"AP,",
+				"is",
+				"the",
+				"source",
+				"part",
+				"or",
+				"target",
+				"part?"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "contain digits?",
+			"content": [
+				"contain",
+				"digits?"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "if in an AP and is source part, target is positive feedback?",
+			"content": [
+				"if",
+				"in",
+				"an",
+				"AP",
+				"and",
+				"is",
+				"source",
+				"part,",
+				"target",
+				"is",
+				"positive",
+				"feedback?"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

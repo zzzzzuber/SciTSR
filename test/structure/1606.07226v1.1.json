@@ -1,0 +1,384 @@
+{
+	"cells": [
+		{
+			"id": 11,
+			"tex": "$O(N^2{\\log}N)$",
+			"content": [
+				"O(N",
+				"2logN",
+				")"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "Slot by slot",
+			"content": [
+				"Slot",
+				"by",
+				"slot"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 21,
+			"tex": "$O(Nf)$",
+			"content": [
+				"O(N",
+				"f",
+				")"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "\\bfseries Methodology",
+			"content": [
+				"Methodology"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 15,
+			"tex": "LAURA",
+			"content": [
+				"LAURA"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "\\emph{i}SLIP",
+			"content": [
+				"i",
+				"SLIP"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "Frame by frame (frame size $f$: $O(N^2)$)",
+			"content": [
+				"Frame",
+				"by",
+				"frame",
+				"(frame",
+				"size",
+				"f",
+				":",
+				"O(N",
+				"2))"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 29,
+			"tex": "Complex coloring",
+			"content": [
+				"Complex",
+				"coloring"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 24,
+			"tex": "Greedy edge coloring",
+			"content": [
+				"Greedy",
+				"edge",
+				"coloring"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 14,
+			"tex": "Maximal weighted matching",
+			"content": [
+				"Maximal",
+				"weighted",
+				"matching"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 25,
+			"tex": "\\bfseries Our work",
+			"content": [
+				"Our",
+				"work"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "Maximum weighted matching",
+			"content": [
+				"Maximum",
+				"weighted",
+				"matching"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 26,
+			"tex": "$O({\\log}N)$",
+			"content": [
+				"O(logN",
+				")"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "Maximal size matching",
+			"content": [
+				"Maximal",
+				"size",
+				"matching"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 27,
+			"tex": "Yes",
+			"content": [
+				"Yes"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 20,
+			"tex": "G. Aggarwal etc.",
+			"content": [
+				"G.",
+				"Aggarwal",
+				"etc."
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "No",
+			"content": [
+				"No"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 3,
+			"tex": "\\bfseries Scheduling Granularity",
+			"content": [
+				"Scheduling",
+				"Granularity"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 12,
+			"tex": "Yes",
+			"content": [
+				"Yes"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 13,
+			"tex": "Slot by slot",
+			"content": [
+				"Slot",
+				"by",
+				"slot"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 16,
+			"tex": "$O(N{\\log}^2N)$",
+			"content": [
+				"O(N",
+				"log2N",
+				")"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "\\bfseries Complexity (matching per slot)",
+			"content": [
+				"Complexity",
+				"(matching",
+				"per",
+				"slot)"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "Yes",
+			"content": [
+				"Yes"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 8,
+			"tex": "Slot by slot",
+			"content": [
+				"Slot",
+				"by",
+				"slot"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 28,
+			"tex": "Frame by frame (frame size $f$: $O({\\log}N)$)",
+			"content": [
+				"Frame",
+				"by",
+				"frame",
+				"(frame",
+				"size",
+				"f",
+				":",
+				"O(logN",
+				"))"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 6,
+			"tex": "$O(N{\\log}N)$",
+			"content": [
+				"O(N",
+				"logN",
+				")"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "Yes",
+			"content": [
+				"Yes"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 2,
+			"tex": "\\bfseries Parallel",
+			"content": [
+				"Parallel"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 10,
+			"tex": "\\emph{i}LQF",
+			"content": [
+				"i",
+				"LQF"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "\\bfseries Research Work",
+			"content": [
+				"Research",
+				"Work"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

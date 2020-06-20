@@ -1,0 +1,327 @@
+{
+	"cells": [
+		{
+			"id": 18,
+			"tex": "individual assertion",
+			"content": [
+				"individual",
+				"assertion"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "$\\Delta^{I} \\setminus C^I$",
+			"content": [
+				"\u2206I",
+				"\\",
+				"C",
+				"I"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 2,
+			"tex": "{\\it Semantics}",
+			"content": [
+				"Semantics"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 16,
+			"tex": "\\texttt{(all r C)}",
+			"content": [
+				"(all",
+				"r",
+				"C)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "$\\{a\\} \\in C^I$",
+			"content": [
+				"{a}",
+				"\u2208",
+				"C",
+				"I"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 3,
+			"tex": "negation",
+			"content": [
+				"negation"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "value restriction",
+			"content": [
+				"value",
+				"restriction"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "{\\it Constructor}",
+			"content": [
+				"Constructor"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "{\\it Syntax}",
+			"content": [
+				"Syntax"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "$C^I \\cup D^I$",
+			"content": [
+				"C",
+				"I",
+				"\u222a",
+				"DI"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 23,
+			"tex": "$(a^I,b^I) \\in r^I$",
+			"content": [
+				"(aI",
+				",",
+				"bI",
+				")",
+				"\u2208",
+				"rI"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 8,
+			"tex": "$C^I \\cap D^I$",
+			"content": [
+				"C",
+				"I",
+				"\u2229",
+				"DI"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 6,
+			"tex": "conjunction",
+			"content": [
+				"conjunction"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "\\texttt{(some r C)}",
+			"content": [
+				"(some",
+				"r",
+				"C)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "\\texttt{(or C D)}",
+			"content": [
+				"(or",
+				"C",
+				"D)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "$\\{x\\in \\Delta^I | \\exists y: (x,y)\\in r^I \\wedge y\\in C^I\\}$",
+			"content": [
+				"{x",
+				"\u2208",
+				"\u2206I|\u2203y",
+				":",
+				"(x,",
+				"y)",
+				"\u2208",
+				"rI",
+				"\u2227",
+				"y",
+				"\u2208",
+				"C",
+				"I}"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 22,
+			"tex": "\\texttt{(related a b r)}",
+			"content": [
+				"(related",
+				"a",
+				"b",
+				"r)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "\\texttt{(and C D)}",
+			"content": [
+				"(and",
+				"C",
+				"D)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "disjunction",
+			"content": [
+				"disjunction"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "\\texttt{(instance a C)}",
+			"content": [
+				"(instance",
+				"a",
+				"C)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "role assertion",
+			"content": [
+				"role",
+				"assertion"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "$\\{x\\in \\Delta^I | \\forall y: (x,y)\\in r^I \\rightarrow y\\in C^I\\}$",
+			"content": [
+				"{x",
+				"\u2208",
+				"\u2206I|\u2200y",
+				":",
+				"(x,",
+				"y)",
+				"\u2208",
+				"rI",
+				"\u2192",
+				"y",
+				"\u2208",
+				"C",
+				"I}"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 4,
+			"tex": "\\texttt{(not C)}",
+			"content": [
+				"(not",
+				"C)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "existential restriction",
+			"content": [
+				"existential",
+				"restriction"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

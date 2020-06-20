@@ -1,0 +1,341 @@
+{
+	"cells": [
+		{
+			"id": 0,
+			"tex": "\\textbf{Layer}",
+			"content": [
+				"Layer"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "3 x 3 x 3",
+			"content": [
+				"3",
+				"x",
+				"3",
+				"x",
+				"3"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "\\textbf{Feature Map}",
+			"content": [
+				"Feature",
+				"Map"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 17,
+			"tex": "6 x 6 x (4 + $n$) x 32",
+			"content": [
+				"6",
+				"x",
+				"6",
+				"x",
+				"(4",
+				"+",
+				"n)",
+				"x",
+				"32"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 20,
+			"tex": "1 x 1 x (4 + $n$) x 12",
+			"content": [
+				"1",
+				"x",
+				"1",
+				"x",
+				"(4",
+				"+",
+				"n)",
+				"x",
+				"12"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 7,
+			"tex": "-",
+			"content": [
+				"-"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "Conv3",
+			"content": [
+				"Conv3"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "30 x 30 x (8 + $n$) x 16",
+			"content": [
+				"30",
+				"x",
+				"30",
+				"x",
+				"(8",
+				"+",
+				"n)",
+				"x",
+				"16"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 22,
+			"tex": "1 x 1 x 4",
+			"content": [
+				"1",
+				"x",
+				"1",
+				"x",
+				"4"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "Data",
+			"content": [
+				"Data"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "Conv4",
+			"content": [
+				"Conv4"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "Conv1",
+			"content": [
+				"Conv1"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "12 x 12 x (6 + $n$) x 24",
+			"content": [
+				"12",
+				"x",
+				"12",
+				"x",
+				"(6",
+				"+",
+				"n)",
+				"x",
+				"24"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 10,
+			"tex": "5 x 5 x 3",
+			"content": [
+				"5",
+				"x",
+				"5",
+				"x",
+				"3"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "(w, h, t, channels)",
+			"content": [
+				"(w,",
+				"h,",
+				"t,",
+				"channels)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 12,
+			"tex": "Conv2",
+			"content": [
+				"Conv2"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "(w, h, t)",
+			"content": [
+				"(w,",
+				"h,",
+				"t)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "6 x 6 x 1",
+			"content": [
+				"6",
+				"x",
+				"6",
+				"x",
+				"1"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "64 x 64 x (10 + $n$) x 3",
+			"content": [
+				"64",
+				"x",
+				"64",
+				"x",
+				"(10",
+				"+",
+				"n)",
+				"x",
+				"3"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 23,
+			"tex": "1 x 1 x (1 + $n$) x 2",
+			"content": [
+				"1",
+				"x",
+				"1",
+				"x",
+				"(1",
+				"+",
+				"n)",
+				"x",
+				"2"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 1,
+			"tex": "\\textbf{Kernel size}",
+			"content": [
+				"Kernel",
+				"size"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "3 x 3 x 3",
+			"content": [
+				"3",
+				"x",
+				"3",
+				"x",
+				"3"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "",
+			"content": [],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "Softmax",
+			"content": [
+				"Softmax"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

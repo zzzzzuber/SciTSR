@@ -1,0 +1,445 @@
+{
+	"cells": [
+		{
+			"id": 27,
+			"tex": "\\texttt{numRepeatsByTriGram}",
+			"content": [
+				"numRepeatsByTriGram"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "Number of string repetitions by Uni-gram analysis",
+			"content": [
+				"Number",
+				"of",
+				"string",
+				"repetitions",
+				"by",
+				"Uni-gram",
+				"analysis"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 15,
+			"tex": "\\texttt{vocalRatio}",
+			"content": [
+				"vocalRatio"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "\\textbf{Type}",
+			"content": [
+				"Type"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "Numeric",
+			"content": [
+				"Numeric"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "Vowel Ratio",
+			"content": [
+				"Vowel",
+				"Ratio"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 3,
+			"tex": "\\texttt{consonantRatio}",
+			"content": [
+				"consonantRatio"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "Domain Length normalized as RFC 3986 (255 characters)",
+			"content": [
+				"Domain",
+				"Length",
+				"normalized",
+				"as",
+				"RFC",
+				"3986",
+				"(255",
+				"characters)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 24,
+			"tex": "\\texttt{numRepeatsByBiGram}",
+			"content": [
+				"numRepeatsByBiGram"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "Consonant Ratio",
+			"content": [
+				"Consonant",
+				"Ratio"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 30,
+			"tex": "\\texttt{numRepeatsByTetraGram}",
+			"content": [
+				"numRepeatsByTetraGram"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 28,
+			"tex": "Numeric",
+			"content": [
+				"Numeric"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "Consonant Vowel Ratio",
+			"content": [
+				"Consonant",
+				"Vowel",
+				"Ratio"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 12,
+			"tex": "\\texttt{othersRatio}",
+			"content": [
+				"othersRatio"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "Number of string repetitions by Bi-gram analysis",
+			"content": [
+				"Number",
+				"of",
+				"string",
+				"repetitions",
+				"by",
+				"Bi-gram",
+				"analysis"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 20,
+			"tex": "Digit Ratio",
+			"content": [
+				"Digit",
+				"Ratio"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 34,
+			"tex": "Categoric",
+			"content": [
+				"Categoric"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "\\texttt{domainLength}",
+			"content": [
+				"domainLength"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "Numeric",
+			"content": [
+				"Numeric"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "Numeric",
+			"content": [
+				"Numeric"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "\\textbf{Feature}",
+			"content": [
+				"Feature"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 29,
+			"tex": "Number of string repetitions by Tri-gram analysis",
+			"content": [
+				"Number",
+				"of",
+				"string",
+				"repetitions",
+				"by",
+				"Tri-gram",
+				"analysis"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 14,
+			"tex": "Other characters ratio",
+			"content": [
+				"Other",
+				"characters",
+				"ratio"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 25,
+			"tex": "Numeric",
+			"content": [
+				"Numeric"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 35,
+			"tex": "Domains starting and ending with a digit",
+			"content": [
+				"Domains",
+				"starting",
+				"and",
+				"ending",
+				"with",
+				"a",
+				"digit"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 2,
+			"tex": "\\textbf{Feature Description}",
+			"content": [
+				"Feature",
+				"Description"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 4,
+			"tex": "Numeric",
+			"content": [
+				"Numeric"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 18,
+			"tex": "\\texttt{digitRatio}",
+			"content": [
+				"digitRatio"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "Numeric",
+			"content": [
+				"Numeric"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 33,
+			"tex": "\\texttt{lowFrequenceOccurrence}",
+			"content": [
+				"lowFrequenceOccurrence"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 31,
+			"tex": "Numeric",
+			"content": [
+				"Numeric"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "Numeric",
+			"content": [
+				"Numeric"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "\\texttt{consonantVowelRatio}",
+			"content": [
+				"consonantVowelRatio"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "Numeric",
+			"content": [
+				"Numeric"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 32,
+			"tex": "Number of string repetitions by Tri-gram analysis",
+			"content": [
+				"Number",
+				"of",
+				"string",
+				"repetitions",
+				"by",
+				"Tri-gram",
+				"analysis"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 21,
+			"tex": "\\texttt{numRepeatsByUniGram}",
+			"content": [
+				"numRepeatsByUniGram"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

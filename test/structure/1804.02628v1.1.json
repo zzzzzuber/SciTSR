@@ -1,0 +1,406 @@
+{
+	"cells": [
+		{
+			"id": 14,
+			"tex": "0=Grade School; 1=High School, not graduate; 2=High School. graduate; 3=College",
+			"content": [
+				"0=Grade",
+				"School;",
+				"1=High",
+				"School,",
+				"not",
+				"graduate;",
+				"2=High",
+				"School.",
+				"graduate;",
+				"3=College"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 12,
+			"tex": "Education",
+			"content": [
+				"Education"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 29,
+			"tex": "Continuous Value (mg/dl)",
+			"content": [
+				"Continuous",
+				"Value",
+				"(mg/dl)"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 28,
+			"tex": "TC",
+			"content": [
+				"TC"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "0=Native-born; 1=Foreign-born",
+			"content": [
+				"0=Native-born;",
+				"1=Foreign-born"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 27,
+			"tex": "Cholesterol",
+			"content": [
+				"Cholesterol"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "Continuous Value (mmHg)",
+			"content": [
+				"Continuous",
+				"Value",
+				"(mmHg)"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 25,
+			"tex": "DBP",
+			"content": [
+				"DBP"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "EDUCATE",
+			"content": [
+				"EDUCATE"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "0=Never; 1=Stopped; 2=Cigars or Pipes; 3=Cigarettes($<$20/day); 4=Cigarettes($\\leq$20/day)",
+			"content": [
+				"0=Never;",
+				"1=Stopped;",
+				"2=Cigars",
+				"or",
+				"Pipes;",
+				"3=Cigarettes(<20/day);",
+				"4=Cigarettes(\u226420/day)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 32,
+			"tex": "0=None; 1=Definite or Possible",
+			"content": [
+				"0=None;",
+				"1=De\ufb01nite",
+				"or",
+				"Possible"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 31,
+			"tex": "LVH",
+			"content": [
+				"LVH"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "Sequential Value",
+			"content": [
+				"Sequential",
+				"Value"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 8,
+			"tex": "0=No; 1= Yes",
+			"content": [
+				"0=No;",
+				"1=",
+				"Yes"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 30,
+			"tex": "Left Ventricular Hypertrophy",
+			"content": [
+				"Left",
+				"Ventricular",
+				"Hypertrophy"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "Data Item",
+			"content": [
+				"Data",
+				"Item"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "National Origin",
+			"content": [
+				"National",
+				"Origin"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "CHD",
+			"content": [
+				"CHD"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 24,
+			"tex": "Diastolic Blood Pressure",
+			"content": [
+				"Diastolic",
+				"Blood",
+				"Pressure"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "Continuous Value (mmHg)",
+			"content": [
+				"Continuous",
+				"Value",
+				"(mmHg)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 3,
+			"tex": "ID",
+			"content": [
+				"ID"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "SBP",
+			"content": [
+				"SBP"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "Systolic Blood Pressure",
+			"content": [
+				"Systolic",
+				"Blood",
+				"Pressure"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "ORIGIN",
+			"content": [
+				"ORIGIN"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "Continuous Value(oz/mo)",
+			"content": [
+				"Continuous",
+				"Value(oz/mo)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 19,
+			"tex": "ALCOHOL",
+			"content": [
+				"ALCOHOL"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "Tobacco",
+			"content": [
+				"Tobacco"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "Alcohol",
+			"content": [
+				"Alcohol"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "Name",
+			"content": [
+				"Name"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "Development of CHD",
+			"content": [
+				"Development",
+				"of",
+				"CHD"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "ID",
+			"content": [
+				"ID"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "TOBACCO",
+			"content": [
+				"TOBACCO"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "Value",
+			"content": [
+				"Value"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		}
+	]
+}

@@ -1,0 +1,165 @@
+{
+	"cells": [
+		{
+			"id": 10,
+			"tex": "\\verb$<I> hasType <T>$",
+			"content": [
+				"<I>",
+				"hasType",
+				"<T>"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "\\verb$Individual: <I1>$ \\verb$ Facts: <R> <I2>$",
+			"content": [
+				"Individual:",
+				"<I1>",
+				"Facts:",
+				"<R>",
+				"<I2>"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 0,
+			"tex": "ACE",
+			"content": [
+				"ACE"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "\\verb$<I1> not <R> <I1>$",
+			"content": [
+				"<I1>",
+				"not",
+				"<R>",
+				"<I1>"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "\\verb$<I1> <R> <I2>$",
+			"content": [
+				"<I1>",
+				"<R>",
+				"<I2>"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "\\verb$Individual:$ \\verb$ <I1> Facts:$ \\verb$ not <R> <I2>$",
+			"content": [
+				"Individual:",
+				"<I1>",
+				"Facts:",
+				"not",
+				"<R>",
+				"<I2>"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 4,
+			"tex": "\\verb$<I1> <R> <I2>$",
+			"content": [
+				"<I1>",
+				"<R>",
+				"<I2>"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "\\verb$Individual: <I>$ \\verb$ Types: <T>$",
+			"content": [
+				"Individual:",
+				"<I>",
+				"Types:",
+				"<T>"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 9,
+			"tex": "\\verb$<I> is a <T>$",
+			"content": [
+				"<I>",
+				"is",
+				"a",
+				"<T>"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "MLL",
+			"content": [
+				"MLL"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "\\verb$<I1> does not <R> <I2>$",
+			"content": [
+				"<I1>",
+				"does",
+				"not",
+				"<R>",
+				"<I2>"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "OWL Manchester",
+			"content": [
+				"OWL",
+				"Manchester"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		}
+	]
+}

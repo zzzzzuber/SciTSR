@@ -1,0 +1,225 @@
+{
+	"cells": [
+		{
+			"id": 0,
+			"tex": "Classifier",
+			"content": [
+				"Classi\ufb01er"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "fL=0, usekernel=TRUE",
+			"content": [
+				"fL=0,",
+				"usekernel=TRUE"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 5,
+			"tex": "mtry=11",
+			"content": [
+				"mtry=11"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 14,
+			"tex": "decay=0",
+			"content": [
+				"decay=0"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 7,
+			"tex": "sigma:-(0,1], C:-(0,10]",
+			"content": [
+				"sigma:-(0,1],",
+				"C:-(0,10]"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "$f_{3}$: K-Nearest Neighbours",
+			"content": [
+				"f3:",
+				"K-Nearest",
+				"Neighbours"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "decay:-[0,10]",
+			"content": [
+				"decay:-[0,10]"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "K:-[1,100]",
+			"content": [
+				"K:-[1,100]"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "sigma=0.0978, C=6.1624",
+			"content": [
+				"sigma=0.0978,",
+				"C=6.1624"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 11,
+			"tex": "K= 17",
+			"content": [
+				"K=",
+				"17"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 2,
+			"tex": "Optimal Parameters",
+			"content": [
+				"Optimal",
+				"Parameters"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 15,
+			"tex": "$f_{5}$: Naive Bayes",
+			"content": [
+				"f5:",
+				"Naive",
+				"Bayes"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "$f_{4}$: Logistic Regression",
+			"content": [
+				"f4:",
+				"Logistic",
+				"Regression"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "$f_{1}$: Random Forest",
+			"content": [
+				"f1:",
+				"Random",
+				"Forest"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "Parameters :-(grid search range)",
+			"content": [
+				"Parameters",
+				":-(grid",
+				"search",
+				"range)"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "$f_{2}$: Support Vector Machine (Radial)",
+			"content": [
+				"f2:",
+				"Support",
+				"Vector",
+				"Machine",
+				"(Radial)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "mtry:-[1,30]",
+			"content": [
+				"mtry:-[1,30]"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "fL:-[0,1], usekernel:-$\\{$ TRUE,FALSE $\\}$",
+			"content": [
+				"fL:-[0,1],",
+				"usekernel:-{",
+				"TRUE,FALSE",
+				"}"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

@@ -1,0 +1,169 @@
+{
+	"cells": [
+		{
+			"id": 11,
+			"tex": "Attack the opponent who is attacking you.",
+			"content": [
+				"Attack",
+				"the",
+				"opponent",
+				"who",
+				"is",
+				"attacking",
+				"you."
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "\\texttt{DEFEND}",
+			"content": [
+				"DEFEND"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "Command name",
+			"content": [
+				"Command",
+				"name"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "All athletes move towards the flag and capture the flag.",
+			"content": [
+				"All",
+				"athletes",
+				"move",
+				"towards",
+				"the",
+				"\ufb02ag",
+				"and",
+				"capture",
+				"the",
+				"\ufb02ag."
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "\\texttt{IDLE}",
+			"content": [
+				"IDLE"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "Description",
+			"content": [
+				"Description"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "\\texttt{ATTACK}",
+			"content": [
+				"ATTACK"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "\\texttt{ESCORT\\_FLAG}",
+			"content": [
+				"ESCORT",
+				"FLAG"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "Move the athlete with the flag back to base.",
+			"content": [
+				"Move",
+				"the",
+				"athlete",
+				"with",
+				"the",
+				"\ufb02ag",
+				"back",
+				"to",
+				"base."
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "\\texttt{GET\\_FLAG}",
+			"content": [
+				"GET",
+				"FLAG"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "Do nothing.",
+			"content": [
+				"Do",
+				"nothing."
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "Attack the opponent athlete with the flag.",
+			"content": [
+				"Attack",
+				"the",
+				"opponent",
+				"athlete",
+				"with",
+				"the",
+				"\ufb02ag."
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

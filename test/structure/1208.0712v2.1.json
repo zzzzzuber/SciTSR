@@ -1,0 +1,256 @@
+{
+	"cells": [
+		{
+			"id": 11,
+			"tex": "Determines $Peer\\_agent$ state",
+			"content": [
+				"Determines",
+				"P",
+				"eer",
+				"agent",
+				"state"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "$ping$",
+			"content": [
+				"ping"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "Simulates external knowledge about existing nodes",
+			"content": [
+				"Simulates",
+				"external",
+				"knowledge",
+				"about",
+				"existing",
+				"nodes"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "$hash$",
+			"content": [
+				"hash"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "Realizes communication requests",
+			"content": [
+				"Realizes",
+				"communication",
+				"requests"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "$known\\_nodes$",
+			"content": [
+				"known",
+				"nodes"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "$keys$",
+			"content": [
+				"keys"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "$communication$",
+			"content": [
+				"communication"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "Maps the sets of peers and keys to $Chord \\cup \\{ undef \\}$",
+			"content": [
+				"Maps",
+				"the",
+				"sets",
+				"of",
+				"peers",
+				"and",
+				"keys",
+				"to",
+				"Chord",
+				"\u222a",
+				"{undef}"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "Select to look for a $value$ with particular $key$",
+			"content": [
+				"Select",
+				"to",
+				"look",
+				"for",
+				"a",
+				"value",
+				"with",
+				"particular",
+				"key"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "$mode$",
+			"content": [
+				"mode"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "Tests whether a node is reachable",
+			"content": [
+				"Tests",
+				"whether",
+				"a",
+				"node",
+				"is",
+				"reachable"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "\\textbf{Function}",
+			"content": [
+				"Function"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "$member\\_of$",
+			"content": [
+				"member",
+				"of"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "Checks whether a node is between two nodes in $Chord$",
+			"content": [
+				"Checks",
+				"whether",
+				"a",
+				"node",
+				"is",
+				"between",
+				"two",
+				"nodes",
+				"in",
+				"Chord"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "$key\\_value$",
+			"content": [
+				"key",
+				"value"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "Select a $\\langle key, value\\rangle$ for storing in the network",
+			"content": [
+				"Select",
+				"a",
+				"(cid:104)key,",
+				"value(cid:105)",
+				"for",
+				"storing",
+				"in",
+				"the",
+				"network"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "\\textbf{Description}",
+			"content": [
+				"Description"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

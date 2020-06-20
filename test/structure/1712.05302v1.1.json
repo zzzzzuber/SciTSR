@@ -1,0 +1,1067 @@
+{
+	"cells": [
+		{
+			"id": 21,
+			"tex": "Set of QCs",
+			"content": [
+				"Set",
+				"of",
+				"QCs"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 54,
+			"tex": "$\\delta$",
+			"content": [
+				"\u03b4"
+			],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "$C$",
+			"content": [
+				"C"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 38,
+			"tex": "$Q_{i}$",
+			"content": [
+				"Qi"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "$L$",
+			"content": [
+				"L"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 73,
+			"tex": "A sufficiently large constant integer",
+			"content": [
+				"A",
+				"su\ufb03ciently",
+				"large",
+				"constant",
+				"integer"
+			],
+			"start_row": 36,
+			"end_row": 36,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 52,
+			"tex": "$s_{QC}$",
+			"content": [
+				"sQC"
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 60,
+			"tex": "",
+			"content": [],
+			"start_row": 30,
+			"end_row": 30,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 36,
+			"tex": "$w_{s}$",
+			"content": [
+				"ws"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "Set of outbound shipments that belong to vessel $s \\in S$",
+			"content": [
+				"Set",
+				"of",
+				"outbound",
+				"shipments",
+				"that",
+				"belong",
+				"to",
+				"vessel",
+				"s",
+				"\u2208",
+				"S"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 62,
+			"tex": "$\\Theta$",
+			"content": [
+				"\u0398"
+			],
+			"start_row": 31,
+			"end_row": 31,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "Set of all yard locations",
+			"content": [
+				"Set",
+				"of",
+				"all",
+				"yard",
+				"locations"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 26,
+			"tex": "$B_{T}$",
+			"content": [
+				"BT"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 63,
+			"tex": "Set of all combinations of shipments and QCs with potential interferences",
+			"content": [
+				"Set",
+				"of",
+				"all",
+				"combinations",
+				"of",
+				"shipments",
+				"and",
+				"QCs",
+				"with",
+				"potential",
+				"interferences"
+			],
+			"start_row": 31,
+			"end_row": 31,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 27,
+			"tex": "Total number of vessel bays",
+			"content": [
+				"Total",
+				"number",
+				"of",
+				"vessel",
+				"bays"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "$S$",
+			"content": [
+				"S"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 44,
+			"tex": "$tt_{k}$",
+			"content": [
+				"ttk"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 37,
+			"tex": "Weight (priority) of vessel $s \\in S$",
+			"content": [
+				"Weight",
+				"(priority)",
+				"of",
+				"vessel",
+				"s",
+				"\u2208",
+				"S"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 35,
+			"tex": "The YC responsible for yard location $k \\in L$",
+			"content": [
+				"The",
+				"YC",
+				"responsible",
+				"for",
+				"yard",
+				"location",
+				"k",
+				"\u2208",
+				"L"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 55,
+			"tex": "Safety distance between two $QC$s",
+			"content": [
+				"Safety",
+				"distance",
+				"between",
+				"two",
+				"QCs"
+			],
+			"start_row": 27,
+			"end_row": 27,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "Set of berthed vessels",
+			"content": [
+				"Set",
+				"of",
+				"berthed",
+				"vessels"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 57,
+			"tex": "Smallest allowed difference between bay positions of quay cranes $v$ and $w$",
+			"content": [
+				"Smallest",
+				"allowed",
+				"di\ufb00erence",
+				"between",
+				"bay",
+				"positions",
+				"of",
+				"quay",
+				"cranes",
+				"v",
+				"and",
+				"w"
+			],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "$C_{u}^{s}$",
+			"content": [
+				"C",
+				"s",
+				"u"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 58,
+			"tex": "$\\Delta_{i,j}^{v,w}$",
+			"content": [
+				"\u2206v,w",
+				"i,j"
+			],
+			"start_row": 29,
+			"end_row": 29,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 51,
+			"tex": "YC travel time from yard location $i \\in L$ to yard location $j \\in L$",
+			"content": [
+				"YC",
+				"travel",
+				"time",
+				"from",
+				"yard",
+				"location",
+				"i",
+				"\u2208",
+				"L",
+				"to",
+				"yard",
+				"location",
+				"j",
+				"\u2208",
+				"L"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "Set of inbound shipments that belong to vessel $s \\in S$",
+			"content": [
+				"Set",
+				"of",
+				"inbound",
+				"shipments",
+				"that",
+				"belong",
+				"to",
+				"vessel",
+				"s",
+				"\u2208",
+				"S"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 68,
+			"tex": "$C^0$",
+			"content": [
+				"C",
+				"0"
+			],
+			"start_row": 34,
+			"end_row": 34,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "$C_{l}^{s}$",
+			"content": [
+				"C",
+				"s",
+				"l"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 28,
+			"tex": "$QC_{T}$",
+			"content": [
+				"QCT"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 34,
+			"tex": "$YC(k)$",
+			"content": [
+				"Y",
+				"C(k)"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 56,
+			"tex": "$\\delta_{v,w}$",
+			"content": [
+				"\u03b4v,w"
+			],
+			"start_row": 28,
+			"end_row": 28,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 30,
+			"tex": "$b_{i}$",
+			"content": [
+				"bi"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 64,
+			"tex": "$0$",
+			"content": [
+				"0"
+			],
+			"start_row": 32,
+			"end_row": 32,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 67,
+			"tex": "Dummy last shipment",
+			"content": [
+				"Dummy",
+				"last",
+				"shipment"
+			],
+			"start_row": 33,
+			"end_row": 33,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 25,
+			"tex": "Set of vessel bays",
+			"content": [
+				"Set",
+				"of",
+				"vessel",
+				"bays"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "$C_{u}$",
+			"content": [
+				"Cu"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 70,
+			"tex": "$C^N$",
+			"content": [
+				"C",
+				"N"
+			],
+			"start_row": 35,
+			"end_row": 35,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "Set of inbound shipments",
+			"content": [
+				"Set",
+				"of",
+				"inbound",
+				"shipments"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "Set of YCs",
+			"content": [
+				"Set",
+				"of",
+				"YCs"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "$QC$",
+			"content": [
+				"QC"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 29,
+			"tex": "Total number of QCs",
+			"content": [
+				"Total",
+				"number",
+				"of",
+				"QCs"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 50,
+			"tex": "$eyc_{i,j}$",
+			"content": [
+				"eyci,j"
+			],
+			"start_row": 25,
+			"end_row": 25,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "$C_{l}$",
+			"content": [
+				"Cl"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 69,
+			"tex": "Set of all shipments including dummy initial shipment $C \\cup \\{0\\}$",
+			"content": [
+				"Set",
+				"of",
+				"all",
+				"shipments",
+				"including",
+				"dummy",
+				"initial",
+				"shipment",
+				"C",
+				"\u222a",
+				"{0}"
+			],
+			"start_row": 34,
+			"end_row": 34,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "Set of outbound shipments",
+			"content": [
+				"Set",
+				"of",
+				"outbound",
+				"shipments"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 48,
+			"tex": "$eqc_{i,j}$",
+			"content": [
+				"eqci,j"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "$L_{l}$",
+			"content": [
+				"Ll"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "$YC$",
+			"content": [
+				"Y",
+				"C"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 71,
+			"tex": "Set of all shipments including dummy last shipment $C \\cup \\{N\\}$",
+			"content": [
+				"Set",
+				"of",
+				"all",
+				"shipments",
+				"including",
+				"dummy",
+				"last",
+				"shipment",
+				"C",
+				"\u222a",
+				"{N}"
+			],
+			"start_row": 35,
+			"end_row": 35,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "$L_{u}$",
+			"content": [
+				"Lu"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 33,
+			"tex": "Set of eligible QCs for shipment $i \\in C$",
+			"content": [
+				"Set",
+				"of",
+				"eligible",
+				"QCs",
+				"for",
+				"shipment",
+				"i",
+				"\u2208",
+				"C"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 59,
+			"tex": "Minimum time between the starting times of shipments $i$ and $j$",
+			"content": [
+				"Minimum",
+				"time",
+				"between",
+				"the",
+				"starting",
+				"times",
+				"of",
+				"shipments",
+				"i",
+				"and",
+				"j"
+			],
+			"start_row": 29,
+			"end_row": 29,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "Set of yard locations for outbound shipments",
+			"content": [
+				"Set",
+				"of",
+				"yard",
+				"locations",
+				"for",
+				"outbound",
+				"shipments"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 43,
+			"tex": "YT handling time of outbound shipment $i \\in C_{l}$",
+			"content": [
+				"YT",
+				"handling",
+				"time",
+				"of",
+				"outbound",
+				"shipment",
+				"i",
+				"\u2208",
+				"Cl"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 65,
+			"tex": "Dummy initial shipment",
+			"content": [
+				"Dummy",
+				"initial",
+				"shipment"
+			],
+			"start_row": 32,
+			"end_row": 32,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 16,
+			"tex": "$l_{i}$",
+			"content": [
+				"li"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 49,
+			"tex": "QC travel time from shipment $i \\in C$ to shipment $j \\in C$",
+			"content": [
+				"QC",
+				"travel",
+				"time",
+				"from",
+				"shipment",
+				"i",
+				"\u2208",
+				"C",
+				"to",
+				"shipment",
+				"j",
+				"\u2208",
+				"C"
+			],
+			"start_row": 24,
+			"end_row": 24,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 66,
+			"tex": "$N$",
+			"content": [
+				"N"
+			],
+			"start_row": 33,
+			"end_row": 33,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 39,
+			"tex": "QC handling time of shipment $i \\in C$",
+			"content": [
+				"QC",
+				"handling",
+				"time",
+				"of",
+				"shipment",
+				"i",
+				"\u2208",
+				"C"
+			],
+			"start_row": 19,
+			"end_row": 19,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 41,
+			"tex": "YT handling time of shipment $i \\in C$",
+			"content": [
+				"YT",
+				"handling",
+				"time",
+				"of",
+				"shipment",
+				"i",
+				"\u2208",
+				"C"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 42,
+			"tex": "$tyt_{i}$",
+			"content": [
+				"tyti"
+			],
+			"start_row": 21,
+			"end_row": 21,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 32,
+			"tex": "$QC(i)$",
+			"content": [
+				"QC(i)"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "Set of all shipments",
+			"content": [
+				"Set",
+				"of",
+				"all",
+				"shipments"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 31,
+			"tex": "Vessel bay position of shipment $i \\in C$",
+			"content": [
+				"Vessel",
+				"bay",
+				"position",
+				"of",
+				"shipment",
+				"i",
+				"\u2208",
+				"C"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 46,
+			"tex": "$tyc_{k,l}$",
+			"content": [
+				"tyck,l"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 45,
+			"tex": "YT transfer time of inbound shipment to yard location $k \\in L_{u}$",
+			"content": [
+				"YT",
+				"transfer",
+				"time",
+				"of",
+				"inbound",
+				"shipment",
+				"to",
+				"yard",
+				"location",
+				"k",
+				"\u2208",
+				"Lu"
+			],
+			"start_row": 22,
+			"end_row": 22,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 13,
+			"tex": "Set of available yard locations for inbound shipments",
+			"content": [
+				"Set",
+				"of",
+				"available",
+				"yard",
+				"locations",
+				"for",
+				"inbound",
+				"shipments"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 47,
+			"tex": "YC travel time between yard locations $k$ and $l$",
+			"content": [
+				"YC",
+				"travel",
+				"time",
+				"between",
+				"yard",
+				"locations",
+				"k",
+				"and",
+				"l"
+			],
+			"start_row": 23,
+			"end_row": 23,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 53,
+			"tex": "Travel time for unit distance of equipment $QC$",
+			"content": [
+				"Travel",
+				"time",
+				"for",
+				"unit",
+				"distance",
+				"of",
+				"equipment",
+				"QC"
+			],
+			"start_row": 26,
+			"end_row": 26,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "Yard location of outbound shipment $i \\in C_{l}$",
+			"content": [
+				"Yard",
+				"location",
+				"of",
+				"outbound",
+				"shipment",
+				"i",
+				"\u2208",
+				"Cl"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 61,
+			"tex": "when processed by cranes $v$ and $w$",
+			"content": [
+				"when",
+				"processed",
+				"by",
+				"cranes",
+				"v",
+				"and",
+				"w"
+			],
+			"start_row": 30,
+			"end_row": 30,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 72,
+			"tex": "$M$",
+			"content": [
+				"M"
+			],
+			"start_row": 36,
+			"end_row": 36,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "$B$",
+			"content": [
+				"B"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 40,
+			"tex": "$Y_{i}$",
+			"content": [
+				"Yi"
+			],
+			"start_row": 20,
+			"end_row": 20,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

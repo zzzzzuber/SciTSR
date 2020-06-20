@@ -1,0 +1,796 @@
+{
+	"cells": [
+		{
+			"id": 34,
+			"tex": "0.11",
+			"content": [
+				"0.11"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 32,
+			"tex": "0.976 $\\pm$ 0.0016",
+			"content": [
+				"0.976",
+				"\u00b1",
+				"0.0016"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 49,
+			"tex": "0.12",
+			"content": [
+				"0.12"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 33,
+			"tex": "CASIA trained M3",
+			"content": [
+				"CASIA",
+				"trained",
+				"M3"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "Target (transfer)",
+			"content": [
+				"Target",
+				"(transfer)"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 4
+		},
+		{
+			"id": 58,
+			"tex": "Two network ensemble",
+			"content": [
+				"Two",
+				"network",
+				"ensemble"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "0.07",
+			"content": [
+				"0.07"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 55,
+			"tex": "0.982 $\\pm$ 0.0034",
+			"content": [
+				"0.982",
+				"\u00b1",
+				"0.0034"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 61,
+			"tex": "0.990 $\\pm$ 0.0027",
+			"content": [
+				"0.990",
+				"\u00b1",
+				"0.0027"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 28,
+			"tex": "CASIA trained M2",
+			"content": [
+				"CASIA",
+				"trained",
+				"M2"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 23,
+			"tex": "Ensemble of 3 CASIA M1",
+			"content": [
+				"Ensemble",
+				"of",
+				"3",
+				"CASIA",
+				"M1"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "Domain",
+			"content": [
+				"Domain"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "0.972 $\\pm$ 0.0021",
+			"content": [
+				"0.972",
+				"\u00b1",
+				"0.0021"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 39,
+			"tex": "0.11",
+			"content": [
+				"0.11"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 62,
+			"tex": "0.991 $\\pm$ 0.0027",
+			"content": [
+				"0.991",
+				"\u00b1",
+				"0.0027"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 15,
+			"tex": "0.962 $\\pm$ 0.0021",
+			"content": [
+				"0.962",
+				"\u00b1",
+				"0.0021"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 18,
+			"tex": "CASIA trained M1 (3)",
+			"content": [
+				"CASIA",
+				"trained",
+				"M1",
+				"(3)"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 42,
+			"tex": "0.979 $\\pm$ 0.0027",
+			"content": [
+				"0.979",
+				"\u00b1",
+				"0.0027"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 35,
+			"tex": "0.972 $\\pm$ 0.0012",
+			"content": [
+				"0.972",
+				"\u00b1",
+				"0.0012"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 59,
+			"tex": "",
+			"content": [],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 37,
+			"tex": "0.980 $\\pm$ 0.0034",
+			"content": [
+				"0.980",
+				"\u00b1",
+				"0.0034"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 17,
+			"tex": "0.971 $\\pm$ 0.0022",
+			"content": [
+				"0.971",
+				"\u00b1",
+				"0.0022"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 27,
+			"tex": "0.975 $\\pm$ 0.0025",
+			"content": [
+				"0.975",
+				"\u00b1",
+				"0.0025"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 47,
+			"tex": "0.981 $\\pm$ 0.0019",
+			"content": [
+				"0.981",
+				"\u00b1",
+				"0.0019"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 11,
+			"tex": "0.966 $\\pm$ 0.0022",
+			"content": [
+				"0.966",
+				"\u00b1",
+				"0.0022"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 57,
+			"tex": "0.988 $\\pm$ 0.0035",
+			"content": [
+				"0.988",
+				"\u00b1",
+				"0.0035"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 13,
+			"tex": "CASIA trained M1 (2)",
+			"content": [
+				"CASIA",
+				"trained",
+				"M1",
+				"(2)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "",
+			"content": [],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "JB on LFW splits",
+			"content": [
+				"JB",
+				"on",
+				"LFW",
+				"splits"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 45,
+			"tex": "0.973 $\\pm$ 0.0011",
+			"content": [
+				"0.973",
+				"\u00b1",
+				"0.0011"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 31,
+			"tex": "0.974 $\\pm$ 0.0017",
+			"content": [
+				"0.974",
+				"\u00b1",
+				"0.0017"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 10,
+			"tex": "0.962 $\\pm$ 0.0032",
+			"content": [
+				"0.962",
+				"\u00b1",
+				"0.0032"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 56,
+			"tex": "0.982 $\\pm$ 0.0031",
+			"content": [
+				"0.982",
+				"\u00b1",
+				"0.0031"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 22,
+			"tex": "0.971 $\\pm$ 0.0015",
+			"content": [
+				"0.971",
+				"\u00b1",
+				"0.0015"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 21,
+			"tex": "0.966 $\\pm$ 0.0013",
+			"content": [
+				"0.966",
+				"\u00b1",
+				"0.0013"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 16,
+			"tex": "0.966 $\\pm$ 0.0019",
+			"content": [
+				"0.966",
+				"\u00b1",
+				"0.0019"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 51,
+			"tex": "0.977 $\\pm$ 0.0019",
+			"content": [
+				"0.977",
+				"\u00b1",
+				"0.0019"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 25,
+			"tex": "0.968 $\\pm$ 0.0019",
+			"content": [
+				"0.968",
+				"\u00b1",
+				"0.0019"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 36,
+			"tex": "0.977 $\\pm$ 0.0015",
+			"content": [
+				"0.977",
+				"\u00b1",
+				"0.0015"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 29,
+			"tex": "0.08",
+			"content": [
+				"0.08"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 50,
+			"tex": "0.972 $\\pm$ 0.0015",
+			"content": [
+				"0.972",
+				"\u00b1",
+				"0.0015"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 3,
+			"tex": "Metric",
+			"content": [
+				"Metric"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 44,
+			"tex": "0.12",
+			"content": [
+				"0.12"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "Source",
+			"content": [
+				"Source"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 53,
+			"tex": "3rd party DB, M5",
+			"content": [
+				"3rd",
+				"party",
+				"DB,",
+				"M5"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "0.970 $\\pm$ 0.0016",
+			"content": [
+				"0.970",
+				"\u00b1",
+				"0.0016"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 40,
+			"tex": "0.971 $\\pm$ 0.0031",
+			"content": [
+				"0.971",
+				"\u00b1",
+				"0.0031"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 41,
+			"tex": "0.977 $\\pm$ 0.0028",
+			"content": [
+				"0.977",
+				"\u00b1",
+				"0.0028"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 54,
+			"tex": "0.12",
+			"content": [
+				"0.12"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "CASIA trained M1",
+			"content": [
+				"CASIA",
+				"trained",
+				"M1"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "0.07",
+			"content": [
+				"0.07"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 52,
+			"tex": "0.980 $\\pm$ 0.0031",
+			"content": [
+				"0.980",
+				"\u00b1",
+				"0.0031"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 38,
+			"tex": "CASIA trained M3 (2)",
+			"content": [
+				"CASIA",
+				"trained",
+				"M3",
+				"(2)"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 30,
+			"tex": "0.970 $\\pm$ 0.0021",
+			"content": [
+				"0.970",
+				"\u00b1",
+				"0.0021"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 4,
+			"tex": "Val error",
+			"content": [
+				"Val",
+				"error"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "Cosine",
+			"content": [
+				"Cosine"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 48,
+			"tex": "CASIA trained M5 (2)",
+			"content": [
+				"CASIA",
+				"trained",
+				"M5",
+				"(2)"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 60,
+			"tex": "0.985 $\\pm$ 0.0029",
+			"content": [
+				"0.985",
+				"\u00b1",
+				"0.0029"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 6,
+			"tex": "JB on source",
+			"content": [
+				"JB",
+				"on",
+				"source"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 20,
+			"tex": "0.961 $\\pm$ 0.0022",
+			"content": [
+				"0.961",
+				"\u00b1",
+				"0.0022"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 43,
+			"tex": "CASIA trained M5 (1)",
+			"content": [
+				"CASIA",
+				"trained",
+				"M5",
+				"(1)"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 46,
+			"tex": "0.978 $\\pm$ 0.0014",
+			"content": [
+				"0.978",
+				"\u00b1",
+				"0.0014"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 9,
+			"tex": "0.07",
+			"content": [
+				"0.07"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		}
+	]
+}

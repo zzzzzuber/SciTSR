@@ -1,0 +1,461 @@
+{
+	"cells": [
+		{
+			"id": 15,
+			"tex": "Per request rejection cost at time $t$",
+			"content": [
+				"Per",
+				"request",
+				"rejection",
+				"cost",
+				"at",
+				"time",
+				"t"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "$\\alpha_n[f]$",
+			"content": [
+				"\u03b1n[f",
+				"]"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 29,
+			"tex": "Idle cost of server $n$ at time $t$",
+			"content": [
+				"Idle",
+				"cost",
+				"of",
+				"server",
+				"n",
+				"at",
+				"time",
+				"t"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "Per slot active service cost for server $n$",
+			"content": [
+				"Per",
+				"slot",
+				"active",
+				"service",
+				"cost",
+				"for",
+				"server",
+				"n"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "$c(t)$",
+			"content": [
+				"c(t)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "Number of arrivals at time $t$",
+			"content": [
+				"Number",
+				"of",
+				"arrivals",
+				"at",
+				"time",
+				"t"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "Meaning",
+			"content": [
+				"Meaning"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "Requests rejected at slot $t$",
+			"content": [
+				"Requests",
+				"rejected",
+				"at",
+				"slot",
+				"t"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "$t^{(n)}[f]$",
+			"content": [
+				"t(n)[f",
+				"]"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "Server active indicator (equal to 1 if active, 0 if not)",
+			"content": [
+				"Server",
+				"active",
+				"indicator",
+				"(equal",
+				"to",
+				"1",
+				"if",
+				"active,",
+				"0",
+				"if",
+				"not)"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "Other parameters",
+			"content": [
+				"Other",
+				"parameters"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "$\\tau_n[f]$",
+			"content": [
+				"\u03c4n[f",
+				"]"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "$T_n[f]$",
+			"content": [
+				"Tn[f",
+				"]"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "Control parameters",
+			"content": [
+				"Control",
+				"parameters"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "Requests routed to server $n$ at slot $t$",
+			"content": [
+				"Requests",
+				"routed",
+				"to",
+				"server",
+				"n",
+				"at",
+				"slot",
+				"t"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 19,
+			"tex": "The length of frame $f$ for server $n$",
+			"content": [
+				"The",
+				"length",
+				"of",
+				"frame",
+				"f",
+				"for",
+				"server",
+				"n"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 30,
+			"tex": "$W_n(t)$",
+			"content": [
+				"Wn(t)"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "Number of slots server $n$ stays idle in frame $f$",
+			"content": [
+				"Number",
+				"of",
+				"slots",
+				"server",
+				"n",
+				"stays",
+				"idle",
+				"in",
+				"frame",
+				"f"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 23,
+			"tex": "Setup duration in frame $f$",
+			"content": [
+				"Setup",
+				"duration",
+				"in",
+				"frame",
+				"f"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "$I_n[f]$",
+			"content": [
+				"In[f",
+				"]"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "$H_n(t)$",
+			"content": [
+				"Hn(t)"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "$\\lambda(t)$",
+			"content": [
+				"\u03bb(t)"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "The option (active/idle) server $n$ takes in frame $f$",
+			"content": [
+				"The",
+				"option",
+				"(active/idle)",
+				"server",
+				"n",
+				"takes",
+				"in",
+				"frame",
+				"f"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "Control objectives",
+			"content": [
+				"Control",
+				"objectives"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "$R_n(t)$",
+			"content": [
+				"Rn(t)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "$d(t)$",
+			"content": [
+				"d(t)"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 31,
+			"tex": "Setup cost of server $n$ at time $t$",
+			"content": [
+				"Setup",
+				"cost",
+				"of",
+				"server",
+				"n",
+				"at",
+				"time",
+				"t"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 25,
+			"tex": "Number of requests served on server $n$ at time $t$",
+			"content": [
+				"Number",
+				"of",
+				"requests",
+				"served",
+				"on",
+				"server",
+				"n",
+				"at",
+				"time",
+				"t"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 28,
+			"tex": "$g_n(t)$",
+			"content": [
+				"gn(t)"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "$e_n$",
+			"content": [
+				"en"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "Starting slot of frame $f$ for server $n$",
+			"content": [
+				"Starting",
+				"slot",
+				"of",
+				"frame",
+				"f",
+				"for",
+				"server",
+				"n"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 24,
+			"tex": "$\\mu_n(t)$",
+			"content": [
+				"\u00b5n(t)"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

@@ -1,0 +1,214 @@
+{
+	"cells": [
+		{
+			"id": 1,
+			"tex": "FC (10, 64*7*4*4)",
+			"content": [
+				"FC",
+				"(10,",
+				"64*7*4*4)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "Virtual BN, ReLU",
+			"content": [
+				"Virtual",
+				"BN,",
+				"ReLU"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "\\textit{10*tanh}",
+			"content": [
+				"10*tanh"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 7,
+			"tex": "Deconv (1,28,28,64*1)",
+			"content": [
+				"Deconv",
+				"(1,28,28,64*1)"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 8,
+			"tex": "Virtual BN, ReLU",
+			"content": [
+				"Virtual",
+				"BN,",
+				"ReLU"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "Virtual BN, ReLU",
+			"content": [
+				"Virtual",
+				"BN,",
+				"ReLU"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 15,
+			"tex": "Deconv (1,224,224,3)",
+			"content": [
+				"Deconv",
+				"(1,224,224,3)"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "Deconv (1,112,112,64*1)",
+			"content": [
+				"Deconv",
+				"(1,112,112,64*1)"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "Deconv (1,224,224,64*1)",
+			"content": [
+				"Deconv",
+				"(1,224,224,64*1)"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "Virtual BN, ReLU",
+			"content": [
+				"Virtual",
+				"BN,",
+				"ReLU"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 9,
+			"tex": "Deconv (1,56,56,64*1)",
+			"content": [
+				"Deconv",
+				"(1,56,56,64*1)"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 5,
+			"tex": "Deconv (1,14,14,64*2)",
+			"content": [
+				"Deconv",
+				"(1,14,14,64*2)"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "Virtual BN, ReLU",
+			"content": [
+				"Virtual",
+				"BN,",
+				"ReLU"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "Virtual BN, ReLU",
+			"content": [
+				"Virtual",
+				"BN,",
+				"ReLU"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 3,
+			"tex": "Deconv (1,7,7,64*4)",
+			"content": [
+				"Deconv",
+				"(1,7,7,64*4)"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "\\textbf{Generator}",
+			"content": [
+				"Generator"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 2,
+			"tex": "Virtual BN, ReLU",
+			"content": [
+				"Virtual",
+				"BN,",
+				"ReLU"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

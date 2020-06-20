@@ -1,0 +1,775 @@
+{
+	"cells": [
+		{
+			"id": 52,
+			"tex": "--",
+			"content": [
+				"\u2013"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 50,
+			"tex": "$8192$",
+			"content": [
+				"8192"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 3,
+			"tex": "",
+			"content": [],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 47,
+			"tex": "$512\\times1\\times4\\times4$",
+			"content": [
+				"512",
+				"\u00d7",
+				"1",
+				"\u00d7",
+				"4",
+				"\u00d7",
+				"4"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 49,
+			"tex": "--",
+			"content": [
+				"\u2013"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 34,
+			"tex": "$2\\times2\\times2$",
+			"content": [
+				"2",
+				"\u00d7",
+				"2",
+				"\u00d7",
+				"2"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "output dims",
+			"content": [
+				"output",
+				"dims"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 32,
+			"tex": "$512\\times2\\times38\\times50$",
+			"content": [
+				"512",
+				"\u00d7",
+				"2",
+				"\u00d7",
+				"38",
+				"\u00d7",
+				"50"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 55,
+			"tex": "--",
+			"content": [
+				"\u2013"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 54,
+			"tex": "fc7",
+			"content": [
+				"fc7"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 1,
+			"tex": "kernel dims",
+			"content": [
+				"kernel",
+				"dims"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 14,
+			"tex": "$128\\times8\\times150\\times200$",
+			"content": [
+				"128",
+				"\u00d7",
+				"8",
+				"\u00d7",
+				"150",
+				"\u00d7",
+				"200"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 35,
+			"tex": "$512\\times1\\times19\\times25$",
+			"content": [
+				"512",
+				"\u00d7",
+				"1",
+				"\u00d7",
+				"19",
+				"\u00d7",
+				"25"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 56,
+			"tex": "$4096$",
+			"content": [
+				"4096"
+			],
+			"start_row": 18,
+			"end_row": 18,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 25,
+			"tex": "$2\\times2\\times2$",
+			"content": [
+				"2",
+				"\u00d7",
+				"2",
+				"\u00d7",
+				"2"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 21,
+			"tex": "conv3b",
+			"content": [
+				"conv3b"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 42,
+			"tex": "toi-pool2*",
+			"content": [
+				"toi-pool2*"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 12,
+			"tex": "conv2",
+			"content": [
+				"conv2"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "max-pool3",
+			"content": [
+				"max-pool3"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 46,
+			"tex": "--",
+			"content": [
+				"\u2013"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 20,
+			"tex": "$256\\times4\\times75\\times100$",
+			"content": [
+				"256",
+				"\u00d7",
+				"4",
+				"\u00d7",
+				"75",
+				"\u00d7",
+				"100"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 13,
+			"tex": "$3\\times3\\times3$",
+			"content": [
+				"3",
+				"\u00d7",
+				"3",
+				"\u00d7",
+				"3"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "$3\\times3\\times3$",
+			"content": [
+				"3",
+				"\u00d7",
+				"3",
+				"\u00d7",
+				"3"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 37,
+			"tex": "$3\\times3\\times3$",
+			"content": [
+				"3",
+				"\u00d7",
+				"3",
+				"\u00d7",
+				"3"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "$1\\times2\\times2$",
+			"content": [
+				"1",
+				"\u00d7",
+				"2",
+				"\u00d7",
+				"2"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 29,
+			"tex": "$512\\times2\\times38\\times50$",
+			"content": [
+				"512",
+				"\u00d7",
+				"2",
+				"\u00d7",
+				"38",
+				"\u00d7",
+				"50"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 19,
+			"tex": "$3\\times3\\times3$",
+			"content": [
+				"3",
+				"\u00d7",
+				"3",
+				"\u00d7",
+				"3"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 33,
+			"tex": "max-pool4",
+			"content": [
+				"max-pool4"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "conv4a",
+			"content": [
+				"conv4a"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 38,
+			"tex": "$512\\times1\\times19\\times25$",
+			"content": [
+				"512",
+				"\u00d7",
+				"1",
+				"\u00d7",
+				"19",
+				"\u00d7",
+				"25"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 16,
+			"tex": "$2\\times2\\times2$",
+			"content": [
+				"2",
+				"\u00d7",
+				"2",
+				"\u00d7",
+				"2"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 44,
+			"tex": "$128\\times8\\times8\\times8$",
+			"content": [
+				"128",
+				"\u00d7",
+				"8",
+				"\u00d7",
+				"8",
+				"\u00d7",
+				"8"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 8,
+			"tex": "$64\\times8\\times300\\times400$",
+			"content": [
+				"64",
+				"\u00d7",
+				"8",
+				"\u00d7",
+				"300",
+				"\u00d7",
+				"400"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 9,
+			"tex": "max-pool1",
+			"content": [
+				"max-pool1"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 17,
+			"tex": "$128\\times4\\times75\\times100$",
+			"content": [
+				"128",
+				"\u00d7",
+				"4",
+				"\u00d7",
+				"75",
+				"\u00d7",
+				"100"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 15,
+			"tex": "max-pool2",
+			"content": [
+				"max-pool2"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "$3\\times3\\times3$",
+			"content": [
+				"3",
+				"\u00d7",
+				"3",
+				"\u00d7",
+				"3"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 40,
+			"tex": "$3\\times3\\times3$",
+			"content": [
+				"3",
+				"\u00d7",
+				"3",
+				"\u00d7",
+				"3"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "($d\\times h \\times w$)",
+			"content": [
+				"(d",
+				"\u00d7",
+				"h",
+				"\u00d7",
+				"w)"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "($C\\times D\\times H\\times W$)",
+			"content": [
+				"(C",
+				"\u00d7",
+				"D",
+				"\u00d7",
+				"H",
+				"\u00d7",
+				"W",
+				")"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 23,
+			"tex": "$256\\times4\\times75\\times100$",
+			"content": [
+				"256",
+				"\u00d7",
+				"4",
+				"\u00d7",
+				"75",
+				"\u00d7",
+				"100"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 43,
+			"tex": "--",
+			"content": [
+				"\u2013"
+			],
+			"start_row": 14,
+			"end_row": 14,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 39,
+			"tex": "conv5b",
+			"content": [
+				"conv5b"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 53,
+			"tex": "$4096$",
+			"content": [
+				"4096"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 18,
+			"tex": "conv3a",
+			"content": [
+				"conv3a"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 51,
+			"tex": "fc6",
+			"content": [
+				"fc6"
+			],
+			"start_row": 17,
+			"end_row": 17,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "conv1",
+			"content": [
+				"conv1"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 45,
+			"tex": "toi-pool5",
+			"content": [
+				"toi-pool5"
+			],
+			"start_row": 15,
+			"end_row": 15,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 48,
+			"tex": "1x1 conv",
+			"content": [
+				"1x1",
+				"conv"
+			],
+			"start_row": 16,
+			"end_row": 16,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 11,
+			"tex": "$64\\times8\\times150\\times200$",
+			"content": [
+				"64",
+				"\u00d7",
+				"8",
+				"\u00d7",
+				"150",
+				"\u00d7",
+				"200"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 28,
+			"tex": "$3\\times3\\times3$",
+			"content": [
+				"3",
+				"\u00d7",
+				"3",
+				"\u00d7",
+				"3"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 31,
+			"tex": "$3\\times3\\times3$",
+			"content": [
+				"3",
+				"\u00d7",
+				"3",
+				"\u00d7",
+				"3"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 0,
+			"tex": "name",
+			"content": [
+				"name"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 30,
+			"tex": "conv4b",
+			"content": [
+				"conv4b"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 26,
+			"tex": "$256\\times2\\times38\\times50$",
+			"content": [
+				"256",
+				"\u00d7",
+				"2",
+				"\u00d7",
+				"38",
+				"\u00d7",
+				"50"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 41,
+			"tex": "$512\\times1\\times19\\times25$",
+			"content": [
+				"512",
+				"\u00d7",
+				"1",
+				"\u00d7",
+				"19",
+				"\u00d7",
+				"25"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 36,
+			"tex": "conv5a",
+			"content": [
+				"conv5a"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}

@@ -1,0 +1,670 @@
+{
+	"cells": [
+		{
+			"id": 28,
+			"tex": "\\textbf{16.3}",
+			"content": [
+				"16.3"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 3,
+			"tex": "BetaSNMF",
+			"content": [
+				"BetaSNMF"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 39,
+			"tex": "\\textbf{30.4} $\\pm$ 0.08",
+			"content": [
+				"30.4",
+				"\u00b1",
+				"0.08"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 2,
+			"tex": "tSVD",
+			"content": [
+				"tSVD"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 40,
+			"tex": "ohscal",
+			"content": [
+				"ohscal"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 41,
+			"tex": "99.95 $\\pm$ 1e-3",
+			"content": [
+				"99.95",
+				"\u00b1",
+				"1e-3"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "classic",
+			"content": [
+				"classic"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 34,
+			"tex": "33.3",
+			"content": [
+				"33.3"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 42,
+			"tex": "22.2",
+			"content": [
+				"22.2"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 13,
+			"tex": "37.8",
+			"content": [
+				"37.8"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 43,
+			"tex": "21.6 $\\pm$ 0.11",
+			"content": [
+				"21.6",
+				"\u00b1",
+				"0.11"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 25,
+			"tex": "99.9\\hspace{0.15cm} $\\pm$ 7e-4",
+			"content": [
+				"99.9",
+				"\u00b1",
+				"7e-4"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 44,
+			"tex": "\\textbf{20.9}",
+			"content": [
+				"20.9"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 5,
+			"tex": "CD-Shuf.-0",
+			"content": [
+				"CD-Shuf.-0"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 32,
+			"tex": "hitech",
+			"content": [
+				"hitech"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 4,
+			"tex": "CD-Cyc.-0",
+			"content": [
+				"CD-Cyc.-0"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 45,
+			"tex": "21.0",
+			"content": [
+				"21.0"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 20,
+			"tex": "\\textbf{17.5}",
+			"content": [
+				"17.5"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 38,
+			"tex": "\\textbf{30.4} $\\pm$ 0.09",
+			"content": [
+				"30.4",
+				"\u00b1",
+				"0.09"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 0,
+			"tex": "$r = 30$",
+			"content": [
+				"r",
+				"=",
+				"30"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 46,
+			"tex": "\\textbf{20.9} $\\pm$ 0.04",
+			"content": [
+				"20.9",
+				"\u00b1",
+				"0.04"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 47,
+			"tex": "\\textbf{20.9} $\\pm$ 0.04",
+			"content": [
+				"20.9",
+				"\u00b1",
+				"0.04"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 33,
+			"tex": "99.5\\hspace{0.15cm} $\\pm$ 4e-3",
+			"content": [
+				"99.5",
+				"\u00b1",
+				"4e-3"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 6,
+			"tex": "CD-Cyc.-Rand",
+			"content": [
+				"CD-Cyc.-Rand"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 26,
+			"tex": "/",
+			"content": [
+				"/"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 23,
+			"tex": "17.7 $\\pm$ 0.10",
+			"content": [
+				"17.7",
+				"\u00b1",
+				"0.10"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 48,
+			"tex": "la1",
+			"content": [
+				"la1"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 49,
+			"tex": "99.9\\hspace{0.15cm} $\\pm$ 8e-4",
+			"content": [
+				"99.9",
+				"\u00b1",
+				"8e-4"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 29,
+			"tex": "16.4",
+			"content": [
+				"16.4"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 50,
+			"tex": "/",
+			"content": [
+				"/"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 14,
+			"tex": "\\textbf{37.6} $\\pm$ 0.09",
+			"content": [
+				"37.6",
+				"\u00b1",
+				"0.09"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 51,
+			"tex": "34.9 $\\pm$ 0.32",
+			"content": [
+				"34.9",
+				"\u00b1",
+				"0.32"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 22,
+			"tex": "\\textbf{17.5} $\\pm$ 0.11",
+			"content": [
+				"17.5",
+				"\u00b1",
+				"0.11"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 52,
+			"tex": "\\textbf{31.9}",
+			"content": [
+				"31.9"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 16,
+			"tex": "sports",
+			"content": [
+				"sports"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 24,
+			"tex": "reviews",
+			"content": [
+				"reviews"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 53,
+			"tex": "32.0",
+			"content": [
+				"32.0"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 54,
+			"tex": "32.1 $\\pm$ 0.10",
+			"content": [
+				"32.1",
+				"\u00b1",
+				"0.10"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 18,
+			"tex": "19.2",
+			"content": [
+				"19.2"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 55,
+			"tex": "32.0 $\\pm$ 0.10",
+			"content": [
+				"32.0",
+				"\u00b1",
+				"0.10"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 1,
+			"tex": "ANLS",
+			"content": [
+				"ANLS"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 37,
+			"tex": "30.5",
+			"content": [
+				"30.5"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 36,
+			"tex": "30.5",
+			"content": [
+				"30.5"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 31,
+			"tex": "\\textbf{16.3} $\\pm$ 0.08",
+			"content": [
+				"16.3",
+				"\u00b1",
+				"0.08"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 21,
+			"tex": "17.7",
+			"content": [
+				"17.7"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 5,
+			"end_col": 5
+		},
+		{
+			"id": 12,
+			"tex": "\\textbf{37.6}",
+			"content": [
+				"37.6"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 4,
+			"end_col": 4
+		},
+		{
+			"id": 19,
+			"tex": "20.1 $\\pm$ 0.28",
+			"content": [
+				"20.1",
+				"\u00b1",
+				"0.28"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 35,
+			"tex": "31.3 $\\pm$ 0.22",
+			"content": [
+				"31.3",
+				"\u00b1",
+				"0.22"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 27,
+			"tex": "20.0 $\\pm$ 0.56",
+			"content": [
+				"20.0",
+				"\u00b1",
+				"0.56"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 11,
+			"tex": "38.1 $\\pm$ 0.14",
+			"content": [
+				"38.1",
+				"\u00b1",
+				"0.14"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 3,
+			"end_col": 3
+		},
+		{
+			"id": 30,
+			"tex": "\\textbf{16.3} $\\pm$ 0.10",
+			"content": [
+				"16.3",
+				"\u00b1",
+				"0.10"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 6,
+			"end_col": 6
+		},
+		{
+			"id": 17,
+			"tex": "99.9\\hspace{0.15cm} $\\pm$ 1e-3",
+			"content": [
+				"99.9",
+				"\u00b1",
+				"1e-3"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "CD-Shuf.-Rand",
+			"content": [
+				"CD-Shuf.-Rand"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 7,
+			"end_col": 7
+		},
+		{
+			"id": 9,
+			"tex": "99.99 $\\pm$ 1e-4",
+			"content": [
+				"99.99",
+				"\u00b1",
+				"1e-4"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 10,
+			"tex": "39.8",
+			"content": [
+				"39.8"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 2,
+			"end_col": 2
+		},
+		{
+			"id": 15,
+			"tex": "37.7 $\\pm$ 0.09",
+			"content": [
+				"37.7",
+				"\u00b1",
+				"0.09"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 7,
+			"end_col": 7
+		}
+	]
+}

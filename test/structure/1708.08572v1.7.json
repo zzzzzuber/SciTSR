@@ -1,0 +1,364 @@
+{
+	"cells": [
+		{
+			"id": 23,
+			"tex": "looking for $<$np$>$",
+			"content": [
+				"looking",
+				"for",
+				"<np>"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 5,
+			"tex": "$<$subj$>$ appears",
+			"content": [
+				"<subj>",
+				"appears"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 12,
+			"tex": "active-verb $<$dobj$>$",
+			"content": [
+				"active-verb",
+				"<dobj>"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 18,
+			"tex": "noun aux $<$dobj$>$",
+			"content": [
+				"noun",
+				"aux",
+				"<dobj>"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 16,
+			"tex": "verb infinitive $<$dobj$>$",
+			"content": [
+				"verb",
+				"in\ufb01nitive",
+				"<dobj>"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 19,
+			"tex": "fact is $<$dobj$>$",
+			"content": [
+				"fact",
+				"is",
+				"<dobj>"
+			],
+			"start_row": 9,
+			"end_row": 9,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 17,
+			"tex": "want to take $<$dobj$>$",
+			"content": [
+				"want",
+				"to",
+				"take",
+				"<dobj>"
+			],
+			"start_row": 8,
+			"end_row": 8,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 7,
+			"tex": "$<$subj$>$ have problem",
+			"content": [
+				"<subj>",
+				"have",
+				"problem"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 8,
+			"tex": "$<$subj$>$ verb infinitive",
+			"content": [
+				"<subj>",
+				"verb",
+				"in\ufb01nitive"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 21,
+			"tex": "argument against $<$np$>$",
+			"content": [
+				"argument",
+				"against",
+				"<np>"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 2,
+			"tex": "$<$subj$>$ passive-verb",
+			"content": [
+				"<subj>",
+				"passive-verb"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 22,
+			"tex": "active-verb prep $<$np$>$",
+			"content": [
+				"active-verb",
+				"prep",
+				"<np>"
+			],
+			"start_row": 11,
+			"end_row": 11,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 27,
+			"tex": "to go to $<$np$>$",
+			"content": [
+				"to",
+				"go",
+				"to",
+				"<np>"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 9,
+			"tex": "$<$subj$>$ have to do",
+			"content": [
+				"<subj>",
+				"have",
+				"to",
+				"do"
+			],
+			"start_row": 4,
+			"end_row": 4,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 15,
+			"tex": "to force $<$dobj$>$",
+			"content": [
+				"to",
+				"force",
+				"<dobj>"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 26,
+			"tex": "infinitive prep $<$np$>$",
+			"content": [
+				"in\ufb01nitive",
+				"prep",
+				"<np>"
+			],
+			"start_row": 13,
+			"end_row": 13,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 25,
+			"tex": "was put in $<$np$>$",
+			"content": [
+				"was",
+				"put",
+				"in",
+				"<np>"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 11,
+			"tex": "$<$subj$>$ is nothing",
+			"content": [
+				"<subj>",
+				"is",
+				"nothing"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 24,
+			"tex": "passive-verb prep $<$np$>$",
+			"content": [
+				"passive-verb",
+				"prep",
+				"<np>"
+			],
+			"start_row": 12,
+			"end_row": 12,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 10,
+			"tex": "$<$subj$>$ aux noun",
+			"content": [
+				"<subj>",
+				"aux",
+				"noun"
+			],
+			"start_row": 5,
+			"end_row": 5,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 0,
+			"tex": "Synactic Form",
+			"content": [
+				"Synactic",
+				"Form"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 6,
+			"tex": "$<$subj$>$ active-verb dobj",
+			"content": [
+				"<subj>",
+				"active-verb",
+				"dobj"
+			],
+			"start_row": 3,
+			"end_row": 3,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 13,
+			"tex": "gives $<$dobj$>$",
+			"content": [
+				"gives",
+				"<dobj>"
+			],
+			"start_row": 6,
+			"end_row": 6,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 3,
+			"tex": "$<$subj$>$ was explained",
+			"content": [
+				"<subj>",
+				"was",
+				"explained"
+			],
+			"start_row": 1,
+			"end_row": 1,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 1,
+			"tex": "Example Pattern",
+			"content": [
+				"Example",
+				"Pattern"
+			],
+			"start_row": 0,
+			"end_row": 0,
+			"start_col": 1,
+			"end_col": 1
+		},
+		{
+			"id": 4,
+			"tex": "$<$subj$>$ active-verb",
+			"content": [
+				"<subj>",
+				"active-verb"
+			],
+			"start_row": 2,
+			"end_row": 2,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 20,
+			"tex": "noun prep $<$np$>$",
+			"content": [
+				"noun",
+				"prep",
+				"<np>"
+			],
+			"start_row": 10,
+			"end_row": 10,
+			"start_col": 0,
+			"end_col": 0
+		},
+		{
+			"id": 14,
+			"tex": "infinitive $<$dobj$>$",
+			"content": [
+				"in\ufb01nitive",
+				"<dobj>"
+			],
+			"start_row": 7,
+			"end_row": 7,
+			"start_col": 0,
+			"end_col": 0
+		}
+	]
+}
